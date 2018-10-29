@@ -1,0 +1,494 @@
+使用者：illeana
+裝置： iPhone 7 Plus
+系統： iOS 11.4.1
+版本： paking versoin:1.6.5(release)
+電信： GT
+預約： 無
+車廠： L00021-銓營停車-台北小巨蛋 車辨入場, 無Ｎ導航
+///////////////////////////////////
+
+( 2018-10-25 13:07:43 )	退到App背景
+
+( 2018-10-25 13:43:00 )	 [Gate]BLE OFF
+
+( 2018-10-26 09:50:45 )	 [Gate]BLE ON
+
+( 2018-10-26 09:51:35 )	[VoiceString] 歡迎光臨
+
+( 2018-10-26 09:51:38 )	[VoiceString] 本場域提供APP自動付款，無須現場繳費。
+
+( 2018-10-26 09:53:22 )	退到App背景
+
+( 2018-10-26 10:21:44 )	 [Gate]BLE OFF
+
+( 2018-10-26 12:20:59 )	 [Gate]BLE ON
+
+( 2018-10-26 12:21:04 )	進入App前景
+
+( 2018-10-26 12:21:19 )	退到App背景
+
+( 2018-10-26 12:46:24 )	進入App前景
+
+( 2018-10-26 12:47:50 )	[VoiceString] 謝謝光臨
+
+///////////////////////////////////
+網路切換時機
+2018-10-26 09:50:44.467 GT (first)
+
+
+--------detail--------
+
+2018-10-25 13:06:52.366 || !!PaKing APP Open!!
+
+2018-10-25 13:06:52.375 || illeana 的 iPhone
+
+2018-10-25 13:06:52.376 || iOS 11.4.1
+
+2018-10-25 13:06:52.376 || Device:iPhone 7 Plus
+
+2018-10-25 13:06:52.376 || paking versoin:1.6.5(release)
+
+2018-10-25 13:06:52.377 || paking build:20180925112634
+
+2018-10-25 13:06:54.067 || PaymentSuccess
+
+2018-10-25 13:06:54.067 || Other
+
+2018-10-25 13:06:54.067 || NSLocale preferredLanguages : zh-Hant-TW
+
+2018-10-25 13:06:54.093 || 
+
+2018-10-25 13:06:54.157 || 
+
+2018-10-25 13:07:43.842 || -[AppDelegate applicationDidEnterBackground:]|[L:125]|
+
+2018-10-25 13:43:00.270 || [Gate]BLE OFF
+
+2018-10-26 09:50:44.270 || -[AppDelegate checkUpdate]|[L:342]|開始檢查是否更新
+
+2018-10-26 09:50:44.467 || Network-<Carrier> GT
+
+2018-10-26 09:50:44.473 || check_member Request 
+
+2018-10-26 09:50:45.027 || check_member Success 
+
+2018-10-26 09:50:45.034 || Network-<Carrier> GT
+
+2018-10-26 09:50:45.034 || login_check_lite Request 
+
+2018-10-26 09:50:45.469 || login_check_lite Success 
+
+2018-10-26 09:50:45.484 || set userManager.isReservation = 0
+
+2018-10-26 09:50:45.484 || set userManager.isGarageReservation = 0
+
+2018-10-26 09:50:45.659 || Network-<Carrier> GT
+
+2018-10-26 09:50:45.660 || getBannerList Request 
+
+2018-10-26 09:50:45.748 || Network-<Carrier> GT
+
+2018-10-26 09:50:45.749 || get_news Request 
+
+2018-10-26 09:50:45.807 || [Gate]BLE ON
+
+2018-10-26 09:50:46.058 || getBannerList Success 
+
+2018-10-26 09:50:46.229 || get_news Success 
+
+2018-10-26 09:51:30.091 || [Gate]_BLEMac<adv>:D4:CA:6E:B6:44:0A_GI:-92
+
+2018-10-26 09:51:30.091 || [Gate]_BLEMac<p>:D4:CA:6E:B6:44:0A_GI
+
+2018-10-26 09:51:30.112 || Network-<Carrier> GT
+
+2018-10-26 09:51:30.115 || inputAPI = /app.php?page=checkGarage
+
+2018-10-26 09:51:30.197 || checkGarage Request 
+
+2018-10-26 09:51:30.626 || checkGarage Success 
+
+  ||                 "garage_id" = L00021;
+
+  ||                 "garage_id" = L00021;
+
+  ||                 "garage_id" = L00021;
+
+  ||                 "garage_id" = L00021;
+
+  ||         "garage_id" = L00021;
+
+2018-10-26 09:51:30.640 || [Gate]ANPRStatus_GI Start
+
+2018-10-26 09:51:30.640 || ANPRRetryCount:1
+
+2018-10-26 09:51:30.656 || Network-<Carrier> GT
+
+2018-10-26 09:51:30.659 || ANPR_check_enter Request 
+
+  ||     "garage_id" = L00021;
+
+2018-10-26 09:51:30.985 || [Gate]_BLEMac<adv>:D4:CA:6E:B6:44:1A_GI:-78
+
+2018-10-26 09:51:30.985 || [Gate]_BLEMac<p>:D4:CA:6E:B6:44:1A_GI
+
+  ||     "D4:CA:6E:B6:44:1A_GI"
+
+2018-10-26 09:51:31.163 || ANPR_check_enter Success 
+
+2018-10-26 09:51:31.493 || [Gate]_BLEMac<adv>:D4:CA:6E:B6:44:1A_GI:-81
+
+2018-10-26 09:51:31.494 || [Gate]_BLEMac<p>:D4:CA:6E:B6:44:1A_GI
+
+2018-10-26 09:51:31.998 || [Gate]_BLEMac<adv>:D4:CA:6E:B6:44:1A_GI:-79
+
+2018-10-26 09:51:31.999 || [Gate]_BLEMac<p>:D4:CA:6E:B6:44:1A_GI
+
+2018-10-26 09:51:32.110 || [Gate]_BLEMac<adv>:D4:CA:6E:B6:44:0A_GI:-80
+
+2018-10-26 09:51:32.110 || [Gate]_BLEMac<p>:D4:CA:6E:B6:44:0A_GI
+
+  || 
+
+  ||     "D4:CA:6E:B6:44:0A_GI"
+
+2018-10-26 09:51:32.501 || [Gate]_BLEMac<adv>:D4:CA:6E:B6:44:1A_GI:-76
+
+2018-10-26 09:51:32.501 || [Gate]_BLEMac<p>:D4:CA:6E:B6:44:1A_GI
+
+2018-10-26 09:51:32.613 || [Gate]_BLEMac<adv>:D4:CA:6E:B6:44:0A_GI:-85
+
+2018-10-26 09:51:32.613 || [Gate]_BLEMac<p>:D4:CA:6E:B6:44:0A_GI
+
+2018-10-26 09:51:33.006 || [Gate]_BLEMac<adv>:D4:CA:6E:B6:44:1A_GI:-92
+
+2018-10-26 09:51:33.006 || [Gate]_BLEMac<p>:D4:CA:6E:B6:44:1A_GI
+
+2018-10-26 09:51:33.508 || [Gate]_BLEMac<adv>:D4:CA:6E:B6:44:1A_GI:-84
+
+2018-10-26 09:51:33.508 || [Gate]_BLEMac<p>:D4:CA:6E:B6:44:1A_GI
+
+2018-10-26 09:51:33.625 || [Gate]_BLEMac<adv>:D4:CA:6E:B6:44:0A_GI:-84
+
+2018-10-26 09:51:33.626 || [Gate]_BLEMac<p>:D4:CA:6E:B6:44:0A_GI
+
+2018-10-26 09:51:34.010 || [Gate]_BLEMac<adv>:D4:CA:6E:B6:44:1A_GI:-77
+
+2018-10-26 09:51:34.010 || [Gate]_BLEMac<p>:D4:CA:6E:B6:44:1A_GI
+
+2018-10-26 09:51:34.134 || [Gate]_BLEMac<adv>:D4:CA:6E:B6:44:0A_GI:-77
+
+2018-10-26 09:51:34.135 || [Gate]_BLEMac<p>:D4:CA:6E:B6:44:0A_GI
+
+2018-10-26 09:51:34.447 || ANPRRetryCount:2
+
+2018-10-26 09:51:34.463 || Network-<Carrier> GT
+
+2018-10-26 09:51:34.467 || ANPR_check_enter Request 
+
+  ||     "garage_id" = L00021;
+
+2018-10-26 09:51:34.517 || [Gate]_BLEMac<adv>:D4:CA:6E:B6:44:1A_GI:-73
+
+2018-10-26 09:51:34.518 || [Gate]_BLEMac<p>:D4:CA:6E:B6:44:1A_GI
+
+2018-10-26 09:51:34.990 || ANPR_check_enter Success 
+
+2018-10-26 09:51:35.009 || Network-<Carrier> GT
+
+2018-10-26 09:51:35.011 || inputAPI = /app.php?page=garage_enter_check_reservechange
+
+2018-10-26 09:51:35.017 || garage_enter_check_reservechange Request 
+
+2018-10-26 09:51:35.042 || Network-<Carrier> GT
+
+  ||     "garage_id" = L00021;
+
+2018-10-26 09:51:35.050 || [Gate]_BLEMac<adv>:D4:CA:6E:B6:44:1A_GI:-70
+
+2018-10-26 09:51:35.050 || [Gate]_BLEMac<p>:D4:CA:6E:B6:44:1A_GI
+
+2018-10-26 09:51:35.151 || [Gate]_BLEMac<adv>:D4:CA:6E:B6:44:0A_GI:-80
+
+2018-10-26 09:51:35.151 || [Gate]_BLEMac<p>:D4:CA:6E:B6:44:0A_GI
+
+2018-10-26 09:51:35.526 || Network-<Carrier> GT
+
+  ||     "garage_id" = L00021;
+
+2018-10-26 09:51:35.532 || [Gate]_BLEMac<adv>:D4:CA:6E:B6:44:1A_GI:-76
+
+2018-10-26 09:51:35.533 || [Gate]_BLEMac<p>:D4:CA:6E:B6:44:1A_GI
+
+2018-10-26 09:51:35.541 || garage_enter_check_reservechange Success 
+
+  ||             "garage_id" = L00021;
+
+  ||                 "garage_id" = L00021;
+
+  ||                 "garage_id" = L00021;
+
+  ||                 "garage_id" = L00021;
+
+  ||                 "garage_id" = L00021;
+
+2018-10-26 09:51:35.553 || userManager.isGarageReservation = 0
+
+2018-10-26 09:51:35.553 || userManager.isReservation = 0
+
+2018-10-26 09:51:35.558 || userManager.isGarageReservation = 0
+
+  ||     "garage_id" = L00021;
+
+2018-10-26 09:51:35.573 || Network-<Carrier> GT
+
+2018-10-26 09:51:35.574 || parking_space_list Request 
+
+  ||     "garage_id" = L00021;
+
+2018-10-26 09:51:35.602 || Network-<Carrier> GT
+
+2018-10-26 09:51:35.604 || inputAPI = /local.php?page=garage_enter_confirm&garage_dbname=L00021
+
+2018-10-26 09:51:35.606 || garage_enter_confirm&garage_dbname=L00021 Request 
+
+  ||     "garage_id" = L00021;
+
+2018-10-26 09:51:35.661 || [Gate]_BLEMac<adv>:D4:CA:6E:B6:44:0A_GI:-76
+
+2018-10-26 09:51:35.661 || [Gate]_BLEMac<p>:D4:CA:6E:B6:44:0A_GI
+
+2018-10-26 09:51:35.691 || voiceString:歡迎光臨
+
+2018-10-26 09:51:35.691 || Utterance:[AVSpeechUtterance 0x1c4670b40] String: 歡迎光臨
+
+2018-10-26 09:51:35.790 || normal enter popup
+
+2018-10-26 09:51:36.021 || parking_space_list Success 
+
+2018-10-26 09:51:36.027 || [Gate]_BLEMac<adv>:D4:CA:6E:B6:44:1A_GI:-73
+
+2018-10-26 09:51:36.027 || [Gate]_BLEMac<p>:D4:CA:6E:B6:44:1A_GI
+
+  ||     "D4:CA:6E:B6:44:1A_GI"
+
+2018-10-26 09:51:36.153 || garage_enter_confirm&garage_dbname=L00021 Success 
+
+2018-10-26 09:51:36.157 || Network-<Carrier> GT
+
+2018-10-26 09:51:36.158 || ANPR_binding Request 
+
+  ||     "garage_id" = L00021;
+
+2018-10-26 09:51:36.537 || [Gate]_BLEMac<adv>:D4:CA:6E:B6:44:1A_GI:-74
+
+2018-10-26 09:51:36.538 || [Gate]_BLEMac<p>:D4:CA:6E:B6:44:1A_GI
+
+2018-10-26 09:51:36.660 || [Gate]_BLEMac<adv>:D4:CA:6E:B6:44:0A_GI:-86
+
+2018-10-26 09:51:36.660 || [Gate]_BLEMac<p>:D4:CA:6E:B6:44:0A_GI
+
+  || 
+
+  ||     "D4:CA:6E:B6:44:0A_GI"
+
+2018-10-26 09:51:37.047 || [Gate]_BLEMac<adv>:D4:CA:6E:B6:44:1A_GI:-79
+
+2018-10-26 09:51:37.047 || [Gate]_BLEMac<p>:D4:CA:6E:B6:44:1A_GI
+
+2018-10-26 09:51:37.168 || [Gate]_BLEMac<adv>:D4:CA:6E:B6:44:0A_GI:-76
+
+2018-10-26 09:51:37.168 || [Gate]_BLEMac<p>:D4:CA:6E:B6:44:0A_GI
+
+2018-10-26 09:51:37.551 || [Gate]_BLEMac<adv>:D4:CA:6E:B6:44:1A_GI:-80
+
+2018-10-26 09:51:37.552 || [Gate]_BLEMac<p>:D4:CA:6E:B6:44:1A_GI
+
+2018-10-26 09:51:37.642 || Utterance:[AVSpeechUtterance 0x1c4670b40] String: 歡迎光臨
+
+2018-10-26 09:51:37.666 || [Gate]_BLEMac<adv>:D4:CA:6E:B6:44:0A_GI:-80
+
+2018-10-26 09:51:37.666 || [Gate]_BLEMac<p>:D4:CA:6E:B6:44:0A_GI
+
+2018-10-26 09:51:38.055 || [Gate]_BLEMac<adv>:D4:CA:6E:B6:44:1A_GI:-92
+
+2018-10-26 09:51:38.056 || [Gate]_BLEMac<p>:D4:CA:6E:B6:44:1A_GI
+
+2018-10-26 09:51:38.068 || ANPR_binding Success 
+
+2018-10-26 09:51:38.176 || [Gate]_BLEMac<adv>:D4:CA:6E:B6:44:0A_GI:-79
+
+2018-10-26 09:51:38.176 || [Gate]_BLEMac<p>:D4:CA:6E:B6:44:0A_GI
+
+2018-10-26 09:51:38.605 || [Gate]
+
+2018-10-26 09:51:38.649 || set orderListInfo 
+
+  ||     "garage_id" = L00021;
+
+2018-10-26 09:51:38.650 || userManager.gateGarageInfo 
+
+  ||             "garage_id" = L00021;
+
+  ||             "garage_id" = L00021;
+
+  ||             "garage_id" = L00021;
+
+  ||             "garage_id" = L00021;
+
+  ||     "garage_id" = L00021;
+
+2018-10-26 09:51:38.710 || voiceString:本場域提供APP自動付款，無須現場繳費。
+
+2018-10-26 09:51:38.710 || Utterance:[AVSpeechUtterance 0x1c466d600] String: 本場域提供APP自動付款，無須現場繳費。
+
+2018-10-26 09:51:43.700 || Utterance:[AVSpeechUtterance 0x1c466d600] String: 本場域提供APP自動付款，無須現場繳費。
+
+2018-10-26 09:53:21.347 || Network-<Carrier> GT
+
+2018-10-26 09:53:21.350 || getBannerList Request 
+
+2018-10-26 09:53:21.416 || Network-<Carrier> GT
+
+2018-10-26 09:53:21.417 || get_news Request 
+
+2018-10-26 09:53:22.028 || getBannerList Success 
+
+2018-10-26 09:53:22.075 || get_news Success 
+
+2018-10-26 09:53:22.902 || -[AppDelegate applicationDidEnterBackground:]|[L:125]|
+
+!!!2018-10-26 09:58:16.177 ||  NSLocalizedDescription=要求逾時。}
+
+!!!2018-10-26 09:58:16.186 ||  NSLocalizedDescription=要求逾時。}
+
+!!!2018-10-26 09:58:16.186 ||  NSLocalizedDescription=要求逾時。}
+
+!!!2018-10-26 09:58:16.187 ||  NSLocalizedDescription=要求逾時。}
+
+!!!2018-10-26 09:58:16.187 ||  NSLocalizedDescription=要求逾時。}
+
+!!!2018-10-26 09:58:16.190 ||  NSLocalizedDescription=要求逾時。}
+
+!!!2018-10-26 09:58:16.190 ||  NSLocalizedDescription=要求逾時。}
+
+!!!2018-10-26 09:58:16.193 ||  NSLocalizedDescription=網路連線中斷。}
+
+!!!2018-10-26 09:58:16.194 ||  NSLocalizedDescription=網路連線中斷。}
+
+2018-10-26 10:21:44.675 || [Gate]BLE OFF
+
+2018-10-26 12:20:59.463 || [Gate]BLE ON
+
+2018-10-26 12:21:04.869 || -[AppDelegate applicationWillEnterForeground:]|[L:156]|
+
+2018-10-26 12:21:04.906 || Network-<Carrier> GT
+
+2018-10-26 12:21:04.914 || get_vendor Request 
+
+2018-10-26 12:21:05.078 || Network-<Carrier> GT
+
+2018-10-26 12:21:05.079 || user_fail_trade_check Request 
+
+2018-10-26 12:21:05.087 || Network-<Carrier> GT
+
+2018-10-26 12:21:05.087 || ANPR_check_exit Request 
+
+2018-10-26 12:21:05.479 || get_vendor Success 
+
+2018-10-26 12:21:05.511 || user_fail_trade_check Success 
+
+!!!2018-10-26 12:21:05.511 || result: {
+
+!!!2018-10-26 12:21:05.511 || userManager.garageFarePaymentStatus = NoGarageFare 
+
+2018-10-26 12:21:05.527 || ANPR_check_exit Success 
+
+2018-10-26 12:21:11.001 || Network-<Carrier> GT
+
+2018-10-26 12:21:11.002 || trade_get_parkingFee Request 
+
+  ||     "garage_id" = L00021;
+
+2018-10-26 12:21:11.007 || Network-<Carrier> GT
+
+2018-10-26 12:21:11.007 || user_invoice_list Request 
+
+2018-10-26 12:21:11.558 || trade_get_parkingFee Success 
+
+  ||                 "garage_id" = L00021;
+
+2018-10-26 12:21:11.566 || user_invoice_list Success 
+
+2018-10-26 12:21:19.505 || -[AppDelegate applicationDidEnterBackground:]|[L:125]|
+
+2018-10-26 12:46:24.750 || -[AppDelegate applicationWillEnterForeground:]|[L:156]|
+
+2018-10-26 12:46:25.398 || Network-<Carrier> GT
+
+2018-10-26 12:46:25.398 || user_fail_trade_check Request 
+
+2018-10-26 12:46:25.401 || Network-<Carrier> GT
+
+2018-10-26 12:46:25.401 || ANPR_check_exit Request 
+
+2018-10-26 12:46:25.822 || user_fail_trade_check Success 
+
+!!!2018-10-26 12:46:25.823 || result: {
+
+!!!2018-10-26 12:46:25.823 || userManager.garageFarePaymentStatus = NoGarageFare 
+
+2018-10-26 12:46:25.848 || ANPR_check_exit Success 
+
+2018-10-26 12:46:28.715 || Network-<Carrier> GT
+
+2018-10-26 12:46:28.716 || getBannerList Request 
+
+2018-10-26 12:46:29.199 || getBannerList Success 
+
+2018-10-26 12:46:29.344 || Network-<Carrier> GT
+
+2018-10-26 12:46:29.345 || get_news Request 
+
+2018-10-26 12:46:29.768 || get_news Success 
+
+2018-10-26 12:47:42.211 || Network-<Carrier> GT
+
+2018-10-26 12:47:42.215 || ANPR_check_exit Request 
+
+2018-10-26 12:47:42.812 || ANPR_check_exit Success 
+
+2018-10-26 12:47:45.733 || [Gate]_BLEMac<adv>:D4:CA:6E:B6:44:26_GO:-85
+
+2018-10-26 12:47:45.989 || Network-<Carrier> GT
+
+2018-10-26 12:47:45.991 || ANPR_check_exit Request 
+
+2018-10-26 12:47:46.486 || ANPR_check_exit Success 
+
+2018-10-26 12:47:47.233 || [Gate]_BLEMac<adv>:D4:CA:6E:B6:44:26_GO:-85
+
+2018-10-26 12:47:49.779 || Network-<Carrier> GT
+
+2018-10-26 12:47:49.782 || ANPR_check_exit Request 
+
+2018-10-26 12:47:49.794 || [Gate]_BLEMac<adv>:D4:CA:6E:B6:44:11_GO:-85
+
+2018-10-26 12:47:50.296 || ANPR_check_exit Success 
+
+2018-10-26 12:47:50.342 || Network-<Carrier> GT
+
+  ||     "garage_id" = L00021;
+
+2018-10-26 12:47:50.450 || voiceString:謝謝光臨
+
+2018-10-26 12:47:50.452 || Utterance:[AVSpeechUtterance 0x1c0866c80] String: 謝謝光臨
+
+2018-10-26 12:47:50.909 || Network-<Carrier> GT
+
+  ||     "garage_id" = L00021;
+
+2018-10-26 12:47:52.272 || Utterance:[AVSpeechUtterance 0x1c0866c80] String: 謝謝光臨
+
+2018-10-26 12:47:53.636 || leaveGarageName = 銓營停車-台北小巨蛋
+

@@ -1,0 +1,2042 @@
+使用者：iPhone
+裝置： iPhone 6s Plus
+系統： iOS 12.0.1
+版本： paking versoin:1.6.5(release)
+電信： GT
+預約： 有
+車廠： 000007-便利停車場富敦站 Beacon入場, 有Ｎ導航
+///////////////////////////////////
+
+( 2018-10-25 17:03:18 )	退到App背景
+
+( 2018-10-26 12:30:53 )	 [Gate]BLE ON
+
+( 2018-10-26 12:33:01 )	退到App背景
+
+( 2018-10-26 12:36:11 )	 [Gate]BLE ON
+
+( 2018-10-26 12:37:40 )	退到App背景
+
+( 2018-10-26 12:37:58 )	 [Gate]BLE ON
+
+( 2018-10-26 12:38:24 )	[VoiceString] 抵達車場入口
+
+( 2018-10-26 12:38:28 )	[CarNavigation]ans: B2_01_1
+
+( 2018-10-26 12:38:31 )	[CarNavigation]ans: B2_01_1
+
+( 2018-10-26 12:38:31 )	[VoiceString] 前方右轉
+
+( 2018-10-26 12:38:37 )	[CarNavigation]ans: B2_01_2
+
+( 2018-10-26 12:38:50 )	[CarNavigation]ans: B2_01_3
+
+( 2018-10-26 12:38:50 )	[VoiceString] 下樓
+
+( 2018-10-26 12:39:07 )	[CarNavigation]ans: B3_01_4
+
+( 2018-10-26 12:39:07 )	[Locker]Locker Pop up	
+
+( 2018-10-26 12:39:07 )	[VoiceString] 已接近預約車位
+
+( 2018-10-26 12:39:07 )	[VoiceString] 39號
+
+( 2018-10-26 12:39:08 )	!![CarNavigation] 刷成功前點B3_01_1
+
+( 2018-10-26 12:39:09 )	[CarNavigation]ans: B3_01_2
+
+( 2018-10-26 12:39:10 )	[CarNavigation]ans: B3_01_1
+
+( 2018-10-26 12:39:10 )	[VoiceString] 前方右轉
+
+( 2018-10-26 12:39:27 )	!![CarNavigation] 刷成功前點B3_01_3
+
+( 2018-10-26 12:39:27 )	[CarNavigation]ans: B3_01_3
+
+( 2018-10-26 12:39:27 )	[Locker]Locker Pop up	
+
+( 2018-10-26 12:39:27 )	[Locker]Locker Down Pressed
+
+( 2018-10-26 12:39:27 )	[VoiceString] 已接近預約車位
+
+( 2018-10-26 12:39:27 )	[VoiceString] 39號
+
+( 2018-10-26 12:39:29 )	[CarNavigation]ans: B3_01_4
+
+( 2018-10-26 12:39:32 )	[Locker off result] Locker off done
+
+( 2018-10-26 12:39:59 )	[VoiceString] 停完車請確認
+
+( 2018-10-26 12:40:11 )	[VoiceString] 是否停車完成
+
+( 2018-10-26 12:40:11 )	 [StepCounter]send [ParkedConfirmNote] notification
+
+( 2018-10-26 12:40:22 )	 [SendTrackingData]
+
+( 2018-10-26 12:40:27 )	退到App背景
+
+( 2018-10-26 15:59:32 )	退到App背景
+
+( 2018-10-26 15:59:39 )	 [Gate]BLE ON
+
+( 2018-10-26 15:59:42 )	[VoiceString] 抵達車廠出口
+
+///////////////////////////////////
+網路切換時機
+2018-10-26 12:30:51.931 GT (first)
+2018-10-26 12:37:17.082 PaKing-192.168.4.169
+2018-10-26 12:39:08.341 GT
+2018-10-26 12:39:17.721 PaKing-192.168.4.169
+2018-10-26 15:59:21.457 GT
+
+
+--------detail--------
+
+2018-10-25 17:01:58.466 || !!PaKing APP Open!!
+
+2018-10-25 17:01:58.471 || iPhone
+
+2018-10-25 17:01:58.471 || iOS 12.0.1
+
+2018-10-25 17:01:58.471 || Device:iPhone 6s Plus
+
+2018-10-25 17:01:58.471 || paking versoin:1.6.5(release)
+
+2018-10-25 17:01:58.471 || paking build:20180925112634
+
+2018-10-25 17:01:59.055 || Utterance:[AVSpeechUtterance 0x283bff5c0] String: 抵達車廠出口
+
+Voice: (null)
+ || Voice: (null)
+
+Rate: 0.45
+ || Rate: 0.45
+
+Volume: 1.00
+ || Volume: 1.00
+
+Pitch Multiplier: || Pitch Multiplier: 1.15
+
+2018-10-25 17:02:14.473 || garage_leave_pay&garage_dbname=000007 Success 
+
+  ||                 "garage_id" = 000007;
+
+2018-10-25 17:03:18.326 || -[AppDelegate applicationDidEnterBackground:]|[L:125]|
+
+2018-10-26 12:30:51.725 || -[AppDelegate checkUpdate]|[L:342]|開始檢查是否更新
+
+2018-10-26 12:30:51.931 || Network-<Carrier> GT
+
+2018-10-26 12:30:51.936 || check_member Request 
+
+2018-10-26 12:30:52.563 || check_member Success 
+
+2018-10-26 12:30:52.569 || Network-<Carrier> GT
+
+2018-10-26 12:30:52.570 || login_check_lite Request 
+
+2018-10-26 12:30:52.997 || login_check_lite Success 
+
+2018-10-26 12:30:53.003 || set userManager.isReservation = 0
+
+2018-10-26 12:30:53.003 || set userManager.isGarageReservation = 0
+
+2018-10-26 12:30:53.079 || Network-<Carrier> GT
+
+2018-10-26 12:30:53.079 || getBannerList Request 
+
+2018-10-26 12:30:53.126 || Network-<Carrier> GT
+
+2018-10-26 12:30:53.126 || get_news Request 
+
+2018-10-26 12:30:53.195 || [Gate]BLE ON
+
+2018-10-26 12:30:53.486 || getBannerList Success 
+
+2018-10-26 12:30:53.889 || get_news Success 
+
+2018-10-26 12:30:54.421 || Network-<Carrier> GT
+
+2018-10-26 12:30:54.421 || get_vendor Request 
+
+2018-10-26 12:30:54.908 || get_vendor Success 
+
+2018-10-26 12:30:55.492 || Network-<Carrier> GT
+
+2018-10-26 12:30:55.493 || garage_list Request 
+
+2018-10-26 12:30:56.319 || garage_list Success 
+
+2018-10-26 12:31:01.150 || Network-<Carrier> GT
+
+2018-10-26 12:31:01.151 || garage_list Request 
+
+2018-10-26 12:31:02.201 || garage_list Success 
+
+2018-10-26 12:31:04.084 || Network-<Carrier> GT
+
+2018-10-26 12:31:04.558 || one_garage_list Success 
+
+2018-10-26 12:31:04.597 || State = 2
+
+2018-10-26 12:31:04.597 || Desc = ＊至10/31止停車第一小時免費|＊至10/31止免收預約費
+
+2018-10-26 12:31:04.606 || Network-<Carrier> GT
+
+2018-10-26 12:31:04.607 || get_vendor Request 
+
+2018-10-26 12:31:05.047 || get_vendor Success 
+
+2018-10-26 12:31:05.123 || Network-<Carrier> GT
+
+2018-10-26 12:31:05.765 || one_garage_list Success 
+
+2018-10-26 12:31:08.781 || Network-<Carrier> GT
+
+2018-10-26 12:31:09.323 || one_garage_list Success 
+
+2018-10-26 12:31:09.671 || Network-<Carrier> GT
+
+2018-10-26 12:31:09.671 || getBannerList Request 
+
+2018-10-26 12:31:09.731 || Network-<Carrier> GT
+
+2018-10-26 12:31:09.731 || get_news Request 
+
+2018-10-26 12:31:10.086 || getBannerList Success 
+
+2018-10-26 12:31:10.459 || get_news Success 
+
+2018-10-26 12:31:11.230 || Network-<Carrier> GT
+
+2018-10-26 12:31:11.230 || garage_list Request 
+
+2018-10-26 12:31:12.019 || garage_list Success 
+
+2018-10-26 12:31:14.180 || Network-<Carrier> GT
+
+2018-10-26 12:31:14.181 || garage_list Request 
+
+2018-10-26 12:31:15.174 || garage_list Success 
+
+2018-10-26 12:31:17.702 || Network-<Carrier> GT
+
+2018-10-26 12:31:18.325 || one_garage_list Success 
+
+2018-10-26 12:31:18.340 || State = 2
+
+2018-10-26 12:31:18.340 || Desc = ＊至10/31止停車第一小時免費|＊至10/31止免收預約費
+
+2018-10-26 12:31:18.355 || Network-<Carrier> GT
+
+2018-10-26 12:31:18.356 || get_vendor Request 
+
+2018-10-26 12:31:18.795 || get_vendor Success 
+
+2018-10-26 12:31:18.870 || Network-<Carrier> GT
+
+2018-10-26 12:31:19.356 || one_garage_list Success 
+
+2018-10-26 12:31:22.362 || Network-<Carrier> GT
+
+2018-10-26 12:31:22.820 || one_garage_list Success 
+
+2018-10-26 12:31:25.837 || Network-<Carrier> GT
+
+2018-10-26 12:31:26.321 || one_garage_list Success 
+
+2018-10-26 12:31:29.342 || Network-<Carrier> GT
+
+2018-10-26 12:31:29.828 || one_garage_list Success 
+
+2018-10-26 12:31:32.846 || Network-<Carrier> GT
+
+2018-10-26 12:31:33.347 || one_garage_list Success 
+
+2018-10-26 12:31:36.353 || Network-<Carrier> GT
+
+2018-10-26 12:31:36.869 || one_garage_list Success 
+
+2018-10-26 12:31:39.886 || Network-<Carrier> GT
+
+2018-10-26 12:31:40.378 || one_garage_list Success 
+
+2018-10-26 12:31:43.384 || Network-<Carrier> GT
+
+2018-10-26 12:31:43.998 || one_garage_list Success 
+
+2018-10-26 12:31:47.016 || Network-<Carrier> GT
+
+2018-10-26 12:31:47.468 || one_garage_list Success 
+
+2018-10-26 12:31:50.483 || Network-<Carrier> GT
+
+2018-10-26 12:31:50.971 || one_garage_list Success 
+
+2018-10-26 12:31:53.988 || Network-<Carrier> GT
+
+2018-10-26 12:31:54.457 || one_garage_list Success 
+
+2018-10-26 12:31:57.465 || Network-<Carrier> GT
+
+2018-10-26 12:31:58.024 || one_garage_list Success 
+
+2018-10-26 12:32:01.042 || Network-<Carrier> GT
+
+2018-10-26 12:32:01.534 || one_garage_list Success 
+
+!!!CoreData: annotation: || CoreData: annotation:  Failed to load optimized model at path '/var/containers/Bundle/Application/89495D5B-9AFA-4C01-8E79-FADC8E079685/paking.app/GoogleMaps.bundle/GMSCacheStorage.momd/StorageWithTileProto.omo'
+
+!!!CoreData: annotation: || CoreData: annotation:  Failed to load optimized model at path '/var/containers/Bundle/Application/89495D5B-9AFA-4C01-8E79-FADC8E079685/paking.app/GoogleMaps.bundle/GMSCacheStorage.momd/StorageWithTileProto.omo'
+
+!!!CoreData: annotation: || CoreData: annotation:  Failed to load optimized model at path '/var/containers/Bundle/Application/89495D5B-9AFA-4C01-8E79-FADC8E079685/paking.app/GoogleMaps.bundle/GMSCacheStorage.momd/StorageWithTileProto.omo'
+
+2018-10-26 12:32:45.449 || Network-<Carrier> GT
+
+2018-10-26 12:32:45.449 || get_vendor Request 
+
+2018-10-26 12:32:45.467 || Network-<Carrier> GT
+
+2018-10-26 12:32:46.037 || one_garage_list Success 
+
+2018-10-26 12:32:46.047 || State = 0
+
+2018-10-26 12:32:46.047 || Desc = 
+
+2018-10-26 12:32:46.056 || Network-<Carrier> GT
+
+2018-10-26 12:32:46.057 || get_vendor Request 
+
+2018-10-26 12:32:46.069 || get_vendor Success 
+
+2018-10-26 12:32:46.510 || get_vendor Success 
+
+2018-10-26 12:32:48.787 || Network-<Carrier> GT
+
+2018-10-26 12:32:48.787 || get_vendor Request 
+
+2018-10-26 12:32:48.807 || Network-<Carrier> GT
+
+2018-10-26 12:32:49.283 || one_garage_list Success 
+
+2018-10-26 12:32:49.298 || State = 0
+
+2018-10-26 12:32:49.298 || Desc = 
+
+2018-10-26 12:32:49.307 || Network-<Carrier> GT
+
+2018-10-26 12:32:49.308 || get_vendor Request 
+
+2018-10-26 12:32:49.688 || get_vendor Success 
+
+2018-10-26 12:32:49.805 || get_vendor Success 
+
+2018-10-26 12:32:50.462 || Network-<Carrier> GT
+
+2018-10-26 12:32:50.462 || get_vendor Request 
+
+2018-10-26 12:32:50.475 || Network-<Carrier> GT
+
+2018-10-26 12:32:50.868 || get_vendor Success 
+
+2018-10-26 12:32:50.911 || one_garage_list Success 
+
+2018-10-26 12:32:50.921 || State = 2
+
+2018-10-26 12:32:50.921 || Desc = ＊至10/31止停車第一小時免費|＊至10/31止免收預約費
+
+2018-10-26 12:32:50.928 || Network-<Carrier> GT
+
+2018-10-26 12:32:50.929 || get_vendor Request 
+
+2018-10-26 12:32:51.409 || get_vendor Success 
+
+2018-10-26 12:32:51.439 || Network-<Carrier> GT
+
+2018-10-26 12:32:51.977 || one_garage_list Success 
+
+2018-10-26 12:32:53.456 || Network-<Carrier> GT
+
+2018-10-26 12:32:53.457 || reserve_booking_confirm Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-26 12:32:54.363 || reserve_booking_confirm Success 
+
+  ||         "garage_id" = 000007;
+
+  ||     "garage_id" = 000007;
+
+2018-10-26 12:32:54.451 || Network-<Carrier> GT
+
+2018-10-26 12:32:54.452 || trade_reserveOverFee Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-26 12:32:54.878 || Network-<Carrier> GT
+
+2018-10-26 12:32:54.880 || garage_list Request 
+
+2018-10-26 12:32:54.895 || trade_reserveOverFee Success 
+
+  ||                 "garage_id" = 000007;
+
+  ||                 "garage_id" = 000007;
+
+2018-10-26 12:32:55.024 || Network-<Carrier> GT
+
+2018-10-26 12:32:55.025 || garage_list Request 
+
+!!!2018-10-26 12:32:55.026 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  NSLocalizedDescription=已取消}
+
+!!!2018-10-26 12:32:55.026 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  NSLocalizedDescription=已取消}
+
+2018-10-26 12:32:56.095 || garage_list Success 
+
+2018-10-26 12:32:58.670 || Network-<Carrier> GT
+
+2018-10-26 12:32:58.671 || getBannerList Request 
+
+2018-10-26 12:32:58.701 || Network-<Carrier> GT
+
+2018-10-26 12:32:58.702 || get_news Request 
+
+2018-10-26 12:32:59.102 || get_news Success 
+
+2018-10-26 12:32:59.143 || getBannerList Success 
+
+2018-10-26 12:33:01.505 || -[AppDelegate applicationDidEnterBackground:]|[L:125]|
+
+2018-10-26 12:36:09.819 || -[AppDelegate checkUpdate]|[L:342]|開始檢查是否更新
+
+2018-10-26 12:36:09.950 || Network-<Carrier> GT
+
+2018-10-26 12:36:09.951 || check_member Request 
+
+2018-10-26 12:36:10.490 || check_member Success 
+
+2018-10-26 12:36:10.498 || Network-<Carrier> GT
+
+2018-10-26 12:36:10.498 || login_check_lite Request 
+
+2018-10-26 12:36:11.041 || login_check_lite Success 
+
+  ||             "garage_id" = 000007;
+
+  ||             "garage_id" = 000007;
+
+2018-10-26 12:36:11.051 || userManager.isGarageReservation = 0
+
+2018-10-26 12:36:11.051 || userManager.isReservation = 0
+
+  ||     "garage_id" = 000007;
+
+2018-10-26 12:36:11.056 || set userManager.isReservation = 1
+
+2018-10-26 12:36:11.056 || set userManager.isGarageReservation = 0
+
+2018-10-26 12:36:11.135 || Network-<Carrier> GT
+
+2018-10-26 12:36:11.135 || getBannerList Request 
+
+2018-10-26 12:36:11.184 || Network-<Carrier> GT
+
+2018-10-26 12:36:11.184 || get_news Request 
+
+2018-10-26 12:36:11.289 || [Gate]BLE ON
+
+2018-10-26 12:36:11.637 || getBannerList Success 
+
+2018-10-26 12:36:12.023 || get_news Success 
+
+2018-10-26 12:37:17.077 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-94
+
+2018-10-26 12:37:17.077 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-26 12:37:17.082 || Network <WIFI> PaKing-192.168.4.169
+
+2018-10-26 12:37:17.082 || inputAPI = /app.php?page=checkGarage
+
+2018-10-26 12:37:17.083 || Set CHECK_GARAGE 3sec TimeOut /app.php?page=checkGarage
+
+2018-10-26 12:37:17.091 || checkGarage Request 
+
+2018-10-26 12:37:17.611 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-96
+
+2018-10-26 12:37:17.611 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-26 12:37:18.032 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-86
+
+2018-10-26 12:37:18.032 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-26 12:37:19.509 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-97
+
+2018-10-26 12:37:19.509 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+!!!2018-10-26 12:37:20.097 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  _kCFStreamErrorDomainKey=4}
+
+!!!2018-10-26 12:37:20.097 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  _kCFStreamErrorDomainKey=4}
+
+!!!2018-10-26 12:37:20.098 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  _kCFStreamErrorDomainKey=4}
+
+2018-10-26 12:37:20.423 || Network <WIFI> PaKing-192.168.4.169
+
+2018-10-26 12:37:20.424 || inputAPI = /app.php?page=checkGarage
+
+2018-10-26 12:37:20.425 || Set CHECK_GARAGE 3sec TimeOut /app.php?page=checkGarage
+
+2018-10-26 12:37:20.429 || checkGarage Request 
+
+2018-10-26 12:37:20.816 || checkGarage Success 
+
+  ||                 "garage_id" = 000007;
+
+  ||                 "garage_id" = 000007;
+
+  ||         "garage_id" = 000007;
+
+2018-10-26 12:37:22.465 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-92
+
+2018-10-26 12:37:22.466 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-26 12:37:22.992 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-90
+
+2018-10-26 12:37:22.992 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-26 12:37:24.470 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-91
+
+2018-10-26 12:37:24.470 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-26 12:37:25.097 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-93
+
+2018-10-26 12:37:25.097 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-26 12:37:26.038 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-96
+
+2018-10-26 12:37:26.039 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-26 12:37:26.364 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-93
+
+2018-10-26 12:37:26.364 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-26 12:37:27.100 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-92
+
+2018-10-26 12:37:27.109 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-26 12:37:28.235 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-93
+
+2018-10-26 12:37:28.235 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-26 12:37:28.865 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-91
+
+2018-10-26 12:37:28.865 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-26 12:37:29.491 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-89
+
+2018-10-26 12:37:29.492 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-26 12:37:30.228 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-92
+
+2018-10-26 12:37:30.228 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-26 12:37:30.751 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-91
+
+2018-10-26 12:37:30.751 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-26 12:37:30.957 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-93
+
+2018-10-26 12:37:30.958 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-26 12:37:31.884 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-90
+
+2018-10-26 12:37:31.885 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-26 12:37:32.509 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-88
+
+2018-10-26 12:37:32.509 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-26 12:37:34.494 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-91
+
+2018-10-26 12:37:34.494 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-26 12:37:35.017 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-93
+
+2018-10-26 12:37:35.017 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-26 12:37:36.276 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-92
+
+2018-10-26 12:37:36.276 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-26 12:37:36.379 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-93
+
+2018-10-26 12:37:36.380 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-26 12:37:36.914 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-92
+
+2018-10-26 12:37:36.914 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-26 12:37:37.754 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-97
+
+2018-10-26 12:37:37.754 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-26 12:37:38.172 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-88
+
+2018-10-26 12:37:38.172 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-26 12:37:38.915 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-95
+
+2018-10-26 12:37:38.915 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-26 12:37:39.438 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-91
+
+2018-10-26 12:37:39.440 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-26 12:37:40.300 || -[AppDelegate applicationDidEnterBackground:]|[L:125]|
+
+2018-10-26 12:37:56.038 || -[AppDelegate checkUpdate]|[L:342]|開始檢查是否更新
+
+2018-10-26 12:37:56.247 || Network <WIFI> PaKing-192.168.4.169
+
+2018-10-26 12:37:56.248 || check_member Request 
+
+2018-10-26 12:37:57.602 || check_member Success 
+
+2018-10-26 12:37:57.605 || Network <WIFI> PaKing-192.168.4.169
+
+2018-10-26 12:37:57.605 || login_check_lite Request 
+
+2018-10-26 12:37:58.240 || login_check_lite Success 
+
+  ||             "garage_id" = 000007;
+
+  ||             "garage_id" = 000007;
+
+2018-10-26 12:37:58.244 || userManager.isGarageReservation = 0
+
+2018-10-26 12:37:58.244 || userManager.isReservation = 0
+
+  ||     "garage_id" = 000007;
+
+2018-10-26 12:37:58.244 || set userManager.isReservation = 1
+
+2018-10-26 12:37:58.244 || set userManager.isGarageReservation = 0
+
+2018-10-26 12:37:58.292 || Network <WIFI> PaKing-192.168.4.169
+
+2018-10-26 12:37:58.293 || getBannerList Request 
+
+2018-10-26 12:37:58.342 || Network <WIFI> PaKing-192.168.4.169
+
+2018-10-26 12:37:58.342 || get_news Request 
+
+2018-10-26 12:37:58.446 || [Gate]BLE ON
+
+2018-10-26 12:37:58.653 || getBannerList Success 
+
+2018-10-26 12:37:58.957 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-89
+
+2018-10-26 12:37:58.957 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-26 12:37:58.958 || Network <WIFI> PaKing-192.168.4.169
+
+2018-10-26 12:37:58.959 || inputAPI = /app.php?page=checkGarage
+
+2018-10-26 12:37:58.959 || Set CHECK_GARAGE 3sec TimeOut /app.php?page=checkGarage
+
+2018-10-26 12:37:58.963 || checkGarage Request 
+
+2018-10-26 12:37:58.964 || get_news Success 
+
+2018-10-26 12:37:59.290 || checkGarage Success 
+
+  ||                 "garage_id" = 000007;
+
+  ||                 "garage_id" = 000007;
+
+  ||         "garage_id" = 000007;
+
+2018-10-26 12:37:59.897 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-93
+
+2018-10-26 12:37:59.897 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-26 12:38:00.000 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-90
+
+2018-10-26 12:38:00.001 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-26 12:38:00.527 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-95
+
+2018-10-26 12:38:00.527 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-26 12:38:01.050 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-94
+
+2018-10-26 12:38:01.050 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-26 12:38:01.885 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-97
+
+2018-10-26 12:38:01.886 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-26 12:38:02.404 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-96
+
+2018-10-26 12:38:02.405 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-26 12:38:02.611 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-88
+
+2018-10-26 12:38:02.611 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-26 12:38:03.029 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-87
+
+2018-10-26 12:38:03.030 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-26 12:38:03.664 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-103
+
+2018-10-26 12:38:03.664 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-26 12:38:05.015 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-87
+
+2018-10-26 12:38:05.015 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-26 12:38:05.642 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-86
+
+2018-10-26 12:38:05.642 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-26 12:38:06.175 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-101
+
+2018-10-26 12:38:06.176 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-26 12:38:07.006 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-94
+
+2018-10-26 12:38:07.006 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-26 12:38:07.735 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-95
+
+2018-10-26 12:38:07.735 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-26 12:38:08.591 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-98
+
+2018-10-26 12:38:08.591 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-26 12:38:09.427 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-90
+
+2018-10-26 12:38:09.427 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-26 12:38:09.738 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-92
+
+2018-10-26 12:38:09.738 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-26 12:38:10.055 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-90
+
+2018-10-26 12:38:10.055 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-26 12:38:10.576 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-90
+
+2018-10-26 12:38:10.576 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-26 12:38:11.523 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-91
+
+2018-10-26 12:38:11.523 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-26 12:38:12.042 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-92
+
+2018-10-26 12:38:12.042 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-26 12:38:12.566 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-92
+
+2018-10-26 12:38:12.567 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-26 12:38:13.081 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-92
+
+2018-10-26 12:38:13.081 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-26 12:38:14.122 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-95
+
+2018-10-26 12:38:14.122 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-26 12:38:14.650 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-93
+
+2018-10-26 12:38:14.650 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-26 12:38:15.286 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-94
+
+2018-10-26 12:38:15.286 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-26 12:38:15.601 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-96
+
+2018-10-26 12:38:15.601 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-26 12:38:16.125 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-92
+
+2018-10-26 12:38:16.125 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-26 12:38:16.762 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-94
+
+2018-10-26 12:38:16.762 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-26 12:38:17.084 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-93
+
+2018-10-26 12:38:17.084 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-26 12:38:17.605 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-91
+
+2018-10-26 12:38:17.605 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-26 12:38:18.122 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-88
+
+2018-10-26 12:38:18.122 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-26 12:38:18.551 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-86
+
+2018-10-26 12:38:18.551 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-26 12:38:19.187 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-91
+
+2018-10-26 12:38:19.187 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-26 12:38:19.716 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-86
+
+2018-10-26 12:38:19.717 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-26 12:38:20.675 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-96
+
+2018-10-26 12:38:20.676 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-26 12:38:21.201 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-91
+
+2018-10-26 12:38:21.201 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-26 12:38:21.929 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-94
+
+2018-10-26 12:38:21.929 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-26 12:38:22.343 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-83
+
+2018-10-26 12:38:22.343 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-26 12:38:22.344 || [Gate]GATE > -85!!!!
+
+2018-10-26 12:38:22.652 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-84
+
+2018-10-26 12:38:22.653 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-26 12:38:22.653 || [Gate]GATE > -85!!!!
+
+2018-10-26 12:38:22.655 || [Gate]pName:00:23:A7:A6:B3:D8_GI
+
+2018-10-26 12:38:23.146 || [Gate]pName:00:23:A7:A6:B3:D8_GI
+
+2018-10-26 12:38:23.147 || [Gate]pName:00:23:A7:A6:B3:D8_GI
+
+2018-10-26 12:38:23.528 || [Gate]pName:00:23:A7:A6:B3:D8_GI
+
+2018-10-26 12:38:23.738 || [Gate]pName:00:23:A7:A6:B3:D8_GI
+
+2018-10-26 12:38:23.978 || [Gate]pName:00:23:A7:A6:B3:D8_GI
+
+2018-10-26 12:38:24.126 || Network <WIFI> PaKing-192.168.4.169
+
+2018-10-26 12:38:24.127 || inputAPI = /app.php?page=garage_enter_check_reservechange
+
+2018-10-26 12:38:24.127 || Set CHECK_GARAGE 3sec TimeOut /app.php?page=garage_enter_check_reservechange
+
+2018-10-26 12:38:24.128 || garage_enter_check_reservechange Request 
+
+2018-10-26 12:38:24.472 || garage_enter_check_reservechange Success 
+
+2018-10-26 12:38:24.476 || userManager.isGarageReservation = 1
+
+2018-10-26 12:38:24.476 || userManager.isReservation = 1
+
+  ||     "garage_id" = 000007;
+
+2018-10-26 12:38:24.479 || userManager.isGarageReservation = 1
+
+  ||     "garage_id" = 000007;
+
+2018-10-26 12:38:24.487 || Network <WIFI> PaKing-192.168.4.169
+
+2018-10-26 12:38:24.488 || parking_space_list Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-26 12:38:24.513 || voiceString:抵達車場入口
+
+2018-10-26 12:38:24.514 || Utterance:[AVSpeechUtterance 0x28130ce80] String: 抵達車場入口
+
+2018-10-26 12:38:24.638 || reservation enter popup
+
+2018-10-26 12:38:25.129 || parking_space_list Success 
+
+2018-10-26 12:38:25.561 || Network <WIFI> PaKing-192.168.4.169
+
+2018-10-26 12:38:25.562 || get_vendor Request 
+
+2018-10-26 12:38:25.563 || [Gate]Open InOutGate 
+
+2018-10-26 12:38:25.590 || Network <WIFI> PaKing-192.168.4.169
+
+2018-10-26 12:38:25.591 || inputAPI = /local.php?page=garage_enter_confirm&garage_dbname=000007
+
+2018-10-26 12:38:25.591 || Set CHECK_GARAGE 3sec TimeOut /local.php?page=garage_enter_confirm&garage_dbname=000007
+
+2018-10-26 12:38:25.594 || garage_enter_confirm&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-26 12:38:25.937 || get_vendor Success 
+
+2018-10-26 12:38:26.648 || garage_enter_confirm&garage_dbname=000007 Success 
+
+  ||         "garage_id" = 000007;
+
+2018-10-26 12:38:26.745 || Utterance:[AVSpeechUtterance 0x28130ce80] String: 抵達車場入口
+
+2018-10-26 12:38:26.889 || [Gate]pName:00:23:A7:A6:B3:D8_GI
+
+2018-10-26 12:38:26.889 || [Gate]Gate Open Success
+
+2018-10-26 12:38:26.890 || [Gate]
+
+2018-10-26 12:38:26.905 || set orderListInfo 
+
+  ||     "garage_id" = 000007;
+
+2018-10-26 12:38:26.906 || userManager.gateGarageInfo 
+
+  ||             "garage_id" = 000007;
+
+  ||             "garage_id" = 000007;
+
+  ||     "garage_id" = 000007;
+
+2018-10-26 12:38:26.919 ||  39號
+
+2018-10-26 12:38:26.919 ||  39號
+
+  ||     "garage_id" = 000007;
+
+2018-10-26 12:38:26.961 || usermanager.isReservation = 0
+
+2018-10-26 12:38:26.961 || usermanager.isGarageReservation = 1
+
+2018-10-26 12:38:28.016 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:0 callback數:1
+
+2018-10-26 12:38:28.017 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:5 上閥值1
+
+2018-10-26 12:38:28.226 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:3164]|[CarNavigation]ans: B2_01_1
+
+2018-10-26 12:38:29.070 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:1 callback數:2
+
+2018-10-26 12:38:29.070 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:5 上閥值1
+
+2018-10-26 12:38:30.125 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:1 callback數:5
+
+2018-10-26 12:38:30.125 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:5 上閥值2
+
+2018-10-26 12:38:30.177 || Network <WIFI> PaKing-192.168.4.169
+
+2018-10-26 12:38:30.178 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-26 12:38:30.434 ||  39號
+
+2018-10-26 12:38:30.958 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-26 12:38:31.174 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:0 callback數:2
+
+2018-10-26 12:38:31.174 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:5 上閥值1
+
+2018-10-26 12:38:31.174 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2560]|富敦導航:callbackCount B2_01_15
+
+2018-10-26 12:38:31.174 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2560]|富敦導航:callbackCount B2_01_110
+
+2018-10-26 12:38:31.175 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2560]|富敦導航:callbackCount B2_01_19
+
+2018-10-26 12:38:31.175 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2560]|富敦導航:callbackCount B2_01_111
+
+2018-10-26 12:38:31.175 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2560]|富敦導航:callbackCount B2_01_115
+
+2018-10-26 12:38:31.175 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2560]|富敦導航:callbackCount B2_01_111
+
+2018-10-26 12:38:31.175 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2560]|富敦導航:callbackCount B2_01_123
+
+2018-10-26 12:38:31.175 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2560]|富敦導航:callbackCount B2_01_12
+
+2018-10-26 12:38:31.175 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2560]|富敦導航:callbackCount B2_01_112
+
+2018-10-26 12:38:31.175 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2560]|富敦導航:callbackCount B2_01_112
+
+2018-10-26 12:38:31.175 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2593]|富敦導航:(refresh_queue)B2_01_1:24
+
+2018-10-26 12:38:31.175 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2595]|富敦導航:(refresh_queue)----------
+
+2018-10-26 12:38:31.175 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:3164]|[CarNavigation]ans: B2_01_1
+
+2018-10-26 12:38:31.177 || voiceString:前方右轉
+
+2018-10-26 12:38:31.177 || Utterance:[AVSpeechUtterance 0x281c81500] String: 前方右轉
+
+2018-10-26 12:38:31.180 || Network <WIFI> PaKing-192.168.4.169
+
+2018-10-26 12:38:31.180 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-26 12:38:31.683 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-26 12:38:31.990 || [Gate]pName:00:23:A7:A6:B3:D8_GI
+
+2018-10-26 12:38:32.524 || Utterance:[AVSpeechUtterance 0x281c81500] String: 前方右轉
+
+2018-10-26 12:38:32.540 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:1 callback數:2
+
+2018-10-26 12:38:32.540 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:5 上閥值1
+
+2018-10-26 12:38:33.687 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:1 callback數:4
+
+2018-10-26 12:38:33.688 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:5 上閥值2
+
+2018-10-26 12:38:33.964 || Network <WIFI> PaKing-192.168.4.169
+
+2018-10-26 12:38:33.965 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-26 12:38:34.531 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-26 12:38:34.689 || Network <WIFI> PaKing-192.168.4.169
+
+2018-10-26 12:38:34.690 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-26 12:38:34.943 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:1 callback數:5
+
+2018-10-26 12:38:34.943 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:5 上閥值2
+
+2018-10-26 12:38:35.146 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-26 12:38:35.986 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:1 callback數:3
+
+2018-10-26 12:38:35.986 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:5 上閥值1
+
+2018-10-26 12:38:36.995 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:2 callback數:8
+
+2018-10-26 12:38:36.995 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:6 上閥值2
+
+2018-10-26 12:38:37.049 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:3164]|[CarNavigation]ans: B2_01_2
+
+2018-10-26 12:38:37.536 || Network <WIFI> PaKing-192.168.4.169
+
+2018-10-26 12:38:37.538 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-26 12:38:38.119 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-26 12:38:38.155 || Network <WIFI> PaKing-192.168.4.169
+
+2018-10-26 12:38:38.156 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-26 12:38:38.191 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:2 callback數:6
+
+2018-10-26 12:38:38.191 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:5 上閥值2
+
+2018-10-26 12:38:38.663 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-26 12:38:39.424 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:2 callback數:6
+
+2018-10-26 12:38:39.424 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:5 上閥值2
+
+2018-10-26 12:38:40.777 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:2 callback數:6
+
+2018-10-26 12:38:40.777 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:5 上閥值2
+
+2018-10-26 12:38:41.124 || Network <WIFI> PaKing-192.168.4.169
+
+2018-10-26 12:38:41.126 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-26 12:38:41.672 || Network <WIFI> PaKing-192.168.4.169
+
+2018-10-26 12:38:41.674 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-26 12:38:41.706 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-26 12:38:42.140 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:2 callback數:4
+
+2018-10-26 12:38:42.140 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:5 上閥值2
+
+2018-10-26 12:38:42.180 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-26 12:38:43.170 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:2 callback數:5
+
+2018-10-26 12:38:43.170 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:5 上閥值2
+
+2018-10-26 12:38:44.211 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:2 callback數:5
+
+2018-10-26 12:38:44.212 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:5 上閥值2
+
+2018-10-26 12:38:44.711 || Network <WIFI> PaKing-192.168.4.169
+
+2018-10-26 12:38:44.713 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-26 12:38:45.189 || Network <WIFI> PaKing-192.168.4.169
+
+2018-10-26 12:38:45.191 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-26 12:38:45.255 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-26 12:38:45.773 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-26 12:38:45.899 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:2 callback數:0
+
+2018-10-26 12:38:45.899 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:5 上閥值1
+
+2018-10-26 12:38:47.147 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:3 callback數:1
+
+2018-10-26 12:38:47.147 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:5 上閥值1
+
+2018-10-26 12:38:48.216 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:3 callback數:5
+
+2018-10-26 12:38:48.216 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:5 上閥值2
+
+2018-10-26 12:38:48.260 || Network <WIFI> PaKing-192.168.4.169
+
+2018-10-26 12:38:48.261 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-26 12:38:48.782 || Network <WIFI> PaKing-192.168.4.169
+
+2018-10-26 12:38:48.784 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-26 12:38:49.578 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:3 callback數:4
+
+2018-10-26 12:38:49.578 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:5 上閥值2
+
+2018-10-26 12:38:50.516 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:3164]|[CarNavigation]ans: B2_01_3
+
+2018-10-26 12:38:50.517 || voiceString:下樓
+
+2018-10-26 12:38:50.518 || Utterance:[AVSpeechUtterance 0x28130b580] String: 下樓
+
+2018-10-26 12:38:50.680 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-26 12:38:51.387 || Utterance:[AVSpeechUtterance 0x28130b580] String: 下樓
+
+2018-10-26 12:38:51.664 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:3 callback數:5
+
+2018-10-26 12:38:51.664 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:5 上閥值2
+
+2018-10-26 12:38:51.838 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-26 12:38:52.717 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:3 callback數:4
+
+2018-10-26 12:38:52.717 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:5 上閥值2
+
+2018-10-26 12:38:53.684 || Network <WIFI> PaKing-192.168.4.169
+
+2018-10-26 12:38:53.685 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-26 12:38:53.767 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:3 callback數:5
+
+2018-10-26 12:38:53.767 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:5 上閥值2
+
+2018-10-26 12:38:54.285 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-26 12:38:54.846 || Network <WIFI> PaKing-192.168.4.169
+
+2018-10-26 12:38:54.847 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-26 12:38:55.320 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-26 12:38:55.352 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:3 callback數:5
+
+2018-10-26 12:38:55.352 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:5 上閥值2
+
+2018-10-26 12:38:57.288 || Network <WIFI> PaKing-192.168.4.169
+
+2018-10-26 12:38:57.290 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-26 12:38:58.066 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-26 12:38:58.329 || Network <WIFI> PaKing-192.168.4.169
+
+2018-10-26 12:38:58.331 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-26 12:38:58.787 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-26 12:39:01.071 || Network <WIFI> PaKing-192.168.4.169
+
+2018-10-26 12:39:01.073 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-26 12:39:01.795 || Network <WIFI> PaKing-192.168.4.169
+
+2018-10-26 12:39:01.797 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-26 12:39:02.040 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-26 12:39:02.403 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-26 12:39:03.669 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:3 callback數:0
+
+2018-10-26 12:39:03.670 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:5 上閥值1
+
+2018-10-26 12:39:04.724 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:5 callback數:5
+
+2018-10-26 12:39:04.724 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:5 上閥值2
+
+2018-10-26 12:39:05.046 || Network <WIFI> PaKing-192.168.4.169
+
+2018-10-26 12:39:05.047 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-26 12:39:05.320 || Network <WIFI> PaKing-192.168.4.169
+
+2018-10-26 12:39:05.321 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-26 12:39:05.595 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-26 12:39:06.200 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-26 12:39:06.440 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:0 callback數:9
+
+2018-10-26 12:39:06.440 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:6 上閥值2
+
+2018-10-26 12:39:07.665 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:2 callback數:4
+
+2018-10-26 12:39:07.665 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:5 上閥值2
+
+2018-10-26 12:39:07.874 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2560]|富敦導航:callbackCount B3_01_24
+
+2018-10-26 12:39:07.874 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2560]|富敦導航:callbackCount B3_01_24
+
+2018-10-26 12:39:07.874 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2560]|富敦導航:callbackCount B3_01_13
+
+2018-10-26 12:39:07.874 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2560]|富敦導航:callbackCount B3_01_15
+
+2018-10-26 12:39:07.874 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2560]|富敦導航:callbackCount B3_01_13
+
+2018-10-26 12:39:07.875 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2560]|富敦導航:callbackCount B3_01_110
+
+2018-10-26 12:39:07.875 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2560]|富敦導航:callbackCount B3_01_23
+
+2018-10-26 12:39:07.875 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2560]|富敦導航:callbackCount B3_01_414
+
+2018-10-26 12:39:07.875 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2593]|富敦導航:(refresh_queue)B3_01_1:18
+
+2018-10-26 12:39:07.875 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2593]|富敦導航:(refresh_queue)B3_01_4:14
+
+2018-10-26 12:39:07.876 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2595]|富敦導航:(refresh_queue)----------
+
+2018-10-26 12:39:07.876 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:3164]|[CarNavigation]ans: B3_01_4
+
+2018-10-26 12:39:07.885 || send [lockerDown] notification
+
+2018-10-26 12:39:07.921 || voiceString:已接近預約車位
+
+2018-10-26 12:39:07.921 || voiceString:39號
+
+2018-10-26 12:39:07.922 || Utterance:[AVSpeechUtterance 0x28130e400] String: 已接近預約車位
+
+2018-10-26 12:39:07.922 || [Locker]Locker Popup
+
+2018-10-26 12:39:08.341 || Network-<Carrier> GT
+
+2018-10-26 12:39:08.342 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-26 12:39:08.505 || 刷成功前點B3_01_1
+
+2018-10-26 12:39:08.841 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:2 callback數:11
+
+2018-10-26 12:39:08.841 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:6 上閥值2
+
+2018-10-26 12:39:09.020 || 刷成功後點B3_01_2
+
+2018-10-26 12:39:09.020 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:3120]|01/04:_isDrawRoute=no
+
+2018-10-26 12:39:09.020 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:3164]|[CarNavigation]ans: B3_01_2
+
+2018-10-26 12:39:09.221 || Network-<Carrier> GT
+
+2018-10-26 12:39:09.222 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-26 12:39:09.793 || Utterance:[AVSpeechUtterance 0x28130e400] String: 已接近預約車位
+
+2018-10-26 12:39:09.793 || Utterance:[AVSpeechUtterance 0x2813609c0] String: 39號
+
+2018-10-26 12:39:09.879 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:2 callback數:6
+
+2018-10-26 12:39:09.879 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:5 上閥值2
+
+2018-10-26 12:39:10.090 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:3143]|01/04:_isDrawRoute=yes
+
+2018-10-26 12:39:10.090 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:3164]|[CarNavigation]ans: B3_01_1
+
+2018-10-26 12:39:10.091 || voiceString:前方右轉
+
+2018-10-26 12:39:10.903 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:2 callback數:10
+
+2018-10-26 12:39:10.903 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:6 上閥值2
+
+2018-10-26 12:39:11.021 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-26 12:39:11.029 || Utterance:[AVSpeechUtterance 0x2813609c0] String: 39號
+
+2018-10-26 12:39:11.030 || Utterance:[AVSpeechUtterance 0x2813d0ac0] String: 前方右轉
+
+2018-10-26 12:39:11.943 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:3 callback數:14
+
+2018-10-26 12:39:11.943 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:6 上閥值3
+
+2018-10-26 12:39:12.332 || Utterance:[AVSpeechUtterance 0x2813d0ac0] String: 前方右轉
+
+2018-10-26 12:39:12.981 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:3 callback數:14
+
+2018-10-26 12:39:12.981 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:6 上閥值3
+
+2018-10-26 12:39:14.038 || Network-<Carrier> GT
+
+2018-10-26 12:39:14.040 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-26 12:39:14.122 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:3 callback數:8
+
+2018-10-26 12:39:14.122 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:6 上閥值2
+
+2018-10-26 12:39:14.716 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-26 12:39:15.283 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:3 callback數:1
+
+2018-10-26 12:39:15.283 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:5 上閥值1
+
+2018-10-26 12:39:16.447 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:3 callback數:3
+
+2018-10-26 12:39:16.447 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:5 上閥值1
+
+2018-10-26 12:39:17.500 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:4 callback數:1
+
+2018-10-26 12:39:17.500 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:5 上閥值1
+
+2018-10-26 12:39:17.721 || Network <WIFI> PaKing-192.168.4.169
+
+2018-10-26 12:39:17.723 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-26 12:39:18.155 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-26 12:39:18.656 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:4 callback數:5
+
+2018-10-26 12:39:18.656 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:5 上閥值2
+
+2018-10-26 12:39:19.498 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-26 12:39:19.847 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:4 callback數:3
+
+2018-10-26 12:39:19.847 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:5 上閥值1
+
+2018-10-26 12:39:20.888 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:4 callback數:7
+
+2018-10-26 12:39:20.888 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:5 上閥值2
+
+2018-10-26 12:39:21.161 || Network <WIFI> PaKing-192.168.4.169
+
+2018-10-26 12:39:21.163 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-26 12:39:21.741 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-26 12:39:22.270 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:4 callback數:3
+
+2018-10-26 12:39:22.270 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:5 上閥值1
+
+2018-10-26 12:39:22.508 || Network <WIFI> PaKing-192.168.4.169
+
+2018-10-26 12:39:22.509 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-26 12:39:23.040 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-26 12:39:23.403 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:4 callback數:0
+
+2018-10-26 12:39:23.403 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:5 上閥值1
+
+2018-10-26 12:39:24.463 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:4 callback數:8
+
+2018-10-26 12:39:24.463 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:6 上閥值2
+
+2018-10-26 12:39:24.747 || Network <WIFI> PaKing-192.168.4.169
+
+2018-10-26 12:39:24.748 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-26 12:39:25.529 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-26 12:39:25.622 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:4 callback數:9
+
+2018-10-26 12:39:25.622 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:6 上閥值2
+
+2018-10-26 12:39:26.052 || Network <WIFI> PaKing-192.168.4.169
+
+2018-10-26 12:39:26.053 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-26 12:39:26.499 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-26 12:39:26.752 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:4 callback數:3
+
+2018-10-26 12:39:26.752 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:5 上閥值1
+
+2018-10-26 12:39:27.173 || send [lockerDown] notification
+
+2018-10-26 12:39:27.187 || voiceString:已接近預約車位
+
+2018-10-26 12:39:27.188 || voiceString:39號
+
+2018-10-26 12:39:27.188 || Utterance:[AVSpeechUtterance 0x281361740] String: 已接近預約車位
+
+2018-10-26 12:39:27.188 || [Locker]Locker Popup
+
+2018-10-26 12:39:27.678 || 刷成功前點B3_01_3
+
+2018-10-26 12:39:27.679 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:3164]|[CarNavigation]ans: B3_01_3
+
+2018-10-26 12:39:27.947 || [Locker]Locker Down Pressed
+
+2018-10-26 12:39:27.954 || Network <WIFI> PaKing-192.168.4.169
+
+2018-10-26 12:39:28.373 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:3 callback數:6
+
+2018-10-26 12:39:28.373 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:5 上閥值2
+
+2018-10-26 12:39:28.534 || Network <WIFI> PaKing-192.168.4.169
+
+2018-10-26 12:39:28.536 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-26 12:39:29.019 || Utterance:[AVSpeechUtterance 0x281361740] String: 已接近預約車位
+
+2018-10-26 12:39:29.019 || Utterance:[AVSpeechUtterance 0x28135eac0] String: 39號
+
+2018-10-26 12:39:29.114 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-26 12:39:29.416 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:3 callback數:6
+
+2018-10-26 12:39:29.416 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:5 上閥值2
+
+2018-10-26 12:39:29.507 || Network <WIFI> PaKing-192.168.4.169
+
+2018-10-26 12:39:29.509 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-26 12:39:29.661 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:3164]|[CarNavigation]ans: B3_01_4
+
+2018-10-26 12:39:30.029 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-26 12:39:30.255 || Utterance:[AVSpeechUtterance 0x28135eac0] String: 39號
+
+2018-10-26 12:39:30.605 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:2 callback數:5
+
+2018-10-26 12:39:30.605 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:5 上閥值2
+
+2018-10-26 12:39:31.843 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:2 callback數:8
+
+2018-10-26 12:39:31.843 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:6 上閥值2
+
+2018-10-26 12:39:32.119 || Network <WIFI> PaKing-192.168.4.169
+
+2018-10-26 12:39:32.120 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-26 12:39:32.140 || [API] /socketclient.php?IP=192.168.1.90&Port=5000&Status=LockerOff Success : OK&RSSI=-27
+
+2018-10-26 12:39:32.140 || -[LockerViewController apiLockerOff]_block_invoke|[L:193]|Locker off result: {
+
+  ||     status = "OK&RSSI=-27";
+
+2018-10-26 12:39:32.140 || Locker off done
+
+2018-10-26 12:39:32.144 || Network <WIFI> PaKing-192.168.4.169
+
+2018-10-26 12:39:32.145 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-26 12:39:32.146 || Network <WIFI> PaKing-192.168.4.169
+
+2018-10-26 12:39:32.147 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-26 12:39:32.696 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-26 12:39:32.907 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:2 callback數:2
+
+2018-10-26 12:39:32.908 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:5 上閥值1
+
+2018-10-26 12:39:33.109 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-26 12:39:33.593 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-26 12:39:33.937 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:2 callback數:7
+
+2018-10-26 12:39:33.937 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:5 上閥值2
+
+2018-10-26 12:39:34.970 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:2 callback數:10
+
+2018-10-26 12:39:34.970 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:6 上閥值2
+
+2018-10-26 12:39:35.708 || Network <WIFI> PaKing-192.168.4.169
+
+2018-10-26 12:39:35.710 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-26 12:39:36.177 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-26 12:39:36.215 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:2 callback數:12
+
+2018-10-26 12:39:36.215 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:6 上閥值2
+
+2018-10-26 12:39:36.604 || Network <WIFI> PaKing-192.168.4.169
+
+2018-10-26 12:39:36.605 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-26 12:39:37.127 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-26 12:39:37.262 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:2 callback數:2
+
+2018-10-26 12:39:37.262 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:5 上閥值1
+
+2018-10-26 12:39:38.336 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:2 callback數:11
+
+2018-10-26 12:39:38.337 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:6 上閥值2
+
+2018-10-26 12:39:39.189 || Network <WIFI> PaKing-192.168.4.169
+
+2018-10-26 12:39:39.190 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-26 12:39:39.365 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:2 callback數:12
+
+2018-10-26 12:39:39.366 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:6 上閥值2
+
+2018-10-26 12:39:39.773 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-26 12:39:40.132 || Network <WIFI> PaKing-192.168.4.169
+
+2018-10-26 12:39:40.134 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-26 12:39:40.408 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:2 callback數:4
+
+2018-10-26 12:39:40.408 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:5 上閥值2
+
+2018-10-26 12:39:40.674 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-26 12:39:41.444 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:2 callback數:6
+
+2018-10-26 12:39:41.445 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:5 上閥值2
+
+2018-10-26 12:39:42.526 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:2 callback數:7
+
+2018-10-26 12:39:42.527 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:5 上閥值2
+
+2018-10-26 12:39:42.784 || Network <WIFI> PaKing-192.168.4.169
+
+2018-10-26 12:39:42.786 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-26 12:39:43.460 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-26 12:39:43.560 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:2 callback數:12
+
+2018-10-26 12:39:43.560 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:6 上閥值2
+
+2018-10-26 12:39:43.679 || Network <WIFI> PaKing-192.168.4.169
+
+2018-10-26 12:39:43.680 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-26 12:39:44.279 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-26 12:39:45.024 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:2 callback數:5
+
+2018-10-26 12:39:45.024 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:5 上閥值2
+
+2018-10-26 12:39:46.047 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:2 callback數:4
+
+2018-10-26 12:39:46.047 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:5 上閥值2
+
+2018-10-26 12:39:46.471 || Network <WIFI> PaKing-192.168.4.169
+
+2018-10-26 12:39:46.473 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-26 12:39:47.158 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-26 12:39:47.283 || Network <WIFI> PaKing-192.168.4.169
+
+2018-10-26 12:39:47.285 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-26 12:39:47.315 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:2 callback數:10
+
+2018-10-26 12:39:47.315 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:6 上閥值2
+
+2018-10-26 12:39:47.839 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-26 12:39:48.484 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:2 callback數:3
+
+2018-10-26 12:39:48.484 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:5 上閥值1
+
+2018-10-26 12:39:49.645 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:2 callback數:9
+
+2018-10-26 12:39:49.645 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:6 上閥值2
+
+2018-10-26 12:39:50.168 || Network <WIFI> PaKing-192.168.4.169
+
+2018-10-26 12:39:50.169 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-26 12:39:50.691 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:2 callback數:14
+
+2018-10-26 12:39:50.691 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:6 上閥值3
+
+2018-10-26 12:39:50.718 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-26 12:39:50.844 || Network <WIFI> PaKing-192.168.4.169
+
+2018-10-26 12:39:50.846 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-26 12:39:51.388 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-26 12:39:51.749 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:2 callback數:6
+
+2018-10-26 12:39:51.750 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:5 上閥值2
+
+2018-10-26 12:39:52.785 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:2 callback數:10
+
+2018-10-26 12:39:52.786 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:6 上閥值2
+
+2018-10-26 12:39:53.727 || Network <WIFI> PaKing-192.168.4.169
+
+2018-10-26 12:39:53.729 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-26 12:39:53.921 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:2 callback數:12
+
+2018-10-26 12:39:53.921 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:6 上閥值2
+
+2018-10-26 12:39:54.309 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-26 12:39:54.393 || Network <WIFI> PaKing-192.168.4.169
+
+2018-10-26 12:39:54.395 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-26 12:39:55.133 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-26 12:39:55.211 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:2 callback數:4
+
+2018-10-26 12:39:55.211 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:5 上閥值2
+
+2018-10-26 12:39:56.240 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:2 callback數:4
+
+2018-10-26 12:39:56.240 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:5 上閥值2
+
+2018-10-26 12:39:57.316 || Network <WIFI> PaKing-192.168.4.169
+
+2018-10-26 12:39:57.317 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-26 12:39:57.378 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:2 callback數:6
+
+2018-10-26 12:39:57.378 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:5 上閥值2
+
+2018-10-26 12:39:57.909 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-26 12:39:58.138 || Network <WIFI> PaKing-192.168.4.169
+
+2018-10-26 12:39:58.139 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-26 12:39:58.435 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:2 callback數:8
+
+2018-10-26 12:39:58.435 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:6 上閥值2
+
+2018-10-26 12:39:58.682 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-26 12:39:59.294 || [ParkingBtn][CM]真。黃色按鈕 
+
+2018-10-26 12:39:59.298 || voiceString:停完車請確認
+
+2018-10-26 12:39:59.298 || Utterance:[AVSpeechUtterance 0x28135cdc0] String: 停完車請確認
+
+2018-10-26 12:39:59.472 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:2 callback數:6
+
+2018-10-26 12:39:59.472 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:5 上閥值2
+
+2018-10-26 12:40:00.521 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:2 callback數:7
+
+2018-10-26 12:40:00.521 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:5 上閥值2
+
+2018-10-26 12:40:00.916 || Network <WIFI> PaKing-192.168.4.169
+
+2018-10-26 12:40:00.918 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-26 12:40:01.389 || Utterance:[AVSpeechUtterance 0x28135cdc0] String: 停完車請確認
+
+2018-10-26 12:40:01.599 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-26 12:40:01.680 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:2 callback數:0
+
+2018-10-26 12:40:01.681 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:5 上閥值1
+
+2018-10-26 12:40:01.688 || Network <WIFI> PaKing-192.168.4.169
+
+2018-10-26 12:40:01.689 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-26 12:40:02.516 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-26 12:40:02.859 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:2 callback數:8
+
+2018-10-26 12:40:02.860 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:6 上閥值2
+
+2018-10-26 12:40:03.869 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:2 callback數:9
+
+2018-10-26 12:40:03.870 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:6 上閥值2
+
+2018-10-26 12:40:04.610 || Network <WIFI> PaKing-192.168.4.169
+
+2018-10-26 12:40:04.611 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-26 12:40:04.930 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:2 callback數:9
+
+2018-10-26 12:40:04.930 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:6 上閥值2
+
+2018-10-26 12:40:05.378 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-26 12:40:05.521 || Network <WIFI> PaKing-192.168.4.169
+
+2018-10-26 12:40:05.522 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-26 12:40:06.067 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:2 callback數:5
+
+2018-10-26 12:40:06.068 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:5 上閥值2
+
+2018-10-26 12:40:06.193 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-26 12:40:07.125 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:2 callback數:6
+
+2018-10-26 12:40:07.125 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:5 上閥值2
+
+2018-10-26 12:40:08.129 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:2 callback數:10
+
+2018-10-26 12:40:08.130 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:6 上閥值2
+
+2018-10-26 12:40:08.389 || Network <WIFI> PaKing-192.168.4.169
+
+2018-10-26 12:40:08.391 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-26 12:40:08.952 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-26 12:40:09.149 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:3 callback數:13
+
+2018-10-26 12:40:09.150 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:6 上閥值3
+
+2018-10-26 12:40:09.198 || Network <WIFI> PaKing-192.168.4.169
+
+2018-10-26 12:40:09.200 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-26 12:40:09.663 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-26 12:40:10.285 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:3 callback數:8
+
+2018-10-26 12:40:10.285 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:6 上閥值2
+
+2018-10-26 12:40:11.335 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:3 callback數:17
+
+2018-10-26 12:40:11.335 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:8 上閥值3
+
+2018-10-26 12:40:11.941 || [StepCounter]send [ParkedConfirmNote] notification
+
+2018-10-26 12:40:11.962 || Network <WIFI> PaKing-192.168.4.169
+
+2018-10-26 12:40:11.962 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-26 12:40:11.984 || voiceString:是否停車完成
+
+2018-10-26 12:40:11.984 || Utterance:[AVSpeechUtterance 0x28132ff00] String: 是否停車完成
+
+2018-10-26 12:40:11.985 || ParkedConfirmNote popup
+
+2018-10-26 12:40:12.394 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:4 callback數:22
+
+2018-10-26 12:40:12.395 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:8 上閥值4
+
+2018-10-26 12:40:12.541 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-26 12:40:12.669 || Network <WIFI> PaKing-192.168.4.169
+
+2018-10-26 12:40:12.670 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-26 12:40:13.153 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-26 12:40:13.742 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:4 callback數:9
+
+2018-10-26 12:40:13.742 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:6 上閥值2
+
+2018-10-26 12:40:13.885 || Utterance:[AVSpeechUtterance 0x28132ff00] String: 是否停車完成
+
+2018-10-26 12:40:15.008 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:4 callback數:17
+
+2018-10-26 12:40:15.008 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:8 上閥值3
+
+2018-10-26 12:40:15.551 || Network <WIFI> PaKing-192.168.4.169
+
+2018-10-26 12:40:15.553 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-26 12:40:16.031 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-26 12:40:16.157 || Network <WIFI> PaKing-192.168.4.169
+
+2018-10-26 12:40:16.158 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-26 12:40:16.171 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:4 callback數:15
+
+2018-10-26 12:40:16.171 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:6 上閥值3
+
+2018-10-26 12:40:16.755 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-26 12:40:17.330 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:4 callback數:3
+
+2018-10-26 12:40:17.330 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:5 上閥值1
+
+2018-10-26 12:40:18.354 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:4 callback數:13
+
+2018-10-26 12:40:18.354 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:6 上閥值3
+
+2018-10-26 12:40:19.040 || Network <WIFI> PaKing-192.168.4.169
+
+2018-10-26 12:40:19.042 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-26 12:40:19.401 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:4 callback數:8
+
+2018-10-26 12:40:19.401 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:6 上閥值2
+
+2018-10-26 12:40:19.704 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-26 12:40:19.760 || Network <WIFI> PaKing-192.168.4.169
+
+2018-10-26 12:40:19.762 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-26 12:40:20.450 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:4 callback數:4
+
+2018-10-26 12:40:20.450 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:5 上閥值2
+
+2018-10-26 12:40:20.528 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-26 12:40:21.535 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:4 callback數:11
+
+2018-10-26 12:40:21.535 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:6 上閥值2
+
+2018-10-26 12:40:22.329 || 0
+
+2018-10-26 12:40:22.331 || 蒐集所有SendTrackingDataToServer內資訊
+
+2018-10-26 12:40:22.332 || moveTrack:(
+
+2018-10-26 12:40:22.334 || 回主畫面
+
+2018-10-26 12:40:22.336 || [SendTrackingData]
+    "N_data" = "[{\"time\":\"1540528708\",\"id\":\"1\",\"area\":\"01\",\"E\":10,\"floor\":\"B2\"},{\"time\":\"1540528711\",\"id\":\"1\",\"area\":\"01\",\"E\":24,\"floor\":\"B2\"},{\"time\":\"1540528717\",\"id\":\"2\",\"area\":\"01\",\"E\":17,\"floor\":\"B2\"},{\"time\":\"1540528730\",\"id\":\"3\",\"area\":\"01\",\"E\":48,\"floor\":\"B2\"},{\"time\":\"1540528747\",\"id\":\"4\",\"area\":\"01\",\"E\":24,\"floor\":\"B3\"},{\"time\":\"1540528749\",\"id\":\"2\",\"area\":\"01\",\"E\":49,\"floor\":\"B3\"},{\"time\":\"1540528750\",\"id\":\"1\",\"area\":\"01\",\"E\":72,\"floor\":\"B3\"},{\"time\":\"1540528767\",\"id\":\"3\",\"area\":\"01\",\"E\":173,\"floor\":\"B3\"},{\"time\":\"1540528769\",\"id\":\"4\",\"area\":\"01\",\"E\":159,\"floor\":\"B3\"}]";
+    "P_data" = "[{\"time\":\"1540528822\",\"id\":\"00039\",\"area\":\"01\",\"E\":183,\"floor\":\"B3\"}]";
+    "Pedometer_datetime" = "[{\"count\":10,\"time\":\"1540528811\"}]";
+    "exit_datetime" = 1540528822;
+    isTerminated = 1;
+    "locker_ip" = "192.168.1.90";
+    "locker_off" = 1;
+    "parking_token" = 258d0c9e63457e3516a80c6d6fa6051e;
+    "reserved_device" = "00:23:A7:A6:C3:E4";
+    "reserved_id" = 7237;
+}
+
+2018-10-26 12:40:22.338 || Network <WIFI> PaKing-192.168.4.169
+
+2018-10-26 12:40:22.339 || parking_tracking_insert_test&garage_dbname=000007 Request 
+
+2018-10-26 12:40:22.350 || Network <WIFI> PaKing-192.168.4.169
+
+2018-10-26 12:40:22.351 || getBannerList Request 
+
+2018-10-26 12:40:22.371 || Network <WIFI> PaKing-192.168.4.169
+
+2018-10-26 12:40:22.372 || get_news Request 
+
+2018-10-26 12:40:22.713 || getBannerList Success 
+
+2018-10-26 12:40:22.776 || get_news Success 
+
+2018-10-26 12:40:24.060 || [ParkingBtn][CM]真。黃色按鈕 
+
+2018-10-26 12:40:27.052 || -[AppDelegate applicationDidEnterBackground:]|[L:125]|
+
+2018-10-26 12:40:52.979 || parking_tracking_insert_test&garage_dbname=000007 Success 
+
+2018-10-26 12:40:52.979 || Response：{
+
+2018-10-26 12:40:52.989 || Network <WIFI> PaKing-192.168.4.169
+
+2018-10-26 12:40:52.991 || space_tracking_lite&garage_dbname=000007 Request 
+
+2018-10-26 12:40:54.205 || space_tracking_lite&garage_dbname=000007 Success 
+
+2018-10-26 15:59:21.338 || -[AppDelegate checkUpdate]|[L:338]|場外不執行更新
+
+2018-10-26 15:59:21.457 || Network-<Carrier> GT
+
+2018-10-26 15:59:21.463 || check_member Request 
+
+2018-10-26 15:59:32.379 || -[AppDelegate applicationDidEnterBackground:]|[L:125]|
+
+2018-10-26 15:59:37.365 || -[AppDelegate checkUpdate]|[L:338]|場外不執行更新
+
+2018-10-26 15:59:37.528 || Network-<Carrier> GT
+
+2018-10-26 15:59:37.531 || check_member Request 
+
+2018-10-26 15:59:38.149 || check_member Success 
+
+2018-10-26 15:59:38.159 || Network-<Carrier> GT
+
+2018-10-26 15:59:38.160 || login_check_lite Request 
+
+2018-10-26 15:59:39.590 || login_check_lite Success 
+
+  ||                     "garage_id" = 000007;
+
+  ||                     "garage_id" = 000007;
+
+  ||             "garage_id" = 000007;
+
+  ||             "garage_id" = 000007;
+
+  ||             "garage_id" = 000007;
+
+  ||             "garage_id" = 000007;
+
+  ||             "garage_id" = 000007;
+
+2018-10-26 15:59:39.595 || userManager.isGarageReservation = 1
+
+2018-10-26 15:59:39.596 || userManager.isReservation = 1
+
+  ||     "garage_id" = 000007;
+
+2018-10-26 15:59:39.596 || userManager.isGarageReservation = 1
+
+2018-10-26 15:59:39.599 || userManager.isGarageReservation = 1
+
+2018-10-26 15:59:39.599 || userManager.isReservation = 1
+
+  ||     "garage_id" = 000007;
+
+2018-10-26 15:59:39.606 || set userManager.isReservation = 0
+
+2018-10-26 15:59:39.606 || set userManager.isGarageReservation = 1
+
+2018-10-26 15:59:39.613 || Network-<Carrier> GT
+
+2018-10-26 15:59:39.614 || ANPR_check_exit Request 
+
+2018-10-26 15:59:39.692 || Network-<Carrier> GT
+
+2018-10-26 15:59:39.692 || getBannerList Request 
+
+2018-10-26 15:59:39.737 || Network-<Carrier> GT
+
+2018-10-26 15:59:39.738 || get_news Request 
+
+2018-10-26 15:59:39.803 || [Gate]BLE ON
+
+2018-10-26 15:59:39.966 || [Gate]_BLEMac<adv>:00:23:A7:A6:B4:24_GO:-85
+
+2018-10-26 15:59:39.973 || Network-<Carrier> GT
+
+2018-10-26 15:59:39.973 || inputAPI = /app.php?page=checkGarage
+
+2018-10-26 15:59:39.978 || checkGarage Request 
+
+2018-10-26 15:59:40.068 || getBannerList Success 
+
+2018-10-26 15:59:40.357 || get_news Success 
+
+2018-10-26 15:59:40.358 || ANPR_check_exit Success 
+
+2018-10-26 15:59:40.373 || checkGarage Success 
+
+  ||                 "garage_id" = 000007;
+
+  ||                 "garage_id" = 000007;
+
+  ||         "garage_id" = 000007;
+
+2018-10-26 15:59:41.024 || [Gate]GATE > -85!!!!
+
+2018-10-26 15:59:41.128 || [Gate]_BLEMac<adv>:00:23:A7:A6:B4:24_GO:-85
+
+2018-10-26 15:59:41.129 || [Gate]GATE > -85!!!!
+
+2018-10-26 15:59:42.247 || voiceString:抵達車廠出口
+
+2018-10-26 15:59:42.248 || Utterance:[AVSpeechUtterance 0x281813fc0] String: 抵達車廠出口
+
+2018-10-26 15:59:43.273 || Network-<Carrier> GT
+
+2018-10-26 15:59:43.274 || get_vendor Request 
+
+2018-10-26 15:59:43.275 || [Gate]Open InOutGate 
+
+2018-10-26 15:59:43.505 || [Gate]Gate Open Success
+
+2018-10-26 15:59:43.513 || Network-<Carrier> GT
+
+2018-10-26 15:59:43.513 || garage_leave_pay&garage_dbname=000007 Request 
+
+2018-10-26 15:59:43.514 || leaveGarageName = 便利停車場富敦站
+

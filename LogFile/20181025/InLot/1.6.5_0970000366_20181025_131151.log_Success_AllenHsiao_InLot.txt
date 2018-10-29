@@ -1,0 +1,508 @@
+使用者：AllenHsiao
+裝置： iPhone 6
+系統： iOS 12.0.1
+版本： paking versoin:1.6.5(release)
+電信： 遠傳電信
+預約： 無
+車廠： L00022-銓營停車-八德立體停車場 車辨入場, 無Ｎ導航
+///////////////////////////////////
+
+( 2018-10-25 12:37:33 )	退到App背景
+
+( 2018-10-25 12:42:16 )	進入App前景
+
+( 2018-10-25 12:42:24 )	退到App背景
+
+( 2018-10-25 12:42:35 )	進入App前景
+
+( 2018-10-25 12:43:39 )	退到App背景
+
+( 2018-10-25 12:44:20 )	進入App前景
+
+( 2018-10-25 12:44:58 )	退到App背景
+
+( 2018-10-25 12:45:09 )	進入App前景
+
+( 2018-10-25 12:45:45 )	退到App背景
+
+( 2018-10-25 12:46:20 )	進入App前景
+
+( 2018-10-25 12:47:11 )	[VoiceString] 歡迎光臨
+
+( 2018-10-25 12:47:14 )	[VoiceString] 本場域提供APP自動付款，無須現場繳費。
+
+( 2018-10-25 12:48:41 )	退到App背景
+
+( 2018-10-25 13:10:06 )	進入App前景
+
+( 2018-10-25 13:11:48 )	[VoiceString] 謝謝光臨
+
+///////////////////////////////////
+網路切換時機
+2018-10-25 12:42:17.053 遠傳電信 (first)
+
+
+--------detail--------
+
+2018-10-25 12:37:30.585 || !!PaKing APP Open!!
+
+2018-10-25 12:37:30.594 || Allen Hsiao
+
+2018-10-25 12:37:30.594 || iOS 12.0.1
+
+2018-10-25 12:37:30.594 || Device:iPhone 6
+
+2018-10-25 12:37:30.595 || paking versoin:1.6.5(release)
+
+2018-10-25 12:37:30.595 || paking build:20180925112634
+
+2018-10-25 12:37:33.157 || 
+
+2018-10-25 12:37:33.784 || -[AppDelegate applicationDidEnterBackground:]|[L:125]|
+
+2018-10-25 12:37:33.784 || [Gate]0.000000
+
+2018-10-25 12:37:33.784 || [Locker]0.000000
+
+2018-10-25 12:37:33.820 || ADBannerPageCurrIndex = 3
+
+2018-10-25 12:42:16.565 || -[AppDelegate applicationWillEnterForeground:]|[L:156]|
+
+2018-10-25 12:42:17.053 || Network-<Carrier> 遠傳電信
+
+2018-10-25 12:42:17.060 || user_fail_trade_check Request 
+
+2018-10-25 12:42:17.601 || user_fail_trade_check Success 
+
+!!!2018-10-25 12:42:17.602 || result: {
+
+!!!2018-10-25 12:42:17.602 || userManager.garageFarePaymentStatus = NoGarageFare 
+
+2018-10-25 12:42:24.963 || -[AppDelegate applicationDidEnterBackground:]|[L:125]|
+
+2018-10-25 12:42:35.880 || -[AppDelegate applicationWillEnterForeground:]|[L:156]|
+
+2018-10-25 12:42:36.354 || Network-<Carrier> 遠傳電信
+
+2018-10-25 12:42:36.359 || user_fail_trade_check Request 
+
+2018-10-25 12:42:36.936 || user_fail_trade_check Success 
+
+!!!2018-10-25 12:42:36.937 || result: {
+
+!!!2018-10-25 12:42:36.937 || userManager.garageFarePaymentStatus = NoGarageFare 
+
+2018-10-25 12:43:39.459 || -[AppDelegate applicationDidEnterBackground:]|[L:125]|
+
+2018-10-25 12:44:20.309 || -[AppDelegate applicationWillEnterForeground:]|[L:156]|
+
+2018-10-25 12:44:20.798 || Network-<Carrier> 遠傳電信
+
+2018-10-25 12:44:20.799 || user_fail_trade_check Request 
+
+2018-10-25 12:44:21.254 || user_fail_trade_check Success 
+
+!!!2018-10-25 12:44:21.254 || result: {
+
+!!!2018-10-25 12:44:21.254 || userManager.garageFarePaymentStatus = NoGarageFare 
+
+2018-10-25 12:44:58.468 || -[AppDelegate applicationDidEnterBackground:]|[L:125]|
+
+2018-10-25 12:45:09.912 || -[AppDelegate applicationWillEnterForeground:]|[L:156]|
+
+2018-10-25 12:45:10.408 || Network-<Carrier> 遠傳電信
+
+2018-10-25 12:45:10.410 || user_fail_trade_check Request 
+
+2018-10-25 12:45:10.937 || user_fail_trade_check Success 
+
+!!!2018-10-25 12:45:10.938 || result: {
+
+!!!2018-10-25 12:45:10.938 || userManager.garageFarePaymentStatus = NoGarageFare 
+
+2018-10-25 12:45:45.685 || -[AppDelegate applicationDidEnterBackground:]|[L:125]|
+
+2018-10-25 12:46:20.937 || -[AppDelegate applicationWillEnterForeground:]|[L:156]|
+
+2018-10-25 12:46:21.395 || Network-<Carrier> 遠傳電信
+
+2018-10-25 12:46:21.396 || user_fail_trade_check Request 
+
+2018-10-25 12:46:22.005 || user_fail_trade_check Success 
+
+!!!2018-10-25 12:46:22.005 || result: {
+
+!!!2018-10-25 12:46:22.005 || userManager.garageFarePaymentStatus = NoGarageFare 
+
+2018-10-25 12:46:36.151 || [Gate]_BLEMac<adv>:D4:CA:6E:B6:3F:BB_GI:-92
+
+2018-10-25 12:46:36.151 || [Gate]_BLEMac<p>:D4:CA:6E:B6:3F:BB_GI
+
+2018-10-25 12:46:36.189 || Network-<Carrier> 遠傳電信
+
+2018-10-25 12:46:36.191 || inputAPI = /app.php?page=checkGarage
+
+2018-10-25 12:46:36.216 || checkGarage Request 
+
+2018-10-25 12:46:36.982 || checkGarage Success 
+
+  ||                 "garage_id" = L00022;
+
+  ||                 "garage_id" = L00022;
+
+  ||         "garage_id" = L00022;
+
+2018-10-25 12:46:37.001 || [Gate]ANPRStatus_GI Start
+
+2018-10-25 12:46:37.001 || ANPRRetryCount:1
+
+2018-10-25 12:46:37.011 || Network-<Carrier> 遠傳電信
+
+2018-10-25 12:46:37.012 || ANPR_check_enter Request 
+
+  ||     "garage_id" = L00022;
+
+2018-10-25 12:46:37.465 || ANPR_check_enter Success 
+
+2018-10-25 12:46:39.184 || [Gate]_BLEMac<adv>:D4:CA:6E:B6:3F:BB_GI:-91
+
+2018-10-25 12:46:39.185 || [Gate]_BLEMac<p>:D4:CA:6E:B6:3F:BB_GI
+
+  ||     "D4:CA:6E:B6:3F:BB_GI"
+
+2018-10-25 12:46:39.688 || [Gate]_BLEMac<adv>:D4:CA:6E:B6:3F:BB_GI:-92
+
+2018-10-25 12:46:39.688 || [Gate]_BLEMac<p>:D4:CA:6E:B6:3F:BB_GI
+
+2018-10-25 12:46:40.479 || ANPRRetryCount:2
+
+2018-10-25 12:46:40.505 || Network-<Carrier> 遠傳電信
+
+2018-10-25 12:46:40.506 || ANPR_check_enter Request 
+
+  ||     "garage_id" = L00022;
+
+2018-10-25 12:46:41.036 || ANPR_check_enter Success 
+
+2018-10-25 12:46:44.155 || ANPRRetryCount:3
+
+2018-10-25 12:46:44.181 || Network-<Carrier> 遠傳電信
+
+2018-10-25 12:46:44.184 || ANPR_check_enter Request 
+
+  ||     "garage_id" = L00022;
+
+2018-10-25 12:46:44.715 || ANPR_check_enter Success 
+
+2018-10-25 12:46:48.016 || ANPRRetryCount:4
+
+2018-10-25 12:46:48.040 || Network-<Carrier> 遠傳電信
+
+2018-10-25 12:46:48.042 || ANPR_check_enter Request 
+
+  ||     "garage_id" = L00022;
+
+2018-10-25 12:46:48.632 || ANPR_check_enter Success 
+
+2018-10-25 12:46:51.925 || ANPRRetryCount:5
+
+2018-10-25 12:46:51.935 || Network-<Carrier> 遠傳電信
+
+2018-10-25 12:46:51.936 || ANPR_check_enter Request 
+
+  ||     "garage_id" = L00022;
+
+2018-10-25 12:46:52.392 || ANPR_check_enter Success 
+
+2018-10-25 12:46:55.588 || ANPRRetryCount:6
+
+2018-10-25 12:46:55.612 || Network-<Carrier> 遠傳電信
+
+2018-10-25 12:46:55.614 || ANPR_check_enter Request 
+
+  ||     "garage_id" = L00022;
+
+2018-10-25 12:46:56.205 || ANPR_check_enter Success 
+
+2018-10-25 12:46:59.217 || ANPRRetryCount:7
+
+2018-10-25 12:46:59.242 || Network-<Carrier> 遠傳電信
+
+2018-10-25 12:46:59.243 || ANPR_check_enter Request 
+
+  ||     "garage_id" = L00022;
+
+2018-10-25 12:46:59.776 || ANPR_check_enter Success 
+
+2018-10-25 12:47:00.376 || [Gate]_BLEMac<adv>:D4:CA:6E:B6:3F:BB_GI:-87
+
+2018-10-25 12:47:00.376 || [Gate]_BLEMac<p>:D4:CA:6E:B6:3F:BB_GI
+
+2018-10-25 12:47:03.077 || ANPRRetryCount:8
+
+2018-10-25 12:47:03.093 || Network-<Carrier> 遠傳電信
+
+2018-10-25 12:47:03.093 || ANPR_check_enter Request 
+
+  ||     "garage_id" = L00022;
+
+2018-10-25 12:47:03.616 || ANPR_check_enter Success 
+
+2018-10-25 12:47:03.918 || [Gate]_BLEMac<adv>:D4:CA:6E:B6:3F:BB_GI:-73
+
+2018-10-25 12:47:03.918 || [Gate]_BLEMac<p>:D4:CA:6E:B6:3F:BB_GI
+
+2018-10-25 12:47:04.933 || [Gate]_BLEMac<adv>:D4:CA:6E:B6:3F:BB_GI:-68
+
+2018-10-25 12:47:04.933 || [Gate]_BLEMac<p>:D4:CA:6E:B6:3F:BB_GI
+
+2018-10-25 12:47:05.442 || [Gate]_BLEMac<adv>:D4:CA:6E:B6:3F:BB_GI:-68
+
+2018-10-25 12:47:05.443 || [Gate]_BLEMac<p>:D4:CA:6E:B6:3F:BB_GI
+
+2018-10-25 12:47:06.454 || [Gate]_BLEMac<adv>:D4:CA:6E:B6:3F:BB_GI:-75
+
+2018-10-25 12:47:06.455 || [Gate]_BLEMac<p>:D4:CA:6E:B6:3F:BB_GI
+
+2018-10-25 12:47:06.906 || ANPRRetryCount:9
+
+2018-10-25 12:47:06.922 || Network-<Carrier> 遠傳電信
+
+2018-10-25 12:47:06.923 || ANPR_check_enter Request 
+
+  ||     "garage_id" = L00022;
+
+2018-10-25 12:47:07.437 || ANPR_check_enter Success 
+
+2018-10-25 12:47:08.981 || [Gate]_BLEMac<adv>:D4:CA:6E:B6:3F:BB_GI:-88
+
+2018-10-25 12:47:08.982 || [Gate]_BLEMac<p>:D4:CA:6E:B6:3F:BB_GI
+
+2018-10-25 12:47:09.997 || [Gate]_BLEMac<adv>:D4:CA:6E:B6:3F:BB_GI:-87
+
+2018-10-25 12:47:09.997 || [Gate]_BLEMac<p>:D4:CA:6E:B6:3F:BB_GI
+
+2018-10-25 12:47:10.500 || [Gate]_BLEMac<adv>:D4:CA:6E:B6:3F:BB_GI:-79
+
+2018-10-25 12:47:10.500 || [Gate]_BLEMac<p>:D4:CA:6E:B6:3F:BB_GI
+
+2018-10-25 12:47:10.616 || ANPRRetryCount:10
+
+2018-10-25 12:47:10.640 || Network-<Carrier> 遠傳電信
+
+2018-10-25 12:47:10.643 || ANPR_check_enter Request 
+
+  ||     "garage_id" = L00022;
+
+2018-10-25 12:47:11.001 || [Gate]_BLEMac<adv>:D4:CA:6E:B6:3F:BB_GI:-84
+
+2018-10-25 12:47:11.002 || [Gate]_BLEMac<p>:D4:CA:6E:B6:3F:BB_GI
+
+2018-10-25 12:47:11.148 || ANPR_check_enter Success 
+
+2018-10-25 12:47:11.164 || Network-<Carrier> 遠傳電信
+
+2018-10-25 12:47:11.165 || inputAPI = /app.php?page=garage_enter_check_reservechange
+
+2018-10-25 12:47:11.168 || garage_enter_check_reservechange Request 
+
+2018-10-25 12:47:11.185 || Network-<Carrier> 遠傳電信
+
+  ||     "garage_id" = L00022;
+
+2018-10-25 12:47:11.510 || [Gate]_BLEMac<adv>:D4:CA:6E:B6:3F:BB_GI:-80
+
+2018-10-25 12:47:11.512 || [Gate]_BLEMac<p>:D4:CA:6E:B6:3F:BB_GI
+
+2018-10-25 12:47:11.656 || garage_enter_check_reservechange Success 
+
+  ||             "garage_id" = L00022;
+
+  ||                 "garage_id" = L00022;
+
+  ||                 "garage_id" = L00022;
+
+2018-10-25 12:47:11.662 || userManager.isGarageReservation = 0
+
+2018-10-25 12:47:11.662 || userManager.isReservation = 0
+
+2018-10-25 12:47:11.664 || userManager.isGarageReservation = 0
+
+  ||     "garage_id" = L00022;
+
+2018-10-25 12:47:11.681 || Network-<Carrier> 遠傳電信
+
+2018-10-25 12:47:11.683 || parking_space_list Request 
+
+  ||     "garage_id" = L00022;
+
+2018-10-25 12:47:11.701 || Network-<Carrier> 遠傳電信
+
+2018-10-25 12:47:11.702 || inputAPI = /local.php?page=garage_enter_confirm&garage_dbname=L00022
+
+2018-10-25 12:47:11.705 || garage_enter_confirm&garage_dbname=L00022 Request 
+
+  ||     "garage_id" = L00022;
+
+2018-10-25 12:47:11.718 || Network-<Carrier> 遠傳電信
+
+  ||     "garage_id" = L00022;
+
+2018-10-25 12:47:11.786 || voiceString:歡迎光臨
+
+2018-10-25 12:47:11.790 || Utterance:[AVSpeechUtterance 0x283164b40] String: 歡迎光臨
+
+2018-10-25 12:47:12.247 || normal enter popup
+
+2018-10-25 12:47:12.316 || [Gate]_BLEMac<adv>:D4:CA:6E:B6:3F:BB_GI:-76
+
+2018-10-25 12:47:12.317 || [Gate]_BLEMac<p>:D4:CA:6E:B6:3F:BB_GI
+
+2018-10-25 12:47:12.317 || parking_space_list Success 
+
+2018-10-25 12:47:12.626 || garage_enter_confirm&garage_dbname=L00022 Success 
+
+2018-10-25 12:47:12.643 || Network-<Carrier> 遠傳電信
+
+2018-10-25 12:47:12.665 || ANPR_binding Request 
+
+  ||     "garage_id" = L00022;
+
+2018-10-25 12:47:13.027 || [Gate]_BLEMac<adv>:D4:CA:6E:B6:3F:BB_GI:-88
+
+2018-10-25 12:47:13.027 || [Gate]_BLEMac<p>:D4:CA:6E:B6:3F:BB_GI
+
+  ||     "D4:CA:6E:B6:3F:BB_GI"
+
+2018-10-25 12:47:14.019 || Utterance:[AVSpeechUtterance 0x283164b40] String: 歡迎光臨
+
+2018-10-25 12:47:14.035 || [Gate]_BLEMac<adv>:D4:CA:6E:B6:3F:BB_GI:-90
+
+2018-10-25 12:47:14.035 || [Gate]_BLEMac<p>:D4:CA:6E:B6:3F:BB_GI
+
+2018-10-25 12:47:14.537 || [Gate]_BLEMac<adv>:D4:CA:6E:B6:3F:BB_GI:-91
+
+2018-10-25 12:47:14.537 || [Gate]_BLEMac<p>:D4:CA:6E:B6:3F:BB_GI
+
+2018-10-25 12:47:14.554 || ANPR_binding Success 
+
+2018-10-25 12:47:14.704 || [Gate]
+
+2018-10-25 12:47:14.734 || set orderListInfo 
+
+  ||     "garage_id" = L00022;
+
+2018-10-25 12:47:14.735 || userManager.gateGarageInfo 
+
+  ||             "garage_id" = L00022;
+
+  ||             "garage_id" = L00022;
+
+  ||     "garage_id" = L00022;
+
+2018-10-25 12:47:14.821 || voiceString:本場域提供APP自動付款，無須現場繳費。
+
+2018-10-25 12:47:14.822 || Utterance:[AVSpeechUtterance 0x283ead480] String: 本場域提供APP自動付款，無須現場繳費。
+
+2018-10-25 12:47:19.600 || Utterance:[AVSpeechUtterance 0x283ead480] String: 本場域提供APP自動付款，無須現場繳費。
+
+2018-10-25 12:48:37.751 || Network-<Carrier> 遠傳電信
+
+2018-10-25 12:48:37.752 || getBannerList Request 
+
+2018-10-25 12:48:37.787 || Network-<Carrier> 遠傳電信
+
+2018-10-25 12:48:37.788 || get_news Request 
+
+2018-10-25 12:48:38.403 || get_news Success 
+
+2018-10-25 12:48:38.437 || getBannerList Success 
+
+2018-10-25 12:48:41.649 || -[AppDelegate applicationDidEnterBackground:]|[L:125]|
+
+2018-10-25 13:10:06.191 || -[AppDelegate applicationWillEnterForeground:]|[L:156]|
+
+2018-10-25 13:10:06.696 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:10:06.698 || user_fail_trade_check Request 
+
+2018-10-25 13:10:06.730 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:10:06.731 || ANPR_check_exit Request 
+
+2018-10-25 13:10:07.256 || ANPR_check_exit Success 
+
+2018-10-25 13:10:07.285 || user_fail_trade_check Success 
+
+!!!2018-10-25 13:10:07.285 || result: {
+
+!!!2018-10-25 13:10:07.286 || userManager.garageFarePaymentStatus = NoGarageFare 
+
+2018-10-25 13:10:08.001 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:10:08.001 || trade_get_parkingFee Request 
+
+  ||     "garage_id" = L00022;
+
+2018-10-25 13:10:08.012 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:10:08.013 || user_invoice_list Request 
+
+2018-10-25 13:10:08.601 || trade_get_parkingFee Success 
+
+  ||                 "garage_id" = L00022;
+
+2018-10-25 13:10:08.624 || user_invoice_list Success 
+
+2018-10-25 13:10:17.650 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:10:17.651 || getBannerList Request 
+
+2018-10-25 13:10:18.161 || getBannerList Success 
+
+2018-10-25 13:10:18.189 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:10:18.191 || get_news Request 
+
+2018-10-25 13:10:18.802 || get_news Success 
+
+2018-10-25 13:11:36.744 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:11:36.746 || ANPR_check_exit Request 
+
+2018-10-25 13:11:37.205 || [Gate]_BLEMac<adv>:D4:CA:6E:B6:4A:0A_GO:-85
+
+2018-10-25 13:11:37.546 || ANPR_check_exit Success 
+
+2018-10-25 13:11:40.748 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:11:40.749 || ANPR_check_exit Request 
+
+2018-10-25 13:11:41.189 || ANPR_check_exit Success 
+
+2018-10-25 13:11:44.448 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:11:44.449 || ANPR_check_exit Request 
+
+2018-10-25 13:11:44.792 || [Gate]_BLEMac<adv>:D4:CA:6E:B6:4A:0A_GO:-85
+
+2018-10-25 13:11:44.953 || ANPR_check_exit Success 
+
+2018-10-25 13:11:48.200 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:11:48.202 || ANPR_check_exit Request 
+
+2018-10-25 13:11:48.733 || ANPR_check_exit Success 
+
+2018-10-25 13:11:48.762 || Network-<Carrier> 遠傳電信
+
+  ||     "garage_id" = L00022;
+
+2018-10-25 13:11:48.815 || voiceString:謝謝光臨
+
+2018-10-25 13:11:48.819 || Utterance:[AVSpeechUtterance 0x2831e6b80] String: 謝謝光臨
+
+2018-10-25 13:11:50.667 || Utterance:[AVSpeechUtterance 0x2831e6b80] String: 謝謝光臨
+
+2018-10-25 13:11:51.868 || leaveGarageName = 銓營停車-八德立體停車場
+

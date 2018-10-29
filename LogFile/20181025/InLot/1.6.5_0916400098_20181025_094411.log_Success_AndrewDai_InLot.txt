@@ -1,0 +1,366 @@
+使用者：AndrewDai
+裝置： 49.312 || 5
+系統： iOS 12.0.1
+版本： paking versoin:1.6.5(release)
+電信： 中華電信
+預約： 無
+車廠： L00014-便利停車場萬國站 Beacon入場, 無Ｎ導航
+///////////////////////////////////
+
+( 2018-10-24 14:08:11 )	退到App背景
+
+( 2018-10-25 08:20:50 )	 [Gate]BLE OFF
+
+( 2018-10-25 08:20:55 )	 [Gate]BLE ON
+
+( 2018-10-25 08:21:00 )	[VoiceString] 本場域提供APP自動付款，無須現場繳費。
+
+( 2018-10-25 08:25:46 )	退到App背景
+
+( 2018-10-25 09:43:50 )	 [Gate]BLE ON
+
+( 2018-10-25 09:44:09 )	[VoiceString] 抵達車廠出口
+
+///////////////////////////////////
+網路切換時機
+2018-10-25 08:20:49.524 中華電信 (first)
+
+
+--------detail--------
+
+2018-10-25 08:20:49.311 || !!PaKing APP Open!!
+
+2018-10-25 08:20:49.312 || Andrew Dai
+
+2018-10-25 08:20:49.312 || iOS 12.0.1
+
+2018-10-25 08:20:49.312 || 5
+
+2018-10-25 08:20:49.312 || paking versoin:1.6.5(release)
+
+2018-10-25 08:20:49.312 || paking build:20180925112634
+
+2018-10-25 08:20:49.315 || -[AppDelegate checkUpdate]|[L:342]|開始檢查是否更新
+
+2018-10-25 08:20:49.324 || ISO country code is: tw
+
+2018-10-25 08:20:49.511 || userManager.state = UserSTATE_CHECK 
+
+2018-10-25 08:20:49.524 || Network-<Carrier> 中華電信
+
+2018-10-25 08:20:49.531 || check_member Request 
+
+2018-10-25 08:20:49.959 || check_member Success 
+
+2018-10-25 08:20:49.969 || Network-<Carrier> 中華電信
+
+2018-10-25 08:20:49.969 || login_check_lite Request 
+
+2018-10-25 08:20:50.376 || login_check_lite Success 
+
+2018-10-25 08:20:50.387 || set userManager.isReservation = 0
+
+2018-10-25 08:20:50.388 || set userManager.isGarageReservation = 0
+
+2018-10-25 08:20:50.500 || Network-<Carrier> 中華電信
+
+2018-10-25 08:20:50.501 || getBannerList Request 
+
+2018-10-25 08:20:50.537 || Network-<Carrier> 中華電信
+
+2018-10-25 08:20:50.538 || get_news Request 
+
+2018-10-25 08:20:50.582 || [Gate]BLE OFF
+
+2018-10-25 08:20:50.867 || getBannerList Success 
+
+2018-10-25 08:20:50.900 || get_news Success 
+
+2018-10-25 08:20:55.394 || [Gate]BLE ON
+
+2018-10-25 08:20:55.609 || [Gate]_BLEMac<adv>:00:23:A7:CF:1E:58_GI:-90
+
+2018-10-25 08:20:55.609 || [Gate]_BLEMac<p>:00:23:A7:CF:1E:58_GI
+
+2018-10-25 08:20:55.620 || Network-<Carrier> 中華電信
+
+2018-10-25 08:20:55.621 || inputAPI = /app.php?page=checkGarage
+
+2018-10-25 08:20:55.623 || checkGarage Request 
+
+2018-10-25 08:20:55.918 || [Gate]_BLEMac<adv>:00:23:A7:CF:1E:58_GI:-79
+
+2018-10-25 08:20:55.918 || [Gate]_BLEMac<p>:00:23:A7:CF:1E:58_GI
+
+2018-10-25 08:20:56.113 || checkGarage Success 
+
+  ||                 "garage_id" = L00014;
+
+  ||                 "garage_id" = L00014;
+
+  ||         "garage_id" = L00014;
+
+2018-10-25 08:20:56.451 || [Gate]_BLEMac<adv>:00:23:A7:CF:1E:58_GI:-93
+
+2018-10-25 08:20:56.451 || [Gate]_BLEMac<p>:00:23:A7:CF:1E:58_GI
+
+2018-10-25 08:20:56.738 || Network-<Carrier> 中華電信
+
+2018-10-25 08:20:56.739 || user_fail_trade_check Request 
+
+2018-10-25 08:20:56.968 || [Gate]_BLEMac<adv>:00:23:A7:CF:1E:58_GI:-80
+
+2018-10-25 08:20:56.968 || [Gate]_BLEMac<p>:00:23:A7:CF:1E:58_GI
+
+2018-10-25 08:20:56.968 || [Gate]GATE > -85!!!!
+
+2018-10-25 08:20:57.072 || [Gate]_BLEMac<adv>:00:23:A7:CF:1E:58_GI:-82
+
+2018-10-25 08:20:57.072 || [Gate]_BLEMac<p>:00:23:A7:CF:1E:58_GI
+
+2018-10-25 08:20:57.073 || [Gate]GATE > -85!!!!
+
+2018-10-25 08:20:57.078 || [Gate]pName:00:23:A7:CF:1E:58_GI
+
+2018-10-25 08:20:57.141 || user_fail_trade_check Success 
+
+!!!2018-10-25 08:20:57.142 || result: {
+
+!!!2018-10-25 08:20:57.142 || userManager.garageFarePaymentStatus = NoGarageFare 
+
+2018-10-25 08:20:57.178 || [Gate]_BLEMac<adv>:00:23:A7:CF:1E:58_GI:-85
+
+2018-10-25 08:20:57.178 || [Gate]_BLEMac<p>:00:23:A7:CF:1E:58_GI
+
+2018-10-25 08:20:57.179 || [Gate]GATE > -85!!!!
+
+2018-10-25 08:20:57.409 || [Gate]pName:00:23:A7:CF:1E:58_GI
+
+2018-10-25 08:20:57.410 || [Gate]pName:00:23:A7:CF:1E:58_GI
+
+2018-10-25 08:20:57.741 || [Gate]pName:00:23:A7:CF:1E:58_GI
+
+2018-10-25 08:20:57.762 || [Gate]pName:00:23:A7:CF:1E:58_GI
+
+2018-10-25 08:20:57.942 || [Gate]pName:00:23:A7:CF:1E:58_GI
+
+2018-10-25 08:20:58.242 || [Gate]pName:00:23:A7:CF:1E:58_GI
+
+2018-10-25 08:20:58.302 || Network-<Carrier> 中華電信
+
+2018-10-25 08:20:58.303 || inputAPI = /app.php?page=garage_enter_check_reservechange
+
+2018-10-25 08:20:58.305 || garage_enter_check_reservechange Request 
+
+2018-10-25 08:20:58.742 || garage_enter_check_reservechange Success 
+
+2018-10-25 08:20:58.746 || userManager.isGarageReservation = 0
+
+2018-10-25 08:20:58.746 || userManager.isReservation = 0
+
+2018-10-25 08:20:58.749 || userManager.isGarageReservation = 0
+
+  ||     "garage_id" = L00014;
+
+2018-10-25 08:20:58.764 || Network-<Carrier> 中華電信
+
+2018-10-25 08:20:58.765 || parking_space_list Request 
+
+  ||     "garage_id" = L00014;
+
+2018-10-25 08:20:58.792 || 不須拿票卡
+
+2018-10-25 08:20:58.793 || 不須拿票卡
+
+2018-10-25 08:20:58.901 || normal enter popup
+
+2018-10-25 08:20:59.128 || parking_space_list Success 
+
+2018-10-25 08:20:59.597 || Network-<Carrier> 中華電信
+
+2018-10-25 08:20:59.598 || get_vendor Request 
+
+2018-10-25 08:20:59.599 || [Gate]Open InOutGate 
+
+2018-10-25 08:20:59.631 || Network-<Carrier> 中華電信
+
+2018-10-25 08:20:59.631 || inputAPI = /local.php?page=garage_enter_confirm&garage_dbname=L00014
+
+2018-10-25 08:20:59.632 || garage_enter_confirm&garage_dbname=L00014 Request 
+
+  ||     "garage_id" = L00014;
+
+2018-10-25 08:20:59.974 || get_vendor Success 
+
+2018-10-25 08:21:00.107 || garage_enter_confirm&garage_dbname=L00014 Success 
+
+  ||         "garage_id" = L00014;
+
+2018-10-25 08:21:00.342 || [Gate]pName:00:23:A7:CF:1E:58_GI
+
+2018-10-25 08:21:00.343 || [Gate]Gate Open Success
+
+2018-10-25 08:21:00.343 || [Gate]
+
+2018-10-25 08:21:00.359 || set orderListInfo 
+
+  ||     "garage_id" = L00014;
+
+2018-10-25 08:21:00.361 || userManager.gateGarageInfo 
+
+  ||             "garage_id" = L00014;
+
+  ||             "garage_id" = L00014;
+
+  ||     "garage_id" = L00014;
+
+2018-10-25 08:21:00.416 || voiceString:本場域提供APP自動付款，無須現場繳費。
+
+2018-10-25 08:21:00.417 || Utterance:[AVSpeechUtterance 0x2806cf0c0] String: 本場域提供APP自動付款，無須現場繳費。
+
+2018-10-25 08:21:02.267 || [Gate]pName:00:23:A7:CF:1E:58_GI
+
+2018-10-25 08:21:04.889 || Utterance:[AVSpeechUtterance 0x2806cf0c0] String: 本場域提供APP自動付款，無須現場繳費。
+
+2018-10-25 08:23:53.580 || Network-<Carrier> 中華電信
+
+2018-10-25 08:23:53.580 || user_fail_trade_check Request 
+
+2018-10-25 08:23:53.587 || Network-<Carrier> 中華電信
+
+2018-10-25 08:23:53.588 || ANPR_check_exit Request 
+
+2018-10-25 08:23:54.035 || user_fail_trade_check Success 
+
+!!!2018-10-25 08:23:54.035 || result: {
+
+!!!2018-10-25 08:23:54.035 || userManager.garageFarePaymentStatus = NoGarageFare 
+
+2018-10-25 08:23:54.066 || ANPR_check_exit Success 
+
+2018-10-25 08:24:08.009 || Network-<Carrier> 中華電信
+
+2018-10-25 08:24:08.010 || user_fail_trade_check Request 
+
+2018-10-25 08:24:08.019 || Network-<Carrier> 中華電信
+
+2018-10-25 08:24:08.020 || ANPR_check_exit Request 
+
+2018-10-25 08:24:08.415 || user_fail_trade_check Success 
+
+!!!2018-10-25 08:24:08.415 || result: {
+
+!!!2018-10-25 08:24:08.415 || userManager.garageFarePaymentStatus = NoGarageFare 
+
+2018-10-25 08:24:08.458 || ANPR_check_exit Success 
+
+2018-10-25 08:25:17.805 || Network-<Carrier> 中華電信
+
+2018-10-25 08:25:17.806 || getBannerList Request 
+
+2018-10-25 08:25:17.832 || Network-<Carrier> 中華電信
+
+2018-10-25 08:25:17.833 || get_news Request 
+
+2018-10-25 08:25:18.624 || get_news Success 
+
+2018-10-25 08:25:18.720 || getBannerList Success 
+
+2018-10-25 08:25:46.708 || -[AppDelegate applicationDidEnterBackground:]|[L:125]|
+
+2018-10-25 09:43:49.550 || -[AppDelegate checkUpdate]|[L:338]|場外不執行更新
+
+2018-10-25 09:43:49.705 || Network-<Carrier> 中華電信
+
+2018-10-25 09:43:49.712 || check_member Request 
+
+2018-10-25 09:43:50.125 || check_member Success 
+
+2018-10-25 09:43:50.140 || Network-<Carrier> 中華電信
+
+2018-10-25 09:43:50.141 || login_check_lite Request 
+
+2018-10-25 09:43:50.608 || login_check_lite Success 
+
+  ||                     "garage_id" = L00014;
+
+  ||                     "garage_id" = L00014;
+
+  ||             "garage_id" = L00014;
+
+  ||             "garage_id" = L00014;
+
+2018-10-25 09:43:50.615 || userManager.isGarageReservation = 0
+
+2018-10-25 09:43:50.615 || userManager.isReservation = 0
+
+  ||     "garage_id" = L00014;
+
+2018-10-25 09:43:50.616 || userManager.isGarageReservation = 0
+
+  ||     "garage_id" = L00014;
+
+2018-10-25 09:43:50.619 || set userManager.isReservation = 0
+
+2018-10-25 09:43:50.619 || set userManager.isGarageReservation = 0
+
+2018-10-25 09:43:50.633 || Network-<Carrier> 中華電信
+
+2018-10-25 09:43:50.635 || ANPR_check_exit Request 
+
+2018-10-25 09:43:50.736 || Network-<Carrier> 中華電信
+
+2018-10-25 09:43:50.737 || getBannerList Request 
+
+2018-10-25 09:43:50.774 || Network-<Carrier> 中華電信
+
+2018-10-25 09:43:50.774 || get_news Request 
+
+2018-10-25 09:43:50.815 || [Gate]BLE ON
+
+2018-10-25 09:43:51.007 || ANPR_check_exit Success 
+
+2018-10-25 09:43:51.124 || getBannerList Success 
+
+2018-10-25 09:43:51.153 || get_news Success 
+
+2018-10-25 09:44:06.557 || Network-<Carrier> 中華電信
+
+2018-10-25 09:44:06.558 || inputAPI = /app.php?page=checkGarage
+
+2018-10-25 09:44:06.564 || checkGarage Request 
+
+2018-10-25 09:44:06.989 || checkGarage Success 
+
+  ||                 "garage_id" = L00014;
+
+  ||                 "garage_id" = L00014;
+
+  ||         "garage_id" = L00014;
+
+2018-10-25 09:44:07.482 || [Gate]GATE > -85!!!!
+
+2018-10-25 09:44:08.114 || [Gate]GATE > -85!!!!
+
+2018-10-25 09:44:08.217 || [Gate]GATE > -85!!!!
+
+2018-10-25 09:44:09.358 || voiceString:抵達車廠出口
+
+2018-10-25 09:44:09.359 || Utterance:[AVSpeechUtterance 0x2821d8540] String: 抵達車廠出口
+
+2018-10-25 09:44:10.913 || Network-<Carrier> 中華電信
+
+2018-10-25 09:44:10.915 || get_vendor Request 
+
+2018-10-25 09:44:10.916 || [Gate]Open InOutGate 
+
+2018-10-25 09:44:11.173 || [Gate]Gate Open Success
+
+2018-10-25 09:44:11.182 || Network-<Carrier> 中華電信
+
+2018-10-25 09:44:11.182 || garage_leave_pay&garage_dbname=L00014 Request 
+
+2018-10-25 09:44:11.183 || leaveGarageName = 便利停車場萬國站
+
+2018-10-24 14:08:11.857 || -[AppDelegate applicationDidEnterBackground:]|[L:125]|
+

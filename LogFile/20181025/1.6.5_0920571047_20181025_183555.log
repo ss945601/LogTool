@@ -1,0 +1,1412 @@
+2018-10-25 16:50:02.824 paking[9089:2715167] |,-[LogManager defaultLog]|,[L:97]|,<m>!!PaKing APP Open!!<m>
+2018-10-25 16:50:02.825 paking[9089:2715167] |,-[LogManager defaultLog]|,[L:100]|,<m>Honeypot<m>
+2018-10-25 16:50:02.825 paking[9089:2715167] |,-[LogManager defaultLog]|,[L:101]|,<m>iOS 12.0.1<m>
+2018-10-25 16:50:02.825 paking[9089:2715167] |,-[LogManager defaultLog]|,[L:108]|,<m>Device:iPhone10,4<m>
+2018-10-25 16:50:02.825 paking[9089:2715167] |,-[LogManager defaultLog]|,[L:120]|,<m>paking versoin:1.6.5(release)<m>
+2018-10-25 16:50:02.825 paking[9089:2715167] |,-[LogManager defaultLog]|,[L:121]|,<m>paking build:20180925112634<m>
+2018-10-25 16:50:02.827 paking[9089:2715167] |,-[AppDelegate checkUpdate]|,[L:342]|,<m>開始檢查是否更新<m>
+2018-10-25 16:50:02.835 paking[9089:2715167] |,-[PKAppUpdater checkNewAppVersion:]|,[L:93]|,<m>ISO country code is: tw<m>
+2018-10-25 16:50:02.844 paking[9089:2715167] |,-[VoiceManager initAudioSetting]|,[L:54]|,<m>Error Domain=NSOSStatusErrorDomain Code=561017449 "(null)"<m>
+2018-10-25 16:50:02.891 paking[9089:2715167] |,-[LoginManager checkMemberExist]|,[L:69]|,<m>userManager.state = UserSTATE_CHECK <m>
+2018-10-25 16:50:02.902 paking[9089:2715167] |,+[BaseServerComm checkDomainByConnectionType:garageID:apiName:]|,[L:488]|,<m>Network-<Carrier> 中華電信<m>
+2018-10-25 16:50:02.907 paking[9089:2715167] |,+[BaseServerComm postDomainWithUrLenCoded:apiName:parameters:returnManager:progress:completion:finally:]|,[L:56]|,<m>[API] /app.php?page=check_member Request : {
+    mobile = 0920571047;
+}<m>
+2018-10-25 16:50:02.928 paking[9089:2715167] |,-[PKAppUpdater checkAppStoreLinkInHTTP:]|,[L:128]|,<m>appStoreUrl = http://itunes.apple.com/tw/lookup?bundleId=tw.paking.ParkingCloud<m>
+2018-10-25 16:50:03.150 paking[9089:2715167] |,-[PKAppUpdater checkAppStoreLinkInHTTP:]|,[L:135]|,<m>lookup = {
+    resultCount = 1;
+    results =     (
+                {
+            advisories =             (
+            );
+            appletvScreenshotUrls =             (
+            );
+            artistId = 1180481055;
+            artistName = "PaKing Technology, Ltd.";
+            artistViewUrl = "https://itunes.apple.com/tw/developer/paking-technology-ltd/id1180481055?uo=4";
+            artworkUrl100 = "https://is2-ssl.mzstatic.com/image/thumb/Purple118/v4/2e/67/dc/2e67dc56-f993-c94f-44ff-e7d0ab70bbb5/source/100x100bb.jpg";
+            artworkUrl512 = "https://is2-ssl.mzstatic.com/image/thumb/Purple118/v4/2e/67/dc/2e67dc56-f993-c94f-44ff-e7d0ab70bbb5/source/512x512bb.jpg";
+            artworkUrl60 = "https://is2-ssl.mzstatic.com/image/thumb/Purple118/v4/2e/67/dc/2e67dc56-f993-c94f-44ff-e7d0ab70bbb5/source/60x60bb.jpg";
+            averageUserRating = "4.5";
+            averageUserRatingForCurrentVersion = 2;
+            bundleId = "tw.paking.ParkingCloud";
+            contentAdvisoryRating = "4+";
+            currency = TWD;
+            currentVersionReleaseDate = "2018-09-26T11:05:45Z";
+            description = "\U300c\U5728\U5e02\U5340\U71b1\U9580\U6642\U6bb5, \U7e3d\U662f\U82b1\U5f88\U591a\U6642\U9593\U5728\U627e\U505c\U8eca\U5834, \U8ddf\U5225\U4eba\U6436\U505c\U8eca\U4f4d\U55ce?\U300d\n\n\U73fe\U5728\U6cca\U738bApp\U90fd\U77e5\U9053\U4e86!\U55ae\U9375\U641e\U5b9a\U9810\U7d04, \U5c08\U5c6c\U8eca\U4f4d\U4e56\U4e56\U7b49\U60a8\U5230\U4f86!\n\n\U6211\U5011\U5728\U5927\U53f0\U5317\U71b1\U9580\U5546\U696d\U5340\U9678\U7e8c\U589e\U52a0\U6cca\U738b\U7279\U7d04\U505c\U8eca\U5834\Uff0c\U76ee\U524d\U5df2\U4e0a\U7dda\U6709\U53f0\U5317\U5e02\U5927\U5b89\U5340\U3001 \U4fe1\U7fa9\U5340\U3001\U5167\U6e56\U5340\U3001\U65b0\U5317\U5e02\U65b0\U838a\U5340\U8207\U9ad8\U96c4\U5e02\Uff0c\U505c\U8eca\U9810\U7d04\U652f\U63f4\U5ba4\U5167\U505c\U8eca\U5834\U3001\U7acb\U9ad4\U505c\U8eca\U5834\U8207\U6236\U5916\U505c\U8eca\U5834\U3002\n\n\U5373\U65e5\U8d77 , \U6703\U54e1\U53ea\U8981\U9810\U7d04\U900f\U904e\U6cca\U738bApp\U9810\U7d04\U8eca\U4f4d\Uff0c\U6240\U6709\U300c\U9810\U7d04\U8cbb\U300d\U6211\U5011\U90fd\U5e6b\U4f60\U8cb7\U55ae\Uff0c\U6307\U5b9a\U7279\U7d04\U505c\U8eca\U5834\U9084\U4eab\U6bcf\U5929\U514d\U8cbb\U4e00\U5c0f\U6642\U505c\U8eca(\U8a73\U60c5\U8acb\U6d3d\U5b98\U7db2 http://www.pakingtek.com/  \U8207App\U5167\U63d0\U793a ) \Uff0c\U5feb\U4f86\U4eab\U53d7VIP\U7b49\U7d1a\U7684\U667a\U6167\U505c\U8eca\U670d\U52d9~\n\n\U6cca\U738b App\U63d0\U4f9b\U9818\U5148\U696d\U754c\U7684\U667a\U6167\U505c\U8eca\U9ad4\U9a57:\n\n\U3010\U627e\U5c0b\U505c\U8eca\U5834\U3011: \U6536\U7d0d\U5168\U53f03000\U591a\U5ea7\U5e02\U5340\U505c\U8eca\U5834, \U5341\U4e00\U5927\U505c\U8eca\U5834\U54c1\U724c, \U4e26\U53ef\U81ea\U8a02\U50f9\U683c\U8207\U8ddd\U96e2\U9032\U884c\U986f\U793a\U8207\U641c\U5c0b\n\U3010\U5e02\U5340\U71b1\U9580\U5730\U6bb5\U6cca\U738b\U7279\U7d04\U505c\U8eca\U5834\U55ae\U9375\U9810\U7d04\U3011: \U8b93\U60a8\U91cd\U8981\U7d04\U6703\U5834\U5408\U4e0d\U9072\U5230\n\U3010\U6703\U54e1 App \U5165\U5834\U3011: \U6cca\U738b App \U5c31\U662f\U60a8\U7684\U5c08\U5c6c\U505c\U8eca\U8b49\Uff0c\U9032\U51fa\U6cca\U738b\U7279\U7d04\U505c\U8eca\U5834\n\U3010\U505c\U8eca\U5834\U5167\U5c0e\U822a\U3011: \U5e36\U60a8\U8fc5\U901f\U62b5\U9054\U5c0a\U69ae\U9810\U7d04\U8eca\U4f4d\n\U3010\U667a\U6167\U53cd\U5411\U5c0b\U8eca\U3011: \U505c\U5b8c\U8eca\U8acb\U78ba\U8a8d\Uff0c\U611b\U8eca\U505c\U54ea\U4e0d\U5fd8\U8a18\n\U3010\U505c\U8eca\U5834\U8cbb\U7528\U7dda\U4e0a\U652f\U4ed8\U3011: \U4eab\U53d7\U514d\U4e0b\U8eca\U3001\U514d\U6416\U7a97\U3001\U514d\U6392\U968a\U7684\U7e73\U8cbb\U4fbf\U5229\U6027, \U9084\U6709\U6a5f\U6703\U8cfa\U4fe1\U7528\U5361\U512a\U60e0";
+            features =             (
+            );
+            fileSizeBytes = 42582016;
+            formattedPrice = "\U514d\U8cbb";
+            genreIds =             (
+                6010,
+                6012
+            );
+            genres =             (
+                "\U5c0e\U822a",
+                "\U751f\U6d3b\U98a8\U683c"
+            );
+            ipadScreenshotUrls =             (
+            );
+            isGameCenterEnabled = 0;
+            isVppDeviceBasedLicensingEnabled = 1;
+            kind = software;
+            languageCodesISO2A =             (
+                EN,
+                ZH,
+                TH,
+                ZH
+            );
+            minimumOsVersion = "10.0";
+            price = 0;
+            primaryGenreId = 6010;
+            primaryGenreName = Navigation;
+            releaseDate = "2017-10-25T17:39:19Z";
+            releaseNotes = "- \U512a\U5316\U4ecb\U9762";
+            screenshotUrls =             (
+                "https://is2-ssl.mzstatic.com/image/thumb/Purple115/v4/52/db/4a/52db4a85-9b1b-c403-7798-cea4d080c4e3/source/392x696bb.jpg",
+                "https://is3-ssl.mzstatic.com/image/thumb/Purple115/v4/b2/9e/46/b29e469d-0114-f3f3-59a5-6fecbf85ccaf/source/392x696bb.jpg",
+                "https://is3-ssl.mzstatic.com/image/thumb/Purple125/v4/66/81/7d/66817d5d-547f-8ae6-2e01-f742e166bd4f/source/392x696bb.jpg",
+                "https://is4-ssl.mzstatic.com/image/thumb/Purple115/v4/a9/84/cb/a984cbd5-9e5f-8424-f45b-fe8e41e8e600/source/392x696bb.jpg",
+                "https://is3-ssl.mzstatic.com/image/thumb/Purple115/v4/cd/66/68/cd666833-d7e1-e05f-0ab9-d8e60ad10eb2/source/392x696bb.jpg"
+            );
+            sellerName = "PaKing Technology, Ltd.";
+            supportedDevices =             (
+                "iPhone5-iPhone5",
+                "iPadFourthGen-iPadFourthGen",
+                "iPadFourthGen4G-iPadFourthGen4G",
+                "iPhone5c-iPhone5c",
+                "iPhone5s-iPhone5s",
+                "iPadAir-iPadAir",
+                "iPadAirCellular-iPadAirCellular",
+                "iPadMiniRetina-iPadMiniRetina",
+                "iPadMiniRetinaCellular-iPadMiniRetinaCellular",
+                "iPhone6-iPhone6",
+                "iPhone6Plus-iPhone6Plus",
+                "iPadAir2-iPadAir2",
+                "iPadAir2Cellular-iPadAir2Cellular",
+                "iPadMini3-iPadMini3",
+                "iPadMini3Cellular-iPadMini3Cellular",
+                "iPodTouchSixthGen-iPodTouchSixthGen",
+                "iPhone6s-iPhone6s",
+                "iPhone6sPlus-iPhone6sPlus",
+                "iPadMini4-iPadMini4",
+                "iPadMini4Cellular-iPadMini4Cellular",
+                "iPadPro-iPadPro",
+                "iPadProCellular-iPadProCellular",
+                "iPadPro97-iPadPro97",
+                "iPadPro97Cellular-iPadPro97Cellular",
+                "iPhoneSE-iPhoneSE",
+                "iPhone7-iPhone7",
+                "iPhone7Plus-iPhone7Plus",
+                "iPad611-iPad611",
+                "iPad612-iPad612",
+                "iPad71-iPad71",
+                "iPad72-iPad72",
+                "iPad73-iPad73",
+                "iPad74-iPad74",
+                "iPhone8-iPhone8",
+                "iPhone8Plus-iPhone8Plus",
+                "iPhoneX-iPhoneX",
+                "iPad75-iPad75",
+                "iPad76-iPad76",
+                "iPhoneXS-iPhoneXS",
+                "iPhoneXSMax-iPhoneXSMax",
+                "iPhoneXR-iPhoneXR"
+            );
+            trackCensoredName = "\U6cca\U738b";
+            trackContentRating = "4+";
+            trackId = 1180481056;
+            trackName = "\U6cca\U738b";
+            trackViewUrl = "https://itunes.apple.com/tw/app/%E6%B3%8A%E7%8E%8B/id1180481056?mt=8&uo=4";
+            userRatingCount = 34;
+            userRatingCountForCurrentVersion = 1;
+            version = "1.6.5";
+            wrapperType = software;
+        }
+    );
+}<m>
+2018-10-25 16:50:03.151 paking[9089:2715167] |,-[PKAppUpdater checkAppStoreLinkInHTTP:]|,[L:128]|,<m>appStoreUrl = https://itunes.apple.com/tw/lookup?bundleId=tw.paking.ParkingCloud<m>
+2018-10-25 16:50:03.593 paking[9089:2715167] |,-[PKAppUpdater checkAppStoreLinkInHTTP:]|,[L:135]|,<m>lookup = {
+    resultCount = 1;
+    results =     (
+                {
+            advisories =             (
+            );
+            appletvScreenshotUrls =             (
+            );
+            artistId = 1180481055;
+            artistName = "PaKing Technology, Ltd.";
+            artistViewUrl = "https://itunes.apple.com/tw/developer/paking-technology-ltd/id1180481055?uo=4";
+            artworkUrl100 = "https://is2-ssl.mzstatic.com/image/thumb/Purple118/v4/2e/67/dc/2e67dc56-f993-c94f-44ff-e7d0ab70bbb5/source/100x100bb.jpg";
+            artworkUrl512 = "https://is2-ssl.mzstatic.com/image/thumb/Purple118/v4/2e/67/dc/2e67dc56-f993-c94f-44ff-e7d0ab70bbb5/source/512x512bb.jpg";
+            artworkUrl60 = "https://is2-ssl.mzstatic.com/image/thumb/Purple118/v4/2e/67/dc/2e67dc56-f993-c94f-44ff-e7d0ab70bbb5/source/60x60bb.jpg";
+            averageUserRating = "4.5";
+            averageUserRatingForCurrentVersion = 2;
+            bundleId = "tw.paking.ParkingCloud";
+            contentAdvisoryRating = "4+";
+            currency = TWD;
+            currentVersionReleaseDate = "2018-09-26T11:05:45Z";
+            description = "\U300c\U5728\U5e02\U5340\U71b1\U9580\U6642\U6bb5, \U7e3d\U662f\U82b1\U5f88\U591a\U6642\U9593\U5728\U627e\U505c\U8eca\U5834, \U8ddf\U5225\U4eba\U6436\U505c\U8eca\U4f4d\U55ce?\U300d\n\n\U73fe\U5728\U6cca\U738bApp\U90fd\U77e5\U9053\U4e86!\U55ae\U9375\U641e\U5b9a\U9810\U7d04, \U5c08\U5c6c\U8eca\U4f4d\U4e56\U4e56\U7b49\U60a8\U5230\U4f86!\n\n\U6211\U5011\U5728\U5927\U53f0\U5317\U71b1\U9580\U5546\U696d\U5340\U9678\U7e8c\U589e\U52a0\U6cca\U738b\U7279\U7d04\U505c\U8eca\U5834\Uff0c\U76ee\U524d\U5df2\U4e0a\U7dda\U6709\U53f0\U5317\U5e02\U5927\U5b89\U5340\U3001 \U4fe1\U7fa9\U5340\U3001\U5167\U6e56\U5340\U3001\U65b0\U5317\U5e02\U65b0\U838a\U5340\U8207\U9ad8\U96c4\U5e02\Uff0c\U505c\U8eca\U9810\U7d04\U652f\U63f4\U5ba4\U5167\U505c\U8eca\U5834\U3001\U7acb\U9ad4\U505c\U8eca\U5834\U8207\U6236\U5916\U505c\U8eca\U5834\U3002\n\n\U5373\U65e5\U8d77 , \U6703\U54e1\U53ea\U8981\U9810\U7d04\U900f\U904e\U6cca\U738bApp\U9810\U7d04\U8eca\U4f4d\Uff0c\U6240\U6709\U300c\U9810\U7d04\U8cbb\U300d\U6211\U5011\U90fd\U5e6b\U4f60\U8cb7\U55ae\Uff0c\U6307\U5b9a\U7279\U7d04\U505c\U8eca\U5834\U9084\U4eab\U6bcf\U5929\U514d\U8cbb\U4e00\U5c0f\U6642\U505c\U8eca(\U8a73\U60c5\U8acb\U6d3d\U5b98\U7db2 http://www.pakingtek.com/  \U8207App\U5167\U63d0\U793a ) \Uff0c\U5feb\U4f86\U4eab\U53d7VIP\U7b49\U7d1a\U7684\U667a\U6167\U505c\U8eca\U670d\U52d9~\n\n\U6cca\U738b App\U63d0\U4f9b\U9818\U5148\U696d\U754c\U7684\U667a\U6167\U505c\U8eca\U9ad4\U9a57:\n\n\U3010\U627e\U5c0b\U505c\U8eca\U5834\U3011: \U6536\U7d0d\U5168\U53f03000\U591a\U5ea7\U5e02\U5340\U505c\U8eca\U5834, \U5341\U4e00\U5927\U505c\U8eca\U5834\U54c1\U724c, \U4e26\U53ef\U81ea\U8a02\U50f9\U683c\U8207\U8ddd\U96e2\U9032\U884c\U986f\U793a\U8207\U641c\U5c0b\n\U3010\U5e02\U5340\U71b1\U9580\U5730\U6bb5\U6cca\U738b\U7279\U7d04\U505c\U8eca\U5834\U55ae\U9375\U9810\U7d04\U3011: \U8b93\U60a8\U91cd\U8981\U7d04\U6703\U5834\U5408\U4e0d\U9072\U5230\n\U3010\U6703\U54e1 App \U5165\U5834\U3011: \U6cca\U738b App \U5c31\U662f\U60a8\U7684\U5c08\U5c6c\U505c\U8eca\U8b49\Uff0c\U9032\U51fa\U6cca\U738b\U7279\U7d04\U505c\U8eca\U5834\n\U3010\U505c\U8eca\U5834\U5167\U5c0e\U822a\U3011: \U5e36\U60a8\U8fc5\U901f\U62b5\U9054\U5c0a\U69ae\U9810\U7d04\U8eca\U4f4d\n\U3010\U667a\U6167\U53cd\U5411\U5c0b\U8eca\U3011: \U505c\U5b8c\U8eca\U8acb\U78ba\U8a8d\Uff0c\U611b\U8eca\U505c\U54ea\U4e0d\U5fd8\U8a18\n\U3010\U505c\U8eca\U5834\U8cbb\U7528\U7dda\U4e0a\U652f\U4ed8\U3011: \U4eab\U53d7\U514d\U4e0b\U8eca\U3001\U514d\U6416\U7a97\U3001\U514d\U6392\U968a\U7684\U7e73\U8cbb\U4fbf\U5229\U6027, \U9084\U6709\U6a5f\U6703\U8cfa\U4fe1\U7528\U5361\U512a\U60e0";
+            features =             (
+            );
+            fileSizeBytes = 42582016;
+            formattedPrice = "\U514d\U8cbb";
+            genreIds =             (
+                6010,
+                6012
+            );
+            genres =             (
+                "\U5c0e\U822a",
+                "\U751f\U6d3b\U98a8\U683c"
+            );
+            ipadScreenshotUrls =             (
+            );
+            isGameCenterEnabled = 0;
+            isVppDeviceBasedLicensingEnabled = 1;
+            kind = software;
+            languageCodesISO2A =             (
+                EN,
+                ZH,
+                TH,
+                ZH
+            );
+            minimumOsVersion = "10.0";
+            price = 0;
+            primaryGenreId = 6010;
+            primaryGenreName = Navigation;
+            releaseDate = "2017-10-25T17:39:19Z";
+            releaseNotes = "- \U512a\U5316\U4ecb\U9762";
+            screenshotUrls =             (
+                "https://is2-ssl.mzstatic.com/image/thumb/Purple115/v4/52/db/4a/52db4a85-9b1b-c403-7798-cea4d080c4e3/source/392x696bb.jpg",
+                "https://is3-ssl.mzstatic.com/image/thumb/Purple115/v4/b2/9e/46/b29e469d-0114-f3f3-59a5-6fecbf85ccaf/source/392x696bb.jpg",
+                "https://is3-ssl.mzstatic.com/image/thumb/Purple125/v4/66/81/7d/66817d5d-547f-8ae6-2e01-f742e166bd4f/source/392x696bb.jpg",
+                "https://is4-ssl.mzstatic.com/image/thumb/Purple115/v4/a9/84/cb/a984cbd5-9e5f-8424-f45b-fe8e41e8e600/source/392x696bb.jpg",
+                "https://is3-ssl.mzstatic.com/image/thumb/Purple115/v4/cd/66/68/cd666833-d7e1-e05f-0ab9-d8e60ad10eb2/source/392x696bb.jpg"
+            );
+            sellerName = "PaKing Technology, Ltd.";
+            supportedDevices =             (
+                "iPhone5-iPhone5",
+                "iPadFourthGen-iPadFourthGen",
+                "iPadFourthGen4G-iPadFourthGen4G",
+                "iPhone5c-iPhone5c",
+                "iPhone5s-iPhone5s",
+                "iPadAir-iPadAir",
+                "iPadAirCellular-iPadAirCellular",
+                "iPadMiniRetina-iPadMiniRetina",
+                "iPadMiniRetinaCellular-iPadMiniRetinaCellular",
+                "iPhone6-iPhone6",
+                "iPhone6Plus-iPhone6Plus",
+                "iPadAir2-iPadAir2",
+                "iPadAir2Cellular-iPadAir2Cellular",
+                "iPadMini3-iPadMini3",
+                "iPadMini3Cellular-iPadMini3Cellular",
+                "iPodTouchSixthGen-iPodTouchSixthGen",
+                "iPhone6s-iPhone6s",
+                "iPhone6sPlus-iPhone6sPlus",
+                "iPadMini4-iPadMini4",
+                "iPadMini4Cellular-iPadMini4Cellular",
+                "iPadPro-iPadPro",
+                "iPadProCellular-iPadProCellular",
+                "iPadPro97-iPadPro97",
+                "iPadPro97Cellular-iPadPro97Cellular",
+                "iPhoneSE-iPhoneSE",
+                "iPhone7-iPhone7",
+                "iPhone7Plus-iPhone7Plus",
+                "iPad611-iPad611",
+                "iPad612-iPad612",
+                "iPad71-iPad71",
+                "iPad72-iPad72",
+                "iPad73-iPad73",
+                "iPad74-iPad74",
+                "iPhone8-iPhone8",
+                "iPhone8Plus-iPhone8Plus",
+                "iPhoneX-iPhoneX",
+                "iPad75-iPad75",
+                "iPad76-iPad76",
+                "iPhoneXS-iPhoneXS",
+                "iPhoneXSMax-iPhoneXSMax",
+                "iPhoneXR-iPhoneXR"
+            );
+            trackCensoredName = "\U6cca\U738b";
+            trackContentRating = "4+";
+            trackId = 1180481056;
+            trackName = "\U6cca\U738b";
+            trackViewUrl = "https://itunes.apple.com/tw/app/%E6%B3%8A%E7%8E%8B/id1180481056?mt=8&uo=4";
+            userRatingCount = 34;
+            userRatingCountForCurrentVersion = 1;
+            version = "1.6.5";
+            wrapperType = software;
+        }
+    );
+}<m>
+2018-10-25 16:50:03.599 paking[9089:2715167] |,+[BaseServerComm postDomainWithUrLenCoded:apiName:parameters:returnManager:progress:completion:finally:]_block_invoke|,[L:69]|,<m>[API] /app.php?page=check_member Success <m>
+2018-10-25 16:50:03.599 paking[9089:2715167] |,-[LoginManager checkMemberExist]_block_invoke|,[L:79]|,<m>result:{
+    message = "\U8655\U7406\U6210\U529f";
+    response = 1;
+    status = success;
+}<m>
+2018-10-25 16:50:03.599 paking[9089:2715167] |,-[LoginManager checkMemberExist]_block_invoke|,[L:83]|,<m>member is exist<m>
+2018-10-25 16:50:03.599 paking[9089:2715167] |,-[LoginManager callAPILoginCheck]|,[L:114]|,<m>userToken is member<m>
+2018-10-25 16:50:03.601 paking[9089:2715167] |,-[MemberManager loginCheckCompletion:]|,[L:43]|,<m>venderID = C64307EF-0973-4600-BC56-7A3EAC564C52<m>
+2018-10-25 16:50:03.609 paking[9089:2715167] |,+[BaseServerComm checkDomainByConnectionType:garageID:apiName:]|,[L:488]|,<m>Network-<Carrier> 中華電信<m>
+2018-10-25 16:50:03.610 paking[9089:2715167] |,+[BaseServerComm postDomainWithUrLenCoded:apiName:parameters:returnManager:progress:completion:finally:]|,[L:56]|,<m>[API] /app.php?page=login_check_lite Request : {
+    "access_token" = 9972dbd42e4def9b109c3b4c8ea335f4;
+    identifierForVendor = "C64307EF-0973-4600-BC56-7A3EAC564C52";
+}<m>
+2018-10-25 16:50:03.618 paking[9089:2715167] |,-[AppDelegate applicationDidBecomeActive:]|,[L:193]|,<m><m>
+2018-10-25 16:50:03.632 paking[9089:2715167] |,-[AppDelegate application:didRegisterForRemoteNotificationsWithDeviceToken:]|,[L:243]|,<m>deviceToken: <82d268a9 b926f0e9 5464ad4b 15420098 b8f3f9fc 78c6254f f1b1d0fe a995732e><m>
+2018-10-25 16:50:03.632 paking[9089:2715167] |,-[AppDelegate application:didRegisterForRemoteNotificationsWithDeviceToken:]|,[L:244]|,<m>deviceToken: 82d268a9b926f0e95464ad4b15420098b8f3f9fc78c6254ff1b1d0fea995732e<m>
+2018-10-25 16:50:03.632 paking[9089:2715167] |,-[AppDelegate applicationWillResignActive:]|,[L:133]|,<m><m>
+2018-10-25 16:50:04.198 paking[9089:2715167] |,+[BaseServerComm postDomainWithUrLenCoded:apiName:parameters:returnManager:progress:completion:finally:]_block_invoke|,[L:69]|,<m>[API] /app.php?page=login_check_lite Success <m>
+2018-10-25 16:50:04.198 paking[9089:2715167] |,-[LoginManager callAPILoginCheck]_block_invoke|,[L:129]|,<m>result: {
+    message = "\U8655\U7406\U6210\U529f";
+    response =     {
+        "member_car" =         (
+                        {
+                "car_default" = 1;
+                "car_label" = Nissan;
+                "car_model" = Teana;
+                "car_plate" = "0255-DB";
+                "car_size" = 1;
+                isHandicap = 0;
+            }
+        );
+        "member_data" =         {
+            "access_token" = dd1164b734091915b7a388748538b176;
+            birthday = "1980-01-08";
+            city = "\U81fa\U5317\U5e02";
+            "e_mail" = "shinroex@gmail.com";
+            gender = M;
+            isCloudPay = Y;
+            "map_range" = 500;
+            mobile = 0920571047;
+            nickname = "\U6731\U80b2\U6c11";
+            "oauth_list" =             (
+                facebook
+            );
+            "parking_rate" = Unlimited;
+            "security_passwd" = "<null>";
+            "text_model" = Y;
+            "user_photo" = 0;
+            "voice_model" = Y;
+        };
+        needUpdateConfig = 0;
+    };
+    status = success;
+}<m>
+2018-10-25 16:50:04.206 paking[9089:2715167] |,-[OrderManager clearReserveSettingWithIsEnterGarage:]|,[L:569]|,<m>return <m>
+2018-10-25 16:50:04.206 paking[9089:2715167] |,-[LoginManager login_check_SUCCESSwithResult:]|,[L:655]|,<m>orderList : (null)<m>
+2018-10-25 16:50:04.206 paking[9089:2715167] |,-[LoginManager login_check_SUCCESSwithResult:]|,[L:656]|,<m>reserveList: {
+}<m>
+2018-10-25 16:50:04.207 paking[9089:2715167] |,-[LoginManager login_check_SUCCESSwithResult:]|,[L:657]|,<m>set userManager.isReservation = 0<m>
+2018-10-25 16:50:04.207 paking[9089:2715167] |,-[LoginManager login_check_SUCCESSwithResult:]|,[L:658]|,<m>set userManager.isGarageReservation = 0<m>
+2018-10-25 16:50:04.208 paking[9089:2715167] |,-[LoginManager loginSuccessSettingWithResult:withVC:]|,[L:342]|,<m>checkReservedOverTime<m>
+2018-10-25 16:50:04.208 paking[9089:2715167] |,-[LoginManager loginSuccessSettingWithResult:withVC:]|,[L:345]|,<m>checkExit<m>
+2018-10-25 16:50:04.258 paking[9089:2715167] |,-[LandingPageViewController viewDidLoad]|,[L:78]|,<m><m>
+2018-10-25 16:50:04.290 paking[9089:2715167] |,-[LandingPageViewController viewWillAppear:]|,[L:140]|,<m><m>
+2018-10-25 16:50:04.290 paking[9089:2715167] |,-[SuperContainManager updateLandingPageBtn]|,[L:49]|,<m>superContainManager:updateLandingPageBtn=0<m>
+2018-10-25 16:50:04.290 paking[9089:2715167] |,-[LandingPageViewController viewWillAppear:]|,[L:151]|,<m>IsADBannerCanUpdate? = 1<m>
+2018-10-25 16:50:04.296 paking[9089:2715167] |,+[BaseServerComm checkDomainByConnectionType:garageID:apiName:]|,[L:488]|,<m>Network-<Carrier> 中華電信<m>
+2018-10-25 16:50:04.297 paking[9089:2715167] |,+[BaseServerComm postDomainWithUrLenCoded:apiName:parameters:returnManager:progress:completion:finally:]|,[L:56]|,<m>[API] /app.php?page=getBannerList Request : {
+    "access_token" = dd1164b734091915b7a388748538b176;
+    language = "zh-Hant-TW";
+    marketLocation = TW;
+}<m>
+2018-10-25 16:50:04.319 paking[9089:2715167] |,-[LandingPageViewController viewDidAppear:]|,[L:168]|,<m><m>
+2018-10-25 16:50:04.324 paking[9089:2715167] |,+[BaseServerComm checkDomainByConnectionType:garageID:apiName:]|,[L:488]|,<m>Network-<Carrier> 中華電信<m>
+2018-10-25 16:50:04.325 paking[9089:2715167] |,+[BaseServerComm postDomainWithUrLenCoded:apiName:parameters:returnManager:progress:completion:finally:]|,[L:56]|,<m>[API] /app.php?page=get_news Request : {
+    "access_token" = dd1164b734091915b7a388748538b176;
+}<m>
+2018-10-25 16:50:04.380 paking[9089:2715167] |,+[ShareFunction showAlertWhenBlueToothIsOff]|,[L:572]|,<m>present showAlertWhenBlueToothIsOff<m>
+2018-10-25 16:50:04.380 paking[9089:2715167] |,-[LandingPageViewController popOtherMsg]_block_invoke|,[L:256]|,<m>userManager.isNeedUpdateConfig = 0<m>
+2018-10-25 16:50:04.380 paking[9089:2715167] |,-[LandingPageViewController popOtherMsg]_block_invoke|,[L:257]|,<m>updateConfigState = 2<m>
+2018-10-25 16:50:04.382 paking[9089:2715167] |,-[BLEManager initLocaldata]|,[L:428]|,<m><m>
+2018-10-25 16:50:04.382 paking[9089:2715167] |,-[BLEManager initANPRInfo]|,[L:509]|,<m>[Gate]<m>
+2018-10-25 16:50:04.383 paking[9089:2715167] |,-[ParkingBtnManager initLocalData]|,[L:818]|,<m><m>
+2018-10-25 16:50:04.384 paking[9089:2715167] |,-[BLEManager createGraph]|,[L:3840]|,<m>[Can't create graph]-userManager.sensorInfo=nil<m>
+2018-10-25 16:50:04.384 paking[9089:2715167] |,-[BLEManager initBLEGateControl]|,[L:469]|,<m>[Gate]<m>
+2018-10-25 16:50:04.385 paking[9089:2715167] |,-[BLEManager startGateScanAfterSec:]|,[L:1602]|,<m>[Gate]0.000000<m>
+2018-10-25 16:50:04.385 paking[9089:2715167] |,-[BLEManager startScan]|,[L:683]|,<m><m>
+2018-10-25 16:50:04.385 paking[9089:2715167] |,-[BLEManager retrySetting:]|,[L:1483]|,<m>[Gate][Locker]<m>
+2018-10-25 16:50:04.385 paking[9089:2715167] |,-[BLEManager centralManagerDidUpdateState:]|,[L:790]|,<m>[Gate]BLE ON<m>
+2018-10-25 16:50:04.385 paking[9089:2715167] |,-[BLEManager centralManagerDidUpdateState:]|,[L:806]|,<m>[Gate]UpdateState:PoweredOn
+<m>
+2018-10-25 16:50:04.899 paking[9089:2715167] [Crashlytics:Crash] Warning: NSUncaughtExceptionHandler is 'unknown' in '/var/containers/Bundle/Application/6085A022-83CE-4CCD-9027-84BF8F876473/paking.app/paking'
+2018-10-25 16:50:04.910 paking[9089:2715167] |,+[BaseServerComm postDomainWithUrLenCoded:apiName:parameters:returnManager:progress:completion:finally:]_block_invoke|,[L:69]|,<m>[API] /app.php?page=get_news Success <m>
+2018-10-25 16:50:04.910 paking[9089:2715167] |,-[LeftMenuSubTableViewController updateUnReadNewsCount]_block_invoke|,[L:280]|,<m>message : 處理成功<m>
+2018-10-25 16:50:04.928 paking[9089:2715167] |,-[AppDelegate applicationDidBecomeActive:]|,[L:193]|,<m><m>
+2018-10-25 16:50:04.945 paking[9089:2715167] |,+[BaseServerComm checkDomainByConnectionType:garageID:apiName:]|,[L:488]|,<m>Network-<Carrier> 中華電信<m>
+2018-10-25 16:50:04.946 paking[9089:2715167] |,+[BaseServerComm postDomainWithUrLenCoded:apiName:parameters:returnManager:progress:completion:finally:]|,[L:56]|,<m>[API] /app.php?page=user_fail_trade_check Request : {
+    "access_token" = dd1164b734091915b7a388748538b176;
+}<m>
+2018-10-25 16:50:04.946 paking[9089:2715167] |,-[BLEManager startGateScanAfterSec:]|,[L:1602]|,<m>[Gate]1.000000<m>
+2018-10-25 16:50:04.947 paking[9089:2715167] |,-[BLEManager startLockerScanAfterSec:]|,[L:1619]|,<m>[Locker]1.000000<m>
+2018-10-25 16:50:04.950 paking[9089:2715167] |,-[ADBannerScrollView EnterForeground]|,[L:611]|,<m>ADBannerPageCurrIndex = 0<m>
+2018-10-25 16:50:04.951 paking[9089:2715167] |,-[BLEManager centralManager:didDiscoverPeripheral:advertisementData:RSSI:]|,[L:821]|,<m>
+[Gate][S]advName null<m>
+2018-10-25 16:50:05.335 paking[9089:2715167] |,-[BLEManager centralManager:didDiscoverPeripheral:advertisementData:RSSI:]|,[L:821]|,<m>
+[Gate][S]advName null<m>
+2018-10-25 16:50:05.468 paking[9089:2715167] |,+[BaseServerComm postDomainWithUrLenCoded:apiName:parameters:returnManager:progress:completion:finally:]_block_invoke|,[L:69]|,<m>[API] /app.php?page=getBannerList Success <m>
+2018-10-25 16:50:05.469 paking[9089:2715167] |,-[ADBannerScrollView update_ADBannerScrollView:]|,[L:215]|,<m>ADBanner no need to update<m>
+2018-10-25 16:50:05.512 paking[9089:2715167] |,+[BaseServerComm postDomainWithUrLenCoded:apiName:parameters:returnManager:progress:completion:finally:]_block_invoke|,[L:69]|,<m>[API] /app.php?page=user_fail_trade_check Success <m>
+2018-10-25 16:50:05.513 paking[9089:2715167] |,-[AppDelegate checkUserFailTradeCheck]_block_invoke|,[L:386]|,<m>result: {
+    message = "\U8655\U7406\U6210\U529f";
+    response = 0;
+    status = success;
+}<m>
+2018-10-25 16:50:05.513 paking[9089:2715167] |,-[AppDelegate checkUserFailTradeCheck]_block_invoke|,[L:394]|,<m>userManager.garageFarePaymentStatus = NoGarageFare <m>
+2018-10-25 16:50:05.948 paking[9089:2715167] |,-[BLEManager retrySetting:]|,[L:1483]|,<m>[Gate][Locker]<m>
+2018-10-25 16:50:07.847 paking[9089:2715167] |,-[BLEManager centralManager:didDiscoverPeripheral:advertisementData:RSSI:]|,[L:821]|,<m>
+[Gate][S]advName null<m>
+2018-10-25 16:50:07.849 paking[9089:2715167] |,-[BLEManager centralManager:didDiscoverPeripheral:advertisementData:RSSI:]|,[L:852]|,<m>[Gate]_BLEMac<adv>:D4:CA:6E:B6:3F:BB_GI:-79<m>
+2018-10-25 16:50:07.849 paking[9089:2715167] |,-[BLEManager centralManager:didDiscoverPeripheral:advertisementData:RSSI:]|,[L:853]|,<m>[Gate]_BLEMac<p>:D4:CA:6E:B6:3F:BB_GI<m>
+2018-10-25 16:50:07.850 paking[9089:2715167] |,-[BLEManager callAPICheckGarageWithGateID:]|,[L:5007]|,<m>[Gate]gateID:D4:CA:6E:B6:3F:BB forUpdate=0<m>
+2018-10-25 16:50:07.859 paking[9089:2715167] |,+[BaseServerComm checkDomainByConnectionType:garageID:apiName:]|,[L:488]|,<m>Network-<Carrier> 中華電信<m>
+2018-10-25 16:50:07.860 paking[9089:2715167] |,+[BaseServerComm getTimeOutAPI:parameters:]|,[L:242]|,<m>inputAPI = /app.php?page=checkGarage<m>
+2018-10-25 16:50:07.860 paking[9089:2715167] |,+[BaseServerComm getTimeOutAPI:parameters:]|,[L:243]|,<m>getGateID = D4:CA:6E:B6:3F:BB<m>
+2018-10-25 16:50:07.861 paking[9089:2715167] |,-[NotReachableView initWithFrame:]|,[L:55]|,<m>Create NewFrame<m>
+2018-10-25 16:50:07.867 paking[9089:2715167] |,-[NotReachableView clearAllObject]|,[L:178]|,<m>removeNew Frame<m>
+2018-10-25 16:50:07.867 paking[9089:2715167] |,+[BaseServerComm postDomainWithUrLenCoded:apiName:parameters:returnManager:progress:completion:finally:]|,[L:56]|,<m>[API] /app.php?page=checkGarage Request : {
+    "access_token" = dd1164b734091915b7a388748538b176;
+    "gate_id" = "D4:CA:6E:B6:3F:BB";
+}<m>
+2018-10-25 16:50:08.346 paking[9089:2715167] |,-[BLEManager centralManager:didDiscoverPeripheral:advertisementData:RSSI:]|,[L:852]|,<m>[Gate]_BLEMac<adv>:D4:CA:6E:B6:3F:BB_GI:-81<m>
+2018-10-25 16:50:08.346 paking[9089:2715167] |,-[BLEManager centralManager:didDiscoverPeripheral:advertisementData:RSSI:]|,[L:853]|,<m>[Gate]_BLEMac<p>:D4:CA:6E:B6:3F:BB_GI<m>
+2018-10-25 16:50:08.429 paking[9089:2715167] |,+[BaseServerComm postDomainWithUrLenCoded:apiName:parameters:returnManager:progress:completion:finally:]_block_invoke|,[L:69]|,<m>[API] /app.php?page=checkGarage Success <m>
+2018-10-25 16:50:08.430 paking[9089:2715167] |,-[BLEManager callAPICheckGarageWithGateID:]_block_invoke|,[L:5024]|,<m>[Gate]result: {
+    message = "\U8655\U7406\U6210\U529f";
+    response =     {
+        GateInfo =         (
+                        {
+                "garage_id" = L00022;
+                "gate_id" = "D4:CA:6E:B6:3F:BB";
+                "gate_ip" = "192.168.255.255";
+                "gate_x" = 1;
+                "gate_y" = 2;
+            },
+                        {
+                "garage_id" = L00022;
+                "gate_id" = "D4:CA:6E:B6:4A:0A";
+                "gate_ip" = "192.168.255.255";
+                "gate_x" = 1;
+                "gate_y" = 2;
+            }
+        );
+        "flow_carparkt_type" = 1;
+        "flow_gatecontrol" = 1;
+        "garage_id" = L00022;
+        isAPPWiFiOn = 1;
+        isCloudPay = no;
+        isIPCam = yes;
+        isLocalOnAWS = 1;
+        "lot_status" = open;
+        "two_way_driving" = 0;
+    };
+    status = success;
+}<m>
+2018-10-25 16:50:08.431 paking[9089:2715167] |,-[BLEManager callAPICheckGarageWithGateID:]_block_invoke|,[L:5061]|,<m>[Gate]ANPRStatus_GI Start<m>
+2018-10-25 16:50:08.431 paking[9089:2715167] |,-[BLEManager callAPIANPRCheckEnter]|,[L:5107]|,<m>[Gate]garage_id:L00022,gate_id:D4:CA:6E:B6:3F:BB,ANPRRetryCount:1<m>
+2018-10-25 16:50:08.438 paking[9089:2715167] |,+[BaseServerComm checkDomainByConnectionType:garageID:apiName:]|,[L:488]|,<m>Network-<Carrier> 中華電信<m>
+2018-10-25 16:50:08.439 paking[9089:2715167] |,+[BaseServerComm postDomainWithUrLenCoded:apiName:parameters:returnManager:progress:completion:finally:]|,[L:56]|,<m>[API] /app.php?page=ANPR_check_enter Request : {
+    "access_token" = dd1164b734091915b7a388748538b176;
+    "garage_id" = L00022;
+    "gate_id" = "D4:CA:6E:B6:3F:BB";
+}<m>
+2018-10-25 16:50:08.852 paking[9089:2715167] |,-[BLEManager centralManager:didDiscoverPeripheral:advertisementData:RSSI:]|,[L:852]|,<m>[Gate]_BLEMac<adv>:D4:CA:6E:B6:3F:BB_GI:-77<m>
+2018-10-25 16:50:08.852 paking[9089:2715167] |,-[BLEManager centralManager:didDiscoverPeripheral:advertisementData:RSSI:]|,[L:853]|,<m>[Gate]_BLEMac<p>:D4:CA:6E:B6:3F:BB_GI<m>
+2018-10-25 16:50:08.852 paking[9089:2715167] |,-[BLEManager checkIfNeedCheckGarageUpdate:]|,[L:1232]|,<m>[Gate]forUpdate duration=0<m>
+2018-10-25 16:50:08.853 paking[9089:2715167] |,-[BLEManager centralManager:didDiscoverPeripheral:advertisementData:RSSI:]|,[L:884]|,<m>gateLogMac=(
+    "D4:CA:6E:B6:3F:BB_GI"
+)<m>
+2018-10-25 16:50:08.942 paking[9089:2715167] |,+[BaseServerComm postDomainWithUrLenCoded:apiName:parameters:returnManager:progress:completion:finally:]_block_invoke|,[L:69]|,<m>[API] /app.php?page=ANPR_check_enter Success <m>
+2018-10-25 16:50:08.942 paking[9089:2715167] |,-[BLEManager callAPIANPRCheckEnter]_block_invoke|,[L:5135]|,<m>[Gate]result: {
+    message = "\U8655\U7406\U5931\U6557";
+    response = 101042;
+    status = fail;
+}<m>
+2018-10-25 16:50:09.857 paking[9089:2715167] |,-[BLEManager centralManager:didDiscoverPeripheral:advertisementData:RSSI:]|,[L:852]|,<m>[Gate]_BLEMac<adv>:D4:CA:6E:B6:3F:BB_GI:-72<m>
+2018-10-25 16:50:09.858 paking[9089:2715167] |,-[BLEManager centralManager:didDiscoverPeripheral:advertisementData:RSSI:]|,[L:853]|,<m>[Gate]_BLEMac<p>:D4:CA:6E:B6:3F:BB_GI<m>
+2018-10-25 16:50:09.858 paking[9089:2715167] |,-[BLEManager checkIfNeedCheckGarageUpdate:]|,[L:1232]|,<m>[Gate]forUpdate duration=1<m>
+2018-10-25 16:50:11.377 paking[9089:2715167] |,-[BLEManager centralManager:didDiscoverPeripheral:advertisementData:RSSI:]|,[L:852]|,<m>[Gate]_BLEMac<adv>:D4:CA:6E:B6:3F:BB_GI:-72<m>
+2018-10-25 16:50:11.377 paking[9089:2715167] |,-[BLEManager centralManager:didDiscoverPeripheral:advertisementData:RSSI:]|,[L:853]|,<m>[Gate]_BLEMac<p>:D4:CA:6E:B6:3F:BB_GI<m>
+2018-10-25 16:50:11.378 paking[9089:2715167] |,-[BLEManager checkIfNeedCheckGarageUpdate:]|,[L:1232]|,<m>[Gate]forUpdate duration=3<m>
+2018-10-25 16:50:11.884 paking[9089:2715167] |,-[BLEManager centralManager:didDiscoverPeripheral:advertisementData:RSSI:]|,[L:852]|,<m>[Gate]_BLEMac<adv>:D4:CA:6E:B6:3F:BB_GI:-81<m>
+2018-10-25 16:50:11.884 paking[9089:2715167] |,-[BLEManager centralManager:didDiscoverPeripheral:advertisementData:RSSI:]|,[L:853]|,<m>[Gate]_BLEMac<p>:D4:CA:6E:B6:3F:BB_GI<m>
+2018-10-25 16:50:11.884 paking[9089:2715167] |,-[BLEManager checkIfNeedCheckGarageUpdate:]|,[L:1232]|,<m>[Gate]forUpdate duration=3<m>
+2018-10-25 16:50:12.232 paking[9089:2715167] |,-[BLEManager callAPIANPRCheckEnter]|,[L:5107]|,<m>[Gate]garage_id:L00022,gate_id:D4:CA:6E:B6:3F:BB,ANPRRetryCount:2<m>
+2018-10-25 16:50:12.247 paking[9089:2715167] |,+[BaseServerComm checkDomainByConnectionType:garageID:apiName:]|,[L:488]|,<m>Network-<Carrier> 中華電信<m>
+2018-10-25 16:50:12.249 paking[9089:2715167] |,+[BaseServerComm postDomainWithUrLenCoded:apiName:parameters:returnManager:progress:completion:finally:]|,[L:56]|,<m>[API] /app.php?page=ANPR_check_enter Request : {
+    "access_token" = dd1164b734091915b7a388748538b176;
+    "garage_id" = L00022;
+    "gate_id" = "D4:CA:6E:B6:3F:BB";
+}<m>
+2018-10-25 16:50:12.666 paking[9089:2715167] |,+[BaseServerComm postDomainWithUrLenCoded:apiName:parameters:returnManager:progress:completion:finally:]_block_invoke|,[L:69]|,<m>[API] /app.php?page=ANPR_check_enter Success <m>
+2018-10-25 16:50:12.666 paking[9089:2715167] |,-[BLEManager callAPIANPRCheckEnter]_block_invoke|,[L:5135]|,<m>[Gate]result: {
+    message = "\U8655\U7406\U5931\U6557";
+    response = 101042;
+    status = fail;
+}<m>
+2018-10-25 16:50:12.891 paking[9089:2715167] |,-[BLEManager centralManager:didDiscoverPeripheral:advertisementData:RSSI:]|,[L:852]|,<m>[Gate]_BLEMac<adv>:D4:CA:6E:B6:3F:BB_GI:-78<m>
+2018-10-25 16:50:12.891 paking[9089:2715167] |,-[BLEManager centralManager:didDiscoverPeripheral:advertisementData:RSSI:]|,[L:853]|,<m>[Gate]_BLEMac<p>:D4:CA:6E:B6:3F:BB_GI<m>
+2018-10-25 16:50:12.892 paking[9089:2715167] |,-[BLEManager checkIfNeedCheckGarageUpdate:]|,[L:1232]|,<m>[Gate]forUpdate duration=4<m>
+2018-10-25 16:50:13.391 paking[9089:2715167] |,-[BLEManager centralManager:didDiscoverPeripheral:advertisementData:RSSI:]|,[L:852]|,<m>[Gate]_BLEMac<adv>:D4:CA:6E:B6:3F:BB_GI:-72<m>
+2018-10-25 16:50:13.391 paking[9089:2715167] |,-[BLEManager centralManager:didDiscoverPeripheral:advertisementData:RSSI:]|,[L:853]|,<m>[Gate]_BLEMac<p>:D4:CA:6E:B6:3F:BB_GI<m>
+2018-10-25 16:50:13.391 paking[9089:2715167] |,-[BLEManager checkIfNeedCheckGarageUpdate:]|,[L:1232]|,<m>[Gate]forUpdate duration=5<m>
+2018-10-25 16:50:13.896 paking[9089:2715167] |,-[BLEManager centralManager:didDiscoverPeripheral:advertisementData:RSSI:]|,[L:852]|,<m>[Gate]_BLEMac<adv>:D4:CA:6E:B6:3F:BB_GI:-75<m>
+2018-10-25 16:50:13.896 paking[9089:2715167] |,-[BLEManager centralManager:didDiscoverPeripheral:advertisementData:RSSI:]|,[L:853]|,<m>[Gate]_BLEMac<p>:D4:CA:6E:B6:3F:BB_GI<m>
+2018-10-25 16:50:13.897 paking[9089:2715167] |,-[BLEManager checkIfNeedCheckGarageUpdate:]|,[L:1232]|,<m>[Gate]forUpdate duration=5<m>
+2018-10-25 16:50:14.399 paking[9089:2715167] |,-[BLEManager centralManager:didDiscoverPeripheral:advertisementData:RSSI:]|,[L:852]|,<m>[Gate]_BLEMac<adv>:D4:CA:6E:B6:3F:BB_GI:-86<m>
+2018-10-25 16:50:14.408 paking[9089:2715167] |,-[BLEManager centralManager:didDiscoverPeripheral:advertisementData:RSSI:]|,[L:853]|,<m>[Gate]_BLEMac<p>:D4:CA:6E:B6:3F:BB_GI<m>
+2018-10-25 16:50:14.409 paking[9089:2715167] |,-[BLEManager checkIfNeedCheckGarageUpdate:]|,[L:1232]|,<m>[Gate]forUpdate duration=6<m>
+2018-10-25 16:50:14.900 paking[9089:2715167] |,-[BLEManager centralManager:didDiscoverPeripheral:advertisementData:RSSI:]|,[L:852]|,<m>[Gate]_BLEMac<adv>:D4:CA:6E:B6:3F:BB_GI:-76<m>
+2018-10-25 16:50:14.901 paking[9089:2715167] |,-[BLEManager centralManager:didDiscoverPeripheral:advertisementData:RSSI:]|,[L:853]|,<m>[Gate]_BLEMac<p>:D4:CA:6E:B6:3F:BB_GI<m>
+2018-10-25 16:50:14.901 paking[9089:2715167] |,-[BLEManager checkIfNeedCheckGarageUpdate:]|,[L:1232]|,<m>[Gate]forUpdate duration=6<m>
+2018-10-25 16:50:15.966 paking[9089:2715167] |,-[BLEManager callAPIANPRCheckEnter]|,[L:5107]|,<m>[Gate]garage_id:L00022,gate_id:D4:CA:6E:B6:3F:BB,ANPRRetryCount:3<m>
+2018-10-25 16:50:15.976 paking[9089:2715167] |,+[BaseServerComm checkDomainByConnectionType:garageID:apiName:]|,[L:488]|,<m>Network-<Carrier> 中華電信<m>
+2018-10-25 16:50:15.977 paking[9089:2715167] |,+[BaseServerComm postDomainWithUrLenCoded:apiName:parameters:returnManager:progress:completion:finally:]|,[L:56]|,<m>[API] /app.php?page=ANPR_check_enter Request : {
+    "access_token" = dd1164b734091915b7a388748538b176;
+    "garage_id" = L00022;
+    "gate_id" = "D4:CA:6E:B6:3F:BB";
+}<m>
+2018-10-25 16:50:16.417 paking[9089:2715167] |,-[BLEManager centralManager:didDiscoverPeripheral:advertisementData:RSSI:]|,[L:852]|,<m>[Gate]_BLEMac<adv>:D4:CA:6E:B6:3F:BB_GI:-92<m>
+2018-10-25 16:50:16.418 paking[9089:2715167] |,-[BLEManager centralManager:didDiscoverPeripheral:advertisementData:RSSI:]|,[L:853]|,<m>[Gate]_BLEMac<p>:D4:CA:6E:B6:3F:BB_GI<m>
+2018-10-25 16:50:16.418 paking[9089:2715167] |,-[BLEManager checkIfNeedCheckGarageUpdate:]|,[L:1232]|,<m>[Gate]forUpdate duration=8<m>
+2018-10-25 16:50:16.431 paking[9089:2715167] |,+[BaseServerComm postDomainWithUrLenCoded:apiName:parameters:returnManager:progress:completion:finally:]_block_invoke|,[L:69]|,<m>[API] /app.php?page=ANPR_check_enter Success <m>
+2018-10-25 16:50:16.431 paking[9089:2715167] |,-[BLEManager callAPIANPRCheckEnter]_block_invoke|,[L:5135]|,<m>[Gate]result: {
+    message = "\U8655\U7406\U6210\U529f";
+    response =     {
+        "car_plate" = "0255-DB";
+        "enter_datetime" = "2018-10-25 16:50:12";
+        "enter_photo" = "http://122.116.61.146:180/image/0/2018/10/25/2018-10-25_16-50-12-0255DB-b-07514.jpg";
+        "parking_no" = "";
+    };
+    status = success;
+}<m>
+2018-10-25 16:50:16.432 paking[9089:2715167] |,-[BLEManager ANPR_callAPIGarageEnterCheck]|,[L:5501]|,<m>[Gate]gate_id:D4:CA:6E:B6:3F:BB<m>
+2018-10-25 16:50:16.449 paking[9089:2715167] |,+[BaseServerComm checkDomainByConnectionType:garageID:apiName:]|,[L:488]|,<m>Network-<Carrier> 中華電信<m>
+2018-10-25 16:50:16.450 paking[9089:2715167] |,+[BaseServerComm getTimeOutAPI:parameters:]|,[L:242]|,<m>inputAPI = /app.php?page=garage_enter_check_reservechange<m>
+2018-10-25 16:50:16.450 paking[9089:2715167] |,+[BaseServerComm getTimeOutAPI:parameters:]|,[L:243]|,<m>getGateID = D4:CA:6E:B6:3F:BB<m>
+2018-10-25 16:50:16.451 paking[9089:2715167] |,-[NotReachableView initWithFrame:]|,[L:55]|,<m>Create NewFrame<m>
+2018-10-25 16:50:16.453 paking[9089:2715167] |,-[NotReachableView clearAllObject]|,[L:178]|,<m>removeNew Frame<m>
+2018-10-25 16:50:16.453 paking[9089:2715167] |,+[BaseServerComm postDomainWithUrLenCoded:apiName:parameters:returnManager:progress:completion:finally:]|,[L:56]|,<m>[API] /app.php?page=garage_enter_check_reservechange Request : {
+    "access_token" = dd1164b734091915b7a388748538b176;
+    "gate_id" = "D4:CA:6E:B6:3F:BB";
+}<m>
+2018-10-25 16:50:16.458 paking[9089:2715167] |,-[BLEManager sendGateLog]|,[L:6194]|,<m><m>
+2018-10-25 16:50:16.468 paking[9089:2715167] |,+[BaseServerComm checkDomainByConnectionType:garageID:apiName:]|,[L:488]|,<m>Network-<Carrier> 中華電信<m>
+2018-10-25 16:50:16.469 paking[9089:2715167] |,+[BaseServerComm postDomainWithUrLenCoded:apiName:parameters:returnManager:progress:completion:finally:]|,[L:56]|,<m>[API] /event_log.php? Request : {
+    "device_id" = "D4:CA:6E:B6:3F:BB";
+    "garage_id" = L00022;
+    "log_code" = GI;
+    "log_data" = 1;
+    "log_device" = Gate;
+    "log_type" = "report device status";
+    source = 80;
+}<m>
+2018-10-25 16:50:16.859 paking[9089:2715167] |,+[BaseServerComm postDomainWithUrLenCoded:apiName:parameters:returnManager:progress:completion:finally:]_block_invoke|,[L:69]|,<m>[API] /event_log.php? Success <m>
+2018-10-25 16:50:16.859 paking[9089:2715167] |,-[BLEManager sendGateLog]_block_invoke|,[L:6205]|,<m>result: New record created successfully
+<m>
+2018-10-25 16:50:16.871 paking[9089:2715167] |,+[BaseServerComm postDomainWithUrLenCoded:apiName:parameters:returnManager:progress:completion:finally:]_block_invoke|,[L:69]|,<m>[API] /app.php?page=garage_enter_check_reservechange Success <m>
+2018-10-25 16:50:16.872 paking[9089:2715167] |,-[BLEManager ANPR_callAPIGarageEnterCheck]_block_invoke|,[L:5519]|,<m>[Gate]result: {
+    message = "\U8655\U7406\U6210\U529f";
+    response =     {
+        changeReserveSpace = no;
+        "floor_sensor_data" =         (
+        );
+        "garage_data" =         {
+            "business_begin_time" = "00:00:00";
+            "business_end_time" = "23:59:59";
+            currency = 2;
+            "flow_carparkt_type" = 1;
+            "flow_gatecontrol" = 1;
+            "garage_domain" = localhost;
+            "garage_id" = L00022;
+            "garage_name" = "\U9293\U71df\U505c\U8eca-\U516b\U5fb7\U7acb\U9ad4\U505c\U8eca\U5834";
+            isAPPWiFiOn = 1;
+            isLocalOnAWS = 1;
+            mapURL = "http://192.168.1.2/Local/map/";
+            "parking_free_time" = 0;
+            "space_total" = 310;
+            "two_way_driving" = 0;
+        };
+        "garage_gate_data" =         (
+                        {
+                "garage_id" = L00022;
+                "gate_id" = "D4:CA:6E:B6:3F:BB";
+                "gate_ip" = "192.168.255.255";
+                "gate_x" = 1;
+                "gate_y" = 2;
+            },
+                        {
+                "garage_id" = L00022;
+                "gate_id" = "D4:CA:6E:B6:4A:0A";
+                "gate_ip" = "192.168.255.255";
+                "gate_x" = 1;
+                "gate_y" = 2;
+            }
+        );
+        "image_data" =         (
+        );
+    };
+    status = success;
+}<m>
+2018-10-25 16:50:16.872 paking[9089:2715167] |,-[OrderManager updateOrderListInfo_ReserveDataWithDic:isOrderListInfo:]|,[L:266]|,<m><m>
+2018-10-25 16:50:16.875 paking[9089:2715167] |,-[OrderManager updateOrderListInfo_ReserveDataWithDic:isOrderListInfo:]|,[L:380]|,<m>userManager.isGarageReservation = 0<m>
+2018-10-25 16:50:16.875 paking[9089:2715167] |,-[OrderManager updateOrderListInfo_ReserveDataWithDic:isOrderListInfo:]|,[L:381]|,<m>userManager.isReservation = 0<m>
+2018-10-25 16:50:16.878 paking[9089:2715167] |,-[OrderManager updateOrderListInfo_ReserveData:SpaceData:changeReserveSpace:]|,[L:108]|,<m>reserve change data{
+    area = "";
+    changeReserveSpace = no;
+    "device_id" = "";
+    floor = "";
+    "locker_id" = "";
+    "locker_ip" = "";
+    "point_x1" = "";
+    "point_x2" = "";
+    "point_x3" = "";
+    "point_x4" = "";
+    "point_y1" = "";
+    "point_y2" = "";
+    "point_y3" = "";
+    "point_y4" = "";
+    "reserve_begin_datetime" = "";
+    "reserve_cost" = "";
+    "reserve_end_datetime" = "";
+    "reserve_extend" = "";
+    "reserve_id" = "";
+    "reserve_result" = "";
+    "sentinel_1" = "";
+    "sentinel_2" = "";
+    "space_name" = "";
+}<m>
+2018-10-25 16:50:16.878 paking[9089:2715167] |,-[OrderManager updateOrderListInfo_ReserveData:SpaceData:changeReserveSpace:]|,[L:109]|,<m>userManager.isGarageReservation = 0<m>
+2018-10-25 16:50:16.882 paking[9089:2715167] |,-[BLEManager ANPR_callAPIGarageEnterCheck]_block_invoke|,[L:5605]|,<m>[Gate]set orderListInfo = {
+    area = "";
+    changeReserveSpace = no;
+    "device_id" = "";
+    floor = "";
+    "flow_carparkt_type" = 1;
+    "flow_gatecontrol" = 1;
+    "garage_id" = L00022;
+    "garage_name" = "\U9293\U71df\U505c\U8eca-\U516b\U5fb7\U7acb\U9ad4\U505c\U8eca\U5834";
+    "image_data" =     (
+    );
+    isLocalOnAWS = 1;
+    "locker_id" = "";
+    "locker_ip" = "";
+    "point_x1" = "";
+    "point_x2" = "";
+    "point_x3" = "";
+    "point_x4" = "";
+    "point_y1" = "";
+    "point_y2" = "";
+    "point_y3" = "";
+    "point_y4" = "";
+    "reserve_begin_datetime" = "";
+    "reserve_cost" = "";
+    "reserve_end_datetime" = "";
+    "reserve_extend" = "";
+    "reserve_id" = "";
+    "reserve_result" = "";
+    "sentinel_1" = "";
+    "sentinel_2" = "";
+    "space_name" = "";
+    "two_way_driving" = 0;
+}<m>
+2018-10-25 16:50:16.882 paking[9089:2715167] |,-[BLEManager getSpaceListAll:]|,[L:3621]|,<m><m>
+2018-10-25 16:50:16.893 paking[9089:2715167] |,+[BaseServerComm checkDomainByConnectionType:garageID:apiName:]|,[L:488]|,<m>Network-<Carrier> 中華電信<m>
+2018-10-25 16:50:16.894 paking[9089:2715167] |,+[BaseServerComm postDomainWithUrLenCoded:apiName:parameters:returnManager:progress:completion:finally:]|,[L:56]|,<m>[API] /app.php?page=parking_space_list Request : {
+    "access_token" = dd1164b734091915b7a388748538b176;
+    "garage_id" = L00022;
+}<m>
+2018-10-25 16:50:16.895 paking[9089:2715167] |,-[BLEManager preLoadImageByInfo]|,[L:4972]|,<m><m>
+2018-10-25 16:50:16.895 paking[9089:2715167] |,-[BLEManager ANPR_callAPIGarageEnterCheck]_block_invoke|,[L:5623]|,<m>[Gate]send [enter gate] notification<m>
+2018-10-25 16:50:16.905 paking[9089:2715167] |,-[BLEManager ANPR_callAPIGarageEnterConfirm]|,[L:5638]|,<m>[Gate]<m>
+2018-10-25 16:50:16.913 paking[9089:2715167] |,+[BaseServerComm checkDomainByConnectionType:garageID:apiName:]|,[L:488]|,<m>Network-<Carrier> 中華電信<m>
+2018-10-25 16:50:16.914 paking[9089:2715167] |,+[BaseServerComm getTimeOutAPI:parameters:]|,[L:242]|,<m>inputAPI = /local.php?page=garage_enter_confirm&garage_dbname=L00022<m>
+2018-10-25 16:50:16.914 paking[9089:2715167] |,+[BaseServerComm getTimeOutAPI:parameters:]|,[L:243]|,<m>getGateID = D4:CA:6E:B6:3F:BB<m>
+2018-10-25 16:50:16.914 paking[9089:2715167] |,-[NotReachableView initWithFrame:]|,[L:55]|,<m>Create NewFrame<m>
+2018-10-25 16:50:16.915 paking[9089:2715167] |,-[NotReachableView clearAllObject]|,[L:178]|,<m>removeNew Frame<m>
+2018-10-25 16:50:16.915 paking[9089:2715167] |,+[BaseServerComm postDomainWithUrLenCoded:apiName:parameters:returnManager:progress:completion:finally:]|,[L:56]|,<m>[API] /local.php?page=garage_enter_confirm&garage_dbname=L00022 Request : {
+    "car_plate" = "0255-DB";
+    "garage_id" = L00022;
+    "gate_id" = "D4:CA:6E:B6:3F:BB";
+    mobile = 0920571047;
+    "reserve_id" = "";
+}<m>
+2018-10-25 16:50:16.918 paking[9089:2715167] |,-[BLEManager centralManager:didDiscoverPeripheral:advertisementData:RSSI:]|,[L:852]|,<m>[Gate]_BLEMac<adv>:D4:CA:6E:B6:3F:BB_GI:-86<m>
+2018-10-25 16:50:16.918 paking[9089:2715167] |,-[BLEManager centralManager:didDiscoverPeripheral:advertisementData:RSSI:]|,[L:853]|,<m>[Gate]_BLEMac<p>:D4:CA:6E:B6:3F:BB_GI<m>
+2018-10-25 16:50:16.918 paking[9089:2715167] |,-[BLEManager checkIfNeedCheckGarageUpdate:]|,[L:1232]|,<m>[Gate]forUpdate duration=8<m>
+2018-10-25 16:50:16.918 paking[9089:2715167] |,-[BLEManager centralManager:didDiscoverPeripheral:advertisementData:RSSI:]|,[L:884]|,<m>gateLogMac=(
+    "D4:CA:6E:B6:3F:BB_GI"
+)<m>
+2018-10-25 16:50:16.921 paking[9089:2715167] |,-[LocalNotiManager addLocalNotiPriorityWithInfoDic:]|,[L:136]|,<m>Dic{
+    category = InOutGate;
+    enterGateID = "D4:CA:6E:B6:3F:BB";
+}<m>
+2018-10-25 16:50:16.921 paking[9089:2715167] |,-[LocalNotiManager addLocalNotiPriorityWithInfoDic:]|,[L:179]|,<m>localNOTI: priority 8<m>
+2018-10-25 16:50:16.922 paking[9089:2715167] |,-[LocalNotiManager addToLocalNotiQueueWithInfoDic:]|,[L:186]|,<m>localNotiQueue: 0<m>
+2018-10-25 16:50:16.922 paking[9089:2715167] |,-[LocalNotiManager popLocalNotiQueue]|,[L:193]|,<m>localNotiQueue: 1<m>
+2018-10-25 16:50:16.922 paking[9089:2715167] |,-[LocalNotiManager checkUserCarPositionWithDIC:]|,[L:288]|,<m>checkUserCarPositionWithDIC :category :InOutGate reserveNotiValue : (null)<m>
+2018-10-25 16:50:16.922 paking[9089:2715167] |,-[LocalNotiManager comparePreLocalNotiWithInfoDic:]|,[L:363]|,<m>prePriority 0: nowPriority 8<m>
+2018-10-25 16:50:16.922 paking[9089:2715167] |,-[LocalNotiManager popLocalNotiQueue]|,[L:222]|,<m>compareRESULT == LOCALNOTI_COMPARE_LESS<m>
+2018-10-25 16:50:16.922 paking[9089:2715167] |,-[LocalNotiManager popAlert]|,[L:531]|,<m>popAlert<m>
+2018-10-25 16:50:16.922 paking[9089:2715167] |,-[LocalNotiManager popAlert]|,[L:579]|,<m>[localNotiManager getPreLocalNotiPriority] <= 0<m>
+2018-10-25 16:50:16.922 paking[9089:2715167] |,-[LocalNotiManager presentLocalNotiVC]|,[L:598]|,<m>UIApplicationStateActive And Go On <m>
+2018-10-25 16:50:16.923 paking[9089:2715167] |,-[LocalNotiManager enableLocalNotiExistWithCategory:dic:]|,[L:1027]|,<m>gAlertManager.isInGateExist = true<m>
+2018-10-25 16:50:16.934 paking[9089:2715167] |,-[InOutGateViewController viewDidLoad]|,[L:77]|,<m><m>
+2018-10-25 16:50:16.934 paking[9089:2715167] |,-[InOutGateViewController garageTypeSetup]|,[L:90]|,<m>garageType:1<m>
+2018-10-25 16:50:16.934 paking[9089:2715167] |,-[InOutGateViewController garageLocalNotiTYPE_LPR_SETTING]|,[L:138]|,<m><m>
+2018-10-25 16:50:16.934 paking[9089:2715167] |,-[LocalNotiManager presentWithBaseRootVC:withAlertVC:completion:]|,[L:663]|,<m>_baseRootVC.presentedViewController == nil <m>
+2018-10-25 16:50:16.936 paking[9089:2715167] |,-[InOutGateViewController viewWillAppear:]|,[L:168]|,<m><m>
+2018-10-25 16:50:16.936 paking[9089:2715167] |,-[InOutGateViewController viewWillAppear:]|,[L:172]|,<m>[Gate]Enter Popup<m>
+2018-10-25 16:50:16.936 paking[9089:2715167] |,-[VoiceManager playVoiceImmedieately:]|,[L:223]|,<m>14 <m>
+2018-10-25 16:50:16.936 paking[9089:2715167] |,-[VoiceManager addVoice:]|,[L:76]|,<m>:14<m>
+2018-10-25 16:50:16.937 paking[9089:2715167] |,-[VoiceManager addVoice:]|,[L:188]|,<m>voiceString:歡迎光臨<m>
+2018-10-25 16:50:16.937 paking[9089:2715167] |,-[VoiceManager playVoiceNavigation]|,[L:241]|,<m><m>
+2018-10-25 16:50:16.937 paking[9089:2715167] |,-[VoiceManager playVoiceNavigation]|,[L:248]|,<m>Utterance:[AVSpeechUtterance 0x281561d00] String: 歡迎光臨
+Voice: (null)
+Rate: 0.45
+Volume: 1.00
+Pitch Multiplier: 1.15
+Delays: Pre: 0.00(s) Post: 0.00(s)<m>
+2018-10-25 16:50:17.125 paking[9089:2715167] |,-[InOutGateViewController viewWillAppear:]|,[L:196]|,<m>normal enter popup<m>
+2018-10-25 16:50:17.137 paking[9089:2715167] |,-[InOutGateViewController viewDidAppear:]|,[L:334]|,<m><m>
+2018-10-25 16:50:17.282 paking[9089:2715167] |,+[BaseServerComm postDomainWithUrLenCoded:apiName:parameters:returnManager:progress:completion:finally:]_block_invoke|,[L:69]|,<m>[API] /app.php?page=parking_space_list Success <m>
+2018-10-25 16:50:17.418 paking[9089:2715167] |,+[BaseServerComm postDomainWithUrLenCoded:apiName:parameters:returnManager:progress:completion:finally:]_block_invoke|,[L:69]|,<m>[API] /local.php?page=garage_enter_confirm&garage_dbname=L00022 Success <m>
+2018-10-25 16:50:17.418 paking[9089:2715167] |,-[BLEManager callAPIANPRBinding]|,[L:5308]|,<m>[Gate]ANPRRetryCount:1<m>
+2018-10-25 16:50:17.423 paking[9089:2715167] |,+[BaseServerComm checkDomainByConnectionType:garageID:apiName:]|,[L:488]|,<m>Network-<Carrier> 中華電信<m>
+2018-10-25 16:50:17.423 paking[9089:2715167] |,+[BaseServerComm postDomainWithUrLenCoded:apiName:parameters:returnManager:progress:completion:finally:]|,[L:56]|,<m>[API] /app.php?page=ANPR_binding Request : {
+    "access_token" = dd1164b734091915b7a388748538b176;
+    "car_plate" = "0255-DB";
+    "enter_datetime" = "2018-10-25 16:50:12";
+    "enter_id" = 201;
+    "enter_photo" = "http://122.116.61.146:180/image/0/2018/10/25/2018-10-25_16-50-12-0255DB-b-07514.jpg";
+    "garage_id" = L00022;
+    "inform_type" = 0;
+    "member_id" = 0920571047;
+    "parking_no" = "";
+}<m>
+2018-10-25 16:50:17.928 paking[9089:2715167] |,-[BLEManager centralManager:didDiscoverPeripheral:advertisementData:RSSI:]|,[L:852]|,<m>[Gate]_BLEMac<adv>:D4:CA:6E:B6:3F:BB_GI:-87<m>
+2018-10-25 16:50:17.928 paking[9089:2715167] |,-[BLEManager centralManager:didDiscoverPeripheral:advertisementData:RSSI:]|,[L:853]|,<m>[Gate]_BLEMac<p>:D4:CA:6E:B6:3F:BB_GI<m>
+2018-10-25 16:50:17.928 paking[9089:2715167] |,-[BLEManager checkIfNeedCheckGarageUpdate:]|,[L:1232]|,<m>[Gate]forUpdate duration=9<m>
+2018-10-25 16:50:18.640 paking[9089:2715167] |,-[VoiceManager speechSynthesizer:didFinishSpeechUtterance:]|,[L:261]|,<m>Utterance:[AVSpeechUtterance 0x281561d00] String: 歡迎光臨
+Voice: (null)
+Rate: 0.45
+Volume: 1.00
+Pitch Multiplier: 1.15
+Delays: Pre: 0.00(s) Post: 0.00(s)<m>
+2018-10-25 16:50:18.641 paking[9089:2715167] |,-[VoiceManager playVoiceNavigation]|,[L:241]|,<m><m>
+2018-10-25 16:50:19.673 paking[9089:2715167] |,+[BaseServerComm postDomainWithUrLenCoded:apiName:parameters:returnManager:progress:completion:finally:]_block_invoke|,[L:69]|,<m>[API] /app.php?page=ANPR_binding Success <m>
+2018-10-25 16:50:19.674 paking[9089:2715167] |,-[BLEManager callAPIANPRBinding]_block_invoke|,[L:5332]|,<m>[Gate]result: {
+    message = "\U8655\U7406\U6210\U529f";
+    response = "<null>";
+    status = success;
+}<m>
+2018-10-25 16:50:19.906 paking[9089:2715167] |,-[BLEManager clearANPRGatePopupToInLot]|,[L:5473]|,<m>[Gate]<m>
+2018-10-25 16:50:19.907 paking[9089:2715167] |,-[InOutGateViewController cancelGatewayCompletion:]|,[L:359]|,<m><m>
+2018-10-25 16:50:19.907 paking[9089:2715167] |,-[BLEManager startGateScanAfterSec:]|,[L:1602]|,<m>[Gate]3.000000<m>
+2018-10-25 16:50:19.907 paking[9089:2715167] |,-[InOutGateViewController cancelGatewayCompletion:]|,[L:372]|,<m>without Alert<m>
+2018-10-25 16:50:19.910 paking[9089:2715167] |,-[InOutGateViewController viewWillDisappear:]|,[L:340]|,<m><m>
+2018-10-25 16:50:19.914 paking[9089:2715167] |,-[BLEManager switchToInLotState:]|,[L:5917]|,<m>[Gate]<m>
+2018-10-25 16:50:19.928 paking[9089:2715167] |,-[BLEManager switchToInLotState:]_block_invoke|,[L:5933]|,<m>set orderListInfo = {
+    area = "";
+    changeReserveSpace = no;
+    "device_id" = "";
+    "enter_id" = 201;
+    floor = "";
+    "flow_carparkt_type" = 1;
+    "flow_gatecontrol" = 1;
+    "garage_id" = L00022;
+    "garage_name" = "\U9293\U71df\U505c\U8eca-\U516b\U5fb7\U7acb\U9ad4\U505c\U8eca\U5834";
+    "image_data" =     (
+    );
+    isLocalOnAWS = 1;
+    "locker_id" = "";
+    "locker_ip" = "";
+    "parking_token" = 4a0a9dbd8bf5f1ca35b3fa7c9b11d224;
+    "point_x1" = "";
+    "point_x2" = "";
+    "point_x3" = "";
+    "point_x4" = "";
+    "point_y1" = "";
+    "point_y2" = "";
+    "point_y3" = "";
+    "point_y4" = "";
+    "reserve_begin_datetime" = "";
+    "reserve_cost" = "";
+    "reserve_end_datetime" = "";
+    "reserve_extend" = "";
+    "reserve_id" = "";
+    "reserve_result" = "";
+    "sentinel_1" = "";
+    "sentinel_2" = "";
+    "space_name" = "";
+    "two_way_driving" = 0;
+}<m>
+2018-10-25 16:50:19.929 paking[9089:2715167] |,-[BLEManager switchToInLotState:]_block_invoke|,[L:5934]|,<m>userManager.gateGarageInfo = {
+    GateInfo =     (
+                {
+            "garage_id" = L00022;
+            "gate_id" = "D4:CA:6E:B6:3F:BB";
+            "gate_ip" = "192.168.255.255";
+            "gate_x" = 1;
+            "gate_y" = 2;
+        },
+                {
+            "garage_id" = L00022;
+            "gate_id" = "D4:CA:6E:B6:4A:0A";
+            "gate_ip" = "192.168.255.255";
+            "gate_x" = 1;
+            "gate_y" = 2;
+        }
+    );
+    "flow_carparkt_type" = 1;
+    "flow_gatecontrol" = 1;
+    "garage_id" = L00022;
+    isAPPWiFiOn = 1;
+    isCloudPay = no;
+    isIPCam = yes;
+    isLocalOnAWS = 1;
+    "lot_status" = open;
+    "two_way_driving" = 0;
+}<m>
+2018-10-25 16:50:19.930 paking[9089:2715167] |,-[SuperContainManager updateLandingPageBtn]|,[L:49]|,<m>superContainManager:updateLandingPageBtn=3<m>
+2018-10-25 16:50:19.933 paking[9089:2715167] |,-[BLEManager startGateScanAfterSec:]|,[L:1602]|,<m>[Gate]30.000000<m>
+2018-10-25 16:50:19.934 paking[9089:2715167] |,-[BLEManager startGateScanAfterSec:]|,[L:1609]|,<m>[Gate]enableInOutGateDetect = NO, 30.000000<m>
+2018-10-25 16:50:19.934 paking[9089:2715167] |,-[BLEManager initANPRInfo]|,[L:509]|,<m>[Gate]<m>
+2018-10-25 16:50:19.934 paking[9089:2715167] |,-[GlobalAlertManager backToRootCompletion:]|,[L:106]|,<m><m>
+2018-10-25 16:50:19.961 paking[9089:2715167] |,-[LandingPageViewController viewWillDisappear:]|,[L:159]|,<m><m>
+2018-10-25 16:50:19.966 paking[9089:2715167] |,-[VoiceManager playVoiceImmedieately:]|,[L:223]|,<m>24 <m>
+2018-10-25 16:50:19.966 paking[9089:2715167] |,-[VoiceManager addVoice:]|,[L:76]|,<m>:24<m>
+2018-10-25 16:50:19.966 paking[9089:2715167] |,-[VoiceManager addVoice:]|,[L:188]|,<m>voiceString:本場域提供APP自動付款，無須現場繳費。<m>
+2018-10-25 16:50:19.966 paking[9089:2715167] |,-[VoiceManager playVoiceNavigation]|,[L:241]|,<m><m>
+2018-10-25 16:50:19.966 paking[9089:2715167] |,-[VoiceManager playVoiceNavigation]|,[L:248]|,<m>Utterance:[AVSpeechUtterance 0x28156c400] String: 本場域提供APP自動付款，無須現場繳費。
+Voice: (null)
+Rate: 0.45
+Volume: 1.00
+Pitch Multiplier: 1.15
+Delays: Pre: 0.00(s) Post: 0.00(s)<m>
+2018-10-25 16:50:24.442 paking[9089:2715167] |,-[VoiceManager speechSynthesizer:didFinishSpeechUtterance:]|,[L:261]|,<m>Utterance:[AVSpeechUtterance 0x28156c400] String: 本場域提供APP自動付款，無須現場繳費。
+Voice: (null)
+Rate: 0.45
+Volume: 1.00
+Pitch Multiplier: 1.15
+Delays: Pre: 0.00(s) Post: 0.00(s)<m>
+2018-10-25 16:50:24.442 paking[9089:2715167] |,-[VoiceManager playVoiceNavigation]|,[L:241]|,<m><m>
+2018-10-25 16:50:49.934 paking[9089:2715167] |,-[BLEManager retrySetting:]|,[L:1483]|,<m>[Gate][Locker]<m>
+2018-10-25 16:56:04.195 paking[9089:2715167] |,-[UIButton(CancelTouch) touchesBegan:withEvent:]|,[L:23]|,<m>not from LocalNotiPress<m>
+2018-10-25 16:56:04.198 paking[9089:2715167] |,-[UIButton(CancelTouch) touchesEnded:withEvent:]|,[L:42]|,<m>defaultTouch<m>
+2018-10-25 16:56:04.201 paking[9089:2715167] |,-[LandingPageViewController viewWillAppear:]|,[L:140]|,<m><m>
+2018-10-25 16:56:04.201 paking[9089:2715167] |,-[SuperContainManager updateLandingPageBtn]|,[L:49]|,<m>superContainManager:updateLandingPageBtn=3<m>
+2018-10-25 16:56:04.201 paking[9089:2715167] |,-[LandingPageViewController viewWillAppear:]|,[L:151]|,<m>IsADBannerCanUpdate? = 1<m>
+2018-10-25 16:56:04.214 paking[9089:2715167] |,+[BaseServerComm checkDomainByConnectionType:garageID:apiName:]|,[L:488]|,<m>Network-<Carrier> 中華電信<m>
+2018-10-25 16:56:04.215 paking[9089:2715167] |,+[BaseServerComm postDomainWithUrLenCoded:apiName:parameters:returnManager:progress:completion:finally:]|,[L:56]|,<m>[API] /app.php?page=getBannerList Request : {
+    "access_token" = dd1164b734091915b7a388748538b176;
+    language = "zh-Hant-TW";
+    marketLocation = TW;
+}<m>
+2018-10-25 16:56:04.234 paking[9089:2715167] |,-[LandingPageViewController viewDidAppear:]|,[L:168]|,<m><m>
+2018-10-25 16:56:04.241 paking[9089:2715167] |,+[BaseServerComm checkDomainByConnectionType:garageID:apiName:]|,[L:488]|,<m>Network-<Carrier> 中華電信<m>
+2018-10-25 16:56:04.242 paking[9089:2715167] |,+[BaseServerComm postDomainWithUrLenCoded:apiName:parameters:returnManager:progress:completion:finally:]|,[L:56]|,<m>[API] /app.php?page=get_news Request : {
+    "access_token" = dd1164b734091915b7a388748538b176;
+}<m>
+2018-10-25 16:56:04.245 paking[9089:2715167] |,-[LandingPageViewController popOtherMsg]_block_invoke|,[L:256]|,<m>userManager.isNeedUpdateConfig = 0<m>
+2018-10-25 16:56:04.245 paking[9089:2715167] |,-[LandingPageViewController popOtherMsg]_block_invoke|,[L:257]|,<m>updateConfigState = 2<m>
+2018-10-25 16:56:04.775 paking[9089:2715167] |,+[BaseServerComm postDomainWithUrLenCoded:apiName:parameters:returnManager:progress:completion:finally:]_block_invoke|,[L:69]|,<m>[API] /app.php?page=get_news Success <m>
+2018-10-25 16:56:04.775 paking[9089:2715167] |,-[LeftMenuSubTableViewController updateUnReadNewsCount]_block_invoke|,[L:280]|,<m>message : 處理成功<m>
+2018-10-25 16:56:04.828 paking[9089:2715167] |,+[BaseServerComm postDomainWithUrLenCoded:apiName:parameters:returnManager:progress:completion:finally:]_block_invoke|,[L:69]|,<m>[API] /app.php?page=getBannerList Success <m>
+2018-10-25 16:56:04.829 paking[9089:2715167] |,-[ADBannerScrollView update_ADBannerScrollView:]|,[L:215]|,<m>ADBanner no need to update<m>
+2018-10-25 16:56:11.267 paking[9089:2715167] |,-[AppDelegate applicationWillResignActive:]|,[L:133]|,<m><m>
+2018-10-25 16:56:11.320 paking[9089:2715167] |,-[AppDelegate applicationDidEnterBackground:]|,[L:125]|,<m><m>
+2018-10-25 16:56:11.320 paking[9089:2715167] |,-[BLEManager startGateScanAfterSec:]|,[L:1602]|,<m>[Gate]0.000000<m>
+2018-10-25 16:56:11.320 paking[9089:2715167] |,-[BLEManager startLockerScanAfterSec:]|,[L:1619]|,<m>[Locker]0.000000<m>
+2018-10-25 16:56:11.325 paking[9089:2715167] |,-[ADBannerScrollView EnterBackground]|,[L:616]|,<m>ADBannerPageCurrIndex = 3<m>
+2018-10-25 16:56:11.327 paking[9089:2715167] |,-[BLEManager retrySetting:]|,[L:1483]|,<m>[Gate][Locker]<m>
+2018-10-25 17:00:44.751 paking[9089:2715167] |,-[AppDelegate applicationWillEnterForeground:]|,[L:156]|,<m><m>
+2018-10-25 17:00:44.767 paking[9089:2715167] |,+[BaseServerComm checkDomainByConnectionType:garageID:apiName:]|,[L:488]|,<m>Network-<Carrier> 中華電信<m>
+2018-10-25 17:00:44.768 paking[9089:2715167] |,+[BaseServerComm postDomainWithUrLenCoded:apiName:parameters:returnManager:progress:completion:finally:]|,[L:56]|,<m>[API] /app.php?page=get_vendor Request : {
+    "access_token" = dd1164b734091915b7a388748538b176;
+}<m>
+2018-10-25 17:00:44.817 paking[9089:2715167] AVSpeechSynthesizer Audio interruption notification: {
+    AVAudioSessionInterruptionTypeKey = 1;
+    AVAudioSessionInterruptionWasSuspendedKey = 1;
+}
+2018-10-25 17:00:45.197 paking[9089:2715167] |,+[BaseServerComm postDomainWithUrLenCoded:apiName:parameters:returnManager:progress:completion:finally:]_block_invoke|,[L:69]|,<m>[API] /app.php?page=get_vendor Success <m>
+2018-10-25 17:00:45.315 paking[9089:2715167] |,-[AppDelegate applicationDidBecomeActive:]|,[L:193]|,<m><m>
+2018-10-25 17:00:45.325 paking[9089:2715167] |,+[BaseServerComm checkDomainByConnectionType:garageID:apiName:]|,[L:488]|,<m>Network-<Carrier> 中華電信<m>
+2018-10-25 17:00:45.326 paking[9089:2715167] |,+[BaseServerComm postDomainWithUrLenCoded:apiName:parameters:returnManager:progress:completion:finally:]|,[L:56]|,<m>[API] /app.php?page=user_fail_trade_check Request : {
+    "access_token" = dd1164b734091915b7a388748538b176;
+}<m>
+2018-10-25 17:00:45.327 paking[9089:2715167] |,-[BLEManager startGateScanAfterSec:]|,[L:1602]|,<m>[Gate]1.000000<m>
+2018-10-25 17:00:45.327 paking[9089:2715167] |,-[BLEManager startLockerScanAfterSec:]|,[L:1619]|,<m>[Locker]1.000000<m>
+2018-10-25 17:00:45.327 paking[9089:2715167] |,+[OrderManager checkExit]|,[L:863]|,<m>4a0a9dbd8bf5f1ca35b3fa7c9b11d224<m>
+2018-10-25 17:00:45.333 paking[9089:2715167] |,+[BaseServerComm checkDomainByConnectionType:garageID:apiName:]|,[L:488]|,<m>Network-<Carrier> 中華電信<m>
+2018-10-25 17:00:45.334 paking[9089:2715167] |,+[BaseServerComm postDomainWithUrLenCoded:apiName:parameters:returnManager:progress:completion:finally:]|,[L:56]|,<m>[API] /app.php?page=ANPR_check_exit Request : {
+    "access_token" = dd1164b734091915b7a388748538b176;
+    "parking_token" = 4a0a9dbd8bf5f1ca35b3fa7c9b11d224;
+}<m>
+2018-10-25 17:00:45.335 paking[9089:2715167] |,-[ADBannerScrollView EnterForeground]|,[L:611]|,<m>ADBannerPageCurrIndex = 3<m>
+2018-10-25 17:00:45.737 paking[9089:2715167] |,+[BaseServerComm postDomainWithUrLenCoded:apiName:parameters:returnManager:progress:completion:finally:]_block_invoke|,[L:69]|,<m>[API] /app.php?page=user_fail_trade_check Success <m>
+2018-10-25 17:00:45.737 paking[9089:2715167] |,-[AppDelegate checkUserFailTradeCheck]_block_invoke|,[L:386]|,<m>result: {
+    message = "\U8655\U7406\U6210\U529f";
+    response = 0;
+    status = success;
+}<m>
+2018-10-25 17:00:45.737 paking[9089:2715167] |,-[AppDelegate checkUserFailTradeCheck]_block_invoke|,[L:394]|,<m>userManager.garageFarePaymentStatus = NoGarageFare <m>
+2018-10-25 17:00:45.748 paking[9089:2715167] |,-[AppDelegate applicationWillResignActive:]|,[L:133]|,<m><m>
+2018-10-25 17:00:45.769 paking[9089:2715167] |,+[BaseServerComm postDomainWithUrLenCoded:apiName:parameters:returnManager:progress:completion:finally:]_block_invoke|,[L:69]|,<m>[API] /app.php?page=ANPR_check_exit Success <m>
+2018-10-25 17:00:45.769 paking[9089:2715167] |,+[OrderManager checkExit]_block_invoke|,[L:889]|,<m>result: {
+    message = "\U8655\U7406\U5931\U6557";
+    response = "<null>";
+    status = fail;
+}<m>
+2018-10-25 17:00:46.328 paking[9089:2715167] |,-[BLEManager retrySetting:]|,[L:1483]|,<m>[Gate][Locker]<m>
+2018-10-25 17:00:49.358 paking[9089:2715167] |,-[AppDelegate applicationDidEnterBackground:]|,[L:125]|,<m><m>
+2018-10-25 17:00:49.358 paking[9089:2715167] |,-[BLEManager startGateScanAfterSec:]|,[L:1602]|,<m>[Gate]0.000000<m>
+2018-10-25 17:00:49.358 paking[9089:2715167] |,-[BLEManager startLockerScanAfterSec:]|,[L:1619]|,<m>[Locker]0.000000<m>
+2018-10-25 17:00:49.362 paking[9089:2715167] |,-[ADBannerScrollView EnterBackground]|,[L:616]|,<m>ADBannerPageCurrIndex = 3<m>
+2018-10-25 17:00:49.362 paking[9089:2715167] |,-[BLEManager retrySetting:]|,[L:1483]|,<m>[Gate][Locker]<m>
+2018-10-25 18:34:54.007 paking[9171:2741177] |,-[LogManager defaultLog]|,[L:97]|,<m>!!PaKing APP Open!!<m>
+2018-10-25 18:34:54.008 paking[9171:2741177] |,-[LogManager defaultLog]|,[L:100]|,<m>Honeypot<m>
+2018-10-25 18:34:54.008 paking[9171:2741177] |,-[LogManager defaultLog]|,[L:101]|,<m>iOS 12.0.1<m>
+2018-10-25 18:34:54.008 paking[9171:2741177] |,-[LogManager defaultLog]|,[L:108]|,<m>Device:iPhone10,4<m>
+2018-10-25 18:34:54.008 paking[9171:2741177] |,-[LogManager defaultLog]|,[L:120]|,<m>paking versoin:1.6.5(release)<m>
+2018-10-25 18:34:54.008 paking[9171:2741177] |,-[LogManager defaultLog]|,[L:121]|,<m>paking build:20180925112634<m>
+2018-10-25 18:34:54.011 paking[9171:2741177] |,-[AppDelegate checkUpdate]|,[L:338]|,<m>場外不執行更新<m>
+2018-10-25 18:34:54.161 paking[9171:2741177] |,-[LoginManager checkMemberExist]|,[L:69]|,<m>userManager.state = UserSTATE_CHECK <m>
+2018-10-25 18:34:54.178 paking[9171:2741177] |,+[BaseServerComm checkDomainByConnectionType:garageID:apiName:]|,[L:488]|,<m>Network-<Carrier> 中華電信<m>
+2018-10-25 18:34:54.185 paking[9171:2741177] |,+[BaseServerComm postDomainWithUrLenCoded:apiName:parameters:returnManager:progress:completion:finally:]|,[L:56]|,<m>[API] /app.php?page=check_member Request : {
+    mobile = 0920571047;
+}<m>
+2018-10-25 18:34:54.198 paking[9171:2741177] |,-[AppDelegate applicationDidBecomeActive:]|,[L:193]|,<m><m>
+2018-10-25 18:34:54.206 paking[9171:2741177] |,-[AppDelegate application:didRegisterForRemoteNotificationsWithDeviceToken:]|,[L:243]|,<m>deviceToken: <82d268a9 b926f0e9 5464ad4b 15420098 b8f3f9fc 78c6254f f1b1d0fe a995732e><m>
+2018-10-25 18:34:54.206 paking[9171:2741177] |,-[AppDelegate application:didRegisterForRemoteNotificationsWithDeviceToken:]|,[L:244]|,<m>deviceToken: 82d268a9b926f0e95464ad4b15420098b8f3f9fc78c6254ff1b1d0fea995732e<m>
+2018-10-25 18:34:54.298 paking[9171:2741177] |,-[AppDelegate applicationWillResignActive:]|,[L:133]|,<m><m>
+2018-10-25 18:34:54.638 paking[9171:2741177] |,+[BaseServerComm postDomainWithUrLenCoded:apiName:parameters:returnManager:progress:completion:finally:]_block_invoke|,[L:69]|,<m>[API] /app.php?page=check_member Success <m>
+2018-10-25 18:34:54.639 paking[9171:2741177] |,-[LoginManager checkMemberExist]_block_invoke|,[L:79]|,<m>result:{
+    message = "\U8655\U7406\U6210\U529f";
+    response = 1;
+    status = success;
+}<m>
+2018-10-25 18:34:54.639 paking[9171:2741177] |,-[LoginManager checkMemberExist]_block_invoke|,[L:83]|,<m>member is exist<m>
+2018-10-25 18:34:54.640 paking[9171:2741177] |,-[LoginManager callAPILoginCheck]|,[L:114]|,<m>userToken is member<m>
+2018-10-25 18:34:54.643 paking[9171:2741177] |,-[MemberManager loginCheckCompletion:]|,[L:43]|,<m>venderID = C64307EF-0973-4600-BC56-7A3EAC564C52<m>
+2018-10-25 18:34:54.654 paking[9171:2741177] |,+[BaseServerComm checkDomainByConnectionType:garageID:apiName:]|,[L:488]|,<m>Network-<Carrier> 中華電信<m>
+2018-10-25 18:34:54.655 paking[9171:2741177] |,+[BaseServerComm postDomainWithUrLenCoded:apiName:parameters:returnManager:progress:completion:finally:]|,[L:56]|,<m>[API] /app.php?page=login_check_lite Request : {
+    "access_token" = dd1164b734091915b7a388748538b176;
+    identifierForVendor = "C64307EF-0973-4600-BC56-7A3EAC564C52";
+}<m>
+2018-10-25 18:34:55.103 paking[9171:2741177] |,+[BaseServerComm postDomainWithUrLenCoded:apiName:parameters:returnManager:progress:completion:finally:]_block_invoke|,[L:69]|,<m>[API] /app.php?page=login_check_lite Success <m>
+2018-10-25 18:34:55.106 paking[9171:2741177] |,-[LoginManager callAPILoginCheck]_block_invoke|,[L:129]|,<m>result: {
+    message = "\U8655\U7406\U6210\U529f";
+    response =     {
+        "enter_data" =         {
+            CarNo = "0255-DB";
+            GateInfo =             (
+                                {
+                    "garage_id" = L00022;
+                    "gate_id" = "D4:CA:6E:B6:3F:BB";
+                    "gate_ip" = "192.168.255.255";
+                    "gate_x" = 1;
+                    "gate_y" = 2;
+                },
+                                {
+                    "garage_id" = L00022;
+                    "gate_id" = "D4:CA:6E:B6:4A:0A";
+                    "gate_ip" = "192.168.255.255";
+                    "gate_x" = 1;
+                    "gate_y" = 2;
+                }
+            );
+            ParkingToken = 4a0a9dbd8bf5f1ca35b3fa7c9b11d224;
+            "enter_datetime" = "2018-10-25 08:50:12";
+            "enter_id" = 201;
+            "garage_id" = L00022;
+            isInsertedParkingTrack = 0;
+            "parking_id" = "<null>";
+            "reserve_id" = "<null>";
+        };
+        "floor_sensor_data" =         (
+        );
+        "garage_data" =         {
+            "business_begin_time" = "00:00:00";
+            "business_end_time" = "23:59:59";
+            currency = 2;
+            "flow_carparkt_type" = 1;
+            "flow_gatecontrol" = 1;
+            "garage_domain" = localhost;
+            "garage_id" = L00022;
+            "garage_name" = "\U9293\U71df\U505c\U8eca-\U516b\U5fb7\U7acb\U9ad4\U505c\U8eca\U5834";
+            isAPPWiFiOn = 1;
+            isLocalOnAWS = 1;
+            mapURL = "http://192.168.1.2/Local/map/";
+            "parking_free_time" = 0;
+            "space_total" = 310;
+            "two_way_driving" = 0;
+        };
+        "image_data" =         (
+        );
+        "member_car" =         (
+                        {
+                "car_default" = 1;
+                "car_label" = Nissan;
+                "car_model" = Teana;
+                "car_plate" = "0255-DB";
+                "car_size" = 1;
+                isHandicap = 0;
+            }
+        );
+        "member_data" =         {
+            "access_token" = dd1164b734091915b7a388748538b176;
+            birthday = "1980-01-08";
+            city = "\U81fa\U5317\U5e02";
+            "e_mail" = "shinroex@gmail.com";
+            gender = M;
+            isCloudPay = Y;
+            "map_range" = 500;
+            mobile = 0920571047;
+            nickname = "\U6731\U80b2\U6c11";
+            "oauth_list" =             (
+                facebook
+            );
+            "parking_rate" = Unlimited;
+            "security_passwd" = "<null>";
+            "text_model" = Y;
+            "user_photo" = 0;
+            "voice_model" = Y;
+        };
+        needUpdateConfig = 0;
+        "parking_token" = 4a0a9dbd8bf5f1ca35b3fa7c9b11d224;
+    };
+    status = success;
+}<m>
+2018-10-25 18:34:55.114 paking[9171:2741177] |,-[OrderManager updateOrderListInfo_ReserveDataWithDic:isOrderListInfo:]|,[L:266]|,<m><m>
+2018-10-25 18:34:55.115 paking[9171:2741177] |,-[OrderManager updateOrderListInfo_ReserveDataWithDic:isOrderListInfo:]|,[L:380]|,<m>userManager.isGarageReservation = 0<m>
+2018-10-25 18:34:55.115 paking[9171:2741177] |,-[OrderManager updateOrderListInfo_ReserveDataWithDic:isOrderListInfo:]|,[L:381]|,<m>userManager.isReservation = 0<m>
+2018-10-25 18:34:55.116 paking[9171:2741177] |,-[OrderManager updateOrderListInfo_ReserveData:SpaceData:changeReserveSpace:]|,[L:108]|,<m>reserve change data{
+    area = "";
+    changeReserveSpace = no;
+    "device_id" = "";
+    "enter_id" = 201;
+    floor = "";
+    "flow_carparkt_type" = 1;
+    "flow_gatecontrol" = 1;
+    "garage_id" = L00022;
+    "garage_name" = "\U9293\U71df\U505c\U8eca-\U516b\U5fb7\U7acb\U9ad4\U505c\U8eca\U5834";
+    "image_data" =     (
+    );
+    isLocalOnAWS = 1;
+    "locker_id" = "";
+    "locker_ip" = "";
+    "parking_token" = 4a0a9dbd8bf5f1ca35b3fa7c9b11d224;
+    "point_x1" = "";
+    "point_x2" = "";
+    "point_x3" = "";
+    "point_x4" = "";
+    "point_y1" = "";
+    "point_y2" = "";
+    "point_y3" = "";
+    "point_y4" = "";
+    "reserve_begin_datetime" = "";
+    "reserve_cost" = "";
+    "reserve_end_datetime" = "";
+    "reserve_extend" = "";
+    "reserve_id" = "";
+    "reserve_result" = "";
+    "sentinel_1" = "";
+    "sentinel_2" = "";
+    "space_name" = "";
+    "two_way_driving" = 0;
+}<m>
+2018-10-25 18:34:55.116 paking[9171:2741177] |,-[OrderManager updateOrderListInfo_ReserveData:SpaceData:changeReserveSpace:]|,[L:109]|,<m>userManager.isGarageReservation = 0<m>
+2018-10-25 18:34:55.118 paking[9171:2741177] |,-[OrderManager clearReserveSettingWithIsEnterGarage:]|,[L:569]|,<m>return <m>
+2018-10-25 18:34:55.119 paking[9171:2741177] |,-[LoginManager login_check_SUCCESSwithResult:]|,[L:655]|,<m>orderList : {
+    area = "";
+    changeReserveSpace = no;
+    "device_id" = "";
+    "enter_id" = 201;
+    floor = "";
+    "flow_carparkt_type" = 1;
+    "flow_gatecontrol" = 1;
+    "garage_id" = L00022;
+    "garage_name" = "\U9293\U71df\U505c\U8eca-\U516b\U5fb7\U7acb\U9ad4\U505c\U8eca\U5834";
+    "image_data" =     (
+    );
+    isLocalOnAWS = 1;
+    "locker_id" = "";
+    "locker_ip" = "";
+    "parking_token" = 4a0a9dbd8bf5f1ca35b3fa7c9b11d224;
+    "point_x1" = "";
+    "point_x2" = "";
+    "point_x3" = "";
+    "point_x4" = "";
+    "point_y1" = "";
+    "point_y2" = "";
+    "point_y3" = "";
+    "point_y4" = "";
+    "reserve_begin_datetime" = "";
+    "reserve_cost" = "";
+    "reserve_end_datetime" = "";
+    "reserve_extend" = "";
+    "reserve_id" = "";
+    "reserve_result" = "";
+    "sentinel_1" = "";
+    "sentinel_2" = "";
+    "space_name" = "";
+    "two_way_driving" = 0;
+}<m>
+2018-10-25 18:34:55.119 paking[9171:2741177] |,-[LoginManager login_check_SUCCESSwithResult:]|,[L:656]|,<m>reserveList: {
+}<m>
+2018-10-25 18:34:55.119 paking[9171:2741177] |,-[LoginManager login_check_SUCCESSwithResult:]|,[L:657]|,<m>set userManager.isReservation = 0<m>
+2018-10-25 18:34:55.119 paking[9171:2741177] |,-[LoginManager login_check_SUCCESSwithResult:]|,[L:658]|,<m>set userManager.isGarageReservation = 0<m>
+2018-10-25 18:34:55.120 paking[9171:2741177] |,-[LoginManager loginSuccessSettingWithResult:withVC:]|,[L:342]|,<m>checkReservedOverTime<m>
+2018-10-25 18:34:55.120 paking[9171:2741177] |,-[LoginManager loginSuccessSettingWithResult:withVC:]|,[L:345]|,<m>checkExit<m>
+2018-10-25 18:34:55.123 paking[9171:2741177] |,+[OrderManager checkExit]|,[L:863]|,<m>4a0a9dbd8bf5f1ca35b3fa7c9b11d224<m>
+2018-10-25 18:34:55.133 paking[9171:2741177] |,+[BaseServerComm checkDomainByConnectionType:garageID:apiName:]|,[L:488]|,<m>Network-<Carrier> 中華電信<m>
+2018-10-25 18:34:55.134 paking[9171:2741177] |,+[BaseServerComm postDomainWithUrLenCoded:apiName:parameters:returnManager:progress:completion:finally:]|,[L:56]|,<m>[API] /app.php?page=ANPR_check_exit Request : {
+    "access_token" = dd1164b734091915b7a388748538b176;
+    "parking_token" = 4a0a9dbd8bf5f1ca35b3fa7c9b11d224;
+}<m>
+2018-10-25 18:34:55.174 paking[9171:2741177] |,-[LandingPageViewController viewDidLoad]|,[L:78]|,<m><m>
+2018-10-25 18:34:55.212 paking[9171:2741177] |,-[LandingPageViewController viewWillAppear:]|,[L:140]|,<m><m>
+2018-10-25 18:34:55.212 paking[9171:2741177] |,-[SuperContainManager updateLandingPageBtn]|,[L:49]|,<m>superContainManager:updateLandingPageBtn=3<m>
+2018-10-25 18:34:55.213 paking[9171:2741177] |,-[LandingPageViewController viewWillAppear:]|,[L:151]|,<m>IsADBannerCanUpdate? = 1<m>
+2018-10-25 18:34:55.220 paking[9171:2741177] |,+[BaseServerComm checkDomainByConnectionType:garageID:apiName:]|,[L:488]|,<m>Network-<Carrier> 中華電信<m>
+2018-10-25 18:34:55.220 paking[9171:2741177] |,+[BaseServerComm postDomainWithUrLenCoded:apiName:parameters:returnManager:progress:completion:finally:]|,[L:56]|,<m>[API] /app.php?page=getBannerList Request : {
+    "access_token" = dd1164b734091915b7a388748538b176;
+    language = "zh-Hant-TW";
+    marketLocation = TW;
+}<m>
+2018-10-25 18:34:55.247 paking[9171:2741177] |,-[LandingPageViewController viewDidAppear:]|,[L:168]|,<m><m>
+2018-10-25 18:34:55.252 paking[9171:2741177] |,+[BaseServerComm checkDomainByConnectionType:garageID:apiName:]|,[L:488]|,<m>Network-<Carrier> 中華電信<m>
+2018-10-25 18:34:55.253 paking[9171:2741177] |,+[BaseServerComm postDomainWithUrLenCoded:apiName:parameters:returnManager:progress:completion:finally:]|,[L:56]|,<m>[API] /app.php?page=get_news Request : {
+    "access_token" = dd1164b734091915b7a388748538b176;
+}<m>
+2018-10-25 18:34:55.281 paking[9171:2741177] |,+[ShareFunction showAlertWhenBlueToothIsOff]|,[L:572]|,<m>present showAlertWhenBlueToothIsOff<m>
+2018-10-25 18:34:55.281 paking[9171:2741177] |,-[LandingPageViewController popOtherMsg]_block_invoke|,[L:256]|,<m>userManager.isNeedUpdateConfig = 0<m>
+2018-10-25 18:34:55.281 paking[9171:2741177] |,-[LandingPageViewController popOtherMsg]_block_invoke|,[L:257]|,<m>updateConfigState = 2<m>
+2018-10-25 18:34:55.282 paking[9171:2741177] |,-[BLEManager initLocaldata]|,[L:428]|,<m><m>
+2018-10-25 18:34:55.282 paking[9171:2741177] |,-[BLEManager initANPRInfo]|,[L:509]|,<m>[Gate]<m>
+2018-10-25 18:34:55.283 paking[9171:2741177] |,-[ParkingBtnManager initLocalData]|,[L:818]|,<m><m>
+2018-10-25 18:34:55.287 paking[9171:2741177] |,-[BLEManager initBLEGateControl]|,[L:469]|,<m>[Gate]<m>
+2018-10-25 18:34:55.288 paking[9171:2741177] |,-[BLEManager startGateScanAfterSec:]|,[L:1602]|,<m>[Gate]0.000000<m>
+2018-10-25 18:34:55.288 paking[9171:2741177] |,-[BLEManager startScan]|,[L:683]|,<m><m>
+2018-10-25 18:34:55.288 paking[9171:2741177] |,-[BLEManager preLoadImageByInfo]|,[L:4972]|,<m><m>
+2018-10-25 18:34:55.290 paking[9171:2741177] |,-[BLEManager retrySetting:]|,[L:1483]|,<m>[Gate][Locker]<m>
+2018-10-25 18:34:55.290 paking[9171:2741177] |,-[BLEManager centralManagerDidUpdateState:]|,[L:790]|,<m>[Gate]BLE ON<m>
+2018-10-25 18:34:55.291 paking[9171:2741177] |,-[BLEManager centralManagerDidUpdateState:]|,[L:806]|,<m>[Gate]UpdateState:PoweredOn
+<m>
+2018-10-25 18:34:55.521 paking[9171:2741177] |,+[BaseServerComm postDomainWithUrLenCoded:apiName:parameters:returnManager:progress:completion:finally:]_block_invoke|,[L:69]|,<m>[API] /app.php?page=ANPR_check_exit Success <m>
+2018-10-25 18:34:55.521 paking[9171:2741177] |,+[OrderManager checkExit]_block_invoke|,[L:889]|,<m>result: {
+    message = "\U8655\U7406\U5931\U6557";
+    response = "<null>";
+    status = fail;
+}<m>
+2018-10-25 18:34:55.635 paking[9171:2741177] |,+[BaseServerComm postDomainWithUrLenCoded:apiName:parameters:returnManager:progress:completion:finally:]_block_invoke|,[L:69]|,<m>[API] /app.php?page=get_news Success <m>
+2018-10-25 18:34:55.635 paking[9171:2741177] |,-[LeftMenuSubTableViewController updateUnReadNewsCount]_block_invoke|,[L:280]|,<m>message : 處理成功<m>
+2018-10-25 18:34:55.662 paking[9171:2741177] |,+[BaseServerComm postDomainWithUrLenCoded:apiName:parameters:returnManager:progress:completion:finally:]_block_invoke|,[L:69]|,<m>[API] /app.php?page=getBannerList Success <m>
+2018-10-25 18:34:55.662 paking[9171:2741177] |,-[ADBannerScrollView update_ADBannerScrollView:]|,[L:215]|,<m>ADBanner no need to update<m>
+2018-10-25 18:34:55.989 paking[9171:2741177] [Crashlytics:Crash] Warning: NSUncaughtExceptionHandler is 'unknown' in '/var/containers/Bundle/Application/6085A022-83CE-4CCD-9027-84BF8F876473/paking.app/paking'
+2018-10-25 18:34:56.020 paking[9171:2741177] |,-[AppDelegate applicationDidBecomeActive:]|,[L:193]|,<m><m>
+2018-10-25 18:34:56.040 paking[9171:2741177] |,+[BaseServerComm checkDomainByConnectionType:garageID:apiName:]|,[L:488]|,<m>Network-<Carrier> 中華電信<m>
+2018-10-25 18:34:56.041 paking[9171:2741177] |,+[BaseServerComm postDomainWithUrLenCoded:apiName:parameters:returnManager:progress:completion:finally:]|,[L:56]|,<m>[API] /app.php?page=user_fail_trade_check Request : {
+    "access_token" = dd1164b734091915b7a388748538b176;
+}<m>
+2018-10-25 18:34:56.041 paking[9171:2741177] |,-[BLEManager startGateScanAfterSec:]|,[L:1602]|,<m>[Gate]1.000000<m>
+2018-10-25 18:34:56.042 paking[9171:2741177] |,-[BLEManager startLockerScanAfterSec:]|,[L:1619]|,<m>[Locker]1.000000<m>
+2018-10-25 18:34:56.042 paking[9171:2741177] |,+[OrderManager checkExit]|,[L:863]|,<m>4a0a9dbd8bf5f1ca35b3fa7c9b11d224<m>
+2018-10-25 18:34:56.048 paking[9171:2741177] |,+[BaseServerComm checkDomainByConnectionType:garageID:apiName:]|,[L:488]|,<m>Network-<Carrier> 中華電信<m>
+2018-10-25 18:34:56.049 paking[9171:2741177] |,+[BaseServerComm postDomainWithUrLenCoded:apiName:parameters:returnManager:progress:completion:finally:]|,[L:56]|,<m>[API] /app.php?page=ANPR_check_exit Request : {
+    "access_token" = dd1164b734091915b7a388748538b176;
+    "parking_token" = 4a0a9dbd8bf5f1ca35b3fa7c9b11d224;
+}<m>
+2018-10-25 18:34:56.051 paking[9171:2741177] |,-[ADBannerScrollView EnterForeground]|,[L:611]|,<m>ADBannerPageCurrIndex = 0<m>
+2018-10-25 18:34:56.454 paking[9171:2741177] |,+[BaseServerComm postDomainWithUrLenCoded:apiName:parameters:returnManager:progress:completion:finally:]_block_invoke|,[L:69]|,<m>[API] /app.php?page=user_fail_trade_check Success <m>
+2018-10-25 18:34:56.455 paking[9171:2741177] |,-[AppDelegate checkUserFailTradeCheck]_block_invoke|,[L:386]|,<m>result: {
+    message = "\U8655\U7406\U6210\U529f";
+    response = 0;
+    status = success;
+}<m>
+2018-10-25 18:34:56.455 paking[9171:2741177] |,-[AppDelegate checkUserFailTradeCheck]_block_invoke|,[L:394]|,<m>userManager.garageFarePaymentStatus = NoGarageFare <m>
+2018-10-25 18:34:56.482 paking[9171:2741177] |,+[BaseServerComm postDomainWithUrLenCoded:apiName:parameters:returnManager:progress:completion:finally:]_block_invoke|,[L:69]|,<m>[API] /app.php?page=ANPR_check_exit Success <m>
+2018-10-25 18:34:56.482 paking[9171:2741177] |,+[OrderManager checkExit]_block_invoke|,[L:889]|,<m>result: {
+    message = "\U8655\U7406\U5931\U6557";
+    response = "<null>";
+    status = fail;
+}<m>
+2018-10-25 18:34:57.043 paking[9171:2741177] |,-[BLEManager retrySetting:]|,[L:1483]|,<m>[Gate][Locker]<m>
+2018-10-25 18:35:35.683 paking[9171:2741177] |,-[BLEManager centralManager:didDiscoverPeripheral:advertisementData:RSSI:]|,[L:821]|,<m>
+[Gate][S]advName null<m>
+2018-10-25 18:35:36.474 paking[9171:2741177] |,-[BLEManager centralManager:didDiscoverPeripheral:advertisementData:RSSI:]|,[L:821]|,<m>
+[Gate][S]advName null<m>
+2018-10-25 18:35:36.474 paking[9171:2741177] |,-[BLEManager centralManager:didDiscoverPeripheral:advertisementData:RSSI:]|,[L:852]|,<m>[Gate]_BLEMac<adv>:D4:CA:6E:B6:4A:0A_GO:-92<m>
+2018-10-25 18:35:36.474 paking[9171:2741177] |,-[BLEManager centralManager:didDiscoverPeripheral:advertisementData:RSSI:]|,[L:853]|,<m>[Gate]_BLEMac<p>:D4:CA:6E:B6:4A:0A_GO<m>
+2018-10-25 18:35:36.474 paking[9171:2741177] |,-[BLEManager callAPICheckGarageWithGateID:]|,[L:5007]|,<m>[Gate]gateID:D4:CA:6E:B6:4A:0A forUpdate=0<m>
+2018-10-25 18:35:36.480 paking[9171:2741177] |,+[BaseServerComm checkDomainByConnectionType:garageID:apiName:]|,[L:488]|,<m>Network-<Carrier> 中華電信<m>
+2018-10-25 18:35:36.481 paking[9171:2741177] |,+[BaseServerComm getTimeOutAPI:parameters:]|,[L:242]|,<m>inputAPI = /app.php?page=checkGarage<m>
+2018-10-25 18:35:36.481 paking[9171:2741177] |,+[BaseServerComm getTimeOutAPI:parameters:]|,[L:243]|,<m>getGateID = D4:CA:6E:B6:4A:0A<m>
+2018-10-25 18:35:36.481 paking[9171:2741177] |,-[NotReachableView initWithFrame:]|,[L:55]|,<m>Create NewFrame<m>
+2018-10-25 18:35:36.487 paking[9171:2741177] |,-[NotReachableView clearAllObject]|,[L:178]|,<m>removeNew Frame<m>
+2018-10-25 18:35:36.487 paking[9171:2741177] |,+[BaseServerComm postDomainWithUrLenCoded:apiName:parameters:returnManager:progress:completion:finally:]|,[L:56]|,<m>[API] /app.php?page=checkGarage Request : {
+    "access_token" = dd1164b734091915b7a388748538b176;
+    "gate_id" = "D4:CA:6E:B6:4A:0A";
+}<m>
+2018-10-25 18:35:36.929 paking[9171:2741177] |,+[BaseServerComm postDomainWithUrLenCoded:apiName:parameters:returnManager:progress:completion:finally:]_block_invoke|,[L:69]|,<m>[API] /app.php?page=checkGarage Success <m>
+2018-10-25 18:35:36.930 paking[9171:2741177] |,-[BLEManager callAPICheckGarageWithGateID:]_block_invoke|,[L:5024]|,<m>[Gate]result: {
+    message = "\U8655\U7406\U6210\U529f";
+    response =     {
+        GateInfo =         (
+                        {
+                "garage_id" = L00022;
+                "gate_id" = "D4:CA:6E:B6:3F:BB";
+                "gate_ip" = "192.168.255.255";
+                "gate_x" = 1;
+                "gate_y" = 2;
+            },
+                        {
+                "garage_id" = L00022;
+                "gate_id" = "D4:CA:6E:B6:4A:0A";
+                "gate_ip" = "192.168.255.255";
+                "gate_x" = 1;
+                "gate_y" = 2;
+            }
+        );
+        "flow_carparkt_type" = 1;
+        "flow_gatecontrol" = 1;
+        "garage_id" = L00022;
+        isAPPWiFiOn = 1;
+        isCloudPay = no;
+        isIPCam = yes;
+        isLocalOnAWS = 1;
+        "lot_status" = open;
+        "two_way_driving" = 0;
+    };
+    status = success;
+}<m>
+2018-10-25 18:35:36.934 paking[9171:2741177] |,-[BLEManager callAPICheckGarageWithGateID:]_block_invoke|,[L:5083]|,<m>[Gate]ANPRStatus_GO Start<m>
+2018-10-25 18:35:36.935 paking[9171:2741177] |,-[BLEManager callAPIANPRCheckExit]|,[L:5182]|,<m>[Gate]parking_token:4a0a9dbd8bf5f1ca35b3fa7c9b11d224,ANPRRetryCount:1<m>
+2018-10-25 18:35:36.947 paking[9171:2741177] |,+[BaseServerComm checkDomainByConnectionType:garageID:apiName:]|,[L:488]|,<m>Network-<Carrier> 中華電信<m>
+2018-10-25 18:35:36.948 paking[9171:2741177] |,+[BaseServerComm postDomainWithUrLenCoded:apiName:parameters:returnManager:progress:completion:finally:]|,[L:56]|,<m>[API] /app.php?page=ANPR_check_exit Request : {
+    "access_token" = dd1164b734091915b7a388748538b176;
+    "parking_token" = 4a0a9dbd8bf5f1ca35b3fa7c9b11d224;
+}<m>
+2018-10-25 18:35:37.365 paking[9171:2741177] |,+[BaseServerComm postDomainWithUrLenCoded:apiName:parameters:returnManager:progress:completion:finally:]_block_invoke|,[L:69]|,<m>[API] /app.php?page=ANPR_check_exit Success <m>
+2018-10-25 18:35:37.365 paking[9171:2741177] |,-[BLEManager callAPIANPRCheckExit]_block_invoke|,[L:5209]|,<m>[Gate]result: {
+    message = "\U8655\U7406\U5931\U6557";
+    response = "<null>";
+    status = fail;
+}<m>
+2018-10-25 18:35:37.388 paking[9171:2741177] |,-[BLEManager centralManager:didDiscoverPeripheral:advertisementData:RSSI:]|,[L:852]|,<m>[Gate]_BLEMac<adv>:D4:CA:6E:B6:4A:0A_GO:-95<m>
+2018-10-25 18:35:37.388 paking[9171:2741177] |,-[BLEManager centralManager:didDiscoverPeripheral:advertisementData:RSSI:]|,[L:853]|,<m>[Gate]_BLEMac<p>:D4:CA:6E:B6:4A:0A_GO<m>
+2018-10-25 18:35:37.388 paking[9171:2741177] |,-[BLEManager checkIfNeedCheckGarageUpdate:]|,[L:1232]|,<m>[Gate]forUpdate duration=1<m>
+2018-10-25 18:35:37.389 paking[9171:2741177] |,-[BLEManager centralManager:didDiscoverPeripheral:advertisementData:RSSI:]|,[L:884]|,<m>gateLogMac=(
+    "D4:CA:6E:B6:4A:0A_GO"
+)<m>
+2018-10-25 18:35:38.396 paking[9171:2741177] |,-[BLEManager centralManager:didDiscoverPeripheral:advertisementData:RSSI:]|,[L:852]|,<m>[Gate]_BLEMac<adv>:D4:CA:6E:B6:4A:0A_GO:-84<m>
+2018-10-25 18:35:38.397 paking[9171:2741177] |,-[BLEManager centralManager:didDiscoverPeripheral:advertisementData:RSSI:]|,[L:853]|,<m>[Gate]_BLEMac<p>:D4:CA:6E:B6:4A:0A_GO<m>
+2018-10-25 18:35:38.397 paking[9171:2741177] |,-[BLEManager checkIfNeedCheckGarageUpdate:]|,[L:1232]|,<m>[Gate]forUpdate duration=2<m>
+2018-10-25 18:35:38.899 paking[9171:2741177] |,-[BLEManager centralManager:didDiscoverPeripheral:advertisementData:RSSI:]|,[L:852]|,<m>[Gate]_BLEMac<adv>:D4:CA:6E:B6:4A:0A_GO:-88<m>
+2018-10-25 18:35:38.899 paking[9171:2741177] |,-[BLEManager centralManager:didDiscoverPeripheral:advertisementData:RSSI:]|,[L:853]|,<m>[Gate]_BLEMac<p>:D4:CA:6E:B6:4A:0A_GO<m>
+2018-10-25 18:35:38.899 paking[9171:2741177] |,-[BLEManager checkIfNeedCheckGarageUpdate:]|,[L:1232]|,<m>[Gate]forUpdate duration=2<m>
+2018-10-25 18:35:39.911 paking[9171:2741177] |,-[BLEManager centralManager:didDiscoverPeripheral:advertisementData:RSSI:]|,[L:852]|,<m>[Gate]_BLEMac<adv>:D4:CA:6E:B6:4A:0A_GO:-87<m>
+2018-10-25 18:35:39.911 paking[9171:2741177] |,-[BLEManager centralManager:didDiscoverPeripheral:advertisementData:RSSI:]|,[L:853]|,<m>[Gate]_BLEMac<p>:D4:CA:6E:B6:4A:0A_GO<m>
+2018-10-25 18:35:39.911 paking[9171:2741177] |,-[BLEManager checkIfNeedCheckGarageUpdate:]|,[L:1232]|,<m>[Gate]forUpdate duration=3<m>
+2018-10-25 18:35:40.415 paking[9171:2741177] |,-[BLEManager centralManager:didDiscoverPeripheral:advertisementData:RSSI:]|,[L:852]|,<m>[Gate]_BLEMac<adv>:D4:CA:6E:B6:4A:0A_GO:-89<m>
+2018-10-25 18:35:40.415 paking[9171:2741177] |,-[BLEManager centralManager:didDiscoverPeripheral:advertisementData:RSSI:]|,[L:853]|,<m>[Gate]_BLEMac<p>:D4:CA:6E:B6:4A:0A_GO<m>
+2018-10-25 18:35:40.416 paking[9171:2741177] |,-[BLEManager checkIfNeedCheckGarageUpdate:]|,[L:1232]|,<m>[Gate]forUpdate duration=4<m>
+2018-10-25 18:35:40.657 paking[9171:2741177] |,-[BLEManager callAPIANPRCheckExit]|,[L:5182]|,<m>[Gate]parking_token:4a0a9dbd8bf5f1ca35b3fa7c9b11d224,ANPRRetryCount:2<m>
+2018-10-25 18:35:40.671 paking[9171:2741177] |,+[BaseServerComm checkDomainByConnectionType:garageID:apiName:]|,[L:488]|,<m>Network-<Carrier> 中華電信<m>
+2018-10-25 18:35:40.672 paking[9171:2741177] |,+[BaseServerComm postDomainWithUrLenCoded:apiName:parameters:returnManager:progress:completion:finally:]|,[L:56]|,<m>[API] /app.php?page=ANPR_check_exit Request : {
+    "access_token" = dd1164b734091915b7a388748538b176;
+    "parking_token" = 4a0a9dbd8bf5f1ca35b3fa7c9b11d224;
+}<m>
+2018-10-25 18:35:41.092 paking[9171:2741177] |,+[BaseServerComm postDomainWithUrLenCoded:apiName:parameters:returnManager:progress:completion:finally:]_block_invoke|,[L:69]|,<m>[API] /app.php?page=ANPR_check_exit Success <m>
+2018-10-25 18:35:41.093 paking[9171:2741177] |,-[BLEManager callAPIANPRCheckExit]_block_invoke|,[L:5209]|,<m>[Gate]result: {
+    message = "\U8655\U7406\U5931\U6557";
+    response = "<null>";
+    status = fail;
+}<m>
+2018-10-25 18:35:41.470 paking[9171:2741177] |,-[BLEManager centralManager:didDiscoverPeripheral:advertisementData:RSSI:]|,[L:852]|,<m>[Gate]_BLEMac<adv>:D4:CA:6E:B6:4A:0A_GO:-79<m>
+2018-10-25 18:35:41.470 paking[9171:2741177] |,-[BLEManager centralManager:didDiscoverPeripheral:advertisementData:RSSI:]|,[L:853]|,<m>[Gate]_BLEMac<p>:D4:CA:6E:B6:4A:0A_GO<m>
+2018-10-25 18:35:41.470 paking[9171:2741177] |,-[BLEManager checkIfNeedCheckGarageUpdate:]|,[L:1232]|,<m>[Gate]forUpdate duration=5<m>
+2018-10-25 18:35:41.934 paking[9171:2741177] |,-[BLEManager centralManager:didDiscoverPeripheral:advertisementData:RSSI:]|,[L:852]|,<m>[Gate]_BLEMac<adv>:D4:CA:6E:B6:4A:0A_GO:-81<m>
+2018-10-25 18:35:41.935 paking[9171:2741177] |,-[BLEManager centralManager:didDiscoverPeripheral:advertisementData:RSSI:]|,[L:853]|,<m>[Gate]_BLEMac<p>:D4:CA:6E:B6:4A:0A_GO<m>
+2018-10-25 18:35:41.935 paking[9171:2741177] |,-[BLEManager checkIfNeedCheckGarageUpdate:]|,[L:1232]|,<m>[Gate]forUpdate duration=5<m>
+2018-10-25 18:35:42.948 paking[9171:2741177] |,-[BLEManager centralManager:didDiscoverPeripheral:advertisementData:RSSI:]|,[L:852]|,<m>[Gate]_BLEMac<adv>:D4:CA:6E:B6:4A:0A_GO:-81<m>
+2018-10-25 18:35:42.949 paking[9171:2741177] |,-[BLEManager centralManager:didDiscoverPeripheral:advertisementData:RSSI:]|,[L:853]|,<m>[Gate]_BLEMac<p>:D4:CA:6E:B6:4A:0A_GO<m>
+2018-10-25 18:35:42.949 paking[9171:2741177] |,-[BLEManager checkIfNeedCheckGarageUpdate:]|,[L:1232]|,<m>[Gate]forUpdate duration=6<m>
+2018-10-25 18:35:43.453 paking[9171:2741177] |,-[BLEManager centralManager:didDiscoverPeripheral:advertisementData:RSSI:]|,[L:852]|,<m>[Gate]_BLEMac<adv>:D4:CA:6E:B6:4A:0A_GO:-76<m>
+2018-10-25 18:35:43.454 paking[9171:2741177] |,-[BLEManager centralManager:didDiscoverPeripheral:advertisementData:RSSI:]|,[L:853]|,<m>[Gate]_BLEMac<p>:D4:CA:6E:B6:4A:0A_GO<m>
+2018-10-25 18:35:43.454 paking[9171:2741177] |,-[BLEManager checkIfNeedCheckGarageUpdate:]|,[L:1232]|,<m>[Gate]forUpdate duration=7<m>
+2018-10-25 18:35:43.956 paking[9171:2741177] |,-[BLEManager centralManager:didDiscoverPeripheral:advertisementData:RSSI:]|,[L:852]|,<m>[Gate]_BLEMac<adv>:D4:CA:6E:B6:4A:0A_GO:-85<m>
+2018-10-25 18:35:43.957 paking[9171:2741177] |,-[BLEManager centralManager:didDiscoverPeripheral:advertisementData:RSSI:]|,[L:853]|,<m>[Gate]_BLEMac<p>:D4:CA:6E:B6:4A:0A_GO<m>
+2018-10-25 18:35:43.957 paking[9171:2741177] |,-[BLEManager checkIfNeedCheckGarageUpdate:]|,[L:1232]|,<m>[Gate]forUpdate duration=7<m>
+2018-10-25 18:35:44.390 paking[9171:2741177] |,-[BLEManager callAPIANPRCheckExit]|,[L:5182]|,<m>[Gate]parking_token:4a0a9dbd8bf5f1ca35b3fa7c9b11d224,ANPRRetryCount:3<m>
+2018-10-25 18:35:44.399 paking[9171:2741177] |,+[BaseServerComm checkDomainByConnectionType:garageID:apiName:]|,[L:488]|,<m>Network-<Carrier> 中華電信<m>
+2018-10-25 18:35:44.400 paking[9171:2741177] |,+[BaseServerComm postDomainWithUrLenCoded:apiName:parameters:returnManager:progress:completion:finally:]|,[L:56]|,<m>[API] /app.php?page=ANPR_check_exit Request : {
+    "access_token" = dd1164b734091915b7a388748538b176;
+    "parking_token" = 4a0a9dbd8bf5f1ca35b3fa7c9b11d224;
+}<m>
+2018-10-25 18:35:44.463 paking[9171:2741177] |,-[BLEManager centralManager:didDiscoverPeripheral:advertisementData:RSSI:]|,[L:852]|,<m>[Gate]_BLEMac<adv>:D4:CA:6E:B6:4A:0A_GO:-76<m>
+2018-10-25 18:35:44.463 paking[9171:2741177] |,-[BLEManager centralManager:didDiscoverPeripheral:advertisementData:RSSI:]|,[L:853]|,<m>[Gate]_BLEMac<p>:D4:CA:6E:B6:4A:0A_GO<m>
+2018-10-25 18:35:44.464 paking[9171:2741177] |,-[BLEManager checkIfNeedCheckGarageUpdate:]|,[L:1232]|,<m>[Gate]forUpdate duration=8<m>
+2018-10-25 18:35:44.818 paking[9171:2741177] |,+[BaseServerComm postDomainWithUrLenCoded:apiName:parameters:returnManager:progress:completion:finally:]_block_invoke|,[L:69]|,<m>[API] /app.php?page=ANPR_check_exit Success <m>
+2018-10-25 18:35:44.819 paking[9171:2741177] |,-[BLEManager callAPIANPRCheckExit]_block_invoke|,[L:5209]|,<m>[Gate]result: {
+    message = "\U8655\U7406\U5931\U6557";
+    response = "<null>";
+    status = fail;
+}<m>
+2018-10-25 18:35:45.469 paking[9171:2741177] |,-[BLEManager centralManager:didDiscoverPeripheral:advertisementData:RSSI:]|,[L:852]|,<m>[Gate]_BLEMac<adv>:D4:CA:6E:B6:4A:0A_GO:-70<m>
+2018-10-25 18:35:45.470 paking[9171:2741177] |,-[BLEManager centralManager:didDiscoverPeripheral:advertisementData:RSSI:]|,[L:853]|,<m>[Gate]_BLEMac<p>:D4:CA:6E:B6:4A:0A_GO<m>
+2018-10-25 18:35:45.470 paking[9171:2741177] |,-[BLEManager checkIfNeedCheckGarageUpdate:]|,[L:1232]|,<m>[Gate]forUpdate duration=9<m>
+2018-10-25 18:35:46.988 paking[9171:2741177] |,-[BLEManager centralManager:didDiscoverPeripheral:advertisementData:RSSI:]|,[L:852]|,<m>[Gate]_BLEMac<adv>:D4:CA:6E:B6:4A:0A_GO:-62<m>
+2018-10-25 18:35:46.988 paking[9171:2741177] |,-[BLEManager centralManager:didDiscoverPeripheral:advertisementData:RSSI:]|,[L:853]|,<m>[Gate]_BLEMac<p>:D4:CA:6E:B6:4A:0A_GO<m>
+2018-10-25 18:35:46.988 paking[9171:2741177] |,-[BLEManager checkIfNeedCheckGarageUpdate:]|,[L:1232]|,<m>[Gate]forUpdate duration=10<m>
+2018-10-25 18:35:47.496 paking[9171:2741177] |,-[BLEManager centralManager:didDiscoverPeripheral:advertisementData:RSSI:]|,[L:852]|,<m>[Gate]_BLEMac<adv>:D4:CA:6E:B6:4A:0A_GO:-61<m>
+2018-10-25 18:35:47.496 paking[9171:2741177] |,-[BLEManager centralManager:didDiscoverPeripheral:advertisementData:RSSI:]|,[L:853]|,<m>[Gate]_BLEMac<p>:D4:CA:6E:B6:4A:0A_GO<m>
+2018-10-25 18:35:47.497 paking[9171:2741177] |,-[BLEManager checkIfNeedCheckGarageUpdate:]|,[L:1232]|,<m>[Gate]forUpdate duration=11<m>
+2018-10-25 18:35:48.118 paking[9171:2741177] |,-[BLEManager callAPIANPRCheckExit]|,[L:5182]|,<m>[Gate]parking_token:4a0a9dbd8bf5f1ca35b3fa7c9b11d224,ANPRRetryCount:4<m>
+2018-10-25 18:35:48.132 paking[9171:2741177] |,+[BaseServerComm checkDomainByConnectionType:garageID:apiName:]|,[L:488]|,<m>Network-<Carrier> 中華電信<m>
+2018-10-25 18:35:48.133 paking[9171:2741177] |,+[BaseServerComm postDomainWithUrLenCoded:apiName:parameters:returnManager:progress:completion:finally:]|,[L:56]|,<m>[API] /app.php?page=ANPR_check_exit Request : {
+    "access_token" = dd1164b734091915b7a388748538b176;
+    "parking_token" = 4a0a9dbd8bf5f1ca35b3fa7c9b11d224;
+}<m>
+2018-10-25 18:35:48.507 paking[9171:2741177] |,-[BLEManager centralManager:didDiscoverPeripheral:advertisementData:RSSI:]|,[L:852]|,<m>[Gate]_BLEMac<adv>:D4:CA:6E:B6:4A:0A_GO:-66<m>
+2018-10-25 18:35:48.507 paking[9171:2741177] |,-[BLEManager centralManager:didDiscoverPeripheral:advertisementData:RSSI:]|,[L:853]|,<m>[Gate]_BLEMac<p>:D4:CA:6E:B6:4A:0A_GO<m>
+2018-10-25 18:35:48.507 paking[9171:2741177] |,-[BLEManager checkIfNeedCheckGarageUpdate:]|,[L:1232]|,<m>[Gate]forUpdate duration=12<m>
+2018-10-25 18:35:48.533 paking[9171:2741177] |,+[BaseServerComm postDomainWithUrLenCoded:apiName:parameters:returnManager:progress:completion:finally:]_block_invoke|,[L:69]|,<m>[API] /app.php?page=ANPR_check_exit Success <m>
+2018-10-25 18:35:48.533 paking[9171:2741177] |,-[BLEManager callAPIANPRCheckExit]_block_invoke|,[L:5209]|,<m>[Gate]result: {
+    message = "\U8655\U7406\U5931\U6557";
+    response = "<null>";
+    status = fail;
+}<m>
+2018-10-25 18:35:49.012 paking[9171:2741177] |,-[BLEManager centralManager:didDiscoverPeripheral:advertisementData:RSSI:]|,[L:852]|,<m>[Gate]_BLEMac<adv>:D4:CA:6E:B6:4A:0A_GO:-70<m>
+2018-10-25 18:35:49.012 paking[9171:2741177] |,-[BLEManager centralManager:didDiscoverPeripheral:advertisementData:RSSI:]|,[L:853]|,<m>[Gate]_BLEMac<p>:D4:CA:6E:B6:4A:0A_GO<m>
+2018-10-25 18:35:49.013 paking[9171:2741177] |,-[BLEManager checkIfNeedCheckGarageUpdate:]|,[L:1232]|,<m>[Gate]forUpdate duration=13<m>
+2018-10-25 18:35:49.519 paking[9171:2741177] |,-[BLEManager centralManager:didDiscoverPeripheral:advertisementData:RSSI:]|,[L:852]|,<m>[Gate]_BLEMac<adv>:D4:CA:6E:B6:4A:0A_GO:-60<m>
+2018-10-25 18:35:49.520 paking[9171:2741177] |,-[BLEManager centralManager:didDiscoverPeripheral:advertisementData:RSSI:]|,[L:853]|,<m>[Gate]_BLEMac<p>:D4:CA:6E:B6:4A:0A_GO<m>
+2018-10-25 18:35:49.520 paking[9171:2741177] |,-[BLEManager checkIfNeedCheckGarageUpdate:]|,[L:1232]|,<m>[Gate]forUpdate duration=13<m>
+2018-10-25 18:35:50.021 paking[9171:2741177] |,-[BLEManager centralManager:didDiscoverPeripheral:advertisementData:RSSI:]|,[L:852]|,<m>[Gate]_BLEMac<adv>:D4:CA:6E:B6:4A:0A_GO:-65<m>
+2018-10-25 18:35:50.021 paking[9171:2741177] |,-[BLEManager centralManager:didDiscoverPeripheral:advertisementData:RSSI:]|,[L:853]|,<m>[Gate]_BLEMac<p>:D4:CA:6E:B6:4A:0A_GO<m>
+2018-10-25 18:35:50.021 paking[9171:2741177] |,-[BLEManager checkIfNeedCheckGarageUpdate:]|,[L:1232]|,<m>[Gate]forUpdate duration=14<m>
+2018-10-25 18:35:51.028 paking[9171:2741177] |,-[BLEManager centralManager:didDiscoverPeripheral:advertisementData:RSSI:]|,[L:852]|,<m>[Gate]_BLEMac<adv>:D4:CA:6E:B6:4A:0A_GO:-68<m>
+2018-10-25 18:35:51.029 paking[9171:2741177] |,-[BLEManager centralManager:didDiscoverPeripheral:advertisementData:RSSI:]|,[L:853]|,<m>[Gate]_BLEMac<p>:D4:CA:6E:B6:4A:0A_GO<m>
+2018-10-25 18:35:51.029 paking[9171:2741177] |,-[BLEManager checkIfNeedCheckGarageUpdate:]|,[L:1232]|,<m>[Gate]forUpdate duration=15<m>
+2018-10-25 18:35:51.531 paking[9171:2741177] |,-[BLEManager centralManager:didDiscoverPeripheral:advertisementData:RSSI:]|,[L:852]|,<m>[Gate]_BLEMac<adv>:D4:CA:6E:B6:4A:0A_GO:-78<m>
+2018-10-25 18:35:51.531 paking[9171:2741177] |,-[BLEManager centralManager:didDiscoverPeripheral:advertisementData:RSSI:]|,[L:853]|,<m>[Gate]_BLEMac<p>:D4:CA:6E:B6:4A:0A_GO<m>
+2018-10-25 18:35:51.531 paking[9171:2741177] |,-[BLEManager checkIfNeedCheckGarageUpdate:]|,[L:1232]|,<m>[Gate]forUpdate duration=15<m>
+2018-10-25 18:35:51.824 paking[9171:2741177] |,-[BLEManager callAPIANPRCheckExit]|,[L:5182]|,<m>[Gate]parking_token:4a0a9dbd8bf5f1ca35b3fa7c9b11d224,ANPRRetryCount:5<m>
+2018-10-25 18:35:51.838 paking[9171:2741177] |,+[BaseServerComm checkDomainByConnectionType:garageID:apiName:]|,[L:488]|,<m>Network-<Carrier> 中華電信<m>
+2018-10-25 18:35:51.839 paking[9171:2741177] |,+[BaseServerComm postDomainWithUrLenCoded:apiName:parameters:returnManager:progress:completion:finally:]|,[L:56]|,<m>[API] /app.php?page=ANPR_check_exit Request : {
+    "access_token" = dd1164b734091915b7a388748538b176;
+    "parking_token" = 4a0a9dbd8bf5f1ca35b3fa7c9b11d224;
+}<m>
+2018-10-25 18:35:52.031 paking[9171:2741177] |,-[BLEManager centralManager:didDiscoverPeripheral:advertisementData:RSSI:]|,[L:852]|,<m>[Gate]_BLEMac<adv>:D4:CA:6E:B6:4A:0A_GO:-74<m>
+2018-10-25 18:35:52.031 paking[9171:2741177] |,-[BLEManager centralManager:didDiscoverPeripheral:advertisementData:RSSI:]|,[L:853]|,<m>[Gate]_BLEMac<p>:D4:CA:6E:B6:4A:0A_GO<m>
+2018-10-25 18:35:52.031 paking[9171:2741177] |,-[BLEManager checkIfNeedCheckGarageUpdate:]|,[L:1232]|,<m>[Gate]forUpdate duration=16<m>
+2018-10-25 18:35:52.254 paking[9171:2741177] |,+[BaseServerComm postDomainWithUrLenCoded:apiName:parameters:returnManager:progress:completion:finally:]_block_invoke|,[L:69]|,<m>[API] /app.php?page=ANPR_check_exit Success <m>
+2018-10-25 18:35:52.254 paking[9171:2741177] |,-[BLEManager callAPIANPRCheckExit]_block_invoke|,[L:5209]|,<m>[Gate]result: {
+    message = "\U8655\U7406\U6210\U529f";
+    response = "<null>";
+    status = success;
+}<m>
+2018-10-25 18:35:52.255 paking[9171:2741177] |,-[BLEManager ANPRLeaveGarageProcess]|,[L:5239]|,<m>[Gate][LPR]send [enter gate] notification<m>
+2018-10-25 18:35:52.270 paking[9171:2741177] |,-[BLEManager sendGateLog]|,[L:6194]|,<m><m>
+2018-10-25 18:35:52.282 paking[9171:2741177] |,+[BaseServerComm checkDomainByConnectionType:garageID:apiName:]|,[L:488]|,<m>Network-<Carrier> 中華電信<m>
+2018-10-25 18:35:52.283 paking[9171:2741177] |,+[BaseServerComm postDomainWithUrLenCoded:apiName:parameters:returnManager:progress:completion:finally:]|,[L:56]|,<m>[API] /event_log.php? Request : {
+    "device_id" = "D4:CA:6E:B6:4A:0A";
+    "garage_id" = L00022;
+    "log_code" = GO;
+    "log_data" = 1;
+    "log_device" = Gate;
+    "log_type" = "report device status";
+    source = 80;
+}<m>
+2018-10-25 18:35:52.294 paking[9171:2741177] |,-[LocalNotiManager addLocalNotiPriorityWithInfoDic:]|,[L:136]|,<m>Dic{
+    category = InOutGate;
+    exitGateID = "D4:CA:6E:B6:4A:0A";
+}<m>
+2018-10-25 18:35:52.294 paking[9171:2741177] |,-[LocalNotiManager addLocalNotiPriorityWithInfoDic:]|,[L:179]|,<m>localNOTI: priority 6<m>
+2018-10-25 18:35:52.294 paking[9171:2741177] |,-[LocalNotiManager addToLocalNotiQueueWithInfoDic:]|,[L:186]|,<m>localNotiQueue: 0<m>
+2018-10-25 18:35:52.294 paking[9171:2741177] |,-[LocalNotiManager popLocalNotiQueue]|,[L:193]|,<m>localNotiQueue: 1<m>
+2018-10-25 18:35:52.294 paking[9171:2741177] |,-[LocalNotiManager checkUserCarPositionWithDIC:]|,[L:288]|,<m>checkUserCarPositionWithDIC :category :InOutGate reserveNotiValue : (null)<m>
+2018-10-25 18:35:52.294 paking[9171:2741177] |,-[LocalNotiManager comparePreLocalNotiWithInfoDic:]|,[L:363]|,<m>prePriority 0: nowPriority 6<m>
+2018-10-25 18:35:52.294 paking[9171:2741177] |,-[LocalNotiManager popLocalNotiQueue]|,[L:222]|,<m>compareRESULT == LOCALNOTI_COMPARE_LESS<m>
+2018-10-25 18:35:52.294 paking[9171:2741177] |,-[LocalNotiManager popAlert]|,[L:531]|,<m>popAlert<m>
+2018-10-25 18:35:52.295 paking[9171:2741177] |,-[LocalNotiManager popAlert]|,[L:579]|,<m>[localNotiManager getPreLocalNotiPriority] <= 0<m>
+2018-10-25 18:35:52.295 paking[9171:2741177] |,-[LocalNotiManager presentLocalNotiVC]|,[L:598]|,<m>UIApplicationStateActive And Go On <m>
+2018-10-25 18:35:52.296 paking[9171:2741177] |,-[LocalNotiManager enableLocalNotiExistWithCategory:dic:]|,[L:1030]|,<m>gAlertManager.isOutGateExist = true<m>
+2018-10-25 18:35:52.313 paking[9171:2741177] |,-[InOutGateViewController viewDidLoad]|,[L:77]|,<m><m>
+2018-10-25 18:35:52.314 paking[9171:2741177] |,-[InOutGateViewController garageTypeSetup]|,[L:90]|,<m>garageType:1<m>
+2018-10-25 18:35:52.314 paking[9171:2741177] |,-[InOutGateViewController garageLocalNotiTYPE_LPR_SETTING]|,[L:138]|,<m><m>
+2018-10-25 18:35:52.314 paking[9171:2741177] |,-[LocalNotiManager presentWithBaseRootVC:withAlertVC:completion:]|,[L:663]|,<m>_baseRootVC.presentedViewController == nil <m>
+2018-10-25 18:35:52.316 paking[9171:2741177] |,-[InOutGateViewController viewWillAppear:]|,[L:168]|,<m><m>
+2018-10-25 18:35:52.316 paking[9171:2741177] |,-[InOutGateViewController viewWillAppear:]|,[L:201]|,<m>[Gate]Exit Popup<m>
+2018-10-25 18:35:52.317 paking[9171:2741177] |,-[VoiceManager playVoiceImmedieately:]|,[L:223]|,<m>16 <m>
+2018-10-25 18:35:52.318 paking[9171:2741177] |,-[VoiceManager addVoice:]|,[L:76]|,<m>:16<m>
+2018-10-25 18:35:52.319 paking[9171:2741177] |,-[VoiceManager addVoice:]|,[L:188]|,<m>voiceString:謝謝光臨<m>
+2018-10-25 18:35:52.319 paking[9171:2741177] |,-[VoiceManager playVoiceNavigation]|,[L:241]|,<m><m>
+2018-10-25 18:35:52.320 paking[9171:2741177] |,-[VoiceManager playVoiceNavigation]|,[L:248]|,<m>Utterance:[AVSpeechUtterance 0x2833a25c0] String: 謝謝光臨
+Voice: (null)
+Rate: 0.45
+Volume: 1.00
+Pitch Multiplier: 1.15
+Delays: Pre: 0.00(s) Post: 0.00(s)<m>
+2018-10-25 18:35:52.434 paking[9171:2741177] |,-[InOutGateViewController viewDidAppear:]|,[L:334]|,<m><m>
+2018-10-25 18:35:52.531 paking[9171:2741177] |,-[BLEManager centralManager:didDiscoverPeripheral:advertisementData:RSSI:]|,[L:852]|,<m>[Gate]_BLEMac<adv>:D4:CA:6E:B6:4A:0A_GO:-71<m>
+2018-10-25 18:35:52.531 paking[9171:2741177] |,-[BLEManager centralManager:didDiscoverPeripheral:advertisementData:RSSI:]|,[L:853]|,<m>[Gate]_BLEMac<p>:D4:CA:6E:B6:4A:0A_GO<m>
+2018-10-25 18:35:52.531 paking[9171:2741177] |,-[BLEManager checkIfNeedCheckGarageUpdate:]|,[L:1232]|,<m>[Gate]forUpdate duration=16<m>
+2018-10-25 18:35:52.624 paking[9171:2741177] |,+[BaseServerComm postDomainWithUrLenCoded:apiName:parameters:returnManager:progress:completion:finally:]_block_invoke|,[L:69]|,<m>[API] /event_log.php? Success <m>
+2018-10-25 18:35:52.624 paking[9171:2741177] |,-[BLEManager sendGateLog]_block_invoke|,[L:6205]|,<m>result: New record created successfully
+<m>
+2018-10-25 18:35:53.035 paking[9171:2741177] |,-[BLEManager centralManager:didDiscoverPeripheral:advertisementData:RSSI:]|,[L:852]|,<m>[Gate]_BLEMac<adv>:D4:CA:6E:B6:4A:0A_GO:-78<m>
+2018-10-25 18:35:53.036 paking[9171:2741177] |,-[BLEManager centralManager:didDiscoverPeripheral:advertisementData:RSSI:]|,[L:853]|,<m>[Gate]_BLEMac<p>:D4:CA:6E:B6:4A:0A_GO<m>
+2018-10-25 18:35:53.036 paking[9171:2741177] |,-[BLEManager checkIfNeedCheckGarageUpdate:]|,[L:1232]|,<m>[Gate]forUpdate duration=17<m>
+2018-10-25 18:35:53.036 paking[9171:2741177] |,-[BLEManager centralManager:didDiscoverPeripheral:advertisementData:RSSI:]|,[L:884]|,<m>gateLogMac=(
+    "D4:CA:6E:B6:4A:0A_GO"
+)<m>
+2018-10-25 18:35:53.545 paking[9171:2741177] |,-[BLEManager centralManager:didDiscoverPeripheral:advertisementData:RSSI:]|,[L:852]|,<m>[Gate]_BLEMac<adv>:D4:CA:6E:B6:4A:0A_GO:-82<m>
+2018-10-25 18:35:53.545 paking[9171:2741177] |,-[BLEManager centralManager:didDiscoverPeripheral:advertisementData:RSSI:]|,[L:853]|,<m>[Gate]_BLEMac<p>:D4:CA:6E:B6:4A:0A_GO<m>
+2018-10-25 18:35:53.545 paking[9171:2741177] |,-[BLEManager checkIfNeedCheckGarageUpdate:]|,[L:1232]|,<m>[Gate]forUpdate duration=17<m>
+2018-10-25 18:35:53.930 paking[9171:2741177] |,-[VoiceManager speechSynthesizer:didFinishSpeechUtterance:]|,[L:261]|,<m>Utterance:[AVSpeechUtterance 0x2833a25c0] String: 謝謝光臨
+Voice: (null)
+Rate: 0.45
+Volume: 1.00
+Pitch Multiplier: 1.15
+Delays: Pre: 0.00(s) Post: 0.00(s)<m>
+2018-10-25 18:35:53.931 paking[9171:2741177] |,-[VoiceManager playVoiceNavigation]|,[L:241]|,<m><m>
+2018-10-25 18:35:54.051 paking[9171:2741177] |,-[BLEManager centralManager:didDiscoverPeripheral:advertisementData:RSSI:]|,[L:852]|,<m>[Gate]_BLEMac<adv>:D4:CA:6E:B6:4A:0A_GO:-71<m>
+2018-10-25 18:35:54.051 paking[9171:2741177] |,-[BLEManager centralManager:didDiscoverPeripheral:advertisementData:RSSI:]|,[L:853]|,<m>[Gate]_BLEMac<p>:D4:CA:6E:B6:4A:0A_GO<m>
+2018-10-25 18:35:54.051 paking[9171:2741177] |,-[BLEManager checkIfNeedCheckGarageUpdate:]|,[L:1232]|,<m>[Gate]forUpdate duration=18<m>
+2018-10-25 18:35:54.556 paking[9171:2741177] |,-[BLEManager centralManager:didDiscoverPeripheral:advertisementData:RSSI:]|,[L:852]|,<m>[Gate]_BLEMac<adv>:D4:CA:6E:B6:4A:0A_GO:-86<m>
+2018-10-25 18:35:54.556 paking[9171:2741177] |,-[BLEManager centralManager:didDiscoverPeripheral:advertisementData:RSSI:]|,[L:853]|,<m>[Gate]_BLEMac<p>:D4:CA:6E:B6:4A:0A_GO<m>
+2018-10-25 18:35:54.556 paking[9171:2741177] |,-[BLEManager checkIfNeedCheckGarageUpdate:]|,[L:1232]|,<m>[Gate]forUpdate duration=18<m>
+2018-10-25 18:35:55.059 paking[9171:2741177] |,-[BLEManager centralManager:didDiscoverPeripheral:advertisementData:RSSI:]|,[L:852]|,<m>[Gate]_BLEMac<adv>:D4:CA:6E:B6:4A:0A_GO:-83<m>
+2018-10-25 18:35:55.059 paking[9171:2741177] |,-[BLEManager centralManager:didDiscoverPeripheral:advertisementData:RSSI:]|,[L:853]|,<m>[Gate]_BLEMac<p>:D4:CA:6E:B6:4A:0A_GO<m>
+2018-10-25 18:35:55.059 paking[9171:2741177] |,-[BLEManager checkIfNeedCheckGarageUpdate:]|,[L:1232]|,<m>[Gate]forUpdate duration=19<m>
+2018-10-25 18:35:55.278 paking[9171:2741177] |,-[BLEManager ANPRLeaveGarageProcess]_block_invoke|,[L:5243]|,<m>localNotiManager.isOutGateExist = 1<m>
+2018-10-25 18:35:55.279 paking[9171:2741177] |,-[InOutGateViewController cancelGatewayCompletion:]|,[L:359]|,<m><m>
+2018-10-25 18:35:55.279 paking[9171:2741177] |,-[BLEManager startGateScanAfterSec:]|,[L:1602]|,<m>[Gate]3.000000<m>
+2018-10-25 18:35:55.279 paking[9171:2741177] |,-[InOutGateViewController cancelGatewayCompletion:]|,[L:372]|,<m>without Alert<m>
+2018-10-25 18:35:55.282 paking[9171:2741177] |,-[InOutGateViewController viewWillDisappear:]|,[L:340]|,<m><m>
+2018-10-25 18:35:55.286 paking[9171:2741177] |,-[BLEManager ANPRLeaveGarageProcess]_block_invoke_2|,[L:5247]|,<m>resetUserStatus A<m>
+2018-10-25 18:35:55.287 paking[9171:2741177] |,-[BLEManager startGateScanAfterSec:]|,[L:1602]|,<m>[Gate]10.000000<m>
+2018-10-25 18:35:55.287 paking[9171:2741177] |,-[BLEManager startGateScanAfterSec:]|,[L:1609]|,<m>[Gate]enableInOutGateDetect = NO, 10.000000<m>
+2018-10-25 18:35:55.287 paking[9171:2741177] |,-[OrderManager resetUserStatusAfterLeaveGarage]|,[L:471]|,<m>leaveGarageName = 銓營停車-八德立體停車場<m>
+2018-10-24 19:45:45.287 paking[8387:2466718] |,-[LogManager defaultLog]|,[L:97]|,<m>!!PaKing APP Open!!<m>
+2018-10-24 19:45:45.292 paking[8387:2466718] |,-[LogManager defaultLog]|,[L:100]|,<m>Honeypot<m>
+2018-10-24 19:45:45.292 paking[8387:2466718] |,-[LogManager defaultLog]|,[L:101]|,<m>iOS 12.0.1<m>
+2018-10-24 19:45:45.292 paking[8387:2466718] |,-[LogManager defaultLog]|,[L:108]|,<m>Device:iPhone10,4<m>
+2018-10-24 19:45:45.293 paking[8387:2466718] |,-[LogManager defaultLog]|,[L:120]|,<m>paking versoin:1.6.5(release)<m>
+2018-10-24 19:45:45.293 paking[8387:2466718] |,-[LogManager defaultLog]|,[L:121]|,<m>paking build:20180925112634<m>
+2018-10-24 19:45:54.651 paking[8387:2466718] |,-[BLEManager retrySetting:]|,[L:1483]|,<m>[Gate][Locker]<m>
+2018-10-24 19:46:16.824 paking[8387:2466718] |,-[UIAlertController(Queue) viewWillDisappear:]|,[L:31]|,<m><m>
+2018-10-24 19:46:17.250 paking[8387:2466718] |,-[UIAlertController(Queue) viewDidDisappear:]|,[L:37]|,<m><m>
+2018-10-24 19:46:17.251 paking[8387:2466718] |,-[UIAlertController(Queue) dealloc]|,[L:41]|,<m><m>
+2018-10-24 19:46:17.740 paking[8387:2466718] |,-[AppDelegate applicationWillResignActive:]|,[L:133]|,<m><m>
+2018-10-24 19:46:18.586 paking[8387:2466718] |,-[AppDelegate applicationDidEnterBackground:]|,[L:125]|,<m><m>
+2018-10-24 19:46:18.587 paking[8387:2466718] |,-[BLEManager startGateScanAfterSec:]|,[L:1602]|,<m>[Gate]0.000000<m>
+2018-10-24 19:46:18.587 paking[8387:2466718] |,-[BLEManager startLockerScanAfterSec:]|,[L:1619]|,<m>[Locker]0.000000<m>
+2018-10-24 19:46:18.595 paking[8387:2466718] |,-[ADBannerScrollView EnterBackground]|,[L:616]|,<m>ADBannerPageCurrIndex = 10<m>
+2018-10-24 19:46:18.597 paking[8387:2466718] |,-[BLEManager retrySetting:]|,[L:1483]|,<m>[Gate][Locker]<m>

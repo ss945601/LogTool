@@ -1,0 +1,1893 @@
+使用者：iPhone-RickHuang
+裝置： iPhone 6s Plus
+系統： iOS 12.0.1
+版本： paking versoin:1.6.5(release)
+電信： 台湾大哥大
+預約： 有
+車廠： 000007-便利停車場富敦站 Beacon入場, 有Ｎ導航
+///////////////////////////////////
+
+第一次GI 到 Pop Up 時間 : 4.0秒
+
+///////////////////////////////////
+( 2018-10-24 14:51:59 )	啟動App程序
+
+( 2018-10-24 14:52:00 )	[Gate]BLE ON
+
+( 2018-10-24 14:52:03 )	[AppDelegate] applicationDidBecomeActive
+
+( 2018-10-24 14:52:59 )	[AppDelegate] applicationWillResignActive
+
+( 2018-10-24 14:53:00 )	[AppDelegate] applicationDidBecomeActive
+
+( 2018-10-24 14:53:59 )	[AppDelegate] applicationWillResignActive
+
+( 2018-10-24 14:54:00 )	退到App背景
+
+( 2018-10-24 14:54:18 )	進入App前景
+
+( 2018-10-24 14:54:19 )	[AppDelegate] applicationDidBecomeActive
+
+( 2018-10-24 14:55:30 )	[AppDelegate] applicationWillResignActive
+
+( 2018-10-24 14:55:31 )	退到App背景
+
+( 2018-10-24 14:55:54 )	進入App前景
+
+( 2018-10-24 14:55:54 )	[AppDelegate] applicationDidBecomeActive
+
+( 2018-10-24 14:56:03 )	[AppDelegate] applicationWillResignActive
+
+( 2018-10-24 14:56:04 )	退到App背景
+
+( 2018-10-24 15:04:06 )	進入App前景
+
+( 2018-10-24 15:04:06 )	[AppDelegate] applicationDidBecomeActive
+
+( 2018-10-24 15:04:40 )	[AppDelegate] applicationWillResignActive
+
+( 2018-10-24 15:04:44 )	[AppDelegate] applicationDidBecomeActive
+
+( 2018-10-24 15:04:46 )	[AppDelegate] applicationWillResignActive
+
+( 2018-10-24 15:04:50 )	[AppDelegate] applicationDidBecomeActive
+
+( 2018-10-24 15:05:25 )	[AppDelegate] applicationWillResignActive
+
+( 2018-10-24 15:05:26 )	退到App背景
+
+( 2018-10-26 08:49:16 )	啟動App程序
+
+( 2018-10-26 08:49:17 )	[AppDelegate] applicationDidBecomeActive
+
+( 2018-10-26 08:49:18 )	[Gate]BLE ON
+
+( 2018-10-26 08:50:02 )	退到App背景
+
+( 2018-10-26 08:50:02 )	[AppDelegate] applicationWillResignActive
+
+( 2018-10-26 08:52:35 )	進入App前景
+
+( 2018-10-26 08:52:36 )	[AppDelegate] applicationDidBecomeActive
+
+( 2018-10-26 08:54:13 )	[AppDelegate] applicationWillResignActive
+
+( 2018-10-26 08:54:16 )	[AppDelegate] applicationDidBecomeActive
+
+( 2018-10-26 08:54:16 )	[AppDelegate] applicationWillResignActive
+
+( 2018-10-26 08:54:19 )	退到App背景
+
+( 2018-10-26 09:15:31 )	進入App前景
+
+( 2018-10-26 09:15:32 )	[AppDelegate] applicationDidBecomeActive
+
+( 2018-10-26 09:20:04 )	收到第一個GI
+
+( 2018-10-26 09:20:06 )	[didConnectPeripheral]duration:0.244114
+
+( 2018-10-26 09:20:08 )	入閘POP_UP
+
+( 2018-10-26 09:20:13 )	按下入閘按鈕
+
+( 2018-10-26 09:20:15 )	[AppDelegate] applicationWillResignActive
+
+( 2018-10-26 09:20:15 )	[AppDelegate] applicationWillResignActive
+
+( 2018-10-26 09:20:19 )	[didDisconnectPeripheral]
+
+( 2018-10-26 09:20:56 )	[AppDelegate] applicationDidBecomeActive
+
+( 2018-10-26 09:20:56 )	[AppDelegate] applicationDidBecomeActive
+
+( 2018-10-26 09:22:28 )	退到App背景
+
+( 2018-10-26 09:22:28 )	[AppDelegate] applicationWillResignActive
+
+( 2018-10-26 09:23:38 )	進入App前景
+
+( 2018-10-26 09:23:38 )	[AppDelegate] applicationDidBecomeActive
+
+( 2018-10-26 09:24:05 )	[AppDelegate] applicationWillResignActive
+
+( 2018-10-26 09:24:06 )	退到App背景
+
+( 2018-10-26 12:17:30 )	啟動App程序
+
+( 2018-10-26 12:17:30 )	[AppDelegate] applicationDidBecomeActive
+
+( 2018-10-26 12:17:32 )	[Gate]BLE ON
+
+( 2018-10-26 12:17:51 )	退到App背景
+
+( 2018-10-26 12:17:51 )	[AppDelegate] applicationWillResignActive
+
+( 2018-10-26 12:18:12 )	進入App前景
+
+( 2018-10-26 12:18:12 )	[AppDelegate] applicationDidBecomeActive
+
+( 2018-10-26 12:18:13 )	[AppDelegate] applicationWillResignActive
+
+( 2018-10-26 12:18:14 )	退到App背景
+
+( 2018-10-26 12:18:31 )	進入App前景
+
+( 2018-10-26 12:18:32 )	[AppDelegate] applicationDidBecomeActive
+
+( 2018-10-26 12:19:11 )	[didConnectPeripheral]duration:0.259205
+
+( 2018-10-26 12:19:14 )	離開車廠紀錄
+
+///////////////////////////////////
+
+<API:checkGarage>
+狀態：Success
+呼叫次數：2次
+耗費時間：0.694秒
+網路來源：台湾大哥大
+
+<API:garage_enter_check_reservechange>
+狀態：Success
+呼叫次數：1次
+耗費時間：0.582秒
+網路來源：台湾大哥大
+
+<API:garage_enter_confirm>
+狀態：Success
+呼叫次數：1次
+耗費時間：1.206秒
+網路來源：台湾大哥大
+
+///////////////////////////////////
+網路切換時機
+2018-10-24 14:52:01.446 台湾大哥大 (first)
+
+
+--------detail--------
+
+2018-10-24 14:51:59.581 || !!PaKing APP Open!!
+
+2018-10-24 14:51:59.583 || iPhone - Rick Huang
+
+2018-10-24 14:51:59.583 || iOS 12.0.1
+
+2018-10-24 14:51:59.583 || -[LogManager defaultLog]|[L:108]|Device:iPhone 6s Plus
+
+2018-10-24 14:51:59.584 || paking versoin:1.6.5(release)
+
+2018-10-24 14:51:59.584 || paking build:20180925112634
+
+2018-10-24 14:51:59.593 || -[AppDelegate checkUpdate]|[L:342]|開始檢查是否更新
+
+2018-10-24 14:51:59.640 || ISO country code is: tw
+
+2018-10-24 14:51:59.831 || userManager.mobile == nil || [userManager.mobile isEqualToString: GUEST_MOBILE ]
+
+2018-10-24 14:51:59.831 || clear isReservation
+
+2018-10-24 14:51:59.833 || Reserve punish List (null)
+
+2018-10-24 14:51:59.850 || guestSetting userManager.isReservation = 0
+
+2018-10-24 14:51:59.850 || guestSetting userManager.isGarageReservation = 0
+
+2018-10-24 14:51:59.850 || clear isReservation
+
+2018-10-24 14:51:59.852 || guestSetting userManager.isReservation = 0
+
+2018-10-24 14:51:59.852 || guestSetting userManager.isGarageReservation = 0
+
+2018-10-24 14:52:00.263 || -[BLEManager centralManagerDidUpdateState:]|[L:790]|[Gate]BLE ON
+
+2018-10-24 14:52:00.263 || -[BLEManager centralManagerDidUpdateState:]|[L:806]|[Gate]UpdateState:PoweredOn
+
+2018-10-24 14:52:01.446 || Network-<Carrier> 台湾大哥大
+
+2018-10-24 14:52:01.452 || getBannerList Request 
+
+2018-10-24 14:52:01.512 || Network-<Carrier> 台湾大哥大
+
+2018-10-24 14:52:01.512 || get_news Request 
+
+2018-10-24 14:52:02.052 || getBannerList Success 
+
+2018-10-24 14:52:02.066 || get_news Success 
+
+2018-10-24 14:52:03.192 || -[AppDelegate applicationDidBecomeActive:]|[L:193]|
+
+2018-10-24 14:52:10.423 || Network-<Carrier> 台湾大哥大
+
+2018-10-24 14:52:10.425 || getBannerList Request 
+
+2018-10-24 14:52:10.971 || Network-<Carrier> 台湾大哥大
+
+2018-10-24 14:52:10.973 || get_news Request 
+
+2018-10-24 14:52:11.054 || getBannerList Success 
+
+2018-10-24 14:52:11.519 || get_news Success 
+
+2018-10-24 14:52:16.103 || Network-<Carrier> 台湾大哥大
+
+2018-10-24 14:52:16.104 || get_confirm_token Request 
+
+2018-10-24 14:52:21.574 || get_confirm_token Success 
+
+2018-10-24 14:52:21.592 || Network-<Carrier> 台湾大哥大
+
+2018-10-24 14:52:21.593 || check_member Request 
+
+2018-10-24 14:52:22.121 || check_member Success 
+
+2018-10-24 14:52:26.243 || Network-<Carrier> 台湾大哥大
+
+2018-10-24 14:52:26.257 || check_member Request 
+
+2018-10-24 14:52:26.808 || check_member Success 
+
+2018-10-24 14:52:26.825 || Network-<Carrier> 台湾大哥大
+
+2018-10-24 14:52:26.825 || register_confirm Request 
+
+2018-10-24 14:52:27.408 || register_confirm Success 
+
+2018-10-24 14:52:27.437 || Network-<Carrier> 台湾大哥大
+
+2018-10-24 14:52:27.438 || get_CarBrand Request 
+
+2018-10-24 14:52:27.991 || get_CarBrand Success 
+
+2018-10-24 14:52:42.554 || Network-<Carrier> 台湾大哥大
+
+2018-10-24 14:52:42.556 || get_cartype Request 
+
+2018-10-24 14:52:43.246 || get_cartype Success 
+
+2018-10-24 14:52:51.904 || Network-<Carrier> 台湾大哥大
+
+2018-10-24 14:52:51.905 || user_car_edit Request 
+
+2018-10-24 14:52:52.531 || user_car_edit Success 
+
+2018-10-24 14:52:59.046 || -[AppDelegate applicationWillResignActive:]|[L:133]|
+
+2018-10-24 14:53:00.974 || -[AppDelegate applicationDidBecomeActive:]|[L:193]|
+
+2018-10-24 14:53:48.899 || Network-<Carrier> 台湾大哥大
+
+2018-10-24 14:53:48.900 || get_confirm_token Request 
+
+2018-10-24 14:53:49.750 || get_confirm_token Success 
+
+2018-10-24 14:53:59.950 || -[AppDelegate applicationWillResignActive:]|[L:133]|
+
+2018-10-24 14:54:00.578 || -[AppDelegate applicationDidEnterBackground:]|[L:125]|
+
+2018-10-24 14:54:18.554 || -[AppDelegate applicationWillEnterForeground:]|[L:156]|
+
+2018-10-24 14:54:18.619 || Network-<Carrier> 台湾大哥大
+
+2018-10-24 14:54:18.620 || get_vendor Request 
+
+2018-10-24 14:54:19.189 || -[AppDelegate applicationDidBecomeActive:]|[L:193]|
+
+2018-10-24 14:54:19.305 || get_vendor Success 
+
+2018-10-24 14:54:21.249 || Network-<Carrier> 台湾大哥大
+
+2018-10-24 14:54:21.250 || register_email Request 
+
+2018-10-24 14:54:21.904 || register_email Success 
+
+2018-10-24 14:55:19.609 || Network-<Carrier> 台湾大哥大
+
+2018-10-24 14:55:26.062 || sp_credit_binding Success 
+
+2018-10-24 14:55:26.078 || Network-<Carrier> 台湾大哥大
+
+2018-10-24 14:55:26.079 || trade_credit_card_edit Request 
+
+2018-10-24 14:55:26.639 || trade_credit_card_edit Success 
+
+2018-10-24 14:55:29.678 || Network-<Carrier> 台湾大哥大
+
+2018-10-24 14:55:29.679 || mobileconfig_check Request 
+
+2018-10-24 14:55:30.326 || mobileconfig_check Success 
+
+2018-10-24 14:55:30.408 || -[AppDelegate applicationWillResignActive:]|[L:133]|
+
+2018-10-24 14:55:31.208 || -[AppDelegate applicationDidEnterBackground:]|[L:125]|
+
+2018-10-24 14:55:54.021 || -[AppDelegate applicationWillEnterForeground:]|[L:156]|
+
+2018-10-24 14:55:54.748 || -[AppDelegate applicationDidBecomeActive:]|[L:193]|
+
+2018-10-24 14:55:55.858 || Network-<Carrier> 台湾大哥大
+
+2018-10-24 14:55:55.864 || set_member_validity Request 
+
+2018-10-24 14:55:56.435 || set_member_validity Success 
+
+2018-10-24 14:55:56.443 || Network-<Carrier> 台湾大哥大
+
+2018-10-24 14:55:56.444 || login_check_lite Request 
+
+2018-10-24 14:55:57.001 || login_check_lite Success 
+
+2018-10-24 14:55:57.014 || set userManager.isReservation = 0
+
+2018-10-24 14:55:57.014 || set userManager.isGarageReservation = 0
+
+2018-10-24 14:55:57.022 || Network-<Carrier> 台湾大哥大
+
+2018-10-24 14:55:57.022 || trade_credit_card_list Request 
+
+2018-10-24 14:55:57.033 || Network-<Carrier> 台湾大哥大
+
+2018-10-24 14:55:57.033 || getBannerList Request 
+
+2018-10-24 14:55:57.179 || Network-<Carrier> 台湾大哥大
+
+2018-10-24 14:55:57.179 || get_news Request 
+
+2018-10-24 14:55:57.228 || Network-<Carrier> 台湾大哥大
+
+2018-10-24 14:55:57.229 || get_news Request 
+
+2018-10-24 14:55:57.534 || trade_credit_card_list Success 
+
+2018-10-24 14:55:57.559 || getBannerList Success 
+
+2018-10-24 14:55:57.703 || get_news Success 
+
+2018-10-24 14:55:57.734 || get_news Success 
+
+2018-10-24 14:56:03.775 || -[AppDelegate applicationWillResignActive:]|[L:133]|
+
+2018-10-24 14:56:04.395 || -[AppDelegate applicationDidEnterBackground:]|[L:125]|
+
+2018-10-24 15:04:06.133 || -[AppDelegate applicationWillEnterForeground:]|[L:156]|
+
+2018-10-24 15:04:06.367 || -[AppDelegate applicationDidBecomeActive:]|[L:193]|
+
+2018-10-24 15:04:06.395 || Network-<Carrier> 台湾大哥大
+
+2018-10-24 15:04:06.396 || user_fail_trade_check Request 
+
+2018-10-24 15:04:06.989 || user_fail_trade_check Success 
+
+!!!2018-10-24 15:04:06.989 || result: {
+
+!!!2018-10-24 15:04:06.989 || userManager.garageFarePaymentStatus = NoGarageFare 
+
+2018-10-24 15:04:40.941 || -[AppDelegate applicationWillResignActive:]|[L:133]|
+
+2018-10-24 15:04:44.225 || -[AppDelegate applicationDidBecomeActive:]|[L:193]|
+
+2018-10-24 15:04:44.250 || Network-<Carrier> 台湾大哥大
+
+2018-10-24 15:04:44.251 || user_fail_trade_check Request 
+
+2018-10-24 15:04:44.856 || user_fail_trade_check Success 
+
+!!!2018-10-24 15:04:44.856 || result: {
+
+!!!2018-10-24 15:04:44.856 || userManager.garageFarePaymentStatus = NoGarageFare 
+
+2018-10-24 15:04:45.216 || Network-<Carrier> 台湾大哥大
+
+2018-10-24 15:04:45.217 || getBannerList Request 
+
+2018-10-24 15:04:45.766 || Network-<Carrier> 台湾大哥大
+
+2018-10-24 15:04:45.767 || get_news Request 
+
+2018-10-24 15:04:45.784 || getBannerList Success 
+
+2018-10-24 15:04:46.955 || -[AppDelegate applicationWillResignActive:]|[L:133]|
+
+2018-10-24 15:04:46.975 || get_news Success 
+
+2018-10-24 15:04:50.530 || -[AppDelegate applicationDidBecomeActive:]|[L:193]|
+
+2018-10-24 15:04:50.542 || Network-<Carrier> 台湾大哥大
+
+2018-10-24 15:04:50.542 || user_fail_trade_check Request 
+
+2018-10-24 15:04:51.194 || Network-<Carrier> 台湾大哥大
+
+2018-10-24 15:04:51.196 || garage_list Request 
+
+2018-10-24 15:04:51.254 || user_fail_trade_check Success 
+
+!!!2018-10-24 15:04:51.254 || result: {
+
+!!!2018-10-24 15:04:51.255 || userManager.garageFarePaymentStatus = NoGarageFare 
+
+2018-10-24 15:04:52.433 || garage_list Success 
+
+2018-10-24 15:05:18.451 || Network-<Carrier> 台湾大哥大
+
+2018-10-24 15:05:18.451 || getBannerList Request 
+
+2018-10-24 15:05:18.516 || Network-<Carrier> 台湾大哥大
+
+2018-10-24 15:05:18.517 || get_news Request 
+
+2018-10-24 15:05:19.061 || getBannerList Success 
+
+2018-10-24 15:05:19.079 || get_news Success 
+
+2018-10-24 15:05:25.593 || -[AppDelegate applicationWillResignActive:]|[L:133]|
+
+2018-10-24 15:05:26.227 || -[AppDelegate applicationDidEnterBackground:]|[L:125]|
+
+!!!CoreData: annotation: || CoreData: annotation:  Failed to load optimized model at path '/var/containers/Bundle/Application/1E764F8F-AC8D-4D08-B2FA-5B62E7AB84CF/paking.app/GoogleMaps.bundle/GMSCacheStorage.momd/StorageWithTileProto.omo'
+
+!!!CoreData: annotation: || CoreData: annotation:  Failed to load optimized model at path '/var/containers/Bundle/Application/1E764F8F-AC8D-4D08-B2FA-5B62E7AB84CF/paking.app/GoogleMaps.bundle/GMSCacheStorage.momd/StorageWithTileProto.omo'
+
+!!!CoreData: annotation: || CoreData: annotation:  Failed to load optimized model at path '/var/containers/Bundle/Application/1E764F8F-AC8D-4D08-B2FA-5B62E7AB84CF/paking.app/GoogleMaps.bundle/GMSCacheStorage.momd/StorageWithTileProto.omo'
+
+2018-10-26 08:49:16.990 || -[AppDelegate checkUpdate]|[L:342]|開始檢查是否更新
+
+2018-10-26 08:49:17.237 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 08:49:17.243 || check_member Request 
+
+2018-10-26 08:49:17.546 || -[AppDelegate applicationDidBecomeActive:]|[L:193]|
+
+2018-10-26 08:49:17.832 || check_member Success 
+
+2018-10-26 08:49:17.846 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 08:49:17.847 || login_check_lite Request 
+
+2018-10-26 08:49:18.414 || login_check_lite Success 
+
+2018-10-26 08:49:18.425 || set userManager.isReservation = 0
+
+2018-10-26 08:49:18.425 || set userManager.isGarageReservation = 0
+
+2018-10-26 08:49:18.553 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 08:49:18.554 || getBannerList Request 
+
+2018-10-26 08:49:18.597 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 08:49:18.598 || get_news Request 
+
+2018-10-26 08:49:18.659 || -[BLEManager centralManagerDidUpdateState:]|[L:790]|[Gate]BLE ON
+
+2018-10-26 08:49:18.659 || -[BLEManager centralManagerDidUpdateState:]|[L:806]|[Gate]UpdateState:PoweredOn
+
+2018-10-26 08:49:19.088 || getBannerList Success 
+
+2018-10-26 08:49:19.120 || get_news Success 
+
+2018-10-26 08:49:21.656 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 08:49:21.668 || get_vendor Request 
+
+2018-10-26 08:49:22.244 || get_vendor Success 
+
+2018-10-26 08:49:23.222 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 08:49:23.223 || garage_list Request 
+
+2018-10-26 08:49:23.974 || garage_list Success 
+
+2018-10-26 08:50:02.849 || -[AppDelegate applicationWillResignActive:]|[L:133]|
+
+2018-10-26 08:50:02.858 || -[AppDelegate applicationDidEnterBackground:]|[L:125]|
+
+!!!2018-10-26 08:50:42.351 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  _kCFStreamErrorDomainKey=12}
+
+!!!2018-10-26 08:50:42.417 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  _kCFStreamErrorDomainKey=1}
+
+2018-10-26 08:52:35.575 || -[AppDelegate applicationWillEnterForeground:]|[L:156]|
+
+2018-10-26 08:52:36.137 || -[AppDelegate applicationDidBecomeActive:]|[L:193]|
+
+2018-10-26 08:52:36.164 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 08:52:36.165 || user_fail_trade_check Request 
+
+2018-10-26 08:52:36.833 || user_fail_trade_check Success 
+
+!!!2018-10-26 08:52:36.833 || result: {
+
+!!!2018-10-26 08:52:36.833 || userManager.garageFarePaymentStatus = NoGarageFare 
+
+2018-10-26 08:52:37.135 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 08:52:37.136 || garage_list Request 
+
+2018-10-26 08:52:37.895 || garage_list Success 
+
+!!!CoreData: annotation: || CoreData: annotation:  Failed to load optimized model at path '/var/containers/Bundle/Application/1E764F8F-AC8D-4D08-B2FA-5B62E7AB84CF/paking.app/GoogleMaps.bundle/GMSCacheStorage.momd/StorageWithTileProto.omo'
+
+!!!CoreData: annotation: || CoreData: annotation:  Failed to load optimized model at path '/var/containers/Bundle/Application/1E764F8F-AC8D-4D08-B2FA-5B62E7AB84CF/paking.app/GoogleMaps.bundle/GMSCacheStorage.momd/StorageWithTileProto.omo'
+
+!!!CoreData: annotation: || CoreData: annotation:  Failed to load optimized model at path '/var/containers/Bundle/Application/1E764F8F-AC8D-4D08-B2FA-5B62E7AB84CF/paking.app/GoogleMaps.bundle/GMSCacheStorage.momd/StorageWithTileProto.omo'
+
+2018-10-26 08:52:43.792 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 08:52:43.793 || garage_list Request 
+
+2018-10-26 08:52:44.144 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 08:52:44.145 || garage_list Request 
+
+!!!2018-10-26 08:52:44.148 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  NSLocalizedDescription=已取消}
+
+!!!2018-10-26 08:52:44.148 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  NSLocalizedDescription=已取消}
+
+2018-10-26 08:52:45.522 || garage_list Success 
+
+2018-10-26 08:52:58.014 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 08:52:58.700 || one_garage_list Success 
+
+2018-10-26 08:52:58.753 || State = 2
+
+2018-10-26 08:52:58.754 || Desc = ＊至10/31止停車第一小時免費|＊至10/31止免收預約費
+
+2018-10-26 08:52:58.761 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 08:52:58.762 || get_vendor Request 
+
+2018-10-26 08:52:59.274 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 08:52:59.332 || get_vendor Success 
+
+2018-10-26 08:52:59.858 || one_garage_list Success 
+
+2018-10-26 08:53:02.874 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 08:53:03.461 || one_garage_list Success 
+
+2018-10-26 08:53:06.469 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 08:53:07.127 || one_garage_list Success 
+
+2018-10-26 08:53:10.143 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 08:53:10.748 || one_garage_list Success 
+
+2018-10-26 08:53:13.769 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 08:53:14.397 || one_garage_list Success 
+
+2018-10-26 08:53:17.416 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 08:53:18.109 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 08:53:18.109 || user_favorite_garage_edit Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-26 08:53:18.268 || one_garage_list Success 
+
+2018-10-26 08:53:18.655 || user_favorite_garage_edit Success 
+
+2018-10-26 08:53:21.317 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 08:53:21.904 || one_garage_list Success 
+
+2018-10-26 08:53:24.928 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 08:53:25.522 || one_garage_list Success 
+
+2018-10-26 08:53:28.548 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 08:53:29.129 || one_garage_list Success 
+
+2018-10-26 08:53:32.136 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 08:53:32.697 || one_garage_list Success 
+
+2018-10-26 08:53:35.704 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 08:53:36.338 || one_garage_list Success 
+
+2018-10-26 08:53:49.310 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 08:53:49.312 || reserve_booking_confirm Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-26 08:53:50.515 || reserve_booking_confirm Success 
+
+  ||         "flow_gatecontrol" = 0;
+
+  ||         "garage_id" = 000007;
+
+  ||     "flow_gatecontrol" = 0;
+
+  ||     "garage_id" = 000007;
+
+2018-10-26 08:53:50.623 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 08:53:50.623 || trade_reserveOverFee Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-26 08:53:51.267 || trade_reserveOverFee Success 
+
+  ||                 "garage_id" = 000007;
+
+  ||                 "garage_id" = 000007;
+
+2018-10-26 08:53:51.673 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 08:53:51.673 || garage_list Request 
+
+2018-10-26 08:53:52.055 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 08:53:52.056 || garage_list Request 
+
+!!!2018-10-26 08:53:52.058 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  NSLocalizedDescription=已取消}
+
+!!!2018-10-26 08:53:52.058 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  NSLocalizedDescription=已取消}
+
+2018-10-26 08:53:52.879 || garage_list Success 
+
+2018-10-26 08:54:13.375 || -[AppDelegate applicationWillResignActive:]|[L:133]|
+
+2018-10-26 08:54:16.683 || -[AppDelegate applicationDidBecomeActive:]|[L:193]|
+
+2018-10-26 08:54:16.726 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 08:54:16.726 || user_fail_trade_check Request 
+
+2018-10-26 08:54:16.745 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 08:54:16.746 || trade_reserveOverFee Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-26 08:54:16.747 || -[AppDelegate applicationWillResignActive:]|[L:133]|
+
+2018-10-26 08:54:17.382 || user_fail_trade_check Success 
+
+!!!2018-10-26 08:54:17.382 || result: {
+
+!!!2018-10-26 08:54:17.382 || userManager.garageFarePaymentStatus = NoGarageFare 
+
+2018-10-26 08:54:17.460 || trade_reserveOverFee Success 
+
+  ||                 "garage_id" = 000007;
+
+  ||                 "garage_id" = 000007;
+
+2018-10-26 08:54:19.235 || -[AppDelegate applicationDidEnterBackground:]|[L:125]|
+
+2018-10-26 09:15:31.733 || -[AppDelegate applicationWillEnterForeground:]|[L:156]|
+
+2018-10-26 09:15:32.383 || -[AppDelegate applicationDidBecomeActive:]|[L:193]|
+
+2018-10-26 09:15:32.423 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 09:15:32.430 || user_fail_trade_check Request 
+
+2018-10-26 09:15:32.454 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 09:15:32.455 || trade_reserveOverFee Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-26 09:15:33.038 || user_fail_trade_check Success 
+
+!!!2018-10-26 09:15:33.038 || result: {
+
+!!!2018-10-26 09:15:33.038 || userManager.garageFarePaymentStatus = NoGarageFare 
+
+2018-10-26 09:15:33.113 || trade_reserveOverFee Success 
+
+  ||                 "garage_id" = 000007;
+
+  ||                 "garage_id" = 000007;
+
+2018-10-26 09:15:58.703 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 09:15:58.704 || trade_reserveOverFee Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-26 09:15:59.448 || trade_reserveOverFee Success 
+
+  ||                 "garage_id" = 000007;
+
+  ||                 "garage_id" = 000007;
+
+2018-10-26 09:16:09.489 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 09:16:09.490 || garage_list Request 
+
+2018-10-26 09:16:10.768 || garage_list Success 
+
+2018-10-26 09:16:20.127 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 09:16:20.128 || trade_reserveOverFee Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-26 09:16:20.953 || trade_reserveOverFee Success 
+
+  ||                 "garage_id" = 000007;
+
+  ||                 "garage_id" = 000007;
+
+2018-10-26 09:17:32.008 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 09:17:32.009 || trade_reserveOverFee Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-26 09:17:32.619 || trade_reserveOverFee Success 
+
+  ||                 "garage_id" = 000007;
+
+  ||                 "garage_id" = 000007;
+
+2018-10-26 09:17:35.598 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 09:17:35.599 || getBannerList Request 
+
+2018-10-26 09:17:35.771 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 09:17:35.771 || get_news Request 
+
+2018-10-26 09:17:36.167 || getBannerList Success 
+
+2018-10-26 09:17:36.325 || get_news Success 
+
+2018-10-26 09:17:39.849 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 09:17:39.850 || trade_reserveOverFee Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-26 09:17:39.857 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 09:17:39.858 || user_invoice_list Request 
+
+2018-10-26 09:17:40.505 || trade_reserveOverFee Success 
+
+  ||                 "garage_id" = 000007;
+
+  ||                 "garage_id" = 000007;
+
+2018-10-26 09:17:40.524 || user_invoice_list Success 
+
+2018-10-26 09:17:47.279 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 09:17:47.280 || getBannerList Request 
+
+2018-10-26 09:17:47.817 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 09:17:47.818 || get_news Request 
+
+2018-10-26 09:17:47.917 || getBannerList Success 
+
+2018-10-26 09:17:48.346 || get_news Success 
+
+2018-10-26 09:17:58.433 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 09:17:58.434 || garage_list Request 
+
+2018-10-26 09:17:59.389 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 09:17:59.390 || trade_reserveOverFee Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-26 09:17:59.690 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 09:17:59.690 || garage_list Request 
+
+!!!2018-10-26 09:17:59.692 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  NSLocalizedDescription=已取消}
+
+!!!2018-10-26 09:17:59.692 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  NSLocalizedDescription=已取消}
+
+2018-10-26 09:18:00.006 || trade_reserveOverFee Success 
+
+  ||                 "garage_id" = 000007;
+
+  ||                 "garage_id" = 000007;
+
+2018-10-26 09:18:01.007 || garage_list Success 
+
+2018-10-26 09:20:04.209 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-89
+
+2018-10-26 09:20:04.209 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-26 09:20:04.224 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 09:20:04.225 || inputAPI = /app.php?page=checkGarage
+
+2018-10-26 09:20:04.225 || Set CHECK_GARAGE 3sec TimeOut /app.php?page=checkGarage
+
+2018-10-26 09:20:04.234 || checkGarage Request 
+
+2018-10-26 09:20:04.723 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-92
+
+2018-10-26 09:20:04.723 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-26 09:20:04.928 || checkGarage Success 
+
+  ||                 "garage_id" = 000007;
+
+  ||                 "garage_id" = 000007;
+
+  ||         "flow_gatecontrol" = 0;
+
+  ||         "garage_id" = 000007;
+
+2018-10-26 09:20:05.881 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-86
+
+2018-10-26 09:20:05.881 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-26 09:20:06.306 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-76
+
+2018-10-26 09:20:06.307 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-26 09:20:06.307 || [Gate]GATE > -85!!!!
+
+2018-10-26 09:20:06.729 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-66
+
+2018-10-26 09:20:06.729 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-26 09:20:06.730 || [Gate]GATE > -85!!!!
+
+2018-10-26 09:20:06.731 || [Gate]pName:00:23:A7:A6:B3:D8_GI
+
+2018-10-26 09:20:06.975 || [Gate]pName:00:23:A7:A6:B3:D8_GI
+
+2018-10-26 09:20:06.976 || -[BLEManager centralManager:didConnectPeripheral:]|[L:1037]|[Gate]connected duration:0.244114
+
+2018-10-26 09:20:06.976 || -[BLEManager centralManager:didConnectPeripheral:]|[L:1038]|[Gate]apiProcessingStatus:{
+
+2018-10-26 09:20:06.976 || [Gate]pName:00:23:A7:A6:B3:D8_GI
+
+2018-10-26 09:20:07.438 || [Gate]pName:00:23:A7:A6:B3:D8_GI
+
+2018-10-26 09:20:07.618 || [Gate]pName:00:23:A7:A6:B3:D8_GI
+
+2018-10-26 09:20:07.720 || -[BLEManager sendDataToMCU:]|[L:1422]|[Gate]send command to mcu:PASSWORD
+
+2018-10-26 09:20:07.829 || [Gate]pName:00:23:A7:A6:B3:D8_GI
+
+2018-10-26 09:20:07.829 || -[BLEManager peripheral:didUpdateValueForCharacteristic:error:]|[L:1378]|[Gate]Gate Password Success
+
+2018-10-26 09:20:07.864 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 09:20:07.865 || inputAPI = /app.php?page=garage_enter_check_reservechange
+
+2018-10-26 09:20:07.865 || Set CHECK_GARAGE 3sec TimeOut /app.php?page=garage_enter_check_reservechange
+
+2018-10-26 09:20:07.871 || garage_enter_check_reservechange Request 
+
+2018-10-26 09:20:08.453 || garage_enter_check_reservechange Success 
+
+2018-10-26 09:20:08.460 || userManager.isGarageReservation = 1
+
+2018-10-26 09:20:08.460 || userManager.isReservation = 1
+
+  ||     "garage_id" = 000007;
+
+2018-10-26 09:20:08.464 || userManager.isGarageReservation = 1
+
+  ||     "flow_gatecontrol" = 0;
+
+  ||     "garage_id" = 000007;
+
+2018-10-26 09:20:08.482 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 09:20:08.483 || parking_space_list Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-26 09:20:08.528 || 不須拿票卡
+
+2018-10-26 09:20:08.815 || reservation enter popup
+
+2018-10-26 09:20:09.175 || parking_space_list Success 
+
+2018-10-26 09:20:13.665 || [Gate]Open InOutGate 
+
+2018-10-26 09:20:13.679 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 09:20:13.680 || getBannerList Request 
+
+2018-10-26 09:20:13.705 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 09:20:13.706 || get_news Request 
+
+2018-10-26 09:20:13.717 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 09:20:13.717 || inputAPI = /local.php?page=garage_enter_confirm&garage_dbname=000007
+
+2018-10-26 09:20:13.717 || Set CHECK_GARAGE 3sec TimeOut /local.php?page=garage_enter_confirm&garage_dbname=000007
+
+2018-10-26 09:20:13.723 || garage_enter_confirm&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-26 09:20:14.333 || get_news Success 
+
+2018-10-26 09:20:14.356 || getBannerList Success 
+
+2018-10-26 09:20:14.929 || garage_enter_confirm&garage_dbname=000007 Success 
+
+  ||         "garage_id" = 000007;
+
+2018-10-26 09:20:15.031 || -[BLEManager sendDataToMCU:]|[L:1428]|[Gate]send command to mcu:OPEN GATE
+
+2018-10-26 09:20:15.119 || [Gate]pName:00:23:A7:A6:B3:D8_GI
+
+2018-10-26 09:20:15.119 || -[BLEManager peripheral:didUpdateValueForCharacteristic:error:]|[L:1391]|[Gate]Gate Open Success
+
+2018-10-26 09:20:15.120 || [Gate]
+
+2018-10-26 09:20:15.135 || set orderListInfo = {
+
+  ||     "flow_gatecontrol" = 0;
+
+  ||     "garage_id" = 000007;
+
+2018-10-26 09:20:15.136 || userManager.gateGarageInfo = {
+
+  ||             "garage_id" = 000007;
+
+  ||             "garage_id" = 000007;
+
+  ||     "flow_gatecontrol" = 0;
+
+  ||     "garage_id" = 000007;
+
+2018-10-26 09:20:15.149 ||  39號
+
+  ||     "flow_gatecontrol" = 0;
+
+  ||     "garage_id" = 000007;
+
+2018-10-26 09:20:15.201 || usermanager.isReservation = 0
+
+2018-10-26 09:20:15.201 || usermanager.isGarageReservation = 1
+
+2018-10-26 09:20:15.313 || -[AppDelegate applicationWillResignActive:]|[L:133]|
+
+2018-10-26 09:20:15.313 || -[AppDelegate applicationWillResignActive:]|[L:136]|userManager.checkMotionAlertState == CheckSTATE_CHECKING  
+
+2018-10-26 09:20:16.709 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 09:20:16.710 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-26 09:20:17.335 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-26 09:20:18.011 || voiceString:前方右轉
+
+2018-10-26 09:20:18.169 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 09:20:18.170 || get_one_space_status&garage_dbname=000007 Request 
+
+2018-10-26 09:20:18.720 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 09:20:18.721 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-26 09:20:18.781 || get_one_space_status&garage_dbname=000007 Success 
+
+2018-10-26 09:20:19.478 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-26 09:20:19.535 || -[BLEManager centralManager:didDisconnectPeripheral:error:]|[L:1060]|[Gate]pName:00:23:A7:A6:B3:D8_GI
+
+2018-10-26 09:20:19.535 || -[BLEManager centralManager:didDisconnectPeripheral:error:]|[L:1061]|[Gate]error:Error Domain=CBErrorDomain Code=6 "The connection has timed out unexpectedly." UserInfo={NSLocalizedDescription=The connection has timed out unexpectedly.}
+
+2018-10-26 09:20:19.536 || -[BLEManager centralManager:didDisconnectPeripheral:error:]|[L:1062]|[Gate]completeGateConnectProcess=1
+
+2018-10-26 09:20:20.356 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 09:20:20.357 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-26 09:20:21.009 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-26 09:20:21.179 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 09:20:21.180 || get_one_space_status&garage_dbname=000007 Request 
+
+2018-10-26 09:20:21.735 || get_one_space_status&garage_dbname=000007 Success 
+
+2018-10-26 09:20:22.499 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 09:20:22.501 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-26 09:20:23.216 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-26 09:20:24.024 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 09:20:24.025 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-26 09:20:24.180 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 09:20:24.181 || get_one_space_status&garage_dbname=000007 Request 
+
+2018-10-26 09:20:24.692 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-26 09:20:25.254 || get_one_space_status&garage_dbname=000007 Success 
+
+2018-10-26 09:20:26.236 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 09:20:26.238 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-26 09:20:27.056 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-26 09:20:27.180 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 09:20:27.182 || get_one_space_status&garage_dbname=000007 Request 
+
+2018-10-26 09:20:27.543 || voiceString:下樓
+
+2018-10-26 09:20:27.707 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 09:20:27.708 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-26 09:20:27.819 || get_one_space_status&garage_dbname=000007 Success 
+
+2018-10-26 09:20:28.373 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-26 09:20:30.073 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 09:20:30.075 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-26 09:20:30.176 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 09:20:30.177 || get_one_space_status&garage_dbname=000007 Request 
+
+2018-10-26 09:20:30.856 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-26 09:20:31.255 || get_one_space_status&garage_dbname=000007 Success 
+
+2018-10-26 09:20:31.391 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 09:20:31.392 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-26 09:20:31.954 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-26 09:20:33.180 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 09:20:33.181 || get_one_space_status&garage_dbname=000007 Request 
+
+2018-10-26 09:20:33.809 || get_one_space_status&garage_dbname=000007 Success 
+
+2018-10-26 09:20:33.870 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 09:20:33.871 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-26 09:20:34.418 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-26 09:20:34.965 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 09:20:34.966 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-26 09:20:35.575 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-26 09:20:35.743 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 09:20:35.744 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-26 09:20:36.176 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 09:20:36.177 || get_one_space_status&garage_dbname=000007 Request 
+
+2018-10-26 09:20:36.377 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-26 09:20:36.799 || get_one_space_status&garage_dbname=000007 Success 
+
+2018-10-26 09:20:37.613 || voiceString:前方右轉
+
+2018-10-26 09:20:37.745 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 09:20:37.746 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-26 09:20:38.285 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-26 09:20:39.180 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 09:20:39.181 || get_one_space_status&garage_dbname=000007 Request 
+
+2018-10-26 09:20:39.393 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 09:20:39.394 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-26 09:20:39.816 || get_one_space_status&garage_dbname=000007 Success 
+
+2018-10-26 09:20:40.367 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-26 09:20:41.305 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 09:20:41.306 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-26 09:20:42.118 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-26 09:20:42.177 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 09:20:42.178 || get_one_space_status&garage_dbname=000007 Request 
+
+2018-10-26 09:20:42.855 || get_one_space_status&garage_dbname=000007 Success 
+
+2018-10-26 09:20:43.381 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 09:20:43.382 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-26 09:20:43.987 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-26 09:20:45.135 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 09:20:45.136 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-26 09:20:45.176 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 09:20:45.177 || get_one_space_status&garage_dbname=000007 Request 
+
+2018-10-26 09:20:45.847 || send [lockerDown] notification
+
+2018-10-26 09:20:45.866 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-26 09:20:46.296 || get_one_space_status&garage_dbname=000007 Success 
+
+2018-10-26 09:20:47.006 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 09:20:47.007 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-26 09:20:47.656 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-26 09:20:48.181 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 09:20:48.182 || get_one_space_status&garage_dbname=000007 Request 
+
+2018-10-26 09:20:48.884 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 09:20:48.885 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-26 09:20:48.926 || get_one_space_status&garage_dbname=000007 Success 
+
+2018-10-26 09:20:49.717 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-26 09:20:50.674 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 09:20:50.676 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-26 09:20:51.176 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 09:20:51.178 || get_one_space_status&garage_dbname=000007 Request 
+
+2018-10-26 09:20:51.363 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-26 09:20:51.816 || get_one_space_status&garage_dbname=000007 Success 
+
+2018-10-26 09:20:52.739 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 09:20:52.741 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-26 09:20:53.414 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-26 09:20:54.180 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 09:20:54.181 || get_one_space_status&garage_dbname=000007 Request 
+
+2018-10-26 09:20:54.382 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 09:20:54.384 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-26 09:20:54.773 || get_one_space_status&garage_dbname=000007 Success 
+
+2018-10-26 09:20:55.335 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-26 09:20:56.428 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 09:20:56.429 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-26 09:20:56.726 || -[AppDelegate applicationDidBecomeActive:]|[L:193]|
+
+2018-10-26 09:20:56.729 || -[AppDelegate applicationDidBecomeActive:]|[L:201]|userManager.checkMotionAlertState = CheckSTATE_CHECKED
+
+2018-10-26 09:20:56.740 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 09:20:56.741 || user_fail_trade_check Request 
+
+2018-10-26 09:20:56.747 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 09:20:56.747 || ANPR_check_exit Request 
+
+2018-10-26 09:20:56.754 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 09:20:56.754 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-26 09:20:56.758 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 09:20:56.759 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-26 09:20:57.008 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-26 09:20:57.171 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 09:20:57.172 || get_one_space_status&garage_dbname=000007 Request 
+
+2018-10-26 09:20:57.332 || user_fail_trade_check Success 
+
+!!!2018-10-26 09:20:57.332 || result: {
+
+!!!2018-10-26 09:20:57.332 || userManager.garageFarePaymentStatus = NoGarageFare 
+
+2018-10-26 09:20:57.367 || ANPR_check_exit Success 
+
+2018-10-26 09:20:57.596 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-26 09:20:57.806 || send [lockerDown] notification
+
+2018-10-26 09:20:57.837 || voiceString:已接近預約車位
+
+2018-10-26 09:20:57.837 || voiceString:39號
+
+2018-10-26 09:20:58.135 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-26 09:20:58.546 || get_one_space_status&garage_dbname=000007 Success 
+
+2018-10-26 09:21:00.179 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 09:21:00.181 || get_one_space_status&garage_dbname=000007 Request 
+
+2018-10-26 09:21:00.566 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 09:21:00.616 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 09:21:00.617 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-26 09:21:00.757 || get_one_space_status&garage_dbname=000007 Success 
+
+2018-10-26 09:21:01.152 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 09:21:01.154 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-26 09:21:01.557 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-26 09:21:01.965 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-26 09:21:04.579 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 09:21:04.581 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-26 09:21:04.975 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 09:21:04.976 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-26 09:21:05.197 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-26 09:21:05.636 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 09:21:05.637 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-26 09:21:05.646 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 09:21:05.647 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-26 09:21:05.697 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-26 09:21:06.174 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-26 09:21:06.605 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-26 09:21:09.198 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 09:21:09.199 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-26 09:21:09.620 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 09:21:09.621 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-26 09:21:09.773 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-26 09:21:10.298 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-26 09:21:12.791 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 09:21:12.793 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-26 09:21:13.312 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 09:21:13.313 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-26 09:21:13.558 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-26 09:21:13.967 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-26 09:21:16.582 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 09:21:16.583 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-26 09:21:16.974 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 09:21:16.975 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-26 09:21:17.397 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-26 09:21:17.739 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-26 09:21:20.420 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 09:21:20.421 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-26 09:21:20.753 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 09:21:20.755 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-26 09:21:21.139 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-26 09:21:21.495 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-26 09:21:24.165 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 09:21:24.166 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-26 09:21:24.508 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 09:21:24.509 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-26 09:21:24.976 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-26 09:21:25.334 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-26 09:21:27.992 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 09:21:27.994 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-26 09:21:28.351 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 09:21:28.352 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-26 09:21:28.838 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-26 09:21:29.255 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-26 09:21:31.851 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 09:21:31.852 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-26 09:21:32.268 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 09:21:32.269 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-26 09:21:32.386 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-26 09:21:32.836 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-26 09:21:35.408 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 09:21:35.409 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-26 09:21:35.852 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 09:21:35.854 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-26 09:21:36.157 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-26 09:21:36.552 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-26 09:21:38.924 || voiceString:停完車請確認
+
+2018-10-26 09:21:39.177 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 09:21:39.178 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-26 09:21:39.566 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 09:21:39.568 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-26 09:21:39.717 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-26 09:21:40.192 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-26 09:21:42.740 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 09:21:42.741 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-26 09:21:43.210 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 09:21:43.212 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-26 09:21:43.558 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-26 09:21:43.968 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-26 09:21:46.576 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 09:21:46.577 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-26 09:21:46.976 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 09:21:46.976 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-26 09:21:47.358 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-26 09:21:47.661 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-26 09:21:50.381 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 09:21:50.383 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-26 09:21:50.679 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 09:21:50.680 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-26 09:21:50.991 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-26 09:21:51.451 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-26 09:21:54.016 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 09:21:54.018 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-26 09:21:54.470 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 09:21:54.471 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-26 09:21:54.756 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-26 09:21:55.176 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-26 09:21:57.773 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 09:21:57.774 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-26 09:21:58.191 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 09:21:58.192 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-26 09:21:58.499 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-26 09:21:58.855 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-26 09:22:01.522 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 09:22:01.523 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-26 09:22:01.894 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 09:22:01.894 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-26 09:22:02.338 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-26 09:22:02.708 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-26 09:22:05.362 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 09:22:05.363 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-26 09:22:05.723 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 09:22:05.725 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-26 09:22:06.061 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-26 09:22:06.458 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-26 09:22:09.083 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 09:22:09.084 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-26 09:22:09.472 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 09:22:09.474 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-26 09:22:09.670 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-26 09:22:10.099 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-26 09:22:11.918 || voiceString:是否停車完成
+
+2018-10-26 09:22:11.918 || ParkedConfirmNote popup
+
+2018-10-26 09:22:12.692 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 09:22:12.693 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-26 09:22:13.119 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 09:22:13.120 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-26 09:22:13.498 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-26 09:22:13.803 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 09:22:13.804 || parking_tracking_insert_test&garage_dbname=000007 Request 
+
+2018-10-26 09:22:13.822 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 09:22:13.822 || getBannerList Request 
+
+2018-10-26 09:22:13.847 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 09:22:13.848 || get_news Request 
+
+2018-10-26 09:22:13.857 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-26 09:22:14.476 || getBannerList Success 
+
+2018-10-26 09:22:14.487 || parking_tracking_insert_test&garage_dbname=000007 Success 
+
+2018-10-26 09:22:14.504 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 09:22:14.505 || space_tracking_lite&garage_dbname=000007 Request 
+
+2018-10-26 09:22:15.510 || get_news Success 
+
+2018-10-26 09:22:15.818 || space_tracking_lite&garage_dbname=000007 Success 
+
+2018-10-26 09:22:28.878 || -[AppDelegate applicationWillResignActive:]|[L:133]|
+
+2018-10-26 09:22:28.885 || -[AppDelegate applicationDidEnterBackground:]|[L:125]|
+
+2018-10-26 09:23:38.245 || -[AppDelegate applicationWillEnterForeground:]|[L:156]|
+
+2018-10-26 09:23:38.808 || -[AppDelegate applicationDidBecomeActive:]|[L:193]|
+
+2018-10-26 09:23:38.826 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 09:23:38.826 || user_fail_trade_check Request 
+
+2018-10-26 09:23:38.833 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 09:23:38.834 || ANPR_check_exit Request 
+
+2018-10-26 09:23:39.425 || ANPR_check_exit Success 
+
+2018-10-26 09:23:39.459 || user_fail_trade_check Success 
+
+!!!2018-10-26 09:23:39.460 || result: {
+
+!!!2018-10-26 09:23:39.460 || userManager.garageFarePaymentStatus = NoGarageFare 
+
+2018-10-26 09:23:42.348 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 09:23:42.349 || trade_get_parkingFee Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-26 09:23:42.354 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 09:23:42.355 || user_invoice_list Request 
+
+2018-10-26 09:23:43.029 || trade_get_parkingFee Success 
+
+  ||                 "garage_id" = 000007;
+
+  ||                 "garage_id" = 000007;
+
+2018-10-26 09:23:43.063 || user_invoice_list Success 
+
+2018-10-26 09:23:57.634 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 09:23:57.635 || getBannerList Request 
+
+2018-10-26 09:23:58.161 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 09:23:58.162 || get_news Request 
+
+2018-10-26 09:23:58.266 || getBannerList Success 
+
+2018-10-26 09:23:58.689 || get_news Success 
+
+2018-10-26 09:24:05.444 || -[AppDelegate applicationWillResignActive:]|[L:133]|
+
+2018-10-26 09:24:06.043 || -[AppDelegate applicationDidEnterBackground:]|[L:125]|
+
+2018-10-26 12:17:30.540 || -[AppDelegate checkUpdate]|[L:338]|場外不執行更新
+
+2018-10-26 12:17:30.787 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 12:17:30.791 || check_member Request 
+
+2018-10-26 12:17:30.824 || -[AppDelegate applicationDidBecomeActive:]|[L:193]|
+
+2018-10-26 12:17:31.358 || check_member Success 
+
+2018-10-26 12:17:31.372 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 12:17:31.373 || login_check_lite Request 
+
+2018-10-26 12:17:32.639 || login_check_lite Success 
+
+  ||                     "garage_id" = 000007;
+
+  ||                     "garage_id" = 000007;
+
+  ||             "garage_id" = 000007;
+
+  ||             "flow_gatecontrol" = 0;
+
+  ||             "garage_id" = 000007;
+
+  ||             "garage_id" = 000007;
+
+  ||             "garage_id" = 000007;
+
+  ||             "flow_gatecontrol" = 0;
+
+  ||             "garage_id" = 000007;
+
+2018-10-26 12:17:32.653 || userManager.isGarageReservation = 1
+
+2018-10-26 12:17:32.653 || userManager.isReservation = 1
+
+  ||     "flow_gatecontrol" = 0;
+
+  ||     "garage_id" = 000007;
+
+2018-10-26 12:17:32.656 || userManager.isGarageReservation = 1
+
+2018-10-26 12:17:32.663 || userManager.isGarageReservation = 1
+
+2018-10-26 12:17:32.663 || userManager.isReservation = 1
+
+  ||     "flow_gatecontrol" = 0;
+
+  ||     "garage_id" = 000007;
+
+2018-10-26 12:17:32.683 || set userManager.isReservation = 0
+
+2018-10-26 12:17:32.683 || set userManager.isGarageReservation = 1
+
+2018-10-26 12:17:32.697 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 12:17:32.699 || ANPR_check_exit Request 
+
+2018-10-26 12:17:32.801 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 12:17:32.802 || getBannerList Request 
+
+2018-10-26 12:17:32.842 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 12:17:32.842 || get_news Request 
+
+2018-10-26 12:17:32.951 || -[BLEManager centralManagerDidUpdateState:]|[L:790]|[Gate]BLE ON
+
+2018-10-26 12:17:32.952 || -[BLEManager centralManagerDidUpdateState:]|[L:806]|[Gate]UpdateState:PoweredOn
+
+2018-10-26 12:17:33.243 || ANPR_check_exit Success 
+
+2018-10-26 12:17:33.386 || get_news Success 
+
+2018-10-26 12:17:33.415 || getBannerList Success 
+
+2018-10-26 12:17:51.580 || -[AppDelegate applicationWillResignActive:]|[L:133]|
+
+2018-10-26 12:17:51.590 || -[AppDelegate applicationDidEnterBackground:]|[L:125]|
+
+2018-10-26 12:18:12.156 || -[AppDelegate applicationWillEnterForeground:]|[L:156]|
+
+2018-10-26 12:18:12.250 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 12:18:12.251 || get_vendor Request 
+
+2018-10-26 12:18:12.716 || -[AppDelegate applicationDidBecomeActive:]|[L:193]|
+
+2018-10-26 12:18:12.747 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 12:18:12.747 || user_fail_trade_check Request 
+
+2018-10-26 12:18:12.753 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 12:18:12.754 || ANPR_check_exit Request 
+
+2018-10-26 12:18:13.055 || get_vendor Success 
+
+2018-10-26 12:18:13.309 || user_fail_trade_check Success 
+
+!!!2018-10-26 12:18:13.310 || result: {
+
+!!!2018-10-26 12:18:13.310 || userManager.garageFarePaymentStatus = NoGarageFare 
+
+2018-10-26 12:18:13.329 || ANPR_check_exit Success 
+
+2018-10-26 12:18:13.452 || -[AppDelegate applicationWillResignActive:]|[L:133]|
+
+2018-10-26 12:18:14.031 || -[AppDelegate applicationDidEnterBackground:]|[L:125]|
+
+2018-10-26 12:18:31.950 || -[AppDelegate applicationWillEnterForeground:]|[L:156]|
+
+2018-10-26 12:18:32.235 || -[AppDelegate applicationDidBecomeActive:]|[L:193]|
+
+2018-10-26 12:18:32.257 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 12:18:32.258 || user_fail_trade_check Request 
+
+2018-10-26 12:18:32.268 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 12:18:32.269 || ANPR_check_exit Request 
+
+2018-10-26 12:18:32.931 || user_fail_trade_check Success 
+
+!!!2018-10-26 12:18:32.931 || result: {
+
+!!!2018-10-26 12:18:32.931 || userManager.garageFarePaymentStatus = NoGarageFare 
+
+2018-10-26 12:18:32.958 || ANPR_check_exit Success 
+
+2018-10-26 12:18:34.822 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 12:18:34.824 || space_tracking_lite&garage_dbname=000007 Request 
+
+2018-10-26 12:18:36.454 || space_tracking_lite&garage_dbname=000007 Success 
+
+2018-10-26 12:18:39.474 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 12:18:39.476 || get_one_space_status&garage_dbname=000007 Request 
+
+2018-10-26 12:18:40.041 || get_one_space_status&garage_dbname=000007 Success 
+
+2018-10-26 12:18:42.475 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 12:18:42.477 || get_one_space_status&garage_dbname=000007 Request 
+
+2018-10-26 12:18:43.049 || get_one_space_status&garage_dbname=000007 Success 
+
+2018-10-26 12:18:43.066 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 12:18:43.066 || getBannerList Request 
+
+2018-10-26 12:18:43.098 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 12:18:43.099 || get_news Request 
+
+2018-10-26 12:18:43.638 || getBannerList Success 
+
+2018-10-26 12:18:43.659 || get_news Success 
+
+2018-10-26 12:19:10.209 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 12:19:10.210 || inputAPI = /app.php?page=checkGarage
+
+2018-10-26 12:19:10.221 || checkGarage Request 
+
+2018-10-26 12:19:10.955 || checkGarage Success 
+
+  ||                 "garage_id" = 000007;
+
+  ||                 "garage_id" = 000007;
+
+  ||         "flow_gatecontrol" = 0;
+
+  ||         "garage_id" = 000007;
+
+2018-10-26 12:19:11.227 || [Gate]GATE > -85!!!!
+
+2018-10-26 12:19:11.542 || [Gate]GATE > -85!!!!
+
+2018-10-26 12:19:11.808 || -[BLEManager centralManager:didConnectPeripheral:]|[L:1037]|[Gate]connected duration:0.259205
+
+2018-10-26 12:19:11.808 || -[BLEManager centralManager:didConnectPeripheral:]|[L:1038]|[Gate]apiProcessingStatus:{
+
+2018-10-26 12:19:12.593 || -[BLEManager sendDataToMCU:]|[L:1422]|[Gate]send command to mcu:PASSWORD
+
+2018-10-26 12:19:12.702 || -[BLEManager peripheral:didUpdateValueForCharacteristic:error:]|[L:1378]|[Gate]Gate Password Success
+
+2018-10-26 12:19:12.762 || voiceString:抵達車廠出口
+
+2018-10-26 12:19:14.632 || [Gate]Open InOutGate 
+
+2018-10-26 12:19:14.747 || -[BLEManager sendDataToMCU:]|[L:1428]|[Gate]send command to mcu:OPEN GATE
+
+2018-10-26 12:19:14.921 || -[BLEManager peripheral:didUpdateValueForCharacteristic:error:]|[L:1391]|[Gate]Gate Open Success
+
+2018-10-26 12:19:14.928 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 12:19:14.929 || garage_leave_pay&garage_dbname=000007 Request 
+
+2018-10-26 12:19:14.930 || leaveGarageName = 便利停車場富敦站
+

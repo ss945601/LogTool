@@ -1,0 +1,352 @@
+使用者：SamuelDer
+裝置： iPhone 7 Plus
+系統： iOS 12.0.1
+版本： paking versoin:1.7(release)
+電信： 
+預約： 無
+車廠： 
+///////////////////////////////////
+
+( 2018-10-25 14:11:24 )	 [Gate]BLE ON
+
+( 2018-10-25 14:16:17 )	退到App背景
+
+( 2018-10-25 14:17:16 )	進入App前景
+
+( 2018-10-25 14:17:47 )	退到App背景
+
+( 2018-10-25 14:19:04 )	進入App前景
+
+( 2018-10-25 14:19:37 )	退到App背景
+
+( 2018-10-25 14:31:31 )	 [Gate]BLE ON
+
+( 2018-10-25 14:32:12 )	退到App背景
+
+( 2018-10-25 14:32:12 )	進入App前景
+
+( 2018-10-25 14:34:15 )	退到App背景
+
+( 2018-10-25 14:35:00 )	 [Gate]BLE ON
+
+( 2018-10-25 14:35:41 )	退到App背景
+
+( 2018-10-25 14:35:41 )	進入App前景
+
+///////////////////////////////////
+網路切換時機
+2018-10-25 14:11:25.774 PaKing-192.168.10.29 (first)
+
+
+--------detail--------
+
+2018-10-25 14:11:24.075 || !!PaKing APP Open!!
+
+2018-10-25 14:11:24.076 || SamuelDer
+
+2018-10-25 14:11:24.076 || iOS 12.0.1
+
+2018-10-25 14:11:24.076 || Device:iPhone 7 Plus
+
+2018-10-25 14:11:24.076 || paking versoin:1.7(release)
+
+2018-10-25 14:11:24.076 || paking build:20181024163520
+
+2018-10-25 14:11:24.078 || -[AppDelegate checkUpdate]|[L:322]|開始檢查是否更新
+
+2018-10-25 14:11:24.087 || ISO country code is: tw
+
+2018-10-25 14:11:24.182 || userManager.mobile == nil || [userManager.mobile isEqualToString: GUEST_MOBILE ]
+
+2018-10-25 14:11:24.182 || clear isReservation
+
+2018-10-25 14:11:24.184 || Reserve punish List (null)
+
+2018-10-25 14:11:24.191 || guestSetting userManager.isReservation = 0
+
+2018-10-25 14:11:24.191 || guestSetting userManager.isGarageReservation = 0
+
+2018-10-25 14:11:24.191 || clear isReservation
+
+2018-10-25 14:11:24.195 || guestSetting userManager.isReservation = 0
+
+2018-10-25 14:11:24.195 || guestSetting userManager.isGarageReservation = 0
+
+2018-10-25 14:11:24.293 || [Gate]BLE ON
+
+2018-10-25 14:11:25.774 || Network <WIFI> PaKing-192.168.10.29
+
+2018-10-25 14:11:25.775 || getBannerList Request 
+
+2018-10-25 14:11:25.779 || Network <WIFI> PaKing-192.168.10.29
+
+2018-10-25 14:11:25.779 || get_vendor Request 
+
+2018-10-25 14:11:25.817 || Network <WIFI> PaKing-192.168.10.29
+
+2018-10-25 14:11:25.817 || get_news Request 
+
+2018-10-25 14:11:26.103 || get_vendor Success 
+
+2018-10-25 14:11:26.106 || getBannerList Success 
+
+2018-10-25 14:11:26.112 || get_news Success 
+
+2018-10-25 14:11:29.585 || Network <WIFI> PaKing-192.168.10.29
+
+2018-10-25 14:11:29.587 || getBannerList Request 
+
+2018-10-25 14:11:29.915 || getBannerList Success 
+
+2018-10-25 14:11:30.132 || Network <WIFI> PaKing-192.168.10.29
+
+2018-10-25 14:11:30.134 || get_news Request 
+
+2018-10-25 14:11:30.464 || get_news Success 
+
+2018-10-25 14:11:38.925 || Network <WIFI> PaKing-192.168.10.29
+
+2018-10-25 14:11:38.926 || get_confirm_token Request 
+
+2018-10-25 14:11:44.044 || get_confirm_token Success 
+
+2018-10-25 14:11:44.047 || Network <WIFI> PaKing-192.168.10.29
+
+2018-10-25 14:11:44.048 || check_member Request 
+
+2018-10-25 14:11:44.377 || check_member Success 
+
+2018-10-25 14:11:48.124 || Network <WIFI> PaKing-192.168.10.29
+
+2018-10-25 14:11:48.125 || check_member Request 
+
+2018-10-25 14:11:48.428 || check_member Success 
+
+2018-10-25 14:11:48.430 || Network <WIFI> PaKing-192.168.10.29
+
+2018-10-25 14:11:48.431 || login_confirm Request 
+
+2018-10-25 14:11:48.767 || login_confirm Success 
+
+2018-10-25 14:11:48.778 || Network <WIFI> PaKing-192.168.10.29
+
+2018-10-25 14:11:48.779 || login_check_lite Request 
+
+2018-10-25 14:11:49.119 || login_check_lite Success 
+
+2018-10-25 14:11:49.134 || set userManager.isReservation = 0
+
+2018-10-25 14:11:49.134 || set userManager.isGarageReservation = 0
+
+2018-10-25 14:11:49.136 || Network <WIFI> PaKing-192.168.10.29
+
+2018-10-25 14:11:49.137 || trade_credit_card_list Request 
+
+2018-10-25 14:11:49.144 || Network <WIFI> PaKing-192.168.10.29
+
+2018-10-25 14:11:49.144 || getBannerList Request 
+
+2018-10-25 14:11:49.160 || Network <WIFI> PaKing-192.168.10.29
+
+2018-10-25 14:11:49.160 || get_news Request 
+
+2018-10-25 14:11:49.171 || Network <WIFI> PaKing-192.168.10.29
+
+2018-10-25 14:11:49.171 || get_news Request 
+
+2018-10-25 14:11:49.431 || trade_credit_card_list Success 
+
+2018-10-25 14:11:49.460 || getBannerList Success 
+
+2018-10-25 14:11:49.492 || get_news Success 
+
+2018-10-25 14:11:49.518 || get_news Success 
+
+2018-10-25 14:16:17.707 || -[AppDelegate applicationDidEnterBackground:]|[L:103]|
+
+2018-10-25 14:17:16.516 || -[AppDelegate applicationWillEnterForeground:]|[L:134]|
+
+2018-10-25 14:17:16.823 || Network <WIFI> PaKing-192.168.10.29
+
+2018-10-25 14:17:16.824 || user_fail_trade_check Request 
+
+2018-10-25 14:17:16.826 || Network <WIFI> PaKing-192.168.10.29
+
+2018-10-25 14:17:16.827 || isPushLog Request 
+
+2018-10-25 14:17:17.162 || user_fail_trade_check Success 
+
+!!!2018-10-25 14:17:17.163 || result: {
+
+!!!2018-10-25 14:17:17.163 || userManager.garageFarePaymentStatus = NoGarageFare 
+
+2018-10-25 14:17:17.193 || isPushLog Success 
+
+!!!  ||             "loc-key" = "DS_KEY_RPN_ReserveOverTime_PaymentFail";
+
+!!!  ||         category = PaymentFail;
+
+!!!2018-10-25 14:17:32.074 || PaymentFail
+
+!!!2018-10-25 14:17:32.075 || bleDisconnect bleManager.stopScan
+
+!!!2018-10-25 14:17:32.075 || 
+
+2018-10-25 14:17:32.076 || Network <WIFI> PaKing-192.168.10.29
+
+2018-10-25 14:17:32.077 || user_fail_trade_list Request 
+
+2018-10-25 14:17:32.376 || user_fail_trade_list Success 
+
+!!!2018-10-25 14:17:32.376 || result: {
+
+!!!2018-10-25 14:17:32.376 || message : 處理成功
+
+!!!2018-10-25 14:17:32.376 || <null>
+
+!!!2018-10-25 14:17:32.376 || callAPICreditPayCompletion : userManager.garageFarePaymentStatus = GarageFarePaid 
+
+2018-10-25 14:17:47.110 || -[AppDelegate applicationDidEnterBackground:]|[L:103]|
+
+2018-10-25 14:19:04.374 || -[AppDelegate applicationWillEnterForeground:]|[L:134]|
+
+2018-10-25 14:19:04.878 || Network <WIFI> PaKing-192.168.10.29
+
+2018-10-25 14:19:04.880 || user_fail_trade_check Request 
+
+2018-10-25 14:19:04.885 || Network <WIFI> PaKing-192.168.10.29
+
+2018-10-25 14:19:04.886 || isPushLog Request 
+
+2018-10-25 14:19:05.220 || user_fail_trade_check Success 
+
+!!!2018-10-25 14:19:05.220 || result: {
+
+!!!2018-10-25 14:19:05.220 || userManager.garageFarePaymentStatus = NoGarageFare 
+
+2018-10-25 14:19:05.253 || isPushLog Success 
+
+2018-10-25 14:19:37.198 || -[AppDelegate applicationDidEnterBackground:]|[L:103]|
+
+2018-10-25 14:31:30.606 || -[AppDelegate checkUpdate]|[L:322]|開始檢查是否更新
+
+2018-10-25 14:31:30.688 || Network <WIFI> PaKing-192.168.10.29
+
+2018-10-25 14:31:30.690 || check_member Request 
+
+2018-10-25 14:31:30.990 || check_member Success 
+
+2018-10-25 14:31:30.993 || Network <WIFI> PaKing-192.168.10.29
+
+2018-10-25 14:31:30.994 || login_check_lite Request 
+
+2018-10-25 14:31:31.317 || login_check_lite Success 
+
+2018-10-25 14:31:31.324 || set userManager.isReservation = 0
+
+2018-10-25 14:31:31.324 || set userManager.isGarageReservation = 0
+
+2018-10-25 14:31:31.393 || Network <WIFI> PaKing-192.168.10.29
+
+2018-10-25 14:31:31.394 || getBannerList Request 
+
+2018-10-25 14:31:31.399 || Network <WIFI> PaKing-192.168.10.29
+
+2018-10-25 14:31:31.399 || get_vendor Request 
+
+2018-10-25 14:31:31.443 || Network <WIFI> PaKing-192.168.10.29
+
+2018-10-25 14:31:31.443 || get_news Request 
+
+2018-10-25 14:31:31.490 || [Gate]BLE ON
+
+2018-10-25 14:31:31.697 || get_vendor Success 
+
+2018-10-25 14:31:31.740 || getBannerList Success 
+
+2018-10-25 14:31:31.772 || get_news Success 
+
+2018-10-25 14:32:12.000 || -[AppDelegate applicationDidEnterBackground:]|[L:103]|
+
+2018-10-25 14:32:12.338 || -[AppDelegate applicationWillEnterForeground:]|[L:134]|
+
+2018-10-25 14:32:12.584 || Network <WIFI> PaKing-192.168.10.29
+
+2018-10-25 14:32:12.585 || user_fail_trade_check Request 
+
+2018-10-25 14:32:12.587 || Network <WIFI> PaKing-192.168.10.29
+
+2018-10-25 14:32:12.587 || isPushLog Request 
+
+2018-10-25 14:32:12.906 || user_fail_trade_check Success 
+
+!!!2018-10-25 14:32:12.906 || result: {
+
+!!!2018-10-25 14:32:12.906 || userManager.garageFarePaymentStatus = NoGarageFare 
+
+2018-10-25 14:32:12.938 || isPushLog Success 
+
+2018-10-25 14:32:12.950 || Network <WIFI> PaKing-192.168.10.29
+
+2018-10-25 14:32:12.951 || user_opinion Request 
+
+2018-10-25 14:32:12.953 || Network <WIFI> PaKing-192.168.10.29
+
+2018-10-25 14:32:13.281 || user_opinion Success 
+
+2018-10-25 14:32:13.427 ||  Headers {
+
+2018-10-25 14:34:15.285 || -[AppDelegate applicationDidEnterBackground:]|[L:103]|
+
+2018-10-25 14:34:59.283 || -[AppDelegate checkUpdate]|[L:322]|開始檢查是否更新
+
+2018-10-25 14:34:59.373 || Network <WIFI> PaKing-192.168.10.29
+
+2018-10-25 14:34:59.375 || check_member Request 
+
+2018-10-25 14:34:59.676 || check_member Success 
+
+2018-10-25 14:34:59.679 || Network <WIFI> PaKing-192.168.10.29
+
+2018-10-25 14:34:59.679 || login_check_lite Request 
+
+2018-10-25 14:35:00.015 || login_check_lite Success 
+
+2018-10-25 14:35:00.024 || set userManager.isReservation = 0
+
+2018-10-25 14:35:00.024 || set userManager.isGarageReservation = 0
+
+2018-10-25 14:35:00.068 || Network <WIFI> PaKing-192.168.10.29
+
+2018-10-25 14:35:00.068 || getBannerList Request 
+
+2018-10-25 14:35:00.071 || Network <WIFI> PaKing-192.168.10.29
+
+2018-10-25 14:35:00.071 || get_vendor Request 
+
+2018-10-25 14:35:00.100 || Network <WIFI> PaKing-192.168.10.29
+
+2018-10-25 14:35:00.100 || get_news Request 
+
+2018-10-25 14:35:00.136 || [Gate]BLE ON
+
+2018-10-25 14:35:00.363 || getBannerList Success 
+
+2018-10-25 14:35:00.391 || get_news Success 
+
+2018-10-25 14:35:00.424 || get_vendor Success 
+
+2018-10-25 14:35:41.580 || -[AppDelegate applicationDidEnterBackground:]|[L:103]|
+
+2018-10-25 14:35:41.822 || -[AppDelegate applicationWillEnterForeground:]|[L:134]|
+
+2018-10-25 14:35:42.094 || Network <WIFI> PaKing-192.168.10.29
+
+2018-10-25 14:35:42.094 || user_fail_trade_check Request 
+
+2018-10-25 14:35:42.096 || Network <WIFI> PaKing-192.168.10.29
+
+2018-10-25 14:35:42.096 || isPushLog Request 
+
+2018-10-25 14:35:42.417 || isPushLog Success 
+

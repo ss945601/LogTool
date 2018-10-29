@@ -1,0 +1,5226 @@
+使用者：Ruby
+裝置： iPhone 7 Plus
+系統： iOS 12.0.1
+版本： paking versoin:1.6.5(release)
+電信： 遠傳電信
+預約： 無
+車廠： 000007-便利停車場富敦站 Beacon入場, 有Ｎ導航
+///////////////////////////////////
+
+第一次GI 到 Pop Up 時間 : -41.0秒
+
+///////////////////////////////////
+( 2018-10-23 11:36:33 )	[didDisconnectPeripheral]
+
+( 2018-10-23 11:37:19 )	退到App背景
+
+( 2018-10-23 11:37:19 )	[AppDelegate] applicationWillResignActive
+
+( 2018-10-25 13:23:50 )	啟動App程序
+
+( 2018-10-25 13:23:51 )	[AppDelegate] applicationDidBecomeActive
+
+( 2018-10-25 13:23:52 )	[Gate]BLE ON
+
+( 2018-10-25 13:24:03 )	[AppDelegate] applicationWillResignActive
+
+( 2018-10-25 13:24:04 )	退到App背景
+
+( 2018-10-25 13:24:15 )	進入App前景
+
+( 2018-10-25 13:24:16 )	[AppDelegate] applicationDidBecomeActive
+
+( 2018-10-25 13:25:05 )	[AppDelegate] applicationWillResignActive
+
+( 2018-10-25 13:25:06 )	退到App背景
+
+( 2018-10-25 13:25:15 )	進入App前景
+
+( 2018-10-25 13:25:15 )	[AppDelegate] applicationDidBecomeActive
+
+( 2018-10-25 13:27:54 )	[AppDelegate] applicationWillResignActive
+
+( 2018-10-25 13:27:55 )	退到App背景
+
+( 2018-10-25 13:28:08 )	進入App前景
+
+( 2018-10-25 13:28:09 )	[AppDelegate] applicationDidBecomeActive
+
+( 2018-10-25 13:30:22 )	[AppDelegate] applicationWillResignActive
+
+( 2018-10-25 13:30:23 )	退到App背景
+
+( 2018-10-25 13:31:37 )	啟動App程序
+
+( 2018-10-25 13:31:37 )	[AppDelegate] applicationDidBecomeActive
+
+( 2018-10-25 13:31:38 )	[Gate]BLE ON
+
+( 2018-10-25 13:32:37 )	[AppDelegate] applicationWillResignActive
+
+( 2018-10-25 13:32:38 )	退到App背景
+
+( 2018-10-25 13:32:51 )	進入App前景
+
+( 2018-10-25 13:32:51 )	[AppDelegate] applicationDidBecomeActive
+
+( 2018-10-25 13:36:03 )	退到App背景
+
+( 2018-10-25 13:36:03 )	[AppDelegate] applicationWillResignActive
+
+( 2018-10-25 13:38:10 )	進入App前景
+
+( 2018-10-25 13:38:11 )	[AppDelegate] applicationDidBecomeActive
+
+( 2018-10-25 13:39:52 )	收到第一個GI
+
+( 2018-10-25 13:40:08 )	[didConnectPeripheral]duration:0.330920
+
+( 2018-10-25 13:40:11 )	入閘POP_UP
+
+( 2018-10-25 13:40:12 )	按下入閘按鈕
+
+( 2018-10-25 13:40:33 )	[didDisconnectPeripheral]
+
+( 2018-10-25 13:40:34 )	[didConnectPeripheral]duration:0.314058
+
+( 2018-10-25 13:40:47 )	[AppDelegate] applicationWillResignActive
+
+( 2018-10-25 13:40:48 )	退到App背景
+
+( 2018-10-25 13:41:16 )	進入App前景
+
+( 2018-10-25 13:41:16 )	[AppDelegate] applicationDidBecomeActive
+
+( 2018-10-25 13:41:29 )	[didDisconnectPeripheral]
+
+( 2018-10-25 14:04:58 )	退到App背景
+
+( 2018-10-25 14:04:58 )	[AppDelegate] applicationWillResignActive
+
+( 2018-10-25 16:17:56 )	進入App前景
+
+( 2018-10-25 16:17:56 )	[AppDelegate] applicationDidBecomeActive
+
+( 2018-10-25 16:17:57 )	[didConnectPeripheral]duration:0.333739
+
+( 2018-10-25 16:17:59 )	離開車廠紀錄
+
+///////////////////////////////////
+
+<API:checkGarage>
+狀態：Success
+呼叫次數：4次
+耗費時間：71.114秒
+網路來源：遠傳電信
+
+<API:garage_enter_check_reservechange>
+狀態：Success
+呼叫次數：7次
+耗費時間：2.002秒
+網路來源：PaKing-192.168.6.23
+
+<API:garage_enter_confirm>
+狀態：Success
+呼叫次數：7次
+耗費時間：69.073秒
+網路來源：PaKing-192.168.6.23
+
+///////////////////////////////////
+網路切換時機
+2018-10-25 13:23:50.907 遠傳電信 (first)
+2018-10-25 13:40:02.219 PaKing-192.168.6.23
+2018-10-25 13:42:24.864 遠傳電信
+2018-10-25 13:42:41.646 PaKing-192.168.6.23
+2018-10-25 13:45:15.269 遠傳電信
+2018-10-25 16:17:56.763 PaKing-192.168.6.23
+
+
+--------detail--------
+
+2018-10-23 11:36:31.762 || !!PaKing APP Open!!
+
+2018-10-23 11:36:31.766 || Ruby 
+
+2018-10-23 11:36:31.767 || iOS 12.0.1
+
+2018-10-23 11:36:31.767 || -[LogManager defaultLog]|[L:108]|Device:iPhone 7 Plus
+
+2018-10-23 11:36:31.767 || paking versoin:1.6.5(release)
+
+2018-10-23 11:36:31.767 || paking build:20180925112634
+
+2018-10-23 11:36:33.807 || -[BLEManager centralManager:didDisconnectPeripheral:error:]|[L:1060]|[Gate]pName:00:23:A7:A6:B4:24_GO
+
+2018-10-23 11:36:33.808 || -[BLEManager centralManager:didDisconnectPeripheral:error:]|[L:1061]|[Gate]error:Error Domain=CBErrorDomain Code=6 "The connection has timed out unexpectedly." UserInfo={NSLocalizedDescription=The connection has timed out unexpectedly.}
+
+2018-10-23 11:36:33.808 || -[BLEManager centralManager:didDisconnectPeripheral:error:]|[L:1062]|[Gate]completeGateConnectProcess=1
+
+2018-10-23 11:36:33.808 || 
+
+2018-10-23 11:36:33.809 || [Gate]3.000000
+
+2018-10-23 11:36:40.905 || garage_leave_pay&garage_dbname=000007 Success 
+
+  ||                 "garage_id" = 000007;
+
+2018-10-23 11:37:19.327 || -[AppDelegate applicationWillResignActive:]|[L:133]|
+
+2018-10-23 11:37:19.931 || -[AppDelegate applicationDidEnterBackground:]|[L:125]|
+
+2018-10-25 13:23:50.796 || -[AppDelegate checkUpdate]|[L:342]|開始檢查是否更新
+
+2018-10-25 13:23:50.907 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:23:50.913 || check_member Request 
+
+2018-10-25 13:23:51.334 || -[AppDelegate applicationDidBecomeActive:]|[L:193]|
+
+2018-10-25 13:23:51.467 || check_member Success 
+
+2018-10-25 13:23:51.472 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:23:51.472 || login_check_lite Request 
+
+2018-10-25 13:23:51.911 || login_check_lite Success 
+
+2018-10-25 13:23:51.926 || set userManager.isReservation = 0
+
+2018-10-25 13:23:51.926 || set userManager.isGarageReservation = 0
+
+2018-10-25 13:23:52.043 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:23:52.043 || getBannerList Request 
+
+2018-10-25 13:23:52.103 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:23:52.104 || get_news Request 
+
+2018-10-25 13:23:52.170 || -[BLEManager centralManagerDidUpdateState:]|[L:790]|[Gate]BLE ON
+
+2018-10-25 13:23:52.170 || -[BLEManager centralManagerDidUpdateState:]|[L:806]|[Gate]UpdateState:PoweredOn
+
+2018-10-25 13:23:52.528 || getBannerList Success 
+
+2018-10-25 13:23:52.851 || get_news Success 
+
+2018-10-25 13:24:03.901 || -[AppDelegate applicationWillResignActive:]|[L:133]|
+
+2018-10-25 13:24:04.687 || -[AppDelegate applicationDidEnterBackground:]|[L:125]|
+
+2018-10-25 13:24:15.973 || -[AppDelegate applicationWillEnterForeground:]|[L:156]|
+
+2018-10-25 13:24:16.033 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:24:16.033 || get_vendor Request 
+
+2018-10-25 13:24:16.509 || get_vendor Success 
+
+2018-10-25 13:24:16.713 || -[AppDelegate applicationDidBecomeActive:]|[L:193]|
+
+2018-10-25 13:24:16.730 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:24:16.730 || user_fail_trade_check Request 
+
+2018-10-25 13:24:17.169 || user_fail_trade_check Success 
+
+!!!2018-10-25 13:24:17.169 || result: {
+
+!!!2018-10-25 13:24:17.169 || userManager.garageFarePaymentStatus = NoGarageFare 
+
+2018-10-25 13:24:30.004 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:24:30.005 || getBannerList Request 
+
+2018-10-25 13:24:30.565 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:24:30.566 || get_news Request 
+
+2018-10-25 13:24:30.657 || getBannerList Success 
+
+2018-10-25 13:24:31.021 || get_news Success 
+
+2018-10-25 13:24:32.647 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:24:32.649 || garage_list Request 
+
+2018-10-25 13:24:33.472 || garage_list Success 
+
+2018-10-25 13:24:35.872 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:24:35.872 || garage_list Request 
+
+2018-10-25 13:24:36.454 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:24:36.454 || garage_list Request 
+
+!!!2018-10-25 13:24:36.475 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  NSLocalizedDescription=已取消}
+
+!!!2018-10-25 13:24:36.476 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  NSLocalizedDescription=已取消}
+
+2018-10-25 13:24:37.698 || garage_list Success 
+
+2018-10-25 13:24:40.238 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:24:40.772 || one_garage_list Success 
+
+2018-10-25 13:24:40.809 || State = 2
+
+2018-10-25 13:24:40.809 || Desc = ＊至10/31止停車第一小時免費|＊至10/31止免收預約費
+
+2018-10-25 13:24:40.816 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:24:40.817 || get_vendor Request 
+
+2018-10-25 13:24:41.296 || get_vendor Success 
+
+2018-10-25 13:24:41.327 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:24:41.800 || one_garage_list Success 
+
+2018-10-25 13:24:44.805 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:24:45.293 || one_garage_list Success 
+
+2018-10-25 13:24:48.305 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:24:48.802 || one_garage_list Success 
+
+2018-10-25 13:24:53.614 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:24:53.614 || garage_list Request 
+
+2018-10-25 13:24:54.797 || garage_list Success 
+
+!!!2018-10-25 13:24:55.185 || 2018-10-25 13:24:55.185 paking[5888:2921612] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:24:55.186 || 2018-10-25 13:24:55.186 paking[5888:2921612] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:24:55.186 || 2018-10-25 13:24:55.186 paking[5888:2921612] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:24:55.186 || 2018-10-25 13:24:55.186 paking[5888:2921612] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:24:55.186 || 2018-10-25 13:24:55.186 paking[5888:2921612] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:24:55.186 || 2018-10-25 13:24:55.186 paking[5888:2921612] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:24:55.186 || 2018-10-25 13:24:55.186 paking[5888:2921612] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:24:55.186 || 2018-10-25 13:24:55.186 paking[5888:2921612] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:24:55.186 || 2018-10-25 13:24:55.186 paking[5888:2921612] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:24:55.186 || 2018-10-25 13:24:55.186 paking[5888:2921612] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:24:55.186 || 2018-10-25 13:24:55.186 paking[5888:2921612] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:24:55.186 || 2018-10-25 13:24:55.186 paking[5888:2921612] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:24:55.186 || 2018-10-25 13:24:55.186 paking[5888:2921612] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:24:55.186 || 2018-10-25 13:24:55.186 paking[5888:2921612] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:24:55.186 || 2018-10-25 13:24:55.186 paking[5888:2921612] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:24:55.186 || 2018-10-25 13:24:55.186 paking[5888:2921612] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:24:55.186 || 2018-10-25 13:24:55.186 paking[5888:2921612] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:24:55.187 || 2018-10-25 13:24:55.187 paking[5888:2921612] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:24:55.187 || 2018-10-25 13:24:55.187 paking[5888:2921612] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:24:55.187 || 2018-10-25 13:24:55.187 paking[5888:2921612] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:24:55.187 || 2018-10-25 13:24:55.187 paking[5888:2921612] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:24:55.187 || 2018-10-25 13:24:55.187 paking[5888:2921612] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:24:55.187 || 2018-10-25 13:24:55.187 paking[5888:2921612] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:24:55.187 || 2018-10-25 13:24:55.187 paking[5888:2921612] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:24:55.187 || 2018-10-25 13:24:55.187 paking[5888:2921612] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:24:55.187 || 2018-10-25 13:24:55.187 paking[5888:2921612] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:24:55.187 || 2018-10-25 13:24:55.187 paking[5888:2921612] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:24:55.187 || 2018-10-25 13:24:55.187 paking[5888:2921612] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:24:55.187 || 2018-10-25 13:24:55.187 paking[5888:2921612] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:24:55.187 || 2018-10-25 13:24:55.187 paking[5888:2921612] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:24:55.187 || 2018-10-25 13:24:55.187 paking[5888:2921612] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:24:55.187 || 2018-10-25 13:24:55.187 paking[5888:2921612] ((null)) was false: Failed to allocate texture space for marker
+
+2018-10-25 13:24:56.385 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:24:56.387 || get_vendor Request 
+
+2018-10-25 13:24:56.401 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:24:56.792 || get_vendor Success 
+
+2018-10-25 13:24:56.849 || one_garage_list Success 
+
+2018-10-25 13:24:56.859 || State = 2
+
+2018-10-25 13:24:56.859 || Desc = ＊至10/31止停車第一小時免費|＊至10/31止免收預約費
+
+2018-10-25 13:24:56.866 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:24:56.866 || get_vendor Request 
+
+2018-10-25 13:24:57.308 || get_vendor Success 
+
+2018-10-25 13:24:57.375 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:24:57.837 || one_garage_list Success 
+
+2018-10-25 13:25:00.841 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:25:01.301 || one_garage_list Success 
+
+2018-10-25 13:25:04.306 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:25:04.898 || one_garage_list Success 
+
+2018-10-25 13:25:05.298 || -[AppDelegate applicationWillResignActive:]|[L:133]|
+
+2018-10-25 13:25:06.103 || -[AppDelegate applicationDidEnterBackground:]|[L:125]|
+
+2018-10-25 13:25:15.208 || -[AppDelegate applicationWillEnterForeground:]|[L:156]|
+
+!!!CoreData: annotation: || CoreData: annotation:  Failed to load optimized model at path '/var/containers/Bundle/Application/163B1839-370F-43AA-AABB-3D168FB918AC/paking.app/GoogleMaps.bundle/GMSCacheStorage.momd/StorageWithTileProto.omo'
+
+!!!CoreData: annotation: || CoreData: annotation:  Failed to load optimized model at path '/var/containers/Bundle/Application/163B1839-370F-43AA-AABB-3D168FB918AC/paking.app/GoogleMaps.bundle/GMSCacheStorage.momd/StorageWithTileProto.omo'
+
+!!!CoreData: annotation: || CoreData: annotation:  Failed to load optimized model at path '/var/containers/Bundle/Application/163B1839-370F-43AA-AABB-3D168FB918AC/paking.app/GoogleMaps.bundle/GMSCacheStorage.momd/StorageWithTileProto.omo'
+
+2018-10-25 13:25:15.961 || -[AppDelegate applicationDidBecomeActive:]|[L:193]|
+
+2018-10-25 13:25:15.976 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:25:15.976 || user_fail_trade_check Request 
+
+2018-10-25 13:25:16.257 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:25:16.257 || garage_list Request 
+
+2018-10-25 13:25:16.437 || user_fail_trade_check Success 
+
+!!!2018-10-25 13:25:16.437 || result: {
+
+!!!2018-10-25 13:25:16.437 || userManager.garageFarePaymentStatus = NoGarageFare 
+
+2018-10-25 13:25:17.472 || garage_list Success 
+
+2018-10-25 13:25:30.529 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:25:30.529 || get_vendor Request 
+
+2018-10-25 13:25:30.543 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:25:31.117 || one_garage_list Success 
+
+2018-10-25 13:25:31.128 || State = 2
+
+2018-10-25 13:25:31.128 || Desc = ＊至10/31止停車第一小時免費|＊至10/31止免收預約費
+
+2018-10-25 13:25:31.135 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:25:31.136 || get_vendor Request 
+
+2018-10-25 13:25:31.173 || get_vendor Success 
+
+2018-10-25 13:25:31.584 || get_vendor Success 
+
+2018-10-25 13:25:31.645 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:25:32.253 || one_garage_list Success 
+
+2018-10-25 13:25:35.261 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:25:35.761 || one_garage_list Success 
+
+2018-10-25 13:25:50.467 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:25:50.467 || garage_list Request 
+
+2018-10-25 13:25:51.546 || garage_list Success 
+
+!!!2018-10-25 13:25:51.895 || 2018-10-25 13:25:51.895 paking[5888:2921612] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:25:51.895 || 2018-10-25 13:25:51.895 paking[5888:2921612] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:25:51.895 || 2018-10-25 13:25:51.895 paking[5888:2921612] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:25:51.896 || 2018-10-25 13:25:51.896 paking[5888:2921612] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:25:51.896 || 2018-10-25 13:25:51.896 paking[5888:2921612] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:25:51.896 || 2018-10-25 13:25:51.896 paking[5888:2921612] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:25:51.896 || 2018-10-25 13:25:51.896 paking[5888:2921612] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:25:51.896 || 2018-10-25 13:25:51.896 paking[5888:2921612] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:25:51.896 || 2018-10-25 13:25:51.896 paking[5888:2921612] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:25:51.896 || 2018-10-25 13:25:51.896 paking[5888:2921612] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:25:51.896 || 2018-10-25 13:25:51.896 paking[5888:2921612] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:25:51.896 || 2018-10-25 13:25:51.896 paking[5888:2921612] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:25:51.896 || 2018-10-25 13:25:51.896 paking[5888:2921612] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:25:51.896 || 2018-10-25 13:25:51.896 paking[5888:2921612] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:25:51.896 || 2018-10-25 13:25:51.896 paking[5888:2921612] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:25:51.896 || 2018-10-25 13:25:51.896 paking[5888:2921612] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:25:51.896 || 2018-10-25 13:25:51.896 paking[5888:2921612] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:25:51.896 || 2018-10-25 13:25:51.896 paking[5888:2921612] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:25:51.896 || 2018-10-25 13:25:51.896 paking[5888:2921612] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:25:51.897 || 2018-10-25 13:25:51.897 paking[5888:2921612] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:25:51.897 || 2018-10-25 13:25:51.897 paking[5888:2921612] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:25:51.897 || 2018-10-25 13:25:51.897 paking[5888:2921612] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:25:51.897 || 2018-10-25 13:25:51.897 paking[5888:2921612] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:25:51.897 || 2018-10-25 13:25:51.897 paking[5888:2921612] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:25:51.897 || 2018-10-25 13:25:51.897 paking[5888:2921612] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:25:51.897 || 2018-10-25 13:25:51.897 paking[5888:2921612] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:25:51.897 || 2018-10-25 13:25:51.897 paking[5888:2921612] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:25:51.897 || 2018-10-25 13:25:51.897 paking[5888:2921612] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:25:51.897 || 2018-10-25 13:25:51.897 paking[5888:2921612] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:25:51.897 || 2018-10-25 13:25:51.897 paking[5888:2921612] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:25:51.897 || 2018-10-25 13:25:51.897 paking[5888:2921612] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:25:51.897 || 2018-10-25 13:25:51.897 paking[5888:2921612] ((null)) was false: Failed to allocate texture space for marker
+
+2018-10-25 13:25:52.964 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:25:52.965 || getBannerList Request 
+
+2018-10-25 13:25:53.095 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:25:53.095 || get_news Request 
+
+2018-10-25 13:25:53.352 || getBannerList Success 
+
+2018-10-25 13:25:54.401 || get_news Success 
+
+2018-10-25 13:25:55.588 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:25:55.589 || garage_list Request 
+
+2018-10-25 13:25:56.485 || garage_list Success 
+
+2018-10-25 13:26:03.615 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:26:03.616 || garage_list Request 
+
+2018-10-25 13:26:04.142 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:26:04.143 || garage_list Request 
+
+!!!2018-10-25 13:26:04.154 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  NSLocalizedDescription=已取消}
+
+!!!2018-10-25 13:26:04.154 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  NSLocalizedDescription=已取消}
+
+2018-10-25 13:26:05.386 || garage_list Success 
+
+2018-10-25 13:26:08.195 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:26:08.697 || one_garage_list Success 
+
+2018-10-25 13:26:08.706 || State = 2
+
+2018-10-25 13:26:08.706 || Desc = ＊至10/31止停車第一小時免費|＊至10/31止免收預約費
+
+2018-10-25 13:26:08.712 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:26:08.712 || get_vendor Request 
+
+2018-10-25 13:26:09.139 || get_vendor Success 
+
+2018-10-25 13:26:09.222 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:26:09.705 || one_garage_list Success 
+
+2018-10-25 13:26:12.709 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:26:13.158 || one_garage_list Success 
+
+2018-10-25 13:26:16.472 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:26:16.474 || garage_list Request 
+
+2018-10-25 13:26:17.676 || garage_list Success 
+
+!!!2018-10-25 13:26:18.061 || 2018-10-25 13:26:18.061 paking[5888:2921612] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:26:18.061 || 2018-10-25 13:26:18.061 paking[5888:2921612] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:26:18.061 || 2018-10-25 13:26:18.061 paking[5888:2921612] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:26:18.061 || 2018-10-25 13:26:18.061 paking[5888:2921612] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:26:18.062 || 2018-10-25 13:26:18.062 paking[5888:2921612] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:26:18.062 || 2018-10-25 13:26:18.062 paking[5888:2921612] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:26:18.062 || 2018-10-25 13:26:18.062 paking[5888:2921612] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:26:18.062 || 2018-10-25 13:26:18.062 paking[5888:2921612] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:26:18.062 || 2018-10-25 13:26:18.062 paking[5888:2921612] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:26:18.062 || 2018-10-25 13:26:18.062 paking[5888:2921612] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:26:18.062 || 2018-10-25 13:26:18.062 paking[5888:2921612] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:26:18.062 || 2018-10-25 13:26:18.062 paking[5888:2921612] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:26:18.062 || 2018-10-25 13:26:18.062 paking[5888:2921612] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:26:18.062 || 2018-10-25 13:26:18.062 paking[5888:2921612] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:26:18.062 || 2018-10-25 13:26:18.062 paking[5888:2921612] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:26:18.062 || 2018-10-25 13:26:18.062 paking[5888:2921612] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:26:18.062 || 2018-10-25 13:26:18.062 paking[5888:2921612] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:26:18.062 || 2018-10-25 13:26:18.062 paking[5888:2921612] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:26:18.063 || 2018-10-25 13:26:18.063 paking[5888:2921612] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:26:18.063 || 2018-10-25 13:26:18.063 paking[5888:2921612] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:26:18.063 || 2018-10-25 13:26:18.063 paking[5888:2921612] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:26:18.063 || 2018-10-25 13:26:18.063 paking[5888:2921612] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:26:18.063 || 2018-10-25 13:26:18.063 paking[5888:2921612] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:26:18.063 || 2018-10-25 13:26:18.063 paking[5888:2921612] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:26:18.063 || 2018-10-25 13:26:18.063 paking[5888:2921612] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:26:18.063 || 2018-10-25 13:26:18.063 paking[5888:2921612] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:26:18.063 || 2018-10-25 13:26:18.063 paking[5888:2921612] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:26:18.063 || 2018-10-25 13:26:18.063 paking[5888:2921612] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:26:18.063 || 2018-10-25 13:26:18.063 paking[5888:2921612] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:26:18.063 || 2018-10-25 13:26:18.063 paking[5888:2921612] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:26:18.063 || 2018-10-25 13:26:18.063 paking[5888:2921612] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:26:18.063 || 2018-10-25 13:26:18.063 paking[5888:2921612] ((null)) was false: Failed to allocate texture space for marker
+
+2018-10-25 13:26:18.352 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:26:18.352 || get_vendor Request 
+
+2018-10-25 13:26:18.364 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:26:18.816 || get_vendor Success 
+
+2018-10-25 13:26:18.864 || one_garage_list Success 
+
+2018-10-25 13:26:18.888 || State = 2
+
+2018-10-25 13:26:18.888 || Desc = ＊至10/31止停車第一小時免費|＊至10/31止免收預約費
+
+2018-10-25 13:26:18.898 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:26:18.898 || get_vendor Request 
+
+2018-10-25 13:26:19.344 || get_vendor Success 
+
+2018-10-25 13:26:19.414 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:26:19.915 || one_garage_list Success 
+
+2018-10-25 13:26:22.919 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:26:23.382 || one_garage_list Success 
+
+2018-10-25 13:26:26.386 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:26:26.879 || one_garage_list Success 
+
+2018-10-25 13:26:29.887 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:26:30.375 || one_garage_list Success 
+
+2018-10-25 13:26:33.390 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:26:33.949 || one_garage_list Success 
+
+2018-10-25 13:26:34.519 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:26:34.519 || getBannerList Request 
+
+2018-10-25 13:26:34.538 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:26:34.539 || get_news Request 
+
+2018-10-25 13:26:34.973 || getBannerList Success 
+
+2018-10-25 13:26:36.056 || get_news Success 
+
+2018-10-25 13:26:40.335 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:26:40.336 || garage_list Request 
+
+2018-10-25 13:26:41.329 || garage_list Success 
+
+2018-10-25 13:26:41.559 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:26:41.560 || getBannerList Request 
+
+2018-10-25 13:26:41.582 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:26:41.583 || get_news Request 
+
+2018-10-25 13:26:41.999 || getBannerList Success 
+
+2018-10-25 13:26:43.101 || get_news Success 
+
+2018-10-25 13:26:45.615 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:26:45.616 || get_news Request 
+
+2018-10-25 13:26:46.104 || get_news Success 
+
+2018-10-25 13:26:48.984 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:26:48.985 || getBannerList Request 
+
+2018-10-25 13:26:49.495 || getBannerList Success 
+
+2018-10-25 13:26:50.504 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:26:50.505 || get_news Request 
+
+2018-10-25 13:26:50.981 || get_news Success 
+
+2018-10-25 13:26:54.923 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:26:54.924 || getBannerList Request 
+
+2018-10-25 13:26:55.465 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:26:55.466 || get_news Request 
+
+2018-10-25 13:26:55.475 || getBannerList Success 
+
+2018-10-25 13:26:56.472 || get_news Success 
+
+2018-10-25 13:26:58.450 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:26:58.450 || get_news Request 
+
+2018-10-25 13:26:58.887 || get_news Success 
+
+2018-10-25 13:27:01.474 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:27:01.475 || getBannerList Request 
+
+2018-10-25 13:27:01.963 || getBannerList Success 
+
+2018-10-25 13:27:02.983 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:27:02.983 || get_news Request 
+
+2018-10-25 13:27:03.408 || get_news Success 
+
+2018-10-25 13:27:42.828 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:27:42.830 || getBannerList Request 
+
+2018-10-25 13:27:43.370 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:27:43.371 || get_news Request 
+
+2018-10-25 13:27:43.383 || getBannerList Success 
+
+2018-10-25 13:27:43.876 || get_news Success 
+
+2018-10-25 13:27:54.601 || -[AppDelegate applicationWillResignActive:]|[L:133]|
+
+2018-10-25 13:27:55.475 || -[AppDelegate applicationDidEnterBackground:]|[L:125]|
+
+2018-10-25 13:28:08.460 || -[AppDelegate applicationWillEnterForeground:]|[L:156]|
+
+2018-10-25 13:28:09.194 || -[AppDelegate applicationDidBecomeActive:]|[L:193]|
+
+2018-10-25 13:28:09.208 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:28:09.208 || user_fail_trade_check Request 
+
+2018-10-25 13:28:09.690 || user_fail_trade_check Success 
+
+!!!2018-10-25 13:28:09.691 || result: {
+
+!!!2018-10-25 13:28:09.691 || userManager.garageFarePaymentStatus = NoGarageFare 
+
+2018-10-25 13:30:20.631 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:30:20.641 || getBannerList Request 
+
+2018-10-25 13:30:21.087 || getBannerList Success 
+
+2018-10-25 13:30:21.437 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:30:21.438 || get_news Request 
+
+2018-10-25 13:30:21.863 || get_news Success 
+
+2018-10-25 13:30:22.644 || -[AppDelegate applicationWillResignActive:]|[L:133]|
+
+2018-10-25 13:30:23.251 || -[AppDelegate applicationDidEnterBackground:]|[L:125]|
+
+2018-10-25 13:31:37.138 || -[AppDelegate checkUpdate]|[L:342]|開始檢查是否更新
+
+2018-10-25 13:31:37.245 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:31:37.250 || check_member Request 
+
+2018-10-25 13:31:37.680 || -[AppDelegate applicationDidBecomeActive:]|[L:193]|
+
+2018-10-25 13:31:37.738 || check_member Success 
+
+2018-10-25 13:31:37.746 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:31:37.746 || login_check_lite Request 
+
+2018-10-25 13:31:38.230 || login_check_lite Success 
+
+2018-10-25 13:31:38.237 || set userManager.isReservation = 0
+
+2018-10-25 13:31:38.237 || set userManager.isGarageReservation = 0
+
+2018-10-25 13:31:38.356 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:31:38.357 || getBannerList Request 
+
+2018-10-25 13:31:38.414 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:31:38.414 || get_news Request 
+
+2018-10-25 13:31:38.463 || -[BLEManager centralManagerDidUpdateState:]|[L:790]|[Gate]BLE ON
+
+2018-10-25 13:31:38.463 || -[BLEManager centralManagerDidUpdateState:]|[L:806]|[Gate]UpdateState:PoweredOn
+
+2018-10-25 13:31:38.806 || getBannerList Success 
+
+2018-10-25 13:31:39.092 || get_news Success 
+
+2018-10-25 13:31:40.969 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:31:40.970 || get_vendor Request 
+
+2018-10-25 13:31:41.469 || get_vendor Success 
+
+2018-10-25 13:31:41.926 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:31:41.927 || garage_list Request 
+
+2018-10-25 13:31:42.951 || garage_list Success 
+
+2018-10-25 13:31:50.278 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:31:50.278 || garage_list Request 
+
+2018-10-25 13:31:51.583 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:31:51.584 || garage_list Request 
+
+!!!2018-10-25 13:31:51.590 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+  ||     "LocalDataTask <A7474DF0-4C30-48BB-8542-90AC27968933>.<1>"
+
+!!! ||  NSLocalizedDescription=已取消}
+
+!!!2018-10-25 13:31:51.590 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+  ||     "LocalDataTask <A7474DF0-4C30-48BB-8542-90AC27968933>.<1>"
+
+!!! ||  NSLocalizedDescription=已取消}
+
+2018-10-25 13:31:52.646 || garage_list Success 
+
+!!!2018-10-25 13:31:53.010 || 2018-10-25 13:31:53.010 paking[217:3437] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:31:53.010 || 2018-10-25 13:31:53.010 paking[217:3437] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:31:53.010 || 2018-10-25 13:31:53.010 paking[217:3437] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:31:53.010 || 2018-10-25 13:31:53.010 paking[217:3437] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:31:53.010 || 2018-10-25 13:31:53.010 paking[217:3437] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:31:53.010 || 2018-10-25 13:31:53.010 paking[217:3437] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:31:53.010 || 2018-10-25 13:31:53.010 paking[217:3437] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:31:53.010 || 2018-10-25 13:31:53.010 paking[217:3437] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:31:53.010 || 2018-10-25 13:31:53.010 paking[217:3437] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:31:53.010 || 2018-10-25 13:31:53.010 paking[217:3437] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:31:53.010 || 2018-10-25 13:31:53.010 paking[217:3437] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:31:53.010 || 2018-10-25 13:31:53.010 paking[217:3437] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:31:53.010 || 2018-10-25 13:31:53.010 paking[217:3437] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:31:53.010 || 2018-10-25 13:31:53.010 paking[217:3437] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:31:53.010 || 2018-10-25 13:31:53.010 paking[217:3437] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:31:53.010 || 2018-10-25 13:31:53.010 paking[217:3437] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:31:53.010 || 2018-10-25 13:31:53.010 paking[217:3437] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:31:53.011 || 2018-10-25 13:31:53.011 paking[217:3437] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:31:53.011 || 2018-10-25 13:31:53.011 paking[217:3437] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:31:53.011 || 2018-10-25 13:31:53.011 paking[217:3437] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:31:53.011 || 2018-10-25 13:31:53.011 paking[217:3437] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:31:53.011 || 2018-10-25 13:31:53.011 paking[217:3437] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:31:53.011 || 2018-10-25 13:31:53.011 paking[217:3437] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:31:53.011 || 2018-10-25 13:31:53.011 paking[217:3437] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:31:53.011 || 2018-10-25 13:31:53.011 paking[217:3437] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:31:53.011 || 2018-10-25 13:31:53.011 paking[217:3437] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:31:53.011 || 2018-10-25 13:31:53.011 paking[217:3437] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:31:53.011 || 2018-10-25 13:31:53.011 paking[217:3437] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:31:53.011 || 2018-10-25 13:31:53.011 paking[217:3437] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:31:53.011 || 2018-10-25 13:31:53.011 paking[217:3437] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:31:53.011 || 2018-10-25 13:31:53.011 paking[217:3437] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:31:53.011 || 2018-10-25 13:31:53.011 paking[217:3437] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:31:53.011 || 2018-10-25 13:31:53.011 paking[217:3437] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:31:53.011 || 2018-10-25 13:31:53.011 paking[217:3437] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:31:53.011 || 2018-10-25 13:31:53.011 paking[217:3437] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:31:53.011 || 2018-10-25 13:31:53.011 paking[217:3437] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:31:53.011 || 2018-10-25 13:31:53.011 paking[217:3437] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:31:53.012 || 2018-10-25 13:31:53.012 paking[217:3437] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:31:53.012 || 2018-10-25 13:31:53.012 paking[217:3437] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:31:53.012 || 2018-10-25 13:31:53.012 paking[217:3437] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:31:53.012 || 2018-10-25 13:31:53.012 paking[217:3437] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:31:53.012 || 2018-10-25 13:31:53.012 paking[217:3437] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:31:53.012 || 2018-10-25 13:31:53.012 paking[217:3437] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:31:53.012 || 2018-10-25 13:31:53.012 paking[217:3437] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:31:53.012 || 2018-10-25 13:31:53.012 paking[217:3437] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:31:53.012 || 2018-10-25 13:31:53.012 paking[217:3437] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:31:53.012 || 2018-10-25 13:31:53.012 paking[217:3437] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:31:53.012 || 2018-10-25 13:31:53.012 paking[217:3437] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:31:53.012 || 2018-10-25 13:31:53.012 paking[217:3437] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:31:53.012 || 2018-10-25 13:31:53.012 paking[217:3437] ((null)) was false: Failed to allocate texture space for marker
+
+2018-10-25 13:31:53.478 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:31:53.479 || garage_list Request 
+
+2018-10-25 13:31:53.897 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:31:53.897 || garage_list Request 
+
+!!!2018-10-25 13:31:53.899 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  NSLocalizedDescription=已取消}
+
+!!!2018-10-25 13:31:53.900 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  NSLocalizedDescription=已取消}
+
+2018-10-25 13:31:55.142 || garage_list Success 
+
+2018-10-25 13:32:01.800 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:32:02.323 || one_garage_list Success 
+
+2018-10-25 13:32:02.360 || State = 2
+
+2018-10-25 13:32:02.360 || Desc = ＊至10/31止停車第一小時免費|＊至10/31止免收預約費
+
+2018-10-25 13:32:02.369 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:32:02.369 || get_vendor Request 
+
+2018-10-25 13:32:02.842 || get_vendor Success 
+
+2018-10-25 13:32:02.882 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:32:03.411 || one_garage_list Success 
+
+2018-10-25 13:32:06.416 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:32:07.050 || one_garage_list Success 
+
+2018-10-25 13:32:10.081 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:32:10.681 || one_garage_list Success 
+
+2018-10-25 13:32:13.687 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:32:14.292 || one_garage_list Success 
+
+2018-10-25 13:32:16.190 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:32:16.191 || getBannerList Request 
+
+2018-10-25 13:32:16.241 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:32:16.242 || get_news Request 
+
+2018-10-25 13:32:16.658 || getBannerList Success 
+
+2018-10-25 13:32:16.926 || get_news Success 
+
+2018-10-25 13:32:24.103 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:32:24.103 || garage_list Request 
+
+2018-10-25 13:32:24.450 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:32:24.451 || garage_list Request 
+
+!!!2018-10-25 13:32:24.476 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  NSLocalizedDescription=已取消}
+
+!!!2018-10-25 13:32:24.476 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  NSLocalizedDescription=已取消}
+
+2018-10-25 13:32:25.242 || garage_list Success 
+
+2018-10-25 13:32:25.312 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:32:25.856 || one_garage_list Success 
+
+  ||     ReservationLot = 16;
+
+  ||     "flow_gatecontrol" = 0;
+
+  ||     "garage_id" = 000011;
+
+2018-10-25 13:32:25.868 || State = 2
+
+2018-10-25 13:32:25.868 || Desc = ＊至10/31止免收預約費|＊至10/31止停車第一小時免費|＊至10/31止預約進場免費停車3小時
+
+2018-10-25 13:32:25.881 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:32:25.882 || get_vendor Request 
+
+!!!CoreData: annotation: || CoreData: annotation:  Failed to load optimized model at path '/var/containers/Bundle/Application/163B1839-370F-43AA-AABB-3D168FB918AC/paking.app/GoogleMaps.bundle/GMSCacheStorage.momd/StorageWithTileProto.omo'
+
+!!!CoreData: annotation: || CoreData: annotation:  Failed to load optimized model at path '/var/containers/Bundle/Application/163B1839-370F-43AA-AABB-3D168FB918AC/paking.app/GoogleMaps.bundle/GMSCacheStorage.momd/StorageWithTileProto.omo'
+
+!!!CoreData: annotation: || CoreData: annotation:  Failed to load optimized model at path '/var/containers/Bundle/Application/163B1839-370F-43AA-AABB-3D168FB918AC/paking.app/GoogleMaps.bundle/GMSCacheStorage.momd/StorageWithTileProto.omo'
+
+2018-10-25 13:32:26.385 || get_vendor Success 
+
+2018-10-25 13:32:26.405 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:32:26.986 || one_garage_list Success 
+
+2018-10-25 13:32:28.998 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:32:28.999 || garage_list Request 
+
+2018-10-25 13:32:29.548 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:32:29.548 || garage_list Request 
+
+!!!2018-10-25 13:32:29.578 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  NSLocalizedDescription=已取消}
+
+!!!2018-10-25 13:32:29.578 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  NSLocalizedDescription=已取消}
+
+2018-10-25 13:32:30.014 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:32:30.642 || one_garage_list Success 
+
+2018-10-25 13:32:30.774 || garage_list Success 
+
+2018-10-25 13:32:33.532 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:32:33.533 || get_vendor Request 
+
+2018-10-25 13:32:33.569 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:32:33.984 || get_vendor Success 
+
+2018-10-25 13:32:34.063 || one_garage_list Success 
+
+2018-10-25 13:32:34.075 || State = 2
+
+2018-10-25 13:32:34.075 || Desc = ＊至10/31止停車第一小時免費|＊至10/31止免收預約費
+
+2018-10-25 13:32:34.082 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:32:34.082 || get_vendor Request 
+
+2018-10-25 13:32:34.552 || get_vendor Success 
+
+2018-10-25 13:32:34.598 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:32:35.148 || one_garage_list Success 
+
+2018-10-25 13:32:37.118 || -[AppDelegate applicationWillResignActive:]|[L:133]|
+
+2018-10-25 13:32:38.366 || -[AppDelegate applicationDidEnterBackground:]|[L:125]|
+
+2018-10-25 13:32:51.129 || -[AppDelegate applicationWillEnterForeground:]|[L:156]|
+
+2018-10-25 13:32:51.901 || -[AppDelegate applicationDidBecomeActive:]|[L:193]|
+
+2018-10-25 13:32:51.913 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:32:51.914 || user_fail_trade_check Request 
+
+2018-10-25 13:32:52.152 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:32:52.153 || garage_list Request 
+
+2018-10-25 13:32:52.370 || user_fail_trade_check Success 
+
+!!!2018-10-25 13:32:52.370 || result: {
+
+!!!2018-10-25 13:32:52.370 || userManager.garageFarePaymentStatus = NoGarageFare 
+
+2018-10-25 13:32:53.239 || garage_list Success 
+
+!!!2018-10-25 13:32:53.585 || 2018-10-25 13:32:53.585 paking[217:3437] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:32:53.586 || 2018-10-25 13:32:53.586 paking[217:3437] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:32:53.586 || 2018-10-25 13:32:53.586 paking[217:3437] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:32:53.586 || 2018-10-25 13:32:53.586 paking[217:3437] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:32:53.586 || 2018-10-25 13:32:53.586 paking[217:3437] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:32:53.586 || 2018-10-25 13:32:53.586 paking[217:3437] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:32:53.586 || 2018-10-25 13:32:53.586 paking[217:3437] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:32:53.586 || 2018-10-25 13:32:53.586 paking[217:3437] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:32:53.586 || 2018-10-25 13:32:53.586 paking[217:3437] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:32:53.586 || 2018-10-25 13:32:53.586 paking[217:3437] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:32:53.586 || 2018-10-25 13:32:53.586 paking[217:3437] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:32:53.586 || 2018-10-25 13:32:53.586 paking[217:3437] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:32:53.586 || 2018-10-25 13:32:53.586 paking[217:3437] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:32:53.586 || 2018-10-25 13:32:53.586 paking[217:3437] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:32:53.586 || 2018-10-25 13:32:53.586 paking[217:3437] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:32:53.586 || 2018-10-25 13:32:53.586 paking[217:3437] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:32:53.586 || 2018-10-25 13:32:53.586 paking[217:3437] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:32:53.587 || 2018-10-25 13:32:53.587 paking[217:3437] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:32:53.587 || 2018-10-25 13:32:53.587 paking[217:3437] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:32:53.587 || 2018-10-25 13:32:53.587 paking[217:3437] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:32:53.587 || 2018-10-25 13:32:53.587 paking[217:3437] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:32:53.587 || 2018-10-25 13:32:53.587 paking[217:3437] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:32:53.587 || 2018-10-25 13:32:53.587 paking[217:3437] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:32:53.587 || 2018-10-25 13:32:53.587 paking[217:3437] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:32:53.587 || 2018-10-25 13:32:53.587 paking[217:3437] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:32:53.587 || 2018-10-25 13:32:53.587 paking[217:3437] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:32:53.587 || 2018-10-25 13:32:53.587 paking[217:3437] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:32:53.587 || 2018-10-25 13:32:53.587 paking[217:3437] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:32:53.587 || 2018-10-25 13:32:53.587 paking[217:3437] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:32:53.587 || 2018-10-25 13:32:53.587 paking[217:3437] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:32:53.587 || 2018-10-25 13:32:53.587 paking[217:3437] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-25 13:32:53.587 || 2018-10-25 13:32:53.587 paking[217:3437] ((null)) was false: Failed to allocate texture space for marker
+
+2018-10-25 13:32:57.092 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:32:57.093 || get_vendor Request 
+
+2018-10-25 13:32:57.126 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:32:57.673 || get_vendor Success 
+
+2018-10-25 13:32:57.713 || one_garage_list Success 
+
+2018-10-25 13:32:57.735 || State = 2
+
+2018-10-25 13:32:57.735 || Desc = ＊至10/31止停車第一小時免費|＊至10/31止免收預約費
+
+2018-10-25 13:32:57.744 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:32:57.744 || get_vendor Request 
+
+2018-10-25 13:32:58.185 || get_vendor Success 
+
+2018-10-25 13:32:58.255 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:32:58.798 || one_garage_list Success 
+
+2018-10-25 13:33:07.427 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:33:07.428 || garage_list Request 
+
+2018-10-25 13:33:07.928 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:33:07.928 || getBannerList Request 
+
+2018-10-25 13:33:08.040 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:33:08.040 || get_news Request 
+
+2018-10-25 13:33:08.536 || getBannerList Success 
+
+2018-10-25 13:33:09.600 || garage_list Success 
+
+2018-10-25 13:33:09.850 || get_news Success 
+
+2018-10-25 13:33:17.132 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:33:17.133 || user_payment_history Request 
+
+2018-10-25 13:33:17.740 || user_payment_history Success 
+
+  ||         "garage_id" = 000007;
+
+  ||         "garage_id" = 000007;
+
+  ||         "garage_id" = 000007;
+
+  ||         "garage_id" = 000007;
+
+  ||         "garage_id" = 000007;
+
+  ||         "garage_id" = 000007;
+
+  ||         "garage_id" = 000007;
+
+  ||         "garage_id" = 000007;
+
+  ||         "garage_id" = 000007;
+
+  ||         "garage_id" = 000007;
+
+  ||         "garage_id" = 000007;
+
+  ||         "garage_id" = 000007;
+
+  ||         "garage_id" = 000007;
+
+  ||         "garage_id" = 000007;
+
+  ||         "garage_id" = 000007;
+
+  ||         "garage_id" = 000007;
+
+  ||         "garage_id" = 000007;
+
+  ||         "garage_id" = 000007;
+
+  ||         "garage_id" = 000007;
+
+  ||         "garage_id" = 000007;
+
+  ||         "garage_id" = 000007;
+
+  ||         "garage_id" = 000007;
+
+  ||         "garage_id" = 000007;
+
+2018-10-25 13:35:14.477 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:35:14.478 || getBannerList Request 
+
+2018-10-25 13:35:15.011 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:35:15.012 || get_news Request 
+
+2018-10-25 13:35:15.164 || getBannerList Success 
+
+2018-10-25 13:35:16.189 || get_news Success 
+
+2018-10-25 13:35:32.057 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:35:32.058 || garage_list Request 
+
+2018-10-25 13:35:33.359 || garage_list Success 
+
+2018-10-25 13:35:36.956 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:35:37.544 || one_garage_list Success 
+
+2018-10-25 13:35:37.565 || State = 2
+
+2018-10-25 13:35:37.565 || Desc = ＊至10/31止停車第一小時免費|＊至10/31止免收預約費
+
+2018-10-25 13:35:37.576 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:35:37.577 || get_vendor Request 
+
+2018-10-25 13:35:38.008 || get_vendor Success 
+
+2018-10-25 13:35:38.090 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:35:38.616 || one_garage_list Success 
+
+2018-10-25 13:35:41.637 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:35:42.184 || one_garage_list Success 
+
+2018-10-25 13:35:45.305 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:35:45.306 || garage_list Request 
+
+2018-10-25 13:35:46.432 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:35:46.432 || getBannerList Request 
+
+2018-10-25 13:35:46.449 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:35:46.450 || get_news Request 
+
+2018-10-25 13:35:46.474 || garage_list Success 
+
+2018-10-25 13:35:46.891 || getBannerList Success 
+
+2018-10-25 13:35:47.889 || get_news Success 
+
+2018-10-25 13:35:49.260 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:35:49.260 || garage_list Request 
+
+2018-10-25 13:35:51.939 || garage_list Success 
+
+2018-10-25 13:35:55.323 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:35:55.825 || one_garage_list Success 
+
+2018-10-25 13:35:55.838 || State = 2
+
+2018-10-25 13:35:55.838 || Desc = ＊至10/31止停車第一小時免費|＊至10/31止免收預約費
+
+2018-10-25 13:35:55.846 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:35:55.847 || get_vendor Request 
+
+2018-10-25 13:35:56.297 || get_vendor Success 
+
+2018-10-25 13:35:56.359 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:35:56.906 || one_garage_list Success 
+
+2018-10-25 13:35:59.919 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:36:00.508 || one_garage_list Success 
+
+2018-10-25 13:36:01.637 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:36:01.638 || getBannerList Request 
+
+2018-10-25 13:36:01.690 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:36:01.690 || get_news Request 
+
+2018-10-25 13:36:02.101 || getBannerList Success 
+
+2018-10-25 13:36:03.194 || get_news Success 
+
+2018-10-25 13:36:03.345 || -[AppDelegate applicationWillResignActive:]|[L:133]|
+
+2018-10-25 13:36:03.947 || -[AppDelegate applicationDidEnterBackground:]|[L:125]|
+
+2018-10-25 13:38:10.850 || -[AppDelegate applicationWillEnterForeground:]|[L:156]|
+
+2018-10-25 13:38:11.135 || -[AppDelegate applicationDidBecomeActive:]|[L:193]|
+
+2018-10-25 13:38:11.147 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:38:11.147 || user_fail_trade_check Request 
+
+2018-10-25 13:38:11.591 || user_fail_trade_check Success 
+
+!!!2018-10-25 13:38:11.592 || result: {
+
+!!!2018-10-25 13:38:11.592 || userManager.garageFarePaymentStatus = NoGarageFare 
+
+2018-10-25 13:38:15.748 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:38:15.748 || garage_list Request 
+
+2018-10-25 13:38:17.724 || garage_list Success 
+
+2018-10-25 13:38:25.746 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:38:26.270 || one_garage_list Success 
+
+2018-10-25 13:38:26.283 || State = 2
+
+2018-10-25 13:38:26.283 || Desc = ＊至10/31止停車第一小時免費|＊至10/31止免收預約費
+
+2018-10-25 13:38:26.290 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:38:26.291 || get_vendor Request 
+
+2018-10-25 13:38:26.712 || get_vendor Success 
+
+2018-10-25 13:38:26.800 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:38:27.304 || one_garage_list Success 
+
+2018-10-25 13:38:30.309 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:38:30.781 || one_garage_list Success 
+
+2018-10-25 13:38:33.785 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:38:34.315 || one_garage_list Success 
+
+2018-10-25 13:38:37.323 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:38:37.851 || one_garage_list Success 
+
+2018-10-25 13:38:40.861 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:38:41.411 || one_garage_list Success 
+
+2018-10-25 13:38:44.436 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:38:45.011 || one_garage_list Success 
+
+2018-10-25 13:38:48.015 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:38:48.716 || one_garage_list Success 
+
+2018-10-25 13:38:51.722 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:38:52.227 || one_garage_list Success 
+
+2018-10-25 13:38:55.232 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:38:55.756 || one_garage_list Success 
+
+2018-10-25 13:38:58.776 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:38:59.395 || one_garage_list Success 
+
+2018-10-25 13:39:02.401 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:39:02.897 || one_garage_list Success 
+
+2018-10-25 13:39:05.902 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:39:06.432 || one_garage_list Success 
+
+2018-10-25 13:39:09.438 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:39:09.957 || one_garage_list Success 
+
+2018-10-25 13:39:12.963 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:39:13.438 || one_garage_list Success 
+
+2018-10-25 13:39:16.442 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:39:16.943 || one_garage_list Success 
+
+2018-10-25 13:39:19.948 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:39:20.414 || one_garage_list Success 
+
+2018-10-25 13:39:23.420 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:39:23.924 || one_garage_list Success 
+
+2018-10-25 13:39:26.931 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:39:27.413 || one_garage_list Success 
+
+2018-10-25 13:39:30.426 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:39:31.470 || one_garage_list Success 
+
+2018-10-25 13:39:34.475 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:39:35.174 || one_garage_list Success 
+
+2018-10-25 13:39:38.179 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:39:52.224 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-95
+
+2018-10-25 13:39:52.224 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-25 13:39:52.231 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:39:52.231 || inputAPI = /app.php?page=checkGarage
+
+2018-10-25 13:39:52.231 || Set CHECK_GARAGE 3sec TimeOut /app.php?page=checkGarage
+
+2018-10-25 13:39:52.236 || checkGarage Request 
+
+2018-10-25 13:39:52.537 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-90
+
+2018-10-25 13:39:52.537 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-25 13:39:52.966 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-94
+
+2018-10-25 13:39:52.966 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-25 13:39:53.492 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-92
+
+2018-10-25 13:39:53.492 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-25 13:39:54.002 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-89
+
+2018-10-25 13:39:54.002 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-25 13:39:54.514 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-88
+
+2018-10-25 13:39:54.514 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-25 13:39:55.035 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-85
+
+2018-10-25 13:39:55.035 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+!!!2018-10-25 13:39:55.239 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  _kCFStreamErrorDomainKey=4}
+
+!!!2018-10-25 13:39:55.239 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  _kCFStreamErrorDomainKey=4}
+
+!!!2018-10-25 13:39:55.239 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  _kCFStreamErrorDomainKey=4}
+
+2018-10-25 13:39:55.455 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-86
+
+2018-10-25 13:39:55.455 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-25 13:39:55.546 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:39:55.546 || inputAPI = /app.php?page=checkGarage
+
+2018-10-25 13:39:55.546 || Set CHECK_GARAGE 3sec TimeOut /app.php?page=checkGarage
+
+2018-10-25 13:39:55.551 || checkGarage Request 
+
+2018-10-25 13:39:55.974 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-78
+
+2018-10-25 13:39:55.974 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-25 13:39:56.428 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:39:56.429 || getBannerList Request 
+
+2018-10-25 13:39:56.464 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:39:56.464 || get_news Request 
+
+2018-10-25 13:39:56.493 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-82
+
+2018-10-25 13:39:56.493 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-25 13:39:57.031 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-93
+
+2018-10-25 13:39:57.031 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-25 13:39:57.649 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-87
+
+2018-10-25 13:39:57.650 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-25 13:39:58.076 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-85
+
+2018-10-25 13:39:58.076 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+!!!2018-10-25 13:39:58.555 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  _kCFStreamErrorDomainKey=4}
+
+!!!2018-10-25 13:39:58.556 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  _kCFStreamErrorDomainKey=4}
+
+!!!2018-10-25 13:39:58.557 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  _kCFStreamErrorDomainKey=4}
+
+2018-10-25 13:39:58.592 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-83
+
+2018-10-25 13:39:58.592 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-25 13:39:58.877 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:39:58.878 || inputAPI = /app.php?page=checkGarage
+
+2018-10-25 13:39:58.878 || Set CHECK_GARAGE 3sec TimeOut /app.php?page=checkGarage
+
+2018-10-25 13:39:58.891 || checkGarage Request 
+
+2018-10-25 13:39:59.117 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-80
+
+2018-10-25 13:39:59.117 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-25 13:39:59.537 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-79
+
+2018-10-25 13:39:59.537 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-25 13:40:00.275 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-83
+
+2018-10-25 13:40:00.276 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-25 13:40:00.690 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-82
+
+2018-10-25 13:40:00.691 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-25 13:40:01.003 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-81
+
+2018-10-25 13:40:01.003 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-25 13:40:01.539 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-84
+
+2018-10-25 13:40:01.540 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+!!!2018-10-25 13:40:01.893 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  _kCFStreamErrorDomainKey=4}
+
+!!!2018-10-25 13:40:01.893 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  _kCFStreamErrorDomainKey=4}
+
+!!!2018-10-25 13:40:01.893 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  _kCFStreamErrorDomainKey=4}
+
+2018-10-25 13:40:02.059 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-82
+
+2018-10-25 13:40:02.059 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-25 13:40:02.219 || Network <WIFI> PaKing-192.168.6.23
+
+2018-10-25 13:40:02.220 || inputAPI = /app.php?page=checkGarage
+
+2018-10-25 13:40:02.220 || Set CHECK_GARAGE 3sec TimeOut /app.php?page=checkGarage
+
+2018-10-25 13:40:02.221 || checkGarage Request 
+
+2018-10-25 13:40:02.592 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-85
+
+2018-10-25 13:40:02.592 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-25 13:40:03.326 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-76
+
+2018-10-25 13:40:03.326 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-25 13:40:03.350 || checkGarage Success 
+
+  ||                 "garage_id" = 000007;
+
+  ||                 "garage_id" = 000007;
+
+  ||         "flow_gatecontrol" = 0;
+
+  ||         "garage_id" = 000007;
+
+2018-10-25 13:40:03.535 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-97
+
+2018-10-25 13:40:03.535 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-25 13:40:04.377 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-88
+
+2018-10-25 13:40:04.377 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-25 13:40:04.700 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-77
+
+2018-10-25 13:40:04.700 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-25 13:40:04.700 || [Gate]GATE > -85!!!!
+
+2018-10-25 13:40:04.803 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-90
+
+2018-10-25 13:40:04.803 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-25 13:40:05.129 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-89
+
+2018-10-25 13:40:05.130 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-25 13:40:05.238 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-92
+
+2018-10-25 13:40:05.238 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-25 13:40:05.540 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-88
+
+2018-10-25 13:40:05.540 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-25 13:40:05.651 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-88
+
+2018-10-25 13:40:05.652 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-25 13:40:05.758 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-92
+
+2018-10-25 13:40:05.758 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-25 13:40:05.974 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-87
+
+2018-10-25 13:40:05.974 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-25 13:40:06.082 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-88
+
+2018-10-25 13:40:06.082 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-25 13:40:06.188 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-87
+
+2018-10-25 13:40:06.188 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-25 13:40:06.295 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-87
+
+2018-10-25 13:40:06.295 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-25 13:40:06.408 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-90
+
+2018-10-25 13:40:06.408 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-25 13:40:07.343 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-89
+
+2018-10-25 13:40:07.343 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-25 13:40:07.453 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-89
+
+2018-10-25 13:40:07.453 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-25 13:40:07.562 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-89
+
+2018-10-25 13:40:07.562 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-25 13:40:07.670 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-88
+
+2018-10-25 13:40:07.670 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-25 13:40:07.986 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-85
+
+2018-10-25 13:40:07.986 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-25 13:40:07.987 || [Gate]GATE > -85!!!!
+
+2018-10-25 13:40:08.090 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-85
+
+2018-10-25 13:40:08.091 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-25 13:40:08.091 || [Gate]GATE > -85!!!!
+
+2018-10-25 13:40:08.092 || [Gate]pName:00:23:A7:A6:B3:D8_GI
+
+2018-10-25 13:40:08.203 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-76
+
+2018-10-25 13:40:08.203 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-25 13:40:08.203 || [Gate]GATE > -85!!!!
+
+2018-10-25 13:40:08.423 || [Gate]pName:00:23:A7:A6:B3:D8_GI
+
+2018-10-25 13:40:08.423 || -[BLEManager centralManager:didConnectPeripheral:]|[L:1037]|[Gate]connected duration:0.330920
+
+2018-10-25 13:40:08.424 || -[BLEManager centralManager:didConnectPeripheral:]|[L:1038]|[Gate]apiProcessingStatus:{
+
+2018-10-25 13:40:08.424 || [Gate]pName:00:23:A7:A6:B3:D8_GI
+
+2018-10-25 13:40:08.770 || [Gate]pName:00:23:A7:A6:B3:D8_GI
+
+2018-10-25 13:40:08.950 || [Gate]pName:00:23:A7:A6:B3:D8_GI
+
+2018-10-25 13:40:09.051 || -[BLEManager sendDataToMCU:]|[L:1422]|[Gate]send command to mcu:PASSWORD
+
+2018-10-25 13:40:09.251 || [Gate]pName:00:23:A7:A6:B3:D8_GI
+
+2018-10-25 13:40:09.251 || -[BLEManager peripheral:didUpdateValueForCharacteristic:error:]|[L:1378]|[Gate]Gate Password Success
+
+2018-10-25 13:40:09.307 || Network <WIFI> PaKing-192.168.6.23
+
+2018-10-25 13:40:09.308 || inputAPI = /app.php?page=garage_enter_check_reservechange
+
+2018-10-25 13:40:09.308 || Set CHECK_GARAGE 3sec TimeOut /app.php?page=garage_enter_check_reservechange
+
+2018-10-25 13:40:09.310 || garage_enter_check_reservechange Request 
+
+2018-10-25 13:40:11.312 || garage_enter_check_reservechange Success 
+
+2018-10-25 13:40:11.319 || userManager.isGarageReservation = 0
+
+2018-10-25 13:40:11.319 || userManager.isReservation = 0
+
+2018-10-25 13:40:11.324 || userManager.isGarageReservation = 0
+
+  ||     "flow_gatecontrol" = 0;
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:40:11.333 || Network <WIFI> PaKing-192.168.6.23
+
+2018-10-25 13:40:11.334 || parking_space_list Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:40:11.362 || voiceString:抵達車場入口
+
+2018-10-25 13:40:11.524 || normal enter popup
+
+2018-10-25 13:40:12.587 || [Gate]Open InOutGate 
+
+2018-10-25 13:40:12.621 || Network <WIFI> PaKing-192.168.6.23
+
+2018-10-25 13:40:12.622 || inputAPI = /local.php?page=garage_enter_confirm&garage_dbname=000007
+
+2018-10-25 13:40:12.622 || Set CHECK_GARAGE 3sec TimeOut /local.php?page=garage_enter_confirm&garage_dbname=000007
+
+2018-10-25 13:40:12.625 || garage_enter_confirm&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+!!!2018-10-25 13:40:15.631 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  _kCFStreamErrorDomainKey=4}
+
+!!!2018-10-25 13:40:15.631 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  _kCFStreamErrorDomainKey=4}
+
+!!!2018-10-25 13:40:15.632 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  _kCFStreamErrorDomainKey=4}
+
+2018-10-25 13:40:16.151 || Network <WIFI> PaKing-192.168.6.23
+
+2018-10-25 13:40:16.152 || inputAPI = /local.php?page=garage_enter_confirm&garage_dbname=000007
+
+2018-10-25 13:40:16.152 || Set CHECK_GARAGE 3sec TimeOut /local.php?page=garage_enter_confirm&garage_dbname=000007
+
+2018-10-25 13:40:16.157 || garage_enter_confirm&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+!!!2018-10-25 13:40:19.163 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  _kCFStreamErrorDomainKey=4}
+
+!!!2018-10-25 13:40:19.164 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  _kCFStreamErrorDomainKey=4}
+
+!!!2018-10-25 13:40:19.165 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  _kCFStreamErrorDomainKey=4}
+
+2018-10-25 13:40:19.713 || Network <WIFI> PaKing-192.168.6.23
+
+2018-10-25 13:40:19.713 || inputAPI = /local.php?page=garage_enter_confirm&garage_dbname=000007
+
+2018-10-25 13:40:19.714 || Set CHECK_GARAGE 3sec TimeOut /local.php?page=garage_enter_confirm&garage_dbname=000007
+
+2018-10-25 13:40:19.717 || garage_enter_confirm&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+!!!2018-10-25 13:40:22.722 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  _kCFStreamErrorDomainKey=4}
+
+!!!2018-10-25 13:40:22.723 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  _kCFStreamErrorDomainKey=4}
+
+!!!2018-10-25 13:40:22.723 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  _kCFStreamErrorDomainKey=4}
+
+2018-10-25 13:40:23.259 || Network <WIFI> PaKing-192.168.6.23
+
+2018-10-25 13:40:23.262 || inputAPI = /local.php?page=garage_enter_confirm&garage_dbname=000007
+
+2018-10-25 13:40:23.263 || Set CHECK_GARAGE 3sec TimeOut /local.php?page=garage_enter_confirm&garage_dbname=000007
+
+2018-10-25 13:40:23.269 || garage_enter_confirm&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+!!!2018-10-25 13:40:25.642 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  _kCFStreamErrorDomainKey=1}
+
+!!!2018-10-25 13:40:25.643 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  _kCFStreamErrorDomainKey=1}
+
+!!!2018-10-25 13:40:25.678 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  _kCFStreamErrorDomainKey=1}
+
+!!!2018-10-25 13:40:25.679 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  _kCFStreamErrorDomainKey=1}
+
+!!!2018-10-25 13:40:26.274 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  _kCFStreamErrorDomainKey=4}
+
+!!!2018-10-25 13:40:26.275 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  _kCFStreamErrorDomainKey=4}
+
+!!!2018-10-25 13:40:26.275 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  _kCFStreamErrorDomainKey=4}
+
+2018-10-25 13:40:26.797 || Network <WIFI> PaKing-192.168.6.23
+
+2018-10-25 13:40:26.799 || inputAPI = /local.php?page=garage_enter_confirm&garage_dbname=000007
+
+2018-10-25 13:40:26.799 || Set CHECK_GARAGE 3sec TimeOut /local.php?page=garage_enter_confirm&garage_dbname=000007
+
+2018-10-25 13:40:26.803 || garage_enter_confirm&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+!!!2018-10-25 13:40:29.808 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  _kCFStreamErrorDomainKey=4}
+
+!!!2018-10-25 13:40:29.809 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  _kCFStreamErrorDomainKey=4}
+
+!!!2018-10-25 13:40:29.809 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  _kCFStreamErrorDomainKey=4}
+
+2018-10-25 13:40:30.337 || Network <WIFI> PaKing-192.168.6.23
+
+2018-10-25 13:40:30.339 || inputAPI = /local.php?page=garage_enter_confirm&garage_dbname=000007
+
+2018-10-25 13:40:30.339 || Set CHECK_GARAGE 3sec TimeOut /local.php?page=garage_enter_confirm&garage_dbname=000007
+
+2018-10-25 13:40:30.346 || garage_enter_confirm&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:40:33.273 || parking_space_list Success 
+
+!!!2018-10-25 13:40:33.353 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  _kCFStreamErrorDomainKey=4}
+
+!!!2018-10-25 13:40:33.354 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  _kCFStreamErrorDomainKey=4}
+
+!!!2018-10-25 13:40:33.354 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  _kCFStreamErrorDomainKey=4}
+
+2018-10-25 13:40:33.358 || -[BLEManager centralManager:didDisconnectPeripheral:error:]|[L:1060]|[Gate]pName:00:23:A7:A6:B3:D8_GI
+
+2018-10-25 13:40:33.358 || -[BLEManager centralManager:didDisconnectPeripheral:error:]|[L:1061]|[Gate]error:(null)
+
+2018-10-25 13:40:33.359 || -[BLEManager centralManager:didDisconnectPeripheral:error:]|[L:1062]|[Gate]completeGateConnectProcess=0
+
+2018-10-25 13:40:33.902 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-74
+
+2018-10-25 13:40:33.902 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-25 13:40:33.903 || [Gate]GATE > -85!!!!
+
+2018-10-25 13:40:34.007 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-74
+
+2018-10-25 13:40:34.008 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-25 13:40:34.009 || [Gate]GATE > -85!!!!
+
+2018-10-25 13:40:34.012 || [Gate]pName:00:23:A7:A6:B3:D8_GI
+
+2018-10-25 13:40:34.116 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-73
+
+2018-10-25 13:40:34.117 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-25 13:40:34.118 || [Gate]GATE > -85!!!!
+
+2018-10-25 13:40:34.327 || [Gate]pName:00:23:A7:A6:B3:D8_GI
+
+2018-10-25 13:40:34.327 || -[BLEManager centralManager:didConnectPeripheral:]|[L:1037]|[Gate]connected duration:0.314058
+
+2018-10-25 13:40:34.327 || -[BLEManager centralManager:didConnectPeripheral:]|[L:1038]|[Gate]apiProcessingStatus:{
+
+2018-10-25 13:40:34.327 || [Gate]pName:00:23:A7:A6:B3:D8_GI
+
+2018-10-25 13:40:34.687 || [Gate]pName:00:23:A7:A6:B3:D8_GI
+
+2018-10-25 13:40:34.897 || [Gate]pName:00:23:A7:A6:B3:D8_GI
+
+2018-10-25 13:40:35.000 || -[BLEManager sendDataToMCU:]|[L:1422]|[Gate]send command to mcu:PASSWORD
+
+2018-10-25 13:40:35.108 || [Gate]pName:00:23:A7:A6:B3:D8_GI
+
+2018-10-25 13:40:35.108 || -[BLEManager peripheral:didUpdateValueForCharacteristic:error:]|[L:1378]|[Gate]Gate Password Success
+
+2018-10-25 13:40:35.145 || Network <WIFI> PaKing-192.168.6.23
+
+2018-10-25 13:40:35.146 || inputAPI = /app.php?page=garage_enter_check_reservechange
+
+2018-10-25 13:40:35.146 || Set CHECK_GARAGE 3sec TimeOut /app.php?page=garage_enter_check_reservechange
+
+2018-10-25 13:40:35.149 || garage_enter_check_reservechange Request 
+
+!!!2018-10-25 13:40:38.153 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  _kCFStreamErrorDomainKey=4}
+
+!!!2018-10-25 13:40:38.154 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  _kCFStreamErrorDomainKey=4}
+
+2018-10-25 13:40:38.663 || Network <WIFI> PaKing-192.168.6.23
+
+2018-10-25 13:40:38.665 || inputAPI = /app.php?page=garage_enter_check_reservechange
+
+2018-10-25 13:40:38.666 || Set CHECK_GARAGE 3sec TimeOut /app.php?page=garage_enter_check_reservechange
+
+2018-10-25 13:40:38.671 || garage_enter_check_reservechange Request 
+
+!!!2018-10-25 13:40:41.186 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  _kCFStreamErrorDomainKey=1}
+
+!!!2018-10-25 13:40:41.187 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  _kCFStreamErrorDomainKey=1}
+
+!!!2018-10-25 13:40:41.676 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  _kCFStreamErrorDomainKey=4}
+
+!!!2018-10-25 13:40:41.677 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  _kCFStreamErrorDomainKey=4}
+
+2018-10-25 13:40:42.202 || Network <WIFI> PaKing-192.168.6.23
+
+2018-10-25 13:40:42.203 || inputAPI = /app.php?page=garage_enter_check_reservechange
+
+2018-10-25 13:40:42.203 || Set CHECK_GARAGE 3sec TimeOut /app.php?page=garage_enter_check_reservechange
+
+2018-10-25 13:40:42.207 || garage_enter_check_reservechange Request 
+
+!!!2018-10-25 13:40:45.213 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  _kCFStreamErrorDomainKey=4}
+
+!!!2018-10-25 13:40:45.213 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  _kCFStreamErrorDomainKey=4}
+
+2018-10-25 13:40:45.761 || Network <WIFI> PaKing-192.168.6.23
+
+2018-10-25 13:40:45.763 || inputAPI = /app.php?page=garage_enter_check_reservechange
+
+2018-10-25 13:40:45.764 || Set CHECK_GARAGE 3sec TimeOut /app.php?page=garage_enter_check_reservechange
+
+2018-10-25 13:40:45.770 || garage_enter_check_reservechange Request 
+
+2018-10-25 13:40:47.705 || -[AppDelegate applicationWillResignActive:]|[L:133]|
+
+2018-10-25 13:40:48.302 || -[AppDelegate applicationDidEnterBackground:]|[L:125]|
+
+2018-10-25 13:40:48.310 || [Gate]pName:00:23:A7:A6:B3:D8_GI
+
+!!!2018-10-25 13:40:48.774 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  _kCFStreamErrorDomainKey=4}
+
+!!!2018-10-25 13:40:48.774 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  _kCFStreamErrorDomainKey=4}
+
+2018-10-25 13:40:49.399 || Network <WIFI> PaKing-192.168.6.23
+
+2018-10-25 13:40:49.399 || inputAPI = /app.php?page=garage_enter_check_reservechange
+
+2018-10-25 13:40:49.399 || Set CHECK_GARAGE 3sec TimeOut /app.php?page=garage_enter_check_reservechange
+
+2018-10-25 13:40:49.404 || garage_enter_check_reservechange Request 
+
+2018-10-25 13:40:49.769 || garage_enter_check_reservechange Success 
+
+2018-10-25 13:40:49.773 || userManager.isGarageReservation = 0
+
+2018-10-25 13:40:49.773 || userManager.isReservation = 0
+
+  ||     "flow_gatecontrol" = 0;
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:40:49.778 || userManager.isGarageReservation = 0
+
+  ||     "flow_gatecontrol" = 0;
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:40:49.783 || Network <WIFI> PaKing-192.168.6.23
+
+2018-10-25 13:40:49.784 || parking_space_list Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:40:50.225 || parking_space_list Success 
+
+2018-10-25 13:40:51.318 || [Gate]pName:00:23:A7:A6:B3:D8_GI
+
+2018-10-25 13:40:51.320 || voiceString:抵達車場入口
+
+2018-10-25 13:41:16.602 || -[AppDelegate applicationWillEnterForeground:]|[L:156]|
+
+2018-10-25 13:41:16.885 || -[AppDelegate applicationDidBecomeActive:]|[L:193]|
+
+2018-10-25 13:41:16.892 || Network <WIFI> PaKing-192.168.6.23
+
+2018-10-25 13:41:16.892 || user_fail_trade_check Request 
+
+2018-10-25 13:41:17.285 || user_fail_trade_check Success 
+
+!!!2018-10-25 13:41:17.285 || result: {
+
+!!!2018-10-25 13:41:17.286 || userManager.garageFarePaymentStatus = NoGarageFare 
+
+2018-10-25 13:41:17.895 || [Gate]pName:00:23:A7:A6:B3:D8_GI
+
+2018-10-25 13:41:17.941 || Network <WIFI> PaKing-192.168.6.23
+
+2018-10-25 13:41:17.942 || inputAPI = /app.php?page=garage_enter_check_reservechange
+
+2018-10-25 13:41:17.942 || Set CHECK_GARAGE 3sec TimeOut /app.php?page=garage_enter_check_reservechange
+
+2018-10-25 13:41:17.945 || garage_enter_check_reservechange Request 
+
+2018-10-25 13:41:18.460 || garage_enter_check_reservechange Success 
+
+2018-10-25 13:41:18.463 || userManager.isGarageReservation = 0
+
+2018-10-25 13:41:18.463 || userManager.isReservation = 0
+
+  ||     "flow_gatecontrol" = 0;
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:41:18.469 || userManager.isGarageReservation = 0
+
+  ||     "flow_gatecontrol" = 0;
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:41:18.475 || Network <WIFI> PaKing-192.168.6.23
+
+2018-10-25 13:41:18.476 || parking_space_list Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:41:18.504 || voiceString:抵達車場入口
+
+2018-10-25 13:41:18.505 || normal enter popup
+
+2018-10-25 13:41:18.931 || parking_space_list Success 
+
+2018-10-25 13:41:20.646 || [Gate]Open InOutGate 
+
+2018-10-25 13:41:20.661 || Network <WIFI> PaKing-192.168.6.23
+
+2018-10-25 13:41:20.662 || inputAPI = /local.php?page=garage_enter_confirm&garage_dbname=000007
+
+2018-10-25 13:41:20.662 || Set CHECK_GARAGE 3sec TimeOut /local.php?page=garage_enter_confirm&garage_dbname=000007
+
+2018-10-25 13:41:20.666 || garage_enter_confirm&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:41:21.698 || garage_enter_confirm&garage_dbname=000007 Success 
+
+  ||         "garage_id" = 000007;
+
+2018-10-25 13:41:21.800 || -[BLEManager sendDataToMCU:]|[L:1428]|[Gate]send command to mcu:OPEN GATE
+
+2018-10-25 13:41:21.936 || [Gate]pName:00:23:A7:A6:B3:D8_GI
+
+2018-10-25 13:41:21.936 || -[BLEManager peripheral:didUpdateValueForCharacteristic:error:]|[L:1391]|[Gate]Gate Open Success
+
+2018-10-25 13:41:21.936 || [Gate]
+
+2018-10-25 13:41:21.942 || set orderListInfo = {
+
+  ||     "flow_gatecontrol" = 0;
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:41:21.943 || userManager.gateGarageInfo = {
+
+  ||             "garage_id" = 000007;
+
+  ||             "garage_id" = 000007;
+
+  ||     "flow_gatecontrol" = 0;
+
+  ||     "garage_id" = 000007;
+
+  ||     "flow_gatecontrol" = 0;
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:41:21.986 || usermanager.isReservation = 0
+
+2018-10-25 13:41:21.986 || usermanager.isGarageReservation = 0
+
+2018-10-25 13:41:24.061 || Network <WIFI> PaKing-192.168.6.23
+
+2018-10-25 13:41:24.062 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:41:24.664 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:41:27.066 || Network <WIFI> PaKing-192.168.6.23
+
+2018-10-25 13:41:27.067 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:41:27.677 || Network <WIFI> PaKing-192.168.6.23
+
+2018-10-25 13:41:27.678 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:41:27.730 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:41:28.336 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:41:29.294 || -[BLEManager centralManager:didDisconnectPeripheral:error:]|[L:1060]|[Gate]pName:00:23:A7:A6:B3:D8_GI
+
+2018-10-25 13:41:29.294 || -[BLEManager centralManager:didDisconnectPeripheral:error:]|[L:1061]|[Gate]error:Error Domain=CBErrorDomain Code=6 "The connection has timed out unexpectedly." UserInfo={NSLocalizedDescription=The connection has timed out unexpectedly.}
+
+2018-10-25 13:41:29.294 || -[BLEManager centralManager:didDisconnectPeripheral:error:]|[L:1062]|[Gate]completeGateConnectProcess=1
+
+2018-10-25 13:41:30.738 || Network <WIFI> PaKing-192.168.6.23
+
+2018-10-25 13:41:30.740 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:41:31.345 || Network <WIFI> PaKing-192.168.6.23
+
+2018-10-25 13:41:31.348 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:41:31.350 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:41:32.255 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:41:34.359 || Network <WIFI> PaKing-192.168.6.23
+
+2018-10-25 13:41:34.362 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:41:35.171 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:41:35.260 || Network <WIFI> PaKing-192.168.6.23
+
+2018-10-25 13:41:35.261 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:41:36.010 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:41:38.181 || Network <WIFI> PaKing-192.168.6.23
+
+2018-10-25 13:41:38.183 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:41:38.832 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:41:39.017 || Network <WIFI> PaKing-192.168.6.23
+
+2018-10-25 13:41:39.019 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:41:41.841 || Network <WIFI> PaKing-192.168.6.23
+
+2018-10-25 13:41:41.842 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:41:43.535 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:41:46.541 || Network <WIFI> PaKing-192.168.6.23
+
+2018-10-25 13:41:46.543 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:41:47.052 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:41:50.061 || Network <WIFI> PaKing-192.168.6.23
+
+2018-10-25 13:41:50.070 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:41:50.676 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:41:53.682 || Network <WIFI> PaKing-192.168.6.23
+
+2018-10-25 13:41:53.683 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:41:54.377 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:41:54.566 || Network <WIFI> PaKing-192.168.6.23
+
+2018-10-25 13:41:54.567 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:41:55.001 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:41:55.558 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:41:56.574 || Network <WIFI> PaKing-192.168.6.23
+
+2018-10-25 13:41:56.576 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:41:57.555 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:41:58.565 || Network <WIFI> PaKing-192.168.6.23
+
+2018-10-25 13:41:58.567 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:42:00.569 || Network <WIFI> PaKing-192.168.6.23
+
+2018-10-25 13:42:00.571 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:42:02.147 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:42:03.408 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:42:05.155 || Network <WIFI> PaKing-192.168.6.23
+
+2018-10-25 13:42:05.157 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:42:05.753 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:42:06.418 || Network <WIFI> PaKing-192.168.6.23
+
+2018-10-25 13:42:06.421 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:42:07.096 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:42:08.761 || Network <WIFI> PaKing-192.168.6.23
+
+2018-10-25 13:42:08.763 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:42:10.107 || Network <WIFI> PaKing-192.168.6.23
+
+2018-10-25 13:42:10.110 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:42:10.713 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:42:12.301 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:42:13.719 || Network <WIFI> PaKing-192.168.6.23
+
+2018-10-25 13:42:13.720 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:42:14.510 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:42:15.315 || Network <WIFI> PaKing-192.168.6.23
+
+2018-10-25 13:42:15.317 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:42:15.977 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:42:17.517 || Network <WIFI> PaKing-192.168.6.23
+
+2018-10-25 13:42:17.520 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:42:18.209 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:42:18.994 || Network <WIFI> PaKing-192.168.6.23
+
+2018-10-25 13:42:18.997 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:42:20.530 || Network <WIFI> PaKing-192.168.6.23
+
+2018-10-25 13:42:20.531 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:42:21.832 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:42:22.711 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:42:24.864 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:42:24.866 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:42:25.735 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:42:25.737 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:42:30.382 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:42:30.705 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:42:33.408 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:42:33.409 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:42:33.733 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:42:33.735 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:42:38.635 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:42:38.969 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:42:41.646 || Network <WIFI> PaKing-192.168.6.23
+
+2018-10-25 13:42:41.648 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:42:41.976 || Network <WIFI> PaKing-192.168.6.23
+
+2018-10-25 13:42:41.978 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:42:42.495 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:42:43.521 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:42:45.508 || Network <WIFI> PaKing-192.168.6.23
+
+2018-10-25 13:42:45.511 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:42:46.528 || Network <WIFI> PaKing-192.168.6.23
+
+2018-10-25 13:42:46.531 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:42:47.209 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:42:47.499 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:42:50.221 || Network <WIFI> PaKing-192.168.6.23
+
+2018-10-25 13:42:50.222 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:42:50.504 || Network <WIFI> PaKing-192.168.6.23
+
+2018-10-25 13:42:50.505 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:42:51.074 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:42:51.613 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:42:54.088 || Network <WIFI> PaKing-192.168.6.23
+
+2018-10-25 13:42:54.090 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:42:54.621 || Network <WIFI> PaKing-192.168.6.23
+
+2018-10-25 13:42:54.623 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:42:54.999 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:42:55.394 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:42:58.008 || Network <WIFI> PaKing-192.168.6.23
+
+2018-10-25 13:42:58.009 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:42:58.399 || Network <WIFI> PaKing-192.168.6.23
+
+2018-10-25 13:42:58.400 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:42:58.581 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:42:59.102 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:43:01.596 || Network <WIFI> PaKing-192.168.6.23
+
+2018-10-25 13:43:01.598 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:43:02.110 || Network <WIFI> PaKing-192.168.6.23
+
+2018-10-25 13:43:02.113 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:43:02.144 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:43:02.709 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:43:04.980 || voiceString:停完車請確認
+
+2018-10-25 13:43:05.153 || Network <WIFI> PaKing-192.168.6.23
+
+2018-10-25 13:43:05.154 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:43:05.716 || Network <WIFI> PaKing-192.168.6.23
+
+2018-10-25 13:43:05.719 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:43:05.738 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:43:06.355 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:43:08.749 || Network <WIFI> PaKing-192.168.6.23
+
+2018-10-25 13:43:08.750 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:43:09.362 || Network <WIFI> PaKing-192.168.6.23
+
+2018-10-25 13:43:09.365 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:43:09.381 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:43:09.950 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:43:12.392 || Network <WIFI> PaKing-192.168.6.23
+
+2018-10-25 13:43:12.395 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:43:12.922 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:43:12.957 || Network <WIFI> PaKing-192.168.6.23
+
+2018-10-25 13:43:12.960 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:43:13.481 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:43:15.937 || Network <WIFI> PaKing-192.168.6.23
+
+2018-10-25 13:43:15.939 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:43:16.488 || Network <WIFI> PaKing-192.168.6.23
+
+2018-10-25 13:43:16.491 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:43:16.628 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:43:17.096 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:43:19.644 || Network <WIFI> PaKing-192.168.6.23
+
+2018-10-25 13:43:19.647 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:43:20.101 || Network <WIFI> PaKing-192.168.6.23
+
+2018-10-25 13:43:20.102 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:43:20.411 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:43:20.791 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:43:23.420 || Network <WIFI> PaKing-192.168.6.23
+
+2018-10-25 13:43:23.422 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:43:23.797 || Network <WIFI> PaKing-192.168.6.23
+
+2018-10-25 13:43:23.800 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:43:23.977 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:43:24.588 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:43:26.990 || Network <WIFI> PaKing-192.168.6.23
+
+2018-10-25 13:43:26.992 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:43:27.596 || Network <WIFI> PaKing-192.168.6.23
+
+2018-10-25 13:43:27.598 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:43:27.737 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:43:28.272 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:43:30.753 || Network <WIFI> PaKing-192.168.6.23
+
+2018-10-25 13:43:30.756 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:43:31.280 || Network <WIFI> PaKing-192.168.6.23
+
+2018-10-25 13:43:31.282 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:43:31.423 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:43:31.980 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:43:34.439 || Network <WIFI> PaKing-192.168.6.23
+
+2018-10-25 13:43:34.441 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:43:34.988 || Network <WIFI> PaKing-192.168.6.23
+
+2018-10-25 13:43:34.990 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:43:35.029 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:43:35.527 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:43:38.045 || Network <WIFI> PaKing-192.168.6.23
+
+2018-10-25 13:43:38.047 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:43:38.534 || Network <WIFI> PaKing-192.168.6.23
+
+2018-10-25 13:43:38.537 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:43:38.563 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:43:39.130 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:43:41.575 || Network <WIFI> PaKing-192.168.6.23
+
+2018-10-25 13:43:41.577 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:43:42.137 || Network <WIFI> PaKing-192.168.6.23
+
+2018-10-25 13:43:42.140 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:43:42.178 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:43:42.776 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:43:45.191 || Network <WIFI> PaKing-192.168.6.23
+
+2018-10-25 13:43:45.193 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:43:45.781 || Network <WIFI> PaKing-192.168.6.23
+
+2018-10-25 13:43:45.783 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:43:45.785 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:43:46.433 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:43:48.797 || Network <WIFI> PaKing-192.168.6.23
+
+2018-10-25 13:43:48.799 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:43:49.364 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:43:49.440 || Network <WIFI> PaKing-192.168.6.23
+
+2018-10-25 13:43:49.443 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:43:50.002 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:43:52.378 || Network <WIFI> PaKing-192.168.6.23
+
+2018-10-25 13:43:52.381 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:43:53.010 || Network <WIFI> PaKing-192.168.6.23
+
+2018-10-25 13:43:53.012 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:43:53.117 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:43:54.192 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:43:56.134 || Network <WIFI> PaKing-192.168.6.23
+
+2018-10-25 13:43:56.136 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:43:56.776 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:43:57.198 || Network <WIFI> PaKing-192.168.6.23
+
+2018-10-25 13:43:57.200 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:43:57.737 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:43:59.791 || Network <WIFI> PaKing-192.168.6.23
+
+2018-10-25 13:43:59.792 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:44:00.370 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:44:00.744 || Network <WIFI> PaKing-192.168.6.23
+
+2018-10-25 13:44:00.746 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:44:01.444 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:44:03.382 || Network <WIFI> PaKing-192.168.6.23
+
+2018-10-25 13:44:03.382 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:44:03.929 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:44:04.450 || Network <WIFI> PaKing-192.168.6.23
+
+2018-10-25 13:44:04.452 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:44:05.015 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:44:06.945 || Network <WIFI> PaKing-192.168.6.23
+
+2018-10-25 13:44:06.947 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:44:07.672 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:44:08.022 || Network <WIFI> PaKing-192.168.6.23
+
+2018-10-25 13:44:08.025 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:44:08.563 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:44:10.689 || Network <WIFI> PaKing-192.168.6.23
+
+2018-10-25 13:44:10.691 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:44:11.413 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:44:11.570 || Network <WIFI> PaKing-192.168.6.23
+
+2018-10-25 13:44:11.572 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:44:12.583 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:44:14.430 || Network <WIFI> PaKing-192.168.6.23
+
+2018-10-25 13:44:14.432 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:44:15.151 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:44:15.590 || Network <WIFI> PaKing-192.168.6.23
+
+2018-10-25 13:44:15.593 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:44:16.131 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:44:18.166 || Network <WIFI> PaKing-192.168.6.23
+
+2018-10-25 13:44:18.168 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:44:18.856 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:44:19.137 || Network <WIFI> PaKing-192.168.6.23
+
+2018-10-25 13:44:19.140 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:44:19.701 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:44:21.869 || Network <WIFI> PaKing-192.168.6.23
+
+2018-10-25 13:44:21.871 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:44:22.499 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:44:22.708 || Network <WIFI> PaKing-192.168.6.23
+
+2018-10-25 13:44:22.711 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:44:23.599 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:44:25.515 || Network <WIFI> PaKing-192.168.6.23
+
+2018-10-25 13:44:25.517 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:44:26.142 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:44:26.606 || Network <WIFI> PaKing-192.168.6.23
+
+2018-10-25 13:44:26.609 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:44:27.295 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:44:29.154 || Network <WIFI> PaKing-192.168.6.23
+
+2018-10-25 13:44:29.156 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:44:30.138 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:44:30.300 || Network <WIFI> PaKing-192.168.6.23
+
+2018-10-25 13:44:30.301 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:44:30.320 || voiceString:是否停車完成
+
+2018-10-25 13:44:30.320 || ParkedConfirmNote popup
+
+2018-10-25 13:44:30.915 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:44:33.150 || Network <WIFI> PaKing-192.168.6.23
+
+2018-10-25 13:44:33.152 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:44:33.864 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:44:33.921 || Network <WIFI> PaKing-192.168.6.23
+
+2018-10-25 13:44:33.922 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:44:34.550 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:44:36.878 || Network <WIFI> PaKing-192.168.6.23
+
+2018-10-25 13:44:36.880 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:44:37.557 || Network <WIFI> PaKing-192.168.6.23
+
+2018-10-25 13:44:37.560 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:44:37.573 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:44:38.258 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:44:40.584 || Network <WIFI> PaKing-192.168.6.23
+
+2018-10-25 13:44:40.586 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:44:41.265 || Network <WIFI> PaKing-192.168.6.23
+
+2018-10-25 13:44:41.268 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:44:41.389 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:44:42.016 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:44:44.406 || Network <WIFI> PaKing-192.168.6.23
+
+2018-10-25 13:44:44.409 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:44:45.024 || Network <WIFI> PaKing-192.168.6.23
+
+2018-10-25 13:44:45.026 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:44:45.088 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:44:45.677 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:44:45.715 || voiceString:是否停車完成
+
+2018-10-25 13:44:45.716 || ParkedConfirmNote popup
+
+2018-10-25 13:44:48.105 || Network <WIFI> PaKing-192.168.6.23
+
+2018-10-25 13:44:48.107 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:44:48.683 || Network <WIFI> PaKing-192.168.6.23
+
+2018-10-25 13:44:48.686 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:44:48.801 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:44:49.282 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:44:51.816 || Network <WIFI> PaKing-192.168.6.23
+
+2018-10-25 13:44:51.819 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:44:52.289 || Network <WIFI> PaKing-192.168.6.23
+
+2018-10-25 13:44:52.292 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:44:52.501 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:44:53.332 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:44:55.515 || Network <WIFI> PaKing-192.168.6.23
+
+2018-10-25 13:44:55.518 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:44:56.324 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:44:56.338 || Network <WIFI> PaKing-192.168.6.23
+
+2018-10-25 13:44:56.339 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:44:59.337 || Network <WIFI> PaKing-192.168.6.23
+
+2018-10-25 13:44:59.339 || floor_area_space_lite&garage_dbname=000007 Request 
+
+!!!2018-10-25 13:45:15.265 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  _kCFStreamErrorDomainKey=1}
+
+!!!2018-10-25 13:45:15.266 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  _kCFStreamErrorDomainKey=1}
+
+!!!2018-10-25 13:45:15.266 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  _kCFStreamErrorDomainKey=1}
+
+!!!2018-10-25 13:45:15.266 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+  ||     "LocalDataTask <AACF66A3-0339-40C3-85D6-CBCAE7FD1E7C>.<1>"
+
+!!! ||  _kCFStreamErrorDomainKey=1}
+
+!!!2018-10-25 13:45:15.266 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+  ||     "LocalDataTask <AACF66A3-0339-40C3-85D6-CBCAE7FD1E7C>.<1>"
+
+!!! ||  _kCFStreamErrorDomainKey=1}
+
+!!!2018-10-25 13:45:15.266 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+  ||     "LocalDataTask <AACF66A3-0339-40C3-85D6-CBCAE7FD1E7C>.<1>"
+
+!!! ||  _kCFStreamErrorDomainKey=1}
+
+2018-10-25 13:45:15.269 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:45:15.270 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:45:15.274 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:45:15.274 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:45:15.988 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:45:16.418 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:45:19.012 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:45:19.013 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:45:19.443 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:45:19.444 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:45:19.661 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:45:20.141 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:45:21.643 || voiceString:是否停車完成
+
+2018-10-25 13:45:21.644 || ParkedConfirmNote popup
+
+2018-10-25 13:45:22.689 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:45:22.691 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:45:23.160 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:45:23.162 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:45:23.281 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:45:23.778 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:45:26.307 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:45:26.308 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:45:26.803 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:45:26.804 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:45:27.059 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:45:27.534 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:45:30.088 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:45:30.089 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:45:30.555 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:45:30.556 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:45:30.716 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:45:31.217 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:45:33.743 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:45:33.745 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:45:34.230 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:45:34.231 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:45:34.293 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:45:34.825 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:45:37.042 || voiceString:是否停車完成
+
+2018-10-25 13:45:37.042 || ParkedConfirmNote popup
+
+2018-10-25 13:45:37.306 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:45:37.307 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:45:37.848 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:45:37.849 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:45:37.904 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:45:38.500 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:45:40.933 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:45:40.935 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:45:41.524 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:45:41.526 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:45:41.539 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:45:42.228 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:45:44.570 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:45:44.572 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:45:45.210 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:45:45.249 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:45:45.250 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:45:45.856 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:45:48.243 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:45:48.245 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:45:48.828 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:45:48.882 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:45:48.883 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:45:49.585 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:45:51.863 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:45:51.865 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:45:52.443 || voiceString:是否停車完成
+
+2018-10-25 13:45:52.444 || ParkedConfirmNote popup
+
+2018-10-25 13:45:52.498 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:45:52.595 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:45:52.596 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:45:53.220 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:45:55.511 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:45:55.512 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:45:56.146 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:45:56.244 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:45:56.246 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:45:56.859 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:45:59.175 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:45:59.176 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:45:59.769 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:45:59.884 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:45:59.886 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:46:00.416 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:46:02.797 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:46:02.798 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:46:03.380 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:46:03.438 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:46:03.440 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:46:04.056 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:46:06.413 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:46:06.415 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:46:07.078 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:46:07.079 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:46:07.098 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:46:07.651 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:46:07.829 || voiceString:是否停車完成
+
+2018-10-25 13:46:07.831 || ParkedConfirmNote popup
+
+2018-10-25 13:46:10.126 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:46:10.128 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:46:10.675 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:46:10.677 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:46:10.698 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:46:11.225 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:46:13.726 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:46:13.728 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:46:14.247 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:46:14.249 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:46:14.360 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:46:14.901 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:46:17.394 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:46:17.396 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:46:17.924 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:46:17.925 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:46:18.022 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:46:18.775 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:46:21.043 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:46:21.044 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:46:21.666 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:46:21.797 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:46:21.799 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:46:22.427 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:46:23.242 || voiceString:是否停車完成
+
+2018-10-25 13:46:23.243 || ParkedConfirmNote popup
+
+2018-10-25 13:46:24.697 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:46:24.699 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:46:25.299 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:46:25.434 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:46:25.434 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:46:26.068 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:46:28.323 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:46:28.325 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:46:29.093 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:46:29.094 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:46:29.096 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:46:29.739 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:46:32.113 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:46:32.114 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:46:32.759 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:46:32.760 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:46:32.838 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:46:33.918 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:46:35.866 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:46:35.867 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:46:36.772 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:46:36.938 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:46:36.939 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:46:37.736 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:46:38.636 || voiceString:是否停車完成
+
+2018-10-25 13:46:38.637 || ParkedConfirmNote popup
+
+2018-10-25 13:46:39.797 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:46:39.798 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:46:40.562 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:46:40.758 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:46:40.760 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:46:41.570 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:46:43.595 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:46:43.596 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:46:44.450 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:46:44.588 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:46:44.589 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:46:45.414 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:46:47.483 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:46:47.484 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:46:48.214 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:46:48.436 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:46:48.438 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:46:49.258 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:46:51.245 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:46:51.246 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:46:51.819 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:46:52.278 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:46:52.280 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:46:53.092 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:46:54.037 || voiceString:是否停車完成
+
+2018-10-25 13:46:54.038 || ParkedConfirmNote popup
+
+2018-10-25 13:46:54.850 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:46:54.852 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:46:55.662 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:46:56.115 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:46:56.117 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:46:56.794 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:46:58.692 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:46:58.694 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:46:59.500 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:46:59.816 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:46:59.818 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:47:00.450 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:47:02.518 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:47:02.519 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:47:03.202 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:47:03.473 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:47:03.475 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:47:04.077 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:47:06.234 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:47:06.236 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:47:06.869 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:47:07.098 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:47:07.100 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:47:07.811 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:47:09.436 || voiceString:是否停車完成
+
+2018-10-25 13:47:09.437 || ParkedConfirmNote popup
+
+2018-10-25 13:47:09.898 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:47:09.900 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:47:10.700 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:47:10.835 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:47:10.837 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:47:11.651 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:47:13.727 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:47:13.728 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:47:14.535 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:47:14.675 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:47:14.676 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:47:15.510 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:47:17.564 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:47:17.565 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:47:18.380 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:47:18.533 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:47:18.535 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:47:19.351 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:47:21.409 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:47:21.410 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:47:22.219 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:47:22.375 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:47:22.376 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:47:23.171 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:47:24.829 || voiceString:是否停車完成
+
+2018-10-25 13:47:24.829 || ParkedConfirmNote popup
+
+2018-10-25 13:47:25.248 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:47:25.249 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:47:26.061 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:47:26.191 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:47:26.192 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:47:27.013 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:47:29.094 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:47:29.096 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:47:29.897 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:47:30.036 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:47:30.038 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:47:30.851 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:47:32.924 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:47:32.925 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:47:33.875 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:47:33.876 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:47:33.932 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:47:34.703 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:47:36.965 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:47:36.966 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:47:37.574 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:47:37.726 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:47:37.727 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:47:38.531 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:47:40.234 || voiceString:是否停車完成
+
+2018-10-25 13:47:40.234 || ParkedConfirmNote popup
+
+2018-10-25 13:47:40.601 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:47:40.602 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:47:41.413 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:47:41.555 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:47:41.556 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:47:42.374 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:47:44.439 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:47:44.440 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:47:45.260 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:47:45.396 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:47:45.398 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:47:46.211 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:47:48.294 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:47:48.295 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:47:48.891 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:47:49.235 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:47:49.236 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:47:50.051 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:47:51.924 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:47:51.925 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:47:52.613 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:47:53.075 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:47:53.076 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:47:53.902 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:47:55.633 || voiceString:是否停車完成
+
+2018-10-25 13:47:55.634 || ParkedConfirmNote popup
+
+2018-10-25 13:47:55.661 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:47:55.662 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:47:56.462 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:47:56.922 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:47:56.923 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:47:57.740 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:47:59.494 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:47:59.496 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:48:00.098 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:48:00.771 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:48:00.772 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:48:01.379 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:48:03.129 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:48:03.130 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:48:03.778 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:48:04.399 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:48:04.400 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:48:04.947 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:48:06.809 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:48:06.810 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:48:07.419 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:48:07.968 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:48:07.969 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:48:08.617 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:48:10.454 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:48:10.456 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:48:11.033 || voiceString:是否停車完成
+
+2018-10-25 13:48:11.033 || ParkedConfirmNote popup
+
+2018-10-25 13:48:11.166 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:48:11.639 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:48:11.641 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:48:12.432 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:48:14.193 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:48:14.194 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:48:15.003 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:48:15.456 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:48:15.457 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:48:16.272 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:48:18.035 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:48:18.036 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:48:18.844 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:48:19.296 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:48:19.297 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:48:20.126 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:48:21.874 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:48:21.876 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:48:22.683 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:48:23.147 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:48:23.148 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:48:23.952 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:48:25.710 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:48:25.712 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:48:26.434 || voiceString:是否停車完成
+
+2018-10-25 13:48:26.435 || ParkedConfirmNote popup
+
+2018-10-25 13:48:26.513 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:48:26.977 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:48:26.978 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:48:27.583 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:48:29.539 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:48:29.541 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:48:30.363 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:48:30.606 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:48:30.608 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:48:31.323 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:48:33.394 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:48:33.396 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:48:34.211 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:48:34.346 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:48:34.347 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:48:35.152 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:48:37.244 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:48:37.245 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:48:37.837 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:48:38.176 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:48:38.177 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:48:39.003 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:48:40.868 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:48:40.870 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:48:41.560 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:48:41.832 || voiceString:是否停車完成
+
+2018-10-25 13:48:41.833 || ParkedConfirmNote popup
+
+2018-10-25 13:48:42.015 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:48:42.016 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:48:42.844 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:48:44.589 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:48:44.590 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:48:45.402 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:48:45.866 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:48:45.868 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:48:46.675 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:48:48.434 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:48:48.435 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:48:49.150 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:48:49.697 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:48:49.699 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:48:50.537 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:48:52.175 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:48:52.177 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:48:53.099 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:48:53.558 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:48:53.559 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:48:54.374 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:48:56.128 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:48:56.130 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:48:56.936 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:48:57.396 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:48:57.398 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:48:58.211 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:48:59.965 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:48:59.967 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:49:01.100 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:49:01.235 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:49:01.236 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:49:02.051 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:49:04.133 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:49:04.135 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:49:04.940 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:49:05.075 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:49:05.076 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:49:05.891 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:49:07.973 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:49:07.975 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:49:08.779 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:49:08.915 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:49:08.916 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:49:09.739 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:49:11.813 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:49:11.815 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:49:12.612 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:49:12.764 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:49:12.765 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:49:13.582 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:49:15.644 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:49:15.646 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:49:16.460 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:49:16.605 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:49:16.607 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:49:17.422 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:49:19.489 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:49:19.490 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:49:19.998 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:49:20.432 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:49:20.433 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:49:21.260 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:49:23.028 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:49:23.030 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:49:23.815 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:49:24.284 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:49:24.286 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:49:25.102 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:49:26.841 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:49:26.842 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:49:27.659 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:49:28.126 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:49:28.127 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:49:28.939 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:49:30.686 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:49:30.687 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:49:31.495 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:49:31.964 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:49:31.965 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:49:32.772 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:49:34.524 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:49:34.525 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:49:35.791 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:49:35.792 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+!!!2018-10-25 13:49:43.995 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  _kCFStreamErrorDomainKey=1}
+
+!!!2018-10-25 13:49:43.996 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  _kCFStreamErrorDomainKey=1}
+
+!!!2018-10-25 13:49:43.997 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  _kCFStreamErrorDomainKey=1}
+
+2018-10-25 13:49:44.012 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:49:44.014 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:50:21.926 || voiceString:是否停車完成
+
+2018-10-25 13:50:21.927 || ParkedConfirmNote popup
+
+2018-10-25 13:50:37.325 || voiceString:是否停車完成
+
+2018-10-25 13:50:37.325 || ParkedConfirmNote popup
+
+!!!2018-10-25 13:50:45.703 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  _kCFStreamErrorDomainKey=4}
+
+!!!2018-10-25 13:50:45.704 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  _kCFStreamErrorDomainKey=4}
+
+!!!2018-10-25 13:50:45.705 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  _kCFStreamErrorDomainKey=4}
+
+2018-10-25 13:50:45.726 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:50:45.728 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:50:46.932 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:50:47.432 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:50:49.955 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:50:49.957 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:50:50.451 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:50:50.452 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:50:50.765 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:50:51.263 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:50:53.787 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:50:53.788 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:50:54.296 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:50:54.298 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:50:54.608 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:50:55.112 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:50:57.629 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:50:57.631 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:50:58.148 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:50:58.150 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:50:58.637 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:50:59.097 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:51:00.429 || voiceString:是否停車完成
+
+2018-10-25 13:51:00.430 || ParkedConfirmNote popup
+
+2018-10-25 13:51:01.655 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:51:01.657 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:51:02.123 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:51:02.124 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:51:02.441 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:51:02.957 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:51:05.465 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:51:05.467 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:51:05.986 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:51:05.988 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:51:06.271 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:51:06.722 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:51:09.296 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:51:09.297 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:51:09.752 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:51:09.753 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:51:09.952 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:51:10.482 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:51:12.976 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:51:12.978 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:51:13.515 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:51:13.517 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:51:13.848 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:51:14.330 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:51:15.826 || voiceString:是否停車完成
+
+2018-10-25 13:51:15.827 || ParkedConfirmNote popup
+
+2018-10-25 13:51:16.869 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:51:16.870 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:51:17.357 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:51:17.358 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:51:17.547 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:51:18.314 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:51:20.559 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:51:20.561 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:51:21.345 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:51:21.347 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:51:21.433 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:51:22.331 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:51:24.456 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:51:24.458 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:51:25.122 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:51:25.361 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:51:25.362 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:51:26.066 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:51:28.147 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:51:28.149 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:51:28.808 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:51:29.097 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:51:29.098 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:51:29.732 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:51:31.829 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:51:31.831 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:51:32.603 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:51:32.759 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:51:32.760 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:51:33.373 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:51:35.627 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:51:35.628 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:51:36.323 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:51:36.406 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:51:36.407 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:51:37.154 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:51:39.346 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:51:39.348 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:51:40.107 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:51:40.187 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:51:40.189 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:51:40.852 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:51:43.129 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:51:43.130 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:51:43.743 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:51:43.881 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:51:43.882 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:51:44.560 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:51:46.762 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:51:46.764 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:51:47.585 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:51:47.587 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:51:47.727 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:51:48.271 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:51:50.750 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:51:50.751 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:51:51.298 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:51:51.300 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:51:51.433 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:51:52.141 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:51:54.456 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:51:54.458 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:51:55.170 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:51:55.172 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:51:55.181 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:51:55.842 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:51:58.205 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:51:58.206 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:51:58.820 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:51:58.875 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:51:58.877 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:51:59.463 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:52:01.845 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:52:01.846 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:52:02.491 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:52:02.492 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:52:02.616 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:52:03.154 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:52:05.638 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:52:05.640 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:52:06.179 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:52:06.181 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:52:06.332 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:52:06.803 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:52:09.349 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:52:09.351 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:52:09.835 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:52:09.837 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:52:10.216 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:52:10.703 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:52:13.239 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:52:13.240 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:52:13.731 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:52:13.732 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:52:13.948 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:52:14.422 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:52:16.970 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:52:16.971 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:52:17.448 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:52:17.450 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:52:17.708 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:52:18.204 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:52:20.721 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:52:20.722 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:52:21.236 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:52:21.237 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:52:21.413 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:52:21.971 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:52:24.437 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:52:24.438 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:52:24.992 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:52:24.994 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:52:25.164 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:52:25.681 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:52:28.187 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:52:28.188 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:52:28.710 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:52:28.712 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:52:28.859 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:52:29.323 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:52:31.880 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:52:31.882 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:52:32.351 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:52:32.353 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:52:32.511 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:52:33.034 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:52:35.531 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:52:35.532 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:52:36.066 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:52:36.067 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:52:36.216 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:52:36.673 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:52:39.243 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:52:39.244 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:52:39.705 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:52:39.707 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:52:39.888 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:52:40.483 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:52:42.914 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:52:42.916 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:52:43.511 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:52:43.512 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:52:43.514 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:52:44.313 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:52:46.536 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:52:46.538 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:52:47.256 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:52:47.341 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:52:47.342 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:52:48.144 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:52:50.268 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:52:50.271 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:52:50.986 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:52:51.171 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:52:51.172 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:52:51.841 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:52:54.013 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:52:54.014 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:52:54.746 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:52:54.871 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:52:54.872 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:52:55.561 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:52:57.764 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:52:57.766 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:52:58.443 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:52:58.591 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:52:58.592 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:52:59.233 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:53:01.467 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:53:01.468 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:53:02.113 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:53:02.266 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:53:02.267 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:53:02.863 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:53:05.136 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:53:05.138 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:53:05.788 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:53:05.891 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:53:05.892 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:53:06.535 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:53:08.809 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:53:08.811 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:53:09.483 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:53:09.562 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:53:09.563 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:53:10.181 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:53:12.507 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:53:12.508 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:53:13.211 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:53:13.212 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:53:13.213 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:53:13.926 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:53:16.236 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:53:16.238 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:53:16.870 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:53:16.957 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:53:16.959 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:53:17.563 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:53:19.895 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:53:19.896 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:53:20.546 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:53:20.588 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:53:20.590 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:53:21.202 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:53:23.569 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:53:23.570 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:53:24.164 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:53:24.231 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:53:24.232 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:53:24.836 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:53:27.182 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:53:27.183 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:53:27.860 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:53:27.862 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:53:27.887 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:53:28.552 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:53:30.909 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:53:30.910 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:53:31.562 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:53:31.585 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:53:31.586 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:53:32.233 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:53:34.586 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:53:34.588 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:53:35.223 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:53:35.261 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:53:35.263 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:53:35.872 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:53:38.247 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:53:38.248 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:53:38.901 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:53:38.902 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:53:38.963 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:53:39.536 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:53:41.986 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:53:41.988 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:53:42.566 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:53:42.567 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:53:42.669 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:53:43.244 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:53:45.682 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:53:45.683 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:53:46.276 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:53:46.277 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:53:46.311 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:53:47.043 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:53:49.336 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:53:49.337 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:53:50.003 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:53:50.077 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:53:50.078 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:53:50.883 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:53:53.027 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:53:53.028 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:53:53.695 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:53:53.916 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:53:53.917 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:53:54.622 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:53:56.718 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:53:56.719 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:53:57.350 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:53:57.655 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:53:57.657 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:53:58.343 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:54:00.371 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:54:00.372 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:54:01.158 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:54:01.375 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:54:01.377 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:54:02.292 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:54:04.179 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:54:04.181 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:54:04.841 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:54:05.325 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:54:05.327 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:54:06.033 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:54:07.866 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:54:07.867 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:54:08.513 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:54:09.066 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:54:09.067 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:54:09.765 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:54:11.537 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:54:11.538 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:54:12.341 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:54:12.796 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:54:12.798 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:54:13.601 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:54:15.366 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:54:15.367 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:54:16.013 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:54:16.635 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:54:16.636 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:54:17.316 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:54:19.037 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:54:19.038 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:54:19.675 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:54:20.334 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:54:20.335 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:54:21.006 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:54:22.698 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:54:22.700 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:54:23.293 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:54:24.036 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:54:24.038 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:54:24.804 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:54:26.316 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:54:26.318 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:54:27.009 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:54:27.836 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:54:27.837 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:54:28.493 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:54:30.031 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:54:30.033 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:54:30.727 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:54:31.525 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:54:31.527 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:54:32.093 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:54:33.748 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:54:33.750 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:54:34.563 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:54:35.121 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:54:35.122 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:54:35.753 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:54:37.586 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:54:37.588 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:54:38.319 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:54:38.785 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:54:38.787 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:54:39.364 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:54:41.340 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:54:41.342 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:54:42.001 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:54:42.396 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:54:42.397 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:54:43.113 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:54:45.018 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:54:45.020 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:54:45.687 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:54:46.141 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:54:46.142 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:54:46.813 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:54:48.714 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:54:48.715 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:54:49.446 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:54:49.841 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:54:49.843 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:54:50.632 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:54:52.468 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:54:52.470 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:54:53.219 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:54:53.666 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:54:53.667 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:54:54.511 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:54:56.244 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:54:56.246 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:54:57.009 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:54:57.539 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:54:57.541 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:54:58.362 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:55:00.035 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:55:00.037 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:55:00.780 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:55:01.395 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:55:01.396 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:55:02.402 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:55:03.786 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:55:03.786 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:55:04.586 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:55:05.435 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:55:05.437 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:55:06.134 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:55:07.608 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:55:07.609 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:55:08.341 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:55:09.165 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:55:09.167 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:55:09.923 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:55:11.361 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:55:11.362 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:55:11.972 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:55:12.955 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:55:12.957 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:55:13.563 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:55:14.993 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:55:14.994 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:55:15.705 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:55:16.596 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:55:16.597 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:55:17.193 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:55:18.728 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:55:18.729 || garage_floor_available&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-25 13:55:19.320 || garage_floor_available&garage_dbname=000007 Success 
+
+2018-10-25 13:55:20.210 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:55:20.211 || floor_area_space_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:55:20.811 || floor_area_space_lite&garage_dbname=000007 Success 
+
+2018-10-25 13:55:21.990 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:55:21.992 || parking_tracking_insert_test&garage_dbname=000007 Request 
+
+2018-10-25 13:55:22.043 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:55:22.044 || get_news Request 
+
+2018-10-25 13:55:22.744 || get_news Success 
+
+2018-10-25 13:55:22.868 || parking_tracking_insert_test&garage_dbname=000007 Success 
+
+2018-10-25 13:55:22.888 || Network-<Carrier> 遠傳電信
+
+2018-10-25 13:55:22.889 || space_tracking_lite&garage_dbname=000007 Request 
+
+2018-10-25 13:55:24.518 || space_tracking_lite&garage_dbname=000007 Success 
+
+2018-10-25 14:04:58.158 || -[AppDelegate applicationWillResignActive:]|[L:133]|
+
+2018-10-25 14:04:58.788 || -[AppDelegate applicationDidEnterBackground:]|[L:125]|
+
+2018-10-25 16:17:56.494 || -[AppDelegate applicationWillEnterForeground:]|[L:156]|
+
+2018-10-25 16:17:56.650 || [Gate]GATE > -85!!!!
+
+2018-10-25 16:17:56.744 || -[AppDelegate applicationDidBecomeActive:]|[L:193]|
+
+2018-10-25 16:17:56.763 || Network <WIFI> PaKing-192.168.6.23
+
+2018-10-25 16:17:56.771 || user_fail_trade_check Request 
+
+2018-10-25 16:17:56.778 || Network <WIFI> PaKing-192.168.6.23
+
+2018-10-25 16:17:56.779 || ANPR_check_exit Request 
+
+2018-10-25 16:17:56.806 || [Gate]GATE > -85!!!!
+
+2018-10-25 16:17:56.954 || [Gate]GATE > -85!!!!
+
+2018-10-25 16:17:57.141 || -[BLEManager centralManager:didConnectPeripheral:]|[L:1037]|[Gate]connected duration:0.333739
+
+2018-10-25 16:17:57.141 || -[BLEManager centralManager:didConnectPeripheral:]|[L:1038]|[Gate]apiProcessingStatus:{
+
+2018-10-25 16:17:57.205 || user_fail_trade_check Success 
+
+!!!2018-10-25 16:17:57.205 || result: {
+
+!!!2018-10-25 16:17:57.205 || userManager.garageFarePaymentStatus = NoGarageFare 
+
+2018-10-25 16:17:57.232 || ANPR_check_exit Success 
+
+2018-10-25 16:17:57.782 || -[BLEManager sendDataToMCU:]|[L:1422]|[Gate]send command to mcu:PASSWORD
+
+2018-10-25 16:17:57.980 || -[BLEManager peripheral:didUpdateValueForCharacteristic:error:]|[L:1378]|[Gate]Gate Password Success
+
+2018-10-25 16:17:58.095 || voiceString:抵達車廠出口
+
+2018-10-25 16:17:59.397 || [Gate]Open InOutGate 
+
+2018-10-25 16:17:59.517 || -[BLEManager sendDataToMCU:]|[L:1428]|[Gate]send command to mcu:OPEN GATE
+
+2018-10-25 16:17:59.689 || -[BLEManager peripheral:didUpdateValueForCharacteristic:error:]|[L:1391]|[Gate]Gate Open Success
+
+2018-10-25 16:17:59.696 || Network <WIFI> PaKing-192.168.6.23
+
+2018-10-25 16:17:59.698 || garage_leave_pay&garage_dbname=000007 Request 
+
+2018-10-25 16:17:59.701 || leaveGarageName = 便利停車場富敦站
+

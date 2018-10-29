@@ -1,0 +1,375 @@
+使用者：Tony'siPhone
+裝置： iPhone116
+系統： iOS 12.0.1
+版本： paking versoin:1.6.5(release)
+電信： 台湾大哥大
+預約： 無
+車廠： L00014-便利停車場萬國站 Beacon入場, 無Ｎ導航
+///////////////////////////////////
+
+第一次GI 到 Pop Up 時間 : 3.0秒
+
+///////////////////////////////////
+( 2018-10-22 11:20:59 )	[didDisconnectPeripheral]
+
+( 2018-10-22 11:21:02 )	[AppDelegate] applicationWillResignActive
+
+( 2018-10-22 11:21:03 )	退到App背景
+
+( 2018-10-25 17:31:44 )	啟動App程序
+
+( 2018-10-25 17:31:45 )	[AppDelegate] applicationDidBecomeActive
+
+( 2018-10-25 17:31:46 )	收到第一個GI
+
+( 2018-10-25 17:31:46 )	[Gate]BLE ON
+
+( 2018-10-25 17:31:47 )	[didConnectPeripheral]duration:0.538525
+
+( 2018-10-25 17:31:49 )	入閘POP_UP
+
+( 2018-10-25 17:31:50 )	按下入閘按鈕
+
+( 2018-10-25 17:31:53 )	[didDisconnectPeripheral]
+
+( 2018-10-25 17:31:57 )	退到App背景
+
+( 2018-10-25 17:31:57 )	[AppDelegate] applicationWillResignActive
+
+( 2018-10-25 17:43:53 )	進入App前景
+
+( 2018-10-25 17:43:53 )	[AppDelegate] applicationDidBecomeActive
+
+( 2018-10-25 17:43:53 )	[AppDelegate] applicationWillResignActive
+
+( 2018-10-25 17:43:54 )	退到App背景
+
+( 2018-10-25 19:18:41 )	[didConnectPeripheral]duration:0.533325
+
+( 2018-10-25 19:18:52 )	進入App前景
+
+( 2018-10-25 19:18:52 )	[AppDelegate] applicationDidBecomeActive
+
+( 2018-10-25 19:18:55 )	離開車廠紀錄
+
+///////////////////////////////////
+
+<API:checkGarage>
+狀態：Success
+呼叫次數：1次
+耗費時間：0.539秒
+網路來源：台湾大哥大
+
+<API:garage_enter_check_reservechange>
+狀態：Success
+呼叫次數：1次
+耗費時間：0.572秒
+網路來源：台湾大哥大
+
+<API:garage_enter_confirm>
+狀態：Success
+呼叫次數：1次
+耗費時間：0.797秒
+網路來源：台湾大哥大
+
+///////////////////////////////////
+網路切換時機
+2018-10-25 17:31:45.050 台湾大哥大 (first)
+
+
+--------detail--------
+
+2018-10-25 17:31:44.827 || !!PaKing APP Open!!
+
+2018-10-25 17:31:44.830 || Tony's iPhone
+
+2018-10-25 17:31:44.830 || iOS 12.0.1
+
+2018-10-25 17:31:44.830 || -[LogManager defaultLog]|[L:108]|Device:iPhone116
+
+2018-10-25 17:31:44.830 || paking versoin:1.6.5(release)
+
+2018-10-25 17:31:44.830 || paking build:20180925112634
+
+2018-10-25 17:31:44.834 || -[AppDelegate checkUpdate]|[L:342]|開始檢查是否更新
+
+2018-10-25 17:31:44.845 || ISO country code is: tw
+
+2018-10-25 17:31:45.036 || userManager.state = UserSTATE_CHECK 
+
+2018-10-25 17:31:45.050 || Network-<Carrier> 台湾大哥大
+
+2018-10-25 17:31:45.057 || check_member Request 
+
+2018-10-25 17:31:45.339 || -[AppDelegate applicationDidBecomeActive:]|[L:193]|
+
+2018-10-25 17:31:45.576 || check_member Success 
+
+2018-10-25 17:31:45.590 || Network-<Carrier> 台湾大哥大
+
+2018-10-25 17:31:45.591 || login_check_lite Request 
+
+2018-10-25 17:31:46.145 || login_check_lite Success 
+
+2018-10-25 17:31:46.158 || set userManager.isReservation = 0
+
+2018-10-25 17:31:46.159 || set userManager.isGarageReservation = 0
+
+2018-10-25 17:31:46.269 || Network-<Carrier> 台湾大哥大
+
+2018-10-25 17:31:46.269 || getBannerList Request 
+
+2018-10-25 17:31:46.305 || Network-<Carrier> 台湾大哥大
+
+2018-10-25 17:31:46.305 || get_news Request 
+
+2018-10-25 17:31:46.339 || -[BLEManager centralManagerDidUpdateState:]|[L:790]|[Gate]BLE ON
+
+2018-10-25 17:31:46.340 || -[BLEManager centralManagerDidUpdateState:]|[L:806]|[Gate]UpdateState:PoweredOn
+
+2018-10-25 17:31:46.444 || [Gate]_BLEMac<adv>:00:23:A7:CF:1E:58_GI:-67
+
+2018-10-25 17:31:46.444 || [Gate]_BLEMac<p>:00:23:A7:CF:1E:58_GI
+
+2018-10-25 17:31:46.456 || Network-<Carrier> 台湾大哥大
+
+2018-10-25 17:31:46.457 || inputAPI = /app.php?page=checkGarage
+
+2018-10-25 17:31:46.462 || checkGarage Request 
+
+2018-10-25 17:31:46.757 || getBannerList Success 
+
+2018-10-25 17:31:46.848 || 2018-10-25 17:31:46.848 paking[24209:5424772] [Crashlytics:Crash] Warning: NSUncaughtExceptionHandler is 'unknown' in '/var/containers/Bundle/Application/C79916CC-486B-4A6B-8555-E66C1579D37B/paking.app/paking'
+
+2018-10-25 17:31:46.854 || get_news Success 
+
+2018-10-25 17:31:47.001 || checkGarage Success 
+
+  ||                 "garage_id" = L00014;
+
+  ||                 "garage_id" = L00014;
+
+  ||         "flow_gatecontrol" = 0;
+
+  ||         "garage_id" = L00014;
+
+2018-10-25 17:31:47.049 || [Gate]_BLEMac<adv>:00:23:A7:CF:1E:58_GI:-66
+
+2018-10-25 17:31:47.050 || [Gate]_BLEMac<p>:00:23:A7:CF:1E:58_GI
+
+2018-10-25 17:31:47.051 || [Gate]GATE > -85!!!!
+
+2018-10-25 17:31:47.154 || [Gate]_BLEMac<adv>:00:23:A7:CF:1E:58_GI:-75
+
+2018-10-25 17:31:47.154 || [Gate]_BLEMac<p>:00:23:A7:CF:1E:58_GI
+
+2018-10-25 17:31:47.155 || [Gate]GATE > -85!!!!
+
+2018-10-25 17:31:47.163 || [Gate]pName:00:23:A7:CF:1E:58_GI
+
+2018-10-25 17:31:47.617 || [Gate]_BLEMac<adv>:00:23:A7:CF:1E:58_GI:-68
+
+2018-10-25 17:31:47.617 || [Gate]_BLEMac<p>:00:23:A7:CF:1E:58_GI
+
+2018-10-25 17:31:47.617 || [Gate]GATE > -85!!!!
+
+2018-10-25 17:31:47.702 || [Gate]pName:00:23:A7:CF:1E:58_GI
+
+2018-10-25 17:31:47.702 || -[BLEManager centralManager:didConnectPeripheral:]|[L:1037]|[Gate]connected duration:0.538525
+
+2018-10-25 17:31:47.702 || -[BLEManager centralManager:didConnectPeripheral:]|[L:1038]|[Gate]apiProcessingStatus:{
+
+2018-10-25 17:31:47.702 || [Gate]pName:00:23:A7:CF:1E:58_GI
+
+2018-10-25 17:31:48.057 || [Gate]pName:00:23:A7:CF:1E:58_GI
+
+2018-10-25 17:31:48.237 || [Gate]pName:00:23:A7:CF:1E:58_GI
+
+2018-10-25 17:31:48.340 || -[BLEManager sendDataToMCU:]|[L:1422]|[Gate]send command to mcu:PASSWORD
+
+2018-10-25 17:31:48.480 || [Gate]pName:00:23:A7:CF:1E:58_GI
+
+2018-10-25 17:31:48.480 || -[BLEManager peripheral:didUpdateValueForCharacteristic:error:]|[L:1378]|[Gate]Gate Password Success
+
+2018-10-25 17:31:48.548 || Network-<Carrier> 台湾大哥大
+
+2018-10-25 17:31:48.549 || inputAPI = /app.php?page=garage_enter_check_reservechange
+
+2018-10-25 17:31:48.553 || garage_enter_check_reservechange Request 
+
+2018-10-25 17:31:49.125 || garage_enter_check_reservechange Success 
+
+2018-10-25 17:31:49.129 || userManager.isGarageReservation = 0
+
+2018-10-25 17:31:49.129 || userManager.isReservation = 0
+
+2018-10-25 17:31:49.133 || userManager.isGarageReservation = 0
+
+  ||     "flow_gatecontrol" = 0;
+
+  ||     "garage_id" = L00014;
+
+2018-10-25 17:31:49.151 || Network-<Carrier> 台湾大哥大
+
+2018-10-25 17:31:49.152 || parking_space_list Request 
+
+  ||     "garage_id" = L00014;
+
+2018-10-25 17:31:49.182 || 不須拿票卡
+
+2018-10-25 17:31:49.294 || normal enter popup
+
+2018-10-25 17:31:49.656 || parking_space_list Success 
+
+2018-10-25 17:31:50.846 || Network-<Carrier> 台湾大哥大
+
+2018-10-25 17:31:50.847 || get_vendor Request 
+
+2018-10-25 17:31:50.848 || [Gate]Open InOutGate 
+
+2018-10-25 17:31:50.880 || Network-<Carrier> 台湾大哥大
+
+2018-10-25 17:31:50.881 || inputAPI = /local.php?page=garage_enter_confirm&garage_dbname=L00014
+
+2018-10-25 17:31:50.882 || garage_enter_confirm&garage_dbname=L00014 Request 
+
+  ||     "garage_id" = L00014;
+
+2018-10-25 17:31:51.679 || garage_enter_confirm&garage_dbname=L00014 Success 
+
+  ||         "garage_id" = L00014;
+
+2018-10-25 17:31:51.686 || get_vendor Success 
+
+2018-10-25 17:31:51.782 || -[BLEManager sendDataToMCU:]|[L:1428]|[Gate]send command to mcu:OPEN GATE
+
+2018-10-25 17:31:51.900 || [Gate]pName:00:23:A7:CF:1E:58_GI
+
+2018-10-25 17:31:51.900 || -[BLEManager peripheral:didUpdateValueForCharacteristic:error:]|[L:1391]|[Gate]Gate Open Success
+
+2018-10-25 17:31:51.901 || [Gate]
+
+2018-10-25 17:31:51.916 || set orderListInfo = {
+
+  ||     "flow_gatecontrol" = 0;
+
+  ||     "garage_id" = L00014;
+
+2018-10-25 17:31:51.917 || userManager.gateGarageInfo = {
+
+  ||             "garage_id" = L00014;
+
+  ||             "garage_id" = L00014;
+
+  ||     "flow_gatecontrol" = 0;
+
+  ||     "garage_id" = L00014;
+
+2018-10-25 17:31:51.964 || voiceString:本場域提供APP自動付款，無須現場繳費。
+
+2018-10-25 17:31:53.831 || -[BLEManager centralManager:didDisconnectPeripheral:error:]|[L:1060]|[Gate]pName:00:23:A7:CF:1E:58_GI
+
+2018-10-25 17:31:53.837 || -[BLEManager centralManager:didDisconnectPeripheral:error:]|[L:1061]|[Gate]error:Error Domain=CBErrorDomain Code=6 "The connection has timed out unexpectedly." UserInfo={NSLocalizedDescription=The connection has timed out unexpectedly.}
+
+2018-10-25 17:31:53.837 || -[BLEManager centralManager:didDisconnectPeripheral:error:]|[L:1062]|[Gate]completeGateConnectProcess=1
+
+2018-10-25 17:31:53.935 || Network-<Carrier> 台湾大哥大
+
+2018-10-25 17:31:53.936 || getBannerList Request 
+
+2018-10-25 17:31:53.962 || Network-<Carrier> 台湾大哥大
+
+2018-10-25 17:31:53.963 || get_news Request 
+
+2018-10-25 17:31:54.500 || getBannerList Success 
+
+2018-10-25 17:31:54.533 || get_news Success 
+
+2018-10-25 17:31:57.913 || -[AppDelegate applicationWillResignActive:]|[L:133]|
+
+2018-10-25 17:31:57.938 || -[AppDelegate applicationDidEnterBackground:]|[L:125]|
+
+2018-10-25 17:43:53.087 || -[AppDelegate applicationWillEnterForeground:]|[L:156]|
+
+2018-10-25 17:43:53.717 || -[AppDelegate applicationDidBecomeActive:]|[L:193]|
+
+2018-10-25 17:43:53.735 || Network-<Carrier> 台湾大哥大
+
+2018-10-25 17:43:53.736 || user_fail_trade_check Request 
+
+2018-10-25 17:43:53.748 || Network-<Carrier> 台湾大哥大
+
+2018-10-25 17:43:53.749 || ANPR_check_exit Request 
+
+2018-10-25 17:43:53.867 || -[AppDelegate applicationWillResignActive:]|[L:133]|
+
+2018-10-25 17:43:54.493 || user_fail_trade_check Success 
+
+!!!2018-10-25 17:43:54.493 || result: {
+
+!!!2018-10-25 17:43:54.493 || userManager.garageFarePaymentStatus = NoGarageFare 
+
+2018-10-25 17:43:54.531 || ANPR_check_exit Success 
+
+2018-10-25 17:43:54.750 || -[AppDelegate applicationDidEnterBackground:]|[L:125]|
+
+2018-10-25 19:18:40.117 || [Gate]GATE > -85!!!!
+
+2018-10-25 19:18:40.990 || [Gate]GATE > -85!!!!
+
+2018-10-25 19:18:41.304 || [Gate]GATE > -85!!!!
+
+2018-10-25 19:18:41.561 || -[BLEManager centralManager:didConnectPeripheral:]|[L:1037]|[Gate]connected duration:0.533325
+
+2018-10-25 19:18:41.563 || -[BLEManager centralManager:didConnectPeripheral:]|[L:1038]|[Gate]apiProcessingStatus:{
+
+2018-10-25 19:18:42.317 || -[BLEManager sendDataToMCU:]|[L:1422]|[Gate]send command to mcu:PASSWORD
+
+2018-10-25 19:18:42.475 || -[BLEManager peripheral:didUpdateValueForCharacteristic:error:]|[L:1378]|[Gate]Gate Password Success
+
+2018-10-25 19:18:42.492 || voiceString:抵達車廠出口
+
+2018-10-25 19:18:52.148 || -[AppDelegate applicationWillEnterForeground:]|[L:156]|
+
+2018-10-25 19:18:52.421 || -[AppDelegate applicationDidBecomeActive:]|[L:193]|
+
+2018-10-25 19:18:52.443 || Network-<Carrier> 台湾大哥大
+
+2018-10-25 19:18:52.449 || user_fail_trade_check Request 
+
+2018-10-25 19:18:52.457 || Network-<Carrier> 台湾大哥大
+
+2018-10-25 19:18:52.457 || ANPR_check_exit Request 
+
+2018-10-25 19:18:53.007 || user_fail_trade_check Success 
+
+!!!2018-10-25 19:18:53.007 || result: {
+
+!!!2018-10-25 19:18:53.007 || userManager.garageFarePaymentStatus = NoGarageFare 
+
+2018-10-25 19:18:53.044 || ANPR_check_exit Success 
+
+2018-10-25 19:18:53.501 || voiceString:抵達車廠出口
+
+2018-10-25 19:18:54.902 || [Gate]Open InOutGate 
+
+2018-10-25 19:18:55.007 || -[BLEManager sendDataToMCU:]|[L:1428]|[Gate]send command to mcu:OPEN GATE
+
+2018-10-25 19:18:55.166 || -[BLEManager peripheral:didUpdateValueForCharacteristic:error:]|[L:1391]|[Gate]Gate Open Success
+
+2018-10-25 19:18:55.176 || Network-<Carrier> 台湾大哥大
+
+2018-10-25 19:18:55.176 || garage_leave_pay&garage_dbname=L00014 Request 
+
+2018-10-25 19:18:55.177 || leaveGarageName = 便利停車場萬國站
+
+2018-10-22 11:20:59.388 || -[BLEManager centralManager:didDisconnectPeripheral:error:]|[L:1060]|[Gate]pName:00:23:A7:A6:B3:F4_GO
+
+2018-10-22 11:20:59.388 || -[BLEManager centralManager:didDisconnectPeripheral:error:]|[L:1061]|[Gate]error:Error Domain=CBErrorDomain Code=6 "The connection has timed out unexpectedly." UserInfo={NSLocalizedDescription=The connection has timed out unexpectedly.}
+
+2018-10-22 11:20:59.389 || -[BLEManager centralManager:didDisconnectPeripheral:error:]|[L:1062]|[Gate]completeGateConnectProcess=1
+
+2018-10-22 11:21:02.962 || -[AppDelegate applicationWillResignActive:]|[L:133]|
+
+2018-10-22 11:21:03.935 || -[AppDelegate applicationDidEnterBackground:]|[L:125]|
+

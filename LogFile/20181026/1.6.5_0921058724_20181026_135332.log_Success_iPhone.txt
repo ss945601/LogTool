@@ -1,0 +1,3393 @@
+使用者：iPhone
+裝置： iPhone106
+系統： iOS 11.3.1
+版本： paking versoin:1.6.5(release)
+電信： 中華電信
+預約： 無
+車廠： 000001-特力屋內湖店 車辨入場, 有Ｎ導航
+///////////////////////////////////
+
+第一次GI 到 Pop Up 時間 : -36.0秒
+
+///////////////////////////////////
+( 2018-10-25 14:41:46 )	[AppDelegate] applicationWillResignActive
+
+( 2018-10-25 14:41:47 )	退到App背景
+
+( 2018-10-25 15:23:30 )	進入App前景
+
+( 2018-10-25 15:23:30 )	[AppDelegate] applicationDidBecomeActive
+
+( 2018-10-25 15:23:32 )	退到App背景
+
+( 2018-10-25 15:23:32 )	[AppDelegate] applicationWillResignActive
+
+( 2018-10-25 15:23:36 )	[Gate]BLE OFF
+
+( 2018-10-25 15:23:37 )	進入App前景
+
+( 2018-10-25 15:23:37 )	[AppDelegate] applicationDidBecomeActive
+
+( 2018-10-25 15:23:55 )	[AppDelegate] applicationWillResignActive
+
+( 2018-10-25 15:23:56 )	退到App背景
+
+( 2018-10-25 15:24:02 )	[Gate]BLE ON
+
+( 2018-10-25 15:39:42 )	進入App前景
+
+( 2018-10-25 15:39:42 )	[AppDelegate] applicationDidBecomeActive
+
+( 2018-10-25 16:21:24 )	[AppDelegate] applicationWillResignActive
+
+( 2018-10-25 16:21:25 )	退到App背景
+
+( 2018-10-26 13:42:00 )	啟動App程序
+
+( 2018-10-26 13:42:01 )	[AppDelegate] applicationDidBecomeActive
+
+( 2018-10-26 13:42:02 )	[Gate]BLE ON
+
+( 2018-10-26 13:48:39 )	收到第一個GI
+
+( 2018-10-26 13:49:03 )	入閘POP_UP
+
+( 2018-10-26 13:53:32 )	離開車廠紀錄
+
+///////////////////////////////////
+
+<API:checkGarage>
+狀態：Success
+呼叫次數：7次
+耗費時間：0.403秒
+網路來源：中華電信
+
+<API:ANPR_check_enter>
+狀態：Success
+呼叫次數：27次
+耗費時間：0.415秒
+網路來源：中華電信
+
+<API:garage_enter_check_reservechange>
+狀態：Success
+呼叫次數：1次
+耗費時間：0.472秒
+網路來源：中華電信
+
+<API:garage_enter_confirm>
+狀態：Success
+呼叫次數：1次
+耗費時間：0.886秒
+網路來源：中華電信
+
+<API:ANPR_binding>
+狀態：Success
+呼叫次數：1次
+耗費時間：2.342秒
+網路來源：中華電信
+
+///////////////////////////////////
+網路切換時機
+2018-10-26 13:42:01.094 中華電信 (first)
+
+
+--------detail--------
+
+2018-10-26 13:42:00.973 || !!PaKing APP Open!!
+
+2018-10-26 13:42:00.974 || iPhone
+
+2018-10-26 13:42:00.974 || iOS 11.3.1
+
+2018-10-26 13:42:00.974 || -[LogManager defaultLog]|[L:108]|Device:iPhone106
+
+2018-10-26 13:42:00.974 || paking versoin:1.6.5(release)
+
+2018-10-26 13:42:00.974 || paking build:20180925112634
+
+2018-10-26 13:42:00.979 || -[AppDelegate checkUpdate]|[L:342]|開始檢查是否更新
+
+2018-10-26 13:42:00.984 || ISO country code is: tw
+
+2018-10-26 13:42:01.084 || userManager.state = UserSTATE_CHECK 
+
+2018-10-26 13:42:01.094 || Network-<Carrier> 中華電信
+
+2018-10-26 13:42:01.100 || check_member Request 
+
+2018-10-26 13:42:01.472 || -[AppDelegate applicationDidBecomeActive:]|[L:193]|
+
+2018-10-26 13:42:01.574 || check_member Success 
+
+2018-10-26 13:42:01.583 || Network-<Carrier> 中華電信
+
+2018-10-26 13:42:01.584 || login_check_lite Request 
+
+2018-10-26 13:42:02.078 || login_check_lite Success 
+
+2018-10-26 13:42:02.088 || set userManager.isReservation = 0
+
+2018-10-26 13:42:02.089 || set userManager.isGarageReservation = 0
+
+2018-10-26 13:42:02.225 || Network-<Carrier> 中華電信
+
+2018-10-26 13:42:02.225 || getBannerList Request 
+
+2018-10-26 13:42:02.290 || Network-<Carrier> 中華電信
+
+2018-10-26 13:42:02.291 || get_news Request 
+
+2018-10-26 13:42:02.331 || -[BLEManager centralManagerDidUpdateState:]|[L:790]|[Gate]BLE ON
+
+2018-10-26 13:42:02.331 || -[BLEManager centralManagerDidUpdateState:]|[L:806]|[Gate]UpdateState:PoweredOn
+
+2018-10-26 13:42:02.668 || getBannerList Success 
+
+2018-10-26 13:42:02.928 || get_news Success 
+
+2018-10-26 13:42:10.629 || Network-<Carrier> 中華電信
+
+2018-10-26 13:42:10.629 || get_vendor Request 
+
+2018-10-26 13:42:11.144 || get_vendor Success 
+
+2018-10-26 13:42:11.588 || Network-<Carrier> 中華電信
+
+2018-10-26 13:42:11.589 || garage_list Request 
+
+2018-10-26 13:42:12.179 || garage_list Success 
+
+2018-10-26 13:42:17.275 || Network-<Carrier> 中華電信
+
+2018-10-26 13:42:17.276 || garage_list Request 
+
+2018-10-26 13:42:17.817 || Network-<Carrier> 中華電信
+
+2018-10-26 13:42:17.818 || garage_list Request 
+
+!!!2018-10-26 13:42:17.824 ||  NSErrorFailingURLKey=https://wapiprod.pakingtek.com/Dev/app.php?page=garage_list}
+
+!!!2018-10-26 13:42:17.824 ||  NSErrorFailingURLKey=https://wapiprod.pakingtek.com/Dev/app.php?page=garage_list}
+
+2018-10-26 13:42:18.909 || garage_list Success 
+
+2018-10-26 13:42:22.260 || Network-<Carrier> 中華電信
+
+2018-10-26 13:42:23.235 || one_garage_list Success 
+
+2018-10-26 13:42:23.325 || State = 2
+
+2018-10-26 13:42:23.325 || Desc = 
+
+2018-10-26 13:42:23.331 || Network-<Carrier> 中華電信
+
+2018-10-26 13:42:23.332 || get_vendor Request 
+
+2018-10-26 13:42:23.744 || get_vendor Success 
+
+2018-10-26 13:42:23.845 || Network-<Carrier> 中華電信
+
+2018-10-26 13:42:24.459 || one_garage_list Success 
+
+2018-10-26 13:42:27.468 || Network-<Carrier> 中華電信
+
+2018-10-26 13:42:27.905 || one_garage_list Success 
+
+2018-10-26 13:42:30.923 || Network-<Carrier> 中華電信
+
+2018-10-26 13:42:31.388 || one_garage_list Success 
+
+2018-10-26 13:42:34.397 || Network-<Carrier> 中華電信
+
+2018-10-26 13:42:34.864 || one_garage_list Success 
+
+2018-10-26 13:42:37.874 || Network-<Carrier> 中華電信
+
+2018-10-26 13:42:38.336 || one_garage_list Success 
+
+2018-10-26 13:42:41.346 || Network-<Carrier> 中華電信
+
+2018-10-26 13:42:41.842 || one_garage_list Success 
+
+2018-10-26 13:42:44.860 || Network-<Carrier> 中華電信
+
+2018-10-26 13:42:45.440 || one_garage_list Success 
+
+2018-10-26 13:42:48.450 || Network-<Carrier> 中華電信
+
+2018-10-26 13:42:48.881 || one_garage_list Success 
+
+2018-10-26 13:42:51.892 || Network-<Carrier> 中華電信
+
+2018-10-26 13:42:52.347 || one_garage_list Success 
+
+2018-10-26 13:42:55.357 || Network-<Carrier> 中華電信
+
+2018-10-26 13:42:55.787 || one_garage_list Success 
+
+2018-10-26 13:42:58.798 || Network-<Carrier> 中華電信
+
+2018-10-26 13:42:59.245 || one_garage_list Success 
+
+2018-10-26 13:43:02.255 || Network-<Carrier> 中華電信
+
+2018-10-26 13:43:02.672 || one_garage_list Success 
+
+2018-10-26 13:43:05.683 || Network-<Carrier> 中華電信
+
+2018-10-26 13:43:06.098 || one_garage_list Success 
+
+2018-10-26 13:43:09.104 || Network-<Carrier> 中華電信
+
+2018-10-26 13:43:09.525 || one_garage_list Success 
+
+2018-10-26 13:43:12.537 || Network-<Carrier> 中華電信
+
+2018-10-26 13:43:12.961 || one_garage_list Success 
+
+2018-10-26 13:43:15.971 || Network-<Carrier> 中華電信
+
+2018-10-26 13:43:16.407 || one_garage_list Success 
+
+2018-10-26 13:43:19.418 || Network-<Carrier> 中華電信
+
+2018-10-26 13:43:19.856 || one_garage_list Success 
+
+2018-10-26 13:43:22.868 || Network-<Carrier> 中華電信
+
+2018-10-26 13:43:23.303 || one_garage_list Success 
+
+2018-10-26 13:43:26.315 || Network-<Carrier> 中華電信
+
+2018-10-26 13:43:26.814 || one_garage_list Success 
+
+2018-10-26 13:43:29.825 || Network-<Carrier> 中華電信
+
+2018-10-26 13:43:30.283 || one_garage_list Success 
+
+2018-10-26 13:43:33.294 || Network-<Carrier> 中華電信
+
+2018-10-26 13:43:33.745 || one_garage_list Success 
+
+2018-10-26 13:43:36.756 || Network-<Carrier> 中華電信
+
+2018-10-26 13:43:37.205 || one_garage_list Success 
+
+2018-10-26 13:43:40.216 || Network-<Carrier> 中華電信
+
+2018-10-26 13:43:40.661 || one_garage_list Success 
+
+2018-10-26 13:43:43.671 || Network-<Carrier> 中華電信
+
+2018-10-26 13:43:44.078 || one_garage_list Success 
+
+2018-10-26 13:43:47.090 || Network-<Carrier> 中華電信
+
+2018-10-26 13:43:47.502 || one_garage_list Success 
+
+2018-10-26 13:43:50.513 || Network-<Carrier> 中華電信
+
+2018-10-26 13:43:50.932 || one_garage_list Success 
+
+2018-10-26 13:43:53.942 || Network-<Carrier> 中華電信
+
+2018-10-26 13:43:54.348 || one_garage_list Success 
+
+2018-10-26 13:43:57.359 || Network-<Carrier> 中華電信
+
+2018-10-26 13:43:57.820 || one_garage_list Success 
+
+2018-10-26 13:44:00.831 || Network-<Carrier> 中華電信
+
+2018-10-26 13:44:01.266 || one_garage_list Success 
+
+2018-10-26 13:44:04.277 || Network-<Carrier> 中華電信
+
+2018-10-26 13:44:04.732 || one_garage_list Success 
+
+2018-10-26 13:44:07.743 || Network-<Carrier> 中華電信
+
+2018-10-26 13:44:08.168 || one_garage_list Success 
+
+2018-10-26 13:44:11.175 || Network-<Carrier> 中華電信
+
+2018-10-26 13:44:11.612 || one_garage_list Success 
+
+2018-10-26 13:44:14.624 || Network-<Carrier> 中華電信
+
+2018-10-26 13:44:15.050 || one_garage_list Success 
+
+2018-10-26 13:44:18.061 || Network-<Carrier> 中華電信
+
+2018-10-26 13:44:18.484 || one_garage_list Success 
+
+2018-10-26 13:44:21.495 || Network-<Carrier> 中華電信
+
+2018-10-26 13:44:21.952 || one_garage_list Success 
+
+2018-10-26 13:44:24.963 || Network-<Carrier> 中華電信
+
+2018-10-26 13:44:25.377 || one_garage_list Success 
+
+2018-10-26 13:44:28.387 || Network-<Carrier> 中華電信
+
+2018-10-26 13:44:28.839 || one_garage_list Success 
+
+2018-10-26 13:44:31.850 || Network-<Carrier> 中華電信
+
+2018-10-26 13:44:32.275 || one_garage_list Success 
+
+2018-10-26 13:44:35.287 || Network-<Carrier> 中華電信
+
+2018-10-26 13:44:35.719 || one_garage_list Success 
+
+2018-10-26 13:44:38.730 || Network-<Carrier> 中華電信
+
+2018-10-26 13:44:39.166 || one_garage_list Success 
+
+2018-10-26 13:44:42.174 || Network-<Carrier> 中華電信
+
+2018-10-26 13:44:42.592 || one_garage_list Success 
+
+2018-10-26 13:44:45.603 || Network-<Carrier> 中華電信
+
+2018-10-26 13:44:46.033 || one_garage_list Success 
+
+2018-10-26 13:44:49.045 || Network-<Carrier> 中華電信
+
+2018-10-26 13:44:49.503 || one_garage_list Success 
+
+2018-10-26 13:44:52.513 || Network-<Carrier> 中華電信
+
+2018-10-26 13:44:52.967 || one_garage_list Success 
+
+2018-10-26 13:44:55.979 || Network-<Carrier> 中華電信
+
+2018-10-26 13:44:56.389 || one_garage_list Success 
+
+2018-10-26 13:44:59.400 || Network-<Carrier> 中華電信
+
+2018-10-26 13:44:59.865 || one_garage_list Success 
+
+2018-10-26 13:45:02.875 || Network-<Carrier> 中華電信
+
+2018-10-26 13:45:03.361 || one_garage_list Success 
+
+2018-10-26 13:45:06.372 || Network-<Carrier> 中華電信
+
+2018-10-26 13:45:06.800 || one_garage_list Success 
+
+2018-10-26 13:45:09.812 || Network-<Carrier> 中華電信
+
+2018-10-26 13:45:10.224 || one_garage_list Success 
+
+2018-10-26 13:45:13.237 || Network-<Carrier> 中華電信
+
+2018-10-26 13:45:13.708 || one_garage_list Success 
+
+2018-10-26 13:45:16.719 || Network-<Carrier> 中華電信
+
+2018-10-26 13:45:17.149 || one_garage_list Success 
+
+2018-10-26 13:45:20.157 || Network-<Carrier> 中華電信
+
+2018-10-26 13:45:20.557 || one_garage_list Success 
+
+2018-10-26 13:45:23.568 || Network-<Carrier> 中華電信
+
+2018-10-26 13:45:24.009 || one_garage_list Success 
+
+2018-10-26 13:45:27.020 || Network-<Carrier> 中華電信
+
+2018-10-26 13:45:27.428 || one_garage_list Success 
+
+2018-10-26 13:45:30.438 || Network-<Carrier> 中華電信
+
+2018-10-26 13:45:30.869 || one_garage_list Success 
+
+2018-10-26 13:45:33.879 || Network-<Carrier> 中華電信
+
+2018-10-26 13:45:34.305 || one_garage_list Success 
+
+2018-10-26 13:45:37.315 || Network-<Carrier> 中華電信
+
+2018-10-26 13:45:37.756 || one_garage_list Success 
+
+2018-10-26 13:45:40.768 || Network-<Carrier> 中華電信
+
+2018-10-26 13:45:41.194 || one_garage_list Success 
+
+2018-10-26 13:45:44.206 || Network-<Carrier> 中華電信
+
+2018-10-26 13:45:44.662 || one_garage_list Success 
+
+2018-10-26 13:45:47.675 || Network-<Carrier> 中華電信
+
+2018-10-26 13:45:48.091 || one_garage_list Success 
+
+2018-10-26 13:45:51.102 || Network-<Carrier> 中華電信
+
+2018-10-26 13:45:51.534 || one_garage_list Success 
+
+2018-10-26 13:45:54.545 || Network-<Carrier> 中華電信
+
+2018-10-26 13:45:54.968 || one_garage_list Success 
+
+2018-10-26 13:45:57.980 || Network-<Carrier> 中華電信
+
+2018-10-26 13:45:58.423 || one_garage_list Success 
+
+2018-10-26 13:46:01.434 || Network-<Carrier> 中華電信
+
+2018-10-26 13:46:01.851 || one_garage_list Success 
+
+2018-10-26 13:46:04.862 || Network-<Carrier> 中華電信
+
+2018-10-26 13:46:05.300 || one_garage_list Success 
+
+2018-10-26 13:46:08.312 || Network-<Carrier> 中華電信
+
+2018-10-26 13:46:08.755 || one_garage_list Success 
+
+2018-10-26 13:46:11.767 || Network-<Carrier> 中華電信
+
+2018-10-26 13:46:12.208 || one_garage_list Success 
+
+2018-10-26 13:46:15.219 || Network-<Carrier> 中華電信
+
+2018-10-26 13:46:15.649 || one_garage_list Success 
+
+2018-10-26 13:46:18.661 || Network-<Carrier> 中華電信
+
+2018-10-26 13:46:19.077 || one_garage_list Success 
+
+2018-10-26 13:46:22.087 || Network-<Carrier> 中華電信
+
+2018-10-26 13:46:22.552 || one_garage_list Success 
+
+2018-10-26 13:46:25.563 || Network-<Carrier> 中華電信
+
+2018-10-26 13:46:26.004 || one_garage_list Success 
+
+2018-10-26 13:46:29.015 || Network-<Carrier> 中華電信
+
+2018-10-26 13:46:29.439 || one_garage_list Success 
+
+2018-10-26 13:46:32.450 || Network-<Carrier> 中華電信
+
+2018-10-26 13:46:32.887 || one_garage_list Success 
+
+2018-10-26 13:46:35.898 || Network-<Carrier> 中華電信
+
+2018-10-26 13:46:36.321 || one_garage_list Success 
+
+2018-10-26 13:46:39.332 || Network-<Carrier> 中華電信
+
+2018-10-26 13:46:39.756 || one_garage_list Success 
+
+2018-10-26 13:46:42.768 || Network-<Carrier> 中華電信
+
+2018-10-26 13:46:43.197 || one_garage_list Success 
+
+2018-10-26 13:46:46.208 || Network-<Carrier> 中華電信
+
+2018-10-26 13:46:46.668 || one_garage_list Success 
+
+2018-10-26 13:46:49.678 || Network-<Carrier> 中華電信
+
+2018-10-26 13:46:50.115 || one_garage_list Success 
+
+2018-10-26 13:46:53.126 || Network-<Carrier> 中華電信
+
+2018-10-26 13:46:53.564 || one_garage_list Success 
+
+2018-10-26 13:46:56.575 || Network-<Carrier> 中華電信
+
+2018-10-26 13:46:57.010 || one_garage_list Success 
+
+2018-10-26 13:47:00.019 || Network-<Carrier> 中華電信
+
+2018-10-26 13:47:00.432 || one_garage_list Success 
+
+2018-10-26 13:47:03.444 || Network-<Carrier> 中華電信
+
+2018-10-26 13:47:03.874 || one_garage_list Success 
+
+2018-10-26 13:47:06.884 || Network-<Carrier> 中華電信
+
+2018-10-26 13:47:07.329 || one_garage_list Success 
+
+2018-10-26 13:47:10.339 || Network-<Carrier> 中華電信
+
+2018-10-26 13:47:10.753 || one_garage_list Success 
+
+2018-10-26 13:47:13.764 || Network-<Carrier> 中華電信
+
+2018-10-26 13:47:14.225 || one_garage_list Success 
+
+2018-10-26 13:47:17.232 || Network-<Carrier> 中華電信
+
+2018-10-26 13:47:17.644 || one_garage_list Success 
+
+2018-10-26 13:47:20.656 || Network-<Carrier> 中華電信
+
+2018-10-26 13:47:21.072 || one_garage_list Success 
+
+2018-10-26 13:47:24.086 || Network-<Carrier> 中華電信
+
+2018-10-26 13:47:24.527 || one_garage_list Success 
+
+2018-10-26 13:47:27.535 || Network-<Carrier> 中華電信
+
+2018-10-26 13:47:27.933 || one_garage_list Success 
+
+2018-10-26 13:47:30.945 || Network-<Carrier> 中華電信
+
+2018-10-26 13:47:31.388 || one_garage_list Success 
+
+2018-10-26 13:47:34.399 || Network-<Carrier> 中華電信
+
+2018-10-26 13:47:34.829 || one_garage_list Success 
+
+2018-10-26 13:47:37.840 || Network-<Carrier> 中華電信
+
+2018-10-26 13:47:38.281 || one_garage_list Success 
+
+2018-10-26 13:47:41.291 || Network-<Carrier> 中華電信
+
+2018-10-26 13:47:41.703 || one_garage_list Success 
+
+2018-10-26 13:47:44.713 || Network-<Carrier> 中華電信
+
+2018-10-26 13:47:45.213 || one_garage_list Success 
+
+2018-10-26 13:47:48.218 || Network-<Carrier> 中華電信
+
+2018-10-26 13:47:48.640 || one_garage_list Success 
+
+2018-10-26 13:47:51.650 || Network-<Carrier> 中華電信
+
+2018-10-26 13:47:52.104 || one_garage_list Success 
+
+2018-10-26 13:47:55.118 || Network-<Carrier> 中華電信
+
+2018-10-26 13:47:55.553 || one_garage_list Success 
+
+2018-10-26 13:47:58.564 || Network-<Carrier> 中華電信
+
+2018-10-26 13:47:59.022 || one_garage_list Success 
+
+2018-10-26 13:48:02.032 || Network-<Carrier> 中華電信
+
+2018-10-26 13:48:02.456 || one_garage_list Success 
+
+2018-10-26 13:48:05.465 || Network-<Carrier> 中華電信
+
+2018-10-26 13:48:05.888 || one_garage_list Success 
+
+2018-10-26 13:48:08.899 || Network-<Carrier> 中華電信
+
+2018-10-26 13:48:09.329 || one_garage_list Success 
+
+2018-10-26 13:48:12.339 || Network-<Carrier> 中華電信
+
+2018-10-26 13:48:12.797 || one_garage_list Success 
+
+2018-10-26 13:48:15.808 || Network-<Carrier> 中華電信
+
+2018-10-26 13:48:16.246 || one_garage_list Success 
+
+2018-10-26 13:48:19.256 || Network-<Carrier> 中華電信
+
+2018-10-26 13:48:19.692 || one_garage_list Success 
+
+2018-10-26 13:48:22.704 || Network-<Carrier> 中華電信
+
+2018-10-26 13:48:23.125 || one_garage_list Success 
+
+2018-10-26 13:48:26.137 || Network-<Carrier> 中華電信
+
+2018-10-26 13:48:26.571 || one_garage_list Success 
+
+2018-10-26 13:48:29.582 || Network-<Carrier> 中華電信
+
+2018-10-26 13:48:30.019 || one_garage_list Success 
+
+2018-10-26 13:48:33.029 || Network-<Carrier> 中華電信
+
+2018-10-26 13:48:33.438 || one_garage_list Success 
+
+2018-10-26 13:48:36.448 || Network-<Carrier> 中華電信
+
+2018-10-26 13:48:36.939 || one_garage_list Success 
+
+2018-10-26 13:48:39.828 || [Gate]_BLEMac<adv>:00:23:A7:A6:AF:10_GI:-85
+
+2018-10-26 13:48:39.828 || [Gate]_BLEMac<p>:00:23:A7:A6:AF:10_GI
+
+2018-10-26 13:48:39.843 || Network-<Carrier> 中華電信
+
+2018-10-26 13:48:39.845 || inputAPI = /app.php?page=checkGarage
+
+2018-10-26 13:48:39.876 || checkGarage Request 
+
+2018-10-26 13:48:39.946 || Network-<Carrier> 中華電信
+
+2018-10-26 13:48:40.279 || checkGarage Success 
+
+  ||                 "garage_id" = 000001;
+
+  ||                 "garage_id" = 000001;
+
+  ||                 "garage_id" = 000001;
+
+  ||                 "garage_id" = 000001;
+
+  ||         "flow_gatecontrol" = 1;
+
+  ||         "garage_id" = 000001;
+
+2018-10-26 13:48:40.285 || [Gate]ANPRStatus_GI Start
+
+2018-10-26 13:48:40.285 || ANPRRetryCount:1
+
+2018-10-26 13:48:40.291 || Network-<Carrier> 中華電信
+
+2018-10-26 13:48:40.292 || ANPR_check_enter Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-26 13:48:40.330 || one_garage_list Success 
+
+2018-10-26 13:48:40.559 || [Gate]_BLEMac<adv>:00:23:A7:A6:AF:10_GI:-89
+
+2018-10-26 13:48:40.559 || [Gate]_BLEMac<p>:00:23:A7:A6:AF:10_GI
+
+  ||     "00:23:A7:A6:AF:10_GI"
+
+2018-10-26 13:48:40.707 || ANPR_check_enter Success 
+
+2018-10-26 13:48:40.971 || [Gate]_BLEMac<adv>:00:23:A7:A6:AF:10_GI:-90
+
+2018-10-26 13:48:40.972 || [Gate]_BLEMac<p>:00:23:A7:A6:AF:10_GI
+
+2018-10-26 13:48:41.391 || [Gate]_BLEMac<adv>:00:23:A7:A6:AF:10_GI:-87
+
+2018-10-26 13:48:41.391 || [Gate]_BLEMac<p>:00:23:A7:A6:AF:10_GI
+
+2018-10-26 13:48:41.817 || [Gate]_BLEMac<adv>:00:23:A7:A6:AF:10_GI:-89
+
+2018-10-26 13:48:41.817 || [Gate]_BLEMac<p>:00:23:A7:A6:AF:10_GI
+
+2018-10-26 13:48:42.344 || [Gate]_BLEMac<adv>:00:23:A7:A6:AF:10_GI:-85
+
+2018-10-26 13:48:42.344 || [Gate]_BLEMac<p>:00:23:A7:A6:AF:10_GI
+
+2018-10-26 13:48:42.878 || [Gate]_BLEMac<adv>:00:23:A7:A6:AF:10_GI:-89
+
+2018-10-26 13:48:42.878 || [Gate]_BLEMac<p>:00:23:A7:A6:AF:10_GI
+
+2018-10-26 13:48:43.340 || Network-<Carrier> 中華電信
+
+2018-10-26 13:48:43.713 || [Gate]_BLEMac<adv>:00:23:A7:A6:AF:10_GI:-90
+
+2018-10-26 13:48:43.714 || [Gate]_BLEMac<p>:00:23:A7:A6:AF:10_GI
+
+2018-10-26 13:48:43.783 || one_garage_list Success 
+
+2018-10-26 13:48:43.901 || ANPRRetryCount:2
+
+2018-10-26 13:48:43.909 || Network-<Carrier> 中華電信
+
+2018-10-26 13:48:43.911 || ANPR_check_enter Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-26 13:48:43.925 || [Gate]_BLEMac<adv>:00:23:A7:A6:AF:10_GI:-87
+
+2018-10-26 13:48:43.925 || [Gate]_BLEMac<p>:00:23:A7:A6:AF:10_GI
+
+2018-10-26 13:48:44.335 || ANPR_check_enter Success 
+
+2018-10-26 13:48:44.866 || [Gate]_BLEMac<adv>:00:23:A7:A6:AF:10_GI:-93
+
+2018-10-26 13:48:44.867 || [Gate]_BLEMac<p>:00:23:A7:A6:AF:10_GI
+
+2018-10-26 13:48:45.909 || [Gate]_BLEMac<adv>:00:23:A7:A6:AF:10_GI:-88
+
+2018-10-26 13:48:45.909 || [Gate]_BLEMac<p>:00:23:A7:A6:AF:10_GI
+
+2018-10-26 13:48:46.331 || [Gate]_BLEMac<adv>:00:23:A7:A6:AF:10_GI:-86
+
+2018-10-26 13:48:46.332 || [Gate]_BLEMac<p>:00:23:A7:A6:AF:10_GI
+
+2018-10-26 13:48:46.793 || Network-<Carrier> 中華電信
+
+2018-10-26 13:48:46.866 || [Gate]_BLEMac<adv>:00:23:A7:A6:AF:10_GI:-89
+
+2018-10-26 13:48:46.867 || [Gate]_BLEMac<p>:00:23:A7:A6:AF:10_GI
+
+2018-10-26 13:48:47.243 || one_garage_list Success 
+
+2018-10-26 13:48:47.606 || [Gate]_BLEMac<adv>:00:23:A7:A6:AF:10_GI:-85
+
+2018-10-26 13:48:47.606 || [Gate]_BLEMac<p>:00:23:A7:A6:AF:10_GI
+
+2018-10-26 13:48:47.628 || ANPRRetryCount:3
+
+2018-10-26 13:48:47.636 || Network-<Carrier> 中華電信
+
+2018-10-26 13:48:47.637 || ANPR_check_enter Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-26 13:48:48.061 || ANPR_check_enter Success 
+
+2018-10-26 13:48:48.652 || [Gate]_BLEMac<adv>:00:23:A7:A6:AF:10_GI:-94
+
+2018-10-26 13:48:48.652 || [Gate]_BLEMac<p>:00:23:A7:A6:AF:10_GI
+
+2018-10-26 13:48:48.858 || [Gate]_BLEMac<adv>:00:23:A7:A6:AF:10_GI:-89
+
+2018-10-26 13:48:48.858 || [Gate]_BLEMac<p>:00:23:A7:A6:AF:10_GI
+
+2018-10-26 13:48:50.254 || Network-<Carrier> 中華電信
+
+2018-10-26 13:48:50.737 || one_garage_list Success 
+
+2018-10-26 13:48:51.047 || [Gate]_BLEMac<adv>:00:23:A7:A6:AF:10_GI:-90
+
+2018-10-26 13:48:51.047 || [Gate]_BLEMac<p>:00:23:A7:A6:AF:10_GI
+
+2018-10-26 13:48:51.355 || [Gate]_BLEMac<adv>:00:23:A7:A6:AF:10_GI:-87
+
+2018-10-26 13:48:51.356 || [Gate]_BLEMac<p>:00:23:A7:A6:AF:10_GI
+
+2018-10-26 13:48:51.361 || ANPRRetryCount:4
+
+2018-10-26 13:48:51.369 || Network-<Carrier> 中華電信
+
+2018-10-26 13:48:51.371 || ANPR_check_enter Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-26 13:48:51.828 || ANPR_check_enter Success 
+
+2018-10-26 13:48:51.887 || [Gate]_BLEMac<adv>:00:23:A7:A6:AF:10_GI:-95
+
+2018-10-26 13:48:51.888 || [Gate]_BLEMac<p>:00:23:A7:A6:AF:10_GI
+
+2018-10-26 13:48:53.168 || [Gate]_BLEMac<adv>:00:23:A7:A6:AF:10_GI:-91
+
+2018-10-26 13:48:53.168 || [Gate]_BLEMac<p>:00:23:A7:A6:AF:10_GI
+
+2018-10-26 13:48:53.597 || [Gate]_BLEMac<adv>:00:23:A7:A6:AF:10_GI:-86
+
+2018-10-26 13:48:53.597 || [Gate]_BLEMac<p>:00:23:A7:A6:AF:10_GI
+
+2018-10-26 13:48:53.747 || Network-<Carrier> 中華電信
+
+2018-10-26 13:48:53.921 || [Gate]_BLEMac<adv>:00:23:A7:A6:AF:10_GI:-86
+
+2018-10-26 13:48:53.921 || [Gate]_BLEMac<p>:00:23:A7:A6:AF:10_GI
+
+2018-10-26 13:48:54.233 || one_garage_list Success 
+
+2018-10-26 13:48:54.448 || [Gate]_BLEMac<adv>:00:23:A7:A6:AF:10_GI:-92
+
+2018-10-26 13:48:54.448 || [Gate]_BLEMac<p>:00:23:A7:A6:AF:10_GI
+
+2018-10-26 13:48:54.913 || ANPRRetryCount:5
+
+2018-10-26 13:48:54.920 || Network-<Carrier> 中華電信
+
+2018-10-26 13:48:54.921 || ANPR_check_enter Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-26 13:48:55.073 || [Gate]_BLEMac<adv>:00:23:A7:A6:AF:10_GI:-90
+
+2018-10-26 13:48:55.073 || [Gate]_BLEMac<p>:00:23:A7:A6:AF:10_GI
+
+2018-10-26 13:48:55.365 || ANPR_check_enter Success 
+
+2018-10-26 13:48:55.388 || [Gate]_BLEMac<adv>:00:23:A7:A6:AF:10_GI:-78
+
+2018-10-26 13:48:55.388 || [Gate]_BLEMac<p>:00:23:A7:A6:AF:10_GI
+
+2018-10-26 13:48:55.920 || [Gate]_BLEMac<adv>:00:23:A7:A6:AF:10_GI:-88
+
+2018-10-26 13:48:55.921 || [Gate]_BLEMac<p>:00:23:A7:A6:AF:10_GI
+
+2018-10-26 13:48:56.443 || [Gate]_BLEMac<adv>:00:23:A7:A6:AF:10_GI:-82
+
+2018-10-26 13:48:56.443 || [Gate]_BLEMac<p>:00:23:A7:A6:AF:10_GI
+
+2018-10-26 13:48:56.866 || [Gate]_BLEMac<adv>:00:23:A7:A6:AF:10_GI:-73
+
+2018-10-26 13:48:56.866 || [Gate]_BLEMac<p>:00:23:A7:A6:AF:10_GI
+
+2018-10-26 13:48:57.242 || Network-<Carrier> 中華電信
+
+2018-10-26 13:48:57.399 || [Gate]_BLEMac<adv>:00:23:A7:A6:AF:10_GI:-70
+
+2018-10-26 13:48:57.399 || [Gate]_BLEMac<p>:00:23:A7:A6:AF:10_GI
+
+2018-10-26 13:48:57.674 || one_garage_list Success 
+
+2018-10-26 13:48:57.919 || [Gate]_BLEMac<adv>:00:23:A7:A6:AF:10_GI:-73
+
+2018-10-26 13:48:57.924 || [Gate]_BLEMac<p>:00:23:A7:A6:AF:10_GI
+
+2018-10-26 13:48:58.450 || [Gate]_BLEMac<adv>:00:23:A7:A6:AF:10_GI:-69
+
+2018-10-26 13:48:58.450 || [Gate]_BLEMac<p>:00:23:A7:A6:AF:10_GI
+
+2018-10-26 13:48:58.662 || ANPRRetryCount:6
+
+2018-10-26 13:48:58.670 || Network-<Carrier> 中華電信
+
+2018-10-26 13:48:58.671 || ANPR_check_enter Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-26 13:48:58.871 || [Gate]_BLEMac<adv>:00:23:A7:A6:AF:10_GI:-75
+
+2018-10-26 13:48:58.871 || [Gate]_BLEMac<p>:00:23:A7:A6:AF:10_GI
+
+2018-10-26 13:48:59.100 || ANPR_check_enter Success 
+
+2018-10-26 13:48:59.407 || [Gate]_BLEMac<adv>:00:23:A7:A6:AF:10_GI:-70
+
+2018-10-26 13:48:59.408 || [Gate]_BLEMac<p>:00:23:A7:A6:AF:10_GI
+
+2018-10-26 13:48:59.924 || [Gate]_BLEMac<adv>:00:23:A7:A6:AF:10_GI:-75
+
+2018-10-26 13:48:59.924 || [Gate]_BLEMac<p>:00:23:A7:A6:AF:10_GI
+
+2018-10-26 13:49:00.443 || [Gate]_BLEMac<adv>:00:23:A7:A6:AF:10_GI:-78
+
+2018-10-26 13:49:00.444 || [Gate]_BLEMac<p>:00:23:A7:A6:AF:10_GI
+
+2018-10-26 13:49:00.684 || Network-<Carrier> 中華電信
+
+2018-10-26 13:49:00.865 || [Gate]_BLEMac<adv>:00:23:A7:A6:AF:10_GI:-58
+
+2018-10-26 13:49:00.865 || [Gate]_BLEMac<p>:00:23:A7:A6:AF:10_GI
+
+2018-10-26 13:49:01.131 || one_garage_list Success 
+
+2018-10-26 13:49:01.390 || [Gate]_BLEMac<adv>:00:23:A7:A6:AF:10_GI:-61
+
+2018-10-26 13:49:01.390 || [Gate]_BLEMac<p>:00:23:A7:A6:AF:10_GI
+
+2018-10-26 13:49:01.909 || [Gate]_BLEMac<adv>:00:23:A7:A6:AF:10_GI:-68
+
+2018-10-26 13:49:01.910 || [Gate]_BLEMac<p>:00:23:A7:A6:AF:10_GI
+
+2018-10-26 13:49:02.314 || ANPRRetryCount:7
+
+2018-10-26 13:49:02.322 || Network-<Carrier> 中華電信
+
+2018-10-26 13:49:02.324 || ANPR_check_enter Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-26 13:49:02.425 || [Gate]_BLEMac<adv>:00:23:A7:A6:AF:10_GI:-80
+
+2018-10-26 13:49:02.425 || [Gate]_BLEMac<p>:00:23:A7:A6:AF:10_GI
+
+2018-10-26 13:49:02.743 || ANPR_check_enter Success 
+
+2018-10-26 13:49:02.751 || Network-<Carrier> 中華電信
+
+2018-10-26 13:49:02.753 || inputAPI = /app.php?page=garage_enter_check_reservechange
+
+2018-10-26 13:49:02.756 || garage_enter_check_reservechange Request 
+
+2018-10-26 13:49:02.766 || Network-<Carrier> 中華電信
+
+2018-10-26 13:49:02.958 || [Gate]_BLEMac<adv>:00:23:A7:A6:AF:10_GI:-83
+
+2018-10-26 13:49:02.958 || [Gate]_BLEMac<p>:00:23:A7:A6:AF:10_GI
+
+  ||     "00:23:A7:A6:AF:10_GI"
+
+2018-10-26 13:49:03.228 || garage_enter_check_reservechange Success 
+
+  ||             "flow_gatecontrol" = 1;
+
+  ||             "garage_id" = 000001;
+
+  ||                 "garage_id" = 000001;
+
+  ||                 "garage_id" = 000001;
+
+  ||                 "garage_id" = 000001;
+
+  ||                 "garage_id" = 000001;
+
+2018-10-26 13:49:03.249 || userManager.isGarageReservation = 0
+
+2018-10-26 13:49:03.249 || userManager.isReservation = 0
+
+2018-10-26 13:49:03.251 || userManager.isGarageReservation = 0
+
+  ||     "flow_gatecontrol" = 1;
+
+  ||     "garage_id" = 000001;
+
+2018-10-26 13:49:03.261 || Network-<Carrier> 中華電信
+
+2018-10-26 13:49:03.262 || parking_space_list Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-26 13:49:03.276 || Network-<Carrier> 中華電信
+
+2018-10-26 13:49:03.276 || inputAPI = /local.php?page=garage_enter_confirm&garage_dbname=000001
+
+2018-10-26 13:49:03.277 || garage_enter_confirm&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-26 13:49:03.316 || voiceString:歡迎光臨
+
+2018-10-26 13:49:03.411 || normal enter popup
+
+!!!CoreData: annotation: || CoreData: annotation:  Failed to load optimized model at path '/var/containers/Bundle/Application/0714F21E-B49B-49EC-A63F-C63400344E02/paking.app/GoogleMaps.bundle/GMSCacheStorage.momd/StorageWithTileProto.omo'
+
+!!!CoreData: annotation: || CoreData: annotation:  Failed to load optimized model at path '/var/containers/Bundle/Application/0714F21E-B49B-49EC-A63F-C63400344E02/paking.app/GoogleMaps.bundle/GMSCacheStorage.momd/StorageWithTileProto.omo'
+
+!!!CoreData: annotation: || CoreData: annotation:  Failed to load optimized model at path '/var/containers/Bundle/Application/0714F21E-B49B-49EC-A63F-C63400344E02/paking.app/GoogleMaps.bundle/GMSCacheStorage.momd/StorageWithTileProto.omo'
+
+2018-10-26 13:49:03.595 || [Gate]_BLEMac<adv>:00:23:A7:A6:AF:10_GI:-93
+
+2018-10-26 13:49:03.595 || [Gate]_BLEMac<p>:00:23:A7:A6:AF:10_GI
+
+2018-10-26 13:49:03.875 || parking_space_list Success 
+
+2018-10-26 13:49:04.141 || Network-<Carrier> 中華電信
+
+2018-10-26 13:49:04.163 || garage_enter_confirm&garage_dbname=000001 Success 
+
+2018-10-26 13:49:04.167 || Network-<Carrier> 中華電信
+
+2018-10-26 13:49:04.168 || ANPR_binding Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-26 13:49:04.578 || one_garage_list Success 
+
+2018-10-26 13:49:04.962 || [Gate]_BLEMac<adv>:00:23:A7:A6:AF:10_GI:-90
+
+2018-10-26 13:49:04.962 || [Gate]_BLEMac<p>:00:23:A7:A6:AF:10_GI
+
+2018-10-26 13:49:06.510 || ANPR_binding Success 
+
+2018-10-26 13:49:06.514 || [Gate]
+
+2018-10-26 13:49:06.530 || set orderListInfo = {
+
+  ||     "flow_gatecontrol" = 1;
+
+  ||     "garage_id" = 000001;
+
+2018-10-26 13:49:06.531 || userManager.gateGarageInfo = {
+
+  ||             "garage_id" = 000001;
+
+  ||             "garage_id" = 000001;
+
+  ||             "garage_id" = 000001;
+
+  ||             "garage_id" = 000001;
+
+  ||     "flow_gatecontrol" = 1;
+
+  ||     "garage_id" = 000001;
+
+2018-10-26 13:49:06.574 || Network-<Carrier> 中華電信
+
+2018-10-26 13:49:06.575 || getBannerList Request 
+
+2018-10-26 13:49:06.653 || Network-<Carrier> 中華電信
+
+2018-10-26 13:49:06.653 || get_news Request 
+
+  ||     "flow_gatecontrol" = 1;
+
+  ||     "garage_id" = 000001;
+
+2018-10-26 13:49:06.686 || usermanager.isReservation = 0
+
+2018-10-26 13:49:06.686 || usermanager.isGarageReservation = 0
+
+2018-10-26 13:49:06.946 || getBannerList Success 
+
+2018-10-26 13:49:07.193 || get_news Success 
+
+2018-10-26 13:49:26.369 || Network-<Carrier> 中華電信
+
+2018-10-26 13:49:26.370 || garage_floor_available&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-26 13:49:27.406 || garage_floor_available&garage_dbname=000001 Success 
+
+2018-10-26 13:49:29.373 || Network-<Carrier> 中華電信
+
+2018-10-26 13:49:29.374 || floor_area_space_lite&garage_dbname=000001 Request 
+
+2018-10-26 13:49:30.077 || floor_area_space_lite&garage_dbname=000001 Success 
+
+2018-10-26 13:49:30.416 || Network-<Carrier> 中華電信
+
+2018-10-26 13:49:30.417 || garage_floor_available&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-26 13:49:31.032 || garage_floor_available&garage_dbname=000001 Success 
+
+2018-10-26 13:49:33.149 || Network-<Carrier> 中華電信
+
+2018-10-26 13:49:33.151 || floor_area_space_lite&garage_dbname=000001 Request 
+
+2018-10-26 13:49:33.921 || floor_area_space_lite&garage_dbname=000001 Success 
+
+2018-10-26 13:49:34.043 || Network-<Carrier> 中華電信
+
+2018-10-26 13:49:34.044 || garage_floor_available&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-26 13:49:34.871 || garage_floor_available&garage_dbname=000001 Success 
+
+  ||     ReservationType = 0;
+
+2018-10-26 13:49:36.755 || voiceString:繼續直行
+
+2018-10-26 13:49:36.992 || Network-<Carrier> 中華電信
+
+2018-10-26 13:49:36.993 || floor_area_space_lite&garage_dbname=000001 Request 
+
+2018-10-26 13:49:37.762 || floor_area_space_lite&garage_dbname=000001 Success 
+
+2018-10-26 13:49:37.884 || Network-<Carrier> 中華電信
+
+2018-10-26 13:49:37.885 || garage_floor_available&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-26 13:49:38.712 || garage_floor_available&garage_dbname=000001 Success 
+
+2018-10-26 13:49:39.764 || Network-<Carrier> 中華電信
+
+2018-10-26 13:49:39.765 || get_one_space_status&garage_dbname=000001 Request 
+
+2018-10-26 13:49:40.091 || Network-<Carrier> 中華電信
+
+2018-10-26 13:49:40.093 || recommend_cancel Request 
+
+2018-10-26 13:49:40.095 || voiceString:取消自訂導航
+
+2018-10-26 13:49:40.306 || get_one_space_status&garage_dbname=000001 Success 
+
+2018-10-26 13:49:40.475 || recommend_cancel Success 
+
+2018-10-26 13:49:40.835 || Network-<Carrier> 中華電信
+
+2018-10-26 13:49:40.836 || floor_area_space_lite&garage_dbname=000001 Request 
+
+2018-10-26 13:49:41.619 || floor_area_space_lite&garage_dbname=000001 Success 
+
+2018-10-26 13:49:41.738 || Network-<Carrier> 中華電信
+
+2018-10-26 13:49:41.738 || garage_floor_available&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-26 13:49:42.233 || garage_floor_available&garage_dbname=000001 Success 
+
+  ||     ReservationType = 0;
+
+2018-10-26 13:49:43.930 || voiceString:前方右轉
+
+2018-10-26 13:49:44.691 || Network-<Carrier> 中華電信
+
+2018-10-26 13:49:44.693 || floor_area_space_lite&garage_dbname=000001 Request 
+
+2018-10-26 13:49:45.224 || floor_area_space_lite&garage_dbname=000001 Success 
+
+2018-10-26 13:49:45.293 || Network-<Carrier> 中華電信
+
+2018-10-26 13:49:45.294 || garage_floor_available&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-26 13:49:46.082 || garage_floor_available&garage_dbname=000001 Success 
+
+2018-10-26 13:49:46.650 || Network-<Carrier> 中華電信
+
+2018-10-26 13:49:46.652 || recommend_cancel Request 
+
+2018-10-26 13:49:46.656 || voiceString:取消自訂導航
+
+2018-10-26 13:49:47.065 || recommend_cancel Success 
+
+2018-10-26 13:49:48.299 || Network-<Carrier> 中華電信
+
+2018-10-26 13:49:48.301 || floor_area_space_lite&garage_dbname=000001 Request 
+
+2018-10-26 13:49:48.957 || floor_area_space_lite&garage_dbname=000001 Success 
+
+2018-10-26 13:49:49.088 || Network-<Carrier> 中華電信
+
+2018-10-26 13:49:49.089 || garage_floor_available&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+  ||     ReservationType = 0;
+
+2018-10-26 13:49:49.779 || voiceString:繼續直行
+
+2018-10-26 13:49:49.910 || garage_floor_available&garage_dbname=000001 Success 
+
+2018-10-26 13:49:52.070 || Network-<Carrier> 中華電信
+
+2018-10-26 13:49:52.071 || floor_area_space_lite&garage_dbname=000001 Request 
+
+2018-10-26 13:49:52.788 || Network-<Carrier> 中華電信
+
+2018-10-26 13:49:52.790 || get_one_space_status&garage_dbname=000001 Request 
+
+2018-10-26 13:49:52.798 || floor_area_space_lite&garage_dbname=000001 Success 
+
+2018-10-26 13:49:52.916 || Network-<Carrier> 中華電信
+
+2018-10-26 13:49:52.916 || garage_floor_available&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-26 13:49:53.751 || get_one_space_status&garage_dbname=000001 Success 
+
+2018-10-26 13:49:53.753 || garage_floor_available&garage_dbname=000001 Success 
+
+2018-10-26 13:49:55.785 || Network-<Carrier> 中華電信
+
+2018-10-26 13:49:55.786 || get_one_space_status&garage_dbname=000001 Request 
+
+2018-10-26 13:49:55.863 || Network-<Carrier> 中華電信
+
+2018-10-26 13:49:55.864 || floor_area_space_lite&garage_dbname=000001 Request 
+
+2018-10-26 13:49:56.314 || get_one_space_status&garage_dbname=000001 Success 
+
+2018-10-26 13:49:56.764 || Network-<Carrier> 中華電信
+
+2018-10-26 13:49:56.766 || garage_floor_available&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-26 13:49:56.825 || floor_area_space_lite&garage_dbname=000001 Success 
+
+2018-10-26 13:49:57.595 || garage_floor_available&garage_dbname=000001 Success 
+
+2018-10-26 13:49:58.789 || Network-<Carrier> 中華電信
+
+2018-10-26 13:49:58.790 || get_one_space_status&garage_dbname=000001 Request 
+
+2018-10-26 13:49:58.955 || voiceString:直行後右轉
+
+2018-10-26 13:49:59.522 || get_one_space_status&garage_dbname=000001 Success 
+
+2018-10-26 13:49:59.900 || Network-<Carrier> 中華電信
+
+2018-10-26 13:49:59.901 || floor_area_space_lite&garage_dbname=000001 Request 
+
+2018-10-26 13:50:00.607 || Network-<Carrier> 中華電信
+
+2018-10-26 13:50:00.608 || garage_floor_available&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-26 13:50:00.659 || floor_area_space_lite&garage_dbname=000001 Success 
+
+2018-10-26 13:50:01.396 || garage_floor_available&garage_dbname=000001 Success 
+
+2018-10-26 13:50:01.788 || Network-<Carrier> 中華電信
+
+2018-10-26 13:50:01.789 || get_one_space_status&garage_dbname=000001 Request 
+
+2018-10-26 13:50:02.356 || get_one_space_status&garage_dbname=000001 Success 
+
+2018-10-26 13:50:03.263 || voiceString:繼續直行
+
+2018-10-26 13:50:03.734 || Network-<Carrier> 中華電信
+
+2018-10-26 13:50:03.735 || floor_area_space_lite&garage_dbname=000001 Request 
+
+2018-10-26 13:50:04.295 || floor_area_space_lite&garage_dbname=000001 Success 
+
+2018-10-26 13:50:04.403 || Network-<Carrier> 中華電信
+
+2018-10-26 13:50:04.403 || garage_floor_available&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-26 13:50:04.786 || Network-<Carrier> 中華電信
+
+2018-10-26 13:50:04.788 || get_one_space_status&garage_dbname=000001 Request 
+
+2018-10-26 13:50:04.911 || garage_floor_available&garage_dbname=000001 Success 
+
+2018-10-26 13:50:05.558 || get_one_space_status&garage_dbname=000001 Success 
+
+2018-10-26 13:50:07.368 || Network-<Carrier> 中華電信
+
+2018-10-26 13:50:07.369 || floor_area_space_lite&garage_dbname=000001 Request 
+
+2018-10-26 13:50:07.788 || Network-<Carrier> 中華電信
+
+2018-10-26 13:50:07.789 || get_one_space_status&garage_dbname=000001 Request 
+
+2018-10-26 13:50:07.891 || floor_area_space_lite&garage_dbname=000001 Success 
+
+2018-10-26 13:50:07.956 || Network-<Carrier> 中華電信
+
+2018-10-26 13:50:07.956 || garage_floor_available&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-26 13:50:08.316 || get_one_space_status&garage_dbname=000001 Success 
+
+2018-10-26 13:50:08.323 || Network-<Carrier> 中華電信
+
+2018-10-26 13:50:08.324 || recommend_parking_space Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-26 13:50:08.686 || garage_floor_available&garage_dbname=000001 Success 
+
+2018-10-26 13:50:08.703 || recommend_parking_space Success 
+
+2018-10-26 13:50:08.711 || Network-<Carrier> 中華電信
+
+2018-10-26 13:50:08.712 || recommend_cancel Request 
+
+2018-10-26 13:50:08.716 || voiceString:繼續直行
+
+2018-10-26 13:50:09.070 || recommend_cancel Success 
+
+2018-10-26 13:50:10.963 || Network-<Carrier> 中華電信
+
+2018-10-26 13:50:10.964 || floor_area_space_lite&garage_dbname=000001 Request 
+
+2018-10-26 13:50:11.639 || floor_area_space_lite&garage_dbname=000001 Success 
+
+2018-10-26 13:50:11.704 || Network-<Carrier> 中華電信
+
+2018-10-26 13:50:11.705 || garage_floor_available&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-26 13:50:11.719 || Network-<Carrier> 中華電信
+
+2018-10-26 13:50:11.719 || get_one_space_status&garage_dbname=000001 Request 
+
+2018-10-26 13:50:12.278 || garage_floor_available&garage_dbname=000001 Success 
+
+2018-10-26 13:50:12.548 || get_one_space_status&garage_dbname=000001 Success 
+
+2018-10-26 13:50:12.994 || voiceString:前方右轉
+
+2018-10-26 13:50:14.711 || Network-<Carrier> 中華電信
+
+2018-10-26 13:50:14.713 || floor_area_space_lite&garage_dbname=000001 Request 
+
+2018-10-26 13:50:14.722 || Network-<Carrier> 中華電信
+
+2018-10-26 13:50:14.723 || get_one_space_status&garage_dbname=000001 Request 
+
+2018-10-26 13:50:15.288 || Network-<Carrier> 中華電信
+
+2018-10-26 13:50:15.290 || garage_floor_available&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-26 13:50:15.357 || floor_area_space_lite&garage_dbname=000001 Success 
+
+2018-10-26 13:50:15.664 || get_one_space_status&garage_dbname=000001 Success 
+
+2018-10-26 13:50:16.126 || garage_floor_available&garage_dbname=000001 Success 
+
+2018-10-26 13:50:17.725 || Network-<Carrier> 中華電信
+
+2018-10-26 13:50:17.727 || get_one_space_status&garage_dbname=000001 Request 
+
+2018-10-26 13:50:18.092 || voiceString:前方右轉
+
+2018-10-26 13:50:18.364 || get_one_space_status&garage_dbname=000001 Success 
+
+2018-10-26 13:50:18.427 || Network-<Carrier> 中華電信
+
+2018-10-26 13:50:18.428 || floor_area_space_lite&garage_dbname=000001 Request 
+
+2018-10-26 13:50:19.003 || floor_area_space_lite&garage_dbname=000001 Success 
+
+2018-10-26 13:50:19.132 || Network-<Carrier> 中華電信
+
+2018-10-26 13:50:19.132 || garage_floor_available&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-26 13:50:19.966 || garage_floor_available&garage_dbname=000001 Success 
+
+2018-10-26 13:50:20.724 || Network-<Carrier> 中華電信
+
+2018-10-26 13:50:20.726 || get_one_space_status&garage_dbname=000001 Request 
+
+2018-10-26 13:50:21.235 || get_one_space_status&garage_dbname=000001 Success 
+
+2018-10-26 13:50:22.070 || Network-<Carrier> 中華電信
+
+2018-10-26 13:50:22.071 || floor_area_space_lite&garage_dbname=000001 Request 
+
+2018-10-26 13:50:22.852 || floor_area_space_lite&garage_dbname=000001 Success 
+
+2018-10-26 13:50:22.972 || Network-<Carrier> 中華電信
+
+2018-10-26 13:50:22.972 || garage_floor_available&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-26 13:50:23.725 || Network-<Carrier> 中華電信
+
+2018-10-26 13:50:23.726 || get_one_space_status&garage_dbname=000001 Request 
+
+2018-10-26 13:50:23.780 || garage_floor_available&garage_dbname=000001 Success 
+
+2018-10-26 13:50:24.438 || get_one_space_status&garage_dbname=000001 Success 
+
+2018-10-26 13:50:25.925 || Network-<Carrier> 中華電信
+
+2018-10-26 13:50:25.926 || floor_area_space_lite&garage_dbname=000001 Request 
+
+2018-10-26 13:50:26.691 || floor_area_space_lite&garage_dbname=000001 Success 
+
+2018-10-26 13:50:26.759 || Network-<Carrier> 中華電信
+
+2018-10-26 13:50:26.759 || get_one_space_status&garage_dbname=000001 Request 
+
+2018-10-26 13:50:26.786 || Network-<Carrier> 中華電信
+
+2018-10-26 13:50:26.786 || garage_floor_available&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-26 13:50:27.317 || get_one_space_status&garage_dbname=000001 Success 
+
+2018-10-26 13:50:27.956 || garage_floor_available&garage_dbname=000001 Success 
+
+2018-10-26 13:50:29.724 || Network-<Carrier> 中華電信
+
+2018-10-26 13:50:29.725 || get_one_space_status&garage_dbname=000001 Request 
+
+2018-10-26 13:50:29.764 || Network-<Carrier> 中華電信
+
+2018-10-26 13:50:29.765 || floor_area_space_lite&garage_dbname=000001 Request 
+
+2018-10-26 13:50:30.526 || get_one_space_status&garage_dbname=000001 Success 
+
+2018-10-26 13:50:30.682 || floor_area_space_lite&garage_dbname=000001 Success 
+
+2018-10-26 13:50:30.970 || Network-<Carrier> 中華電信
+
+2018-10-26 13:50:30.971 || garage_floor_available&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-26 13:50:31.487 || garage_floor_available&garage_dbname=000001 Success 
+
+2018-10-26 13:50:32.725 || Network-<Carrier> 中華電信
+
+2018-10-26 13:50:32.727 || get_one_space_status&garage_dbname=000001 Request 
+
+2018-10-26 13:50:33.406 || get_one_space_status&garage_dbname=000001 Success 
+
+2018-10-26 13:50:33.749 || Network-<Carrier> 中華電信
+
+2018-10-26 13:50:33.750 || floor_area_space_lite&garage_dbname=000001 Request 
+
+2018-10-26 13:50:34.361 || floor_area_space_lite&garage_dbname=000001 Success 
+
+2018-10-26 13:50:34.494 || Network-<Carrier> 中華電信
+
+2018-10-26 13:50:34.495 || garage_floor_available&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-26 13:50:34.998 || garage_floor_available&garage_dbname=000001 Success 
+
+2018-10-26 13:50:35.724 || Network-<Carrier> 中華電信
+
+2018-10-26 13:50:35.726 || get_one_space_status&garage_dbname=000001 Request 
+
+2018-10-26 13:50:36.286 || get_one_space_status&garage_dbname=000001 Success 
+
+2018-10-26 13:50:37.437 || Network-<Carrier> 中華電信
+
+2018-10-26 13:50:37.439 || floor_area_space_lite&garage_dbname=000001 Request 
+
+2018-10-26 13:50:38.009 || Network-<Carrier> 中華電信
+
+2018-10-26 13:50:38.011 || garage_floor_available&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-26 13:50:38.068 || floor_area_space_lite&garage_dbname=000001 Success 
+
+2018-10-26 13:50:38.725 || Network-<Carrier> 中華電信
+
+2018-10-26 13:50:38.727 || get_one_space_status&garage_dbname=000001 Request 
+
+2018-10-26 13:50:38.779 || garage_floor_available&garage_dbname=000001 Success 
+
+2018-10-26 13:50:39.478 || get_one_space_status&garage_dbname=000001 Success 
+
+2018-10-26 13:50:39.637 || Network-<Carrier> 中華電信
+
+2018-10-26 13:50:39.638 || garage_floor_available&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-26 13:50:40.270 || garage_floor_available&garage_dbname=000001 Success 
+
+2018-10-26 13:50:41.932 || voiceString:前方右轉
+
+2018-10-26 13:50:42.646 || Network-<Carrier> 中華電信
+
+2018-10-26 13:50:42.648 || floor_area_space_lite&garage_dbname=000001 Request 
+
+2018-10-26 13:50:43.157 || floor_area_space_lite&garage_dbname=000001 Success 
+
+2018-10-26 13:50:43.278 || Network-<Carrier> 中華電信
+
+2018-10-26 13:50:43.278 || garage_floor_available&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-26 13:50:43.767 || garage_floor_available&garage_dbname=000001 Success 
+
+2018-10-26 13:50:46.237 || Network-<Carrier> 中華電信
+
+2018-10-26 13:50:46.239 || floor_area_space_lite&garage_dbname=000001 Request 
+
+2018-10-26 13:50:46.778 || Network-<Carrier> 中華電信
+
+2018-10-26 13:50:46.780 || garage_floor_available&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-26 13:50:46.838 || floor_area_space_lite&garage_dbname=000001 Success 
+
+2018-10-26 13:50:47.477 || garage_floor_available&garage_dbname=000001 Success 
+
+2018-10-26 13:50:49.166 || voiceString:前方右轉
+
+2018-10-26 13:50:49.915 || Network-<Carrier> 中華電信
+
+2018-10-26 13:50:49.916 || floor_area_space_lite&garage_dbname=000001 Request 
+
+2018-10-26 13:50:50.466 || floor_area_space_lite&garage_dbname=000001 Success 
+
+2018-10-26 13:50:50.536 || Network-<Carrier> 中華電信
+
+2018-10-26 13:50:50.537 || garage_floor_available&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-26 13:50:51.328 || garage_floor_available&garage_dbname=000001 Success 
+
+2018-10-26 13:50:53.543 || Network-<Carrier> 中華電信
+
+2018-10-26 13:50:53.545 || floor_area_space_lite&garage_dbname=000001 Request 
+
+2018-10-26 13:50:54.215 || floor_area_space_lite&garage_dbname=000001 Success 
+
+2018-10-26 13:50:54.334 || Network-<Carrier> 中華電信
+
+2018-10-26 13:50:54.335 || garage_floor_available&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-26 13:50:54.873 || garage_floor_available&garage_dbname=000001 Success 
+
+2018-10-26 13:50:57.290 || Network-<Carrier> 中華電信
+
+2018-10-26 13:50:57.291 || floor_area_space_lite&garage_dbname=000001 Request 
+
+2018-10-26 13:50:57.879 || Network-<Carrier> 中華電信
+
+2018-10-26 13:50:57.882 || garage_floor_available&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-26 13:50:57.943 || floor_area_space_lite&garage_dbname=000001 Success 
+
+2018-10-26 13:50:58.679 || garage_floor_available&garage_dbname=000001 Success 
+
+2018-10-26 13:51:01.014 || Network-<Carrier> 中華電信
+
+2018-10-26 13:51:01.016 || floor_area_space_lite&garage_dbname=000001 Request 
+
+2018-10-26 13:51:01.688 || Network-<Carrier> 中華電信
+
+2018-10-26 13:51:01.690 || garage_floor_available&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-26 13:51:01.749 || floor_area_space_lite&garage_dbname=000001 Success 
+
+2018-10-26 13:51:02.518 || garage_floor_available&garage_dbname=000001 Success 
+
+2018-10-26 13:51:04.814 || Network-<Carrier> 中華電信
+
+2018-10-26 13:51:04.815 || floor_area_space_lite&garage_dbname=000001 Request 
+
+2018-10-26 13:51:05.414 || floor_area_space_lite&garage_dbname=000001 Success 
+
+2018-10-26 13:51:05.524 || Network-<Carrier> 中華電信
+
+2018-10-26 13:51:05.525 || garage_floor_available&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-26 13:51:06.038 || garage_floor_available&garage_dbname=000001 Success 
+
+2018-10-26 13:51:08.141 || voiceString:下樓
+
+2018-10-26 13:51:08.491 || Network-<Carrier> 中華電信
+
+2018-10-26 13:51:08.492 || floor_area_space_lite&garage_dbname=000001 Request 
+
+2018-10-26 13:51:09.051 || Network-<Carrier> 中華電信
+
+2018-10-26 13:51:09.052 || garage_floor_available&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-26 13:51:09.166 || floor_area_space_lite&garage_dbname=000001 Success 
+
+2018-10-26 13:51:09.878 || garage_floor_available&garage_dbname=000001 Success 
+
+2018-10-26 13:51:11.608 || voiceString:下樓
+
+2018-10-26 13:51:12.240 || Network-<Carrier> 中華電信
+
+2018-10-26 13:51:12.242 || floor_area_space_lite&garage_dbname=000001 Request 
+
+2018-10-26 13:51:12.786 || floor_area_space_lite&garage_dbname=000001 Success 
+
+2018-10-26 13:51:12.885 || Network-<Carrier> 中華電信
+
+2018-10-26 13:51:12.886 || garage_floor_available&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-26 13:51:13.396 || garage_floor_available&garage_dbname=000001 Success 
+
+2018-10-26 13:51:15.456 || voiceString:前方右轉
+
+2018-10-26 13:51:15.860 || Network-<Carrier> 中華電信
+
+2018-10-26 13:51:15.862 || floor_area_space_lite&garage_dbname=000001 Request 
+
+2018-10-26 13:51:16.407 || Network-<Carrier> 中華電信
+
+2018-10-26 13:51:16.409 || garage_floor_available&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-26 13:51:16.460 || floor_area_space_lite&garage_dbname=000001 Success 
+
+2018-10-26 13:51:17.236 || garage_floor_available&garage_dbname=000001 Success 
+
+2018-10-26 13:51:19.470 || Network-<Carrier> 中華電信
+
+2018-10-26 13:51:19.471 || floor_area_space_lite&garage_dbname=000001 Request 
+
+2018-10-26 13:51:20.118 || floor_area_space_lite&garage_dbname=000001 Success 
+
+2018-10-26 13:51:20.245 || Network-<Carrier> 中華電信
+
+2018-10-26 13:51:20.247 || garage_floor_available&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-26 13:51:21.081 || garage_floor_available&garage_dbname=000001 Success 
+
+2018-10-26 13:51:22.922 || Network-<Carrier> 中華電信
+
+2018-10-26 13:51:22.922 || garage_floor_available&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-26 13:51:23.637 || garage_floor_available&garage_dbname=000001 Success 
+
+2018-10-26 13:51:25.924 || Network-<Carrier> 中華電信
+
+2018-10-26 13:51:25.925 || floor_area_space_lite&garage_dbname=000001 Request 
+
+2018-10-26 13:51:26.519 || floor_area_space_lite&garage_dbname=000001 Success 
+
+2018-10-26 13:51:26.642 || Network-<Carrier> 中華電信
+
+2018-10-26 13:51:26.643 || garage_floor_available&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-26 13:51:27.166 || garage_floor_available&garage_dbname=000001 Success 
+
+2018-10-26 13:51:29.593 || Network-<Carrier> 中華電信
+
+2018-10-26 13:51:29.594 || floor_area_space_lite&garage_dbname=000001 Request 
+
+2018-10-26 13:51:30.176 || Network-<Carrier> 中華電信
+
+2018-10-26 13:51:30.178 || garage_floor_available&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-26 13:51:30.227 || floor_area_space_lite&garage_dbname=000001 Success 
+
+2018-10-26 13:51:31.006 || garage_floor_available&garage_dbname=000001 Success 
+
+2018-10-26 13:51:33.301 || Network-<Carrier> 中華電信
+
+2018-10-26 13:51:33.302 || floor_area_space_lite&garage_dbname=000001 Request 
+
+2018-10-26 13:51:33.894 || floor_area_space_lite&garage_dbname=000001 Success 
+
+2018-10-26 13:51:34.012 || Network-<Carrier> 中華電信
+
+2018-10-26 13:51:34.012 || garage_floor_available&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-26 13:51:34.527 || garage_floor_available&garage_dbname=000001 Success 
+
+2018-10-26 13:51:36.741 || Network-<Carrier> 中華電信
+
+2018-10-26 13:51:36.743 || recommend_cancel Request 
+
+2018-10-26 13:51:36.747 || voiceString:取消自訂導航
+
+2018-10-26 13:51:36.960 || Network-<Carrier> 中華電信
+
+2018-10-26 13:51:36.961 || floor_area_space_lite&garage_dbname=000001 Request 
+
+2018-10-26 13:51:37.124 || recommend_cancel Success 
+
+2018-10-26 13:51:37.472 || floor_area_space_lite&garage_dbname=000001 Success 
+
+2018-10-26 13:51:37.538 || Network-<Carrier> 中華電信
+
+2018-10-26 13:51:37.539 || garage_floor_available&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-26 13:51:38.357 || garage_floor_available&garage_dbname=000001 Success 
+
+2018-10-26 13:51:40.546 || Network-<Carrier> 中華電信
+
+2018-10-26 13:51:40.548 || floor_area_space_lite&garage_dbname=000001 Request 
+
+2018-10-26 13:51:41.257 || floor_area_space_lite&garage_dbname=000001 Success 
+
+2018-10-26 13:51:41.361 || Network-<Carrier> 中華電信
+
+2018-10-26 13:51:41.362 || garage_floor_available&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-26 13:51:41.887 || garage_floor_available&garage_dbname=000001 Success 
+
+2018-10-26 13:51:44.239 || Network-<Carrier> 中華電信
+
+2018-10-26 13:51:44.240 || get_one_space_status&garage_dbname=000001 Request 
+
+2018-10-26 13:51:44.316 || Network-<Carrier> 中華電信
+
+2018-10-26 13:51:44.318 || floor_area_space_lite&garage_dbname=000001 Request 
+
+2018-10-26 13:51:44.899 || Network-<Carrier> 中華電信
+
+2018-10-26 13:51:44.900 || garage_floor_available&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-26 13:51:44.952 || get_one_space_status&garage_dbname=000001 Success 
+
+2018-10-26 13:51:45.162 || floor_area_space_lite&garage_dbname=000001 Success 
+
+2018-10-26 13:51:45.728 || garage_floor_available&garage_dbname=000001 Success 
+
+2018-10-26 13:51:47.237 || Network-<Carrier> 中華電信
+
+2018-10-26 13:51:47.239 || get_one_space_status&garage_dbname=000001 Request 
+
+2018-10-26 13:51:47.958 || get_one_space_status&garage_dbname=000001 Success 
+
+2018-10-26 13:51:48.236 || Network-<Carrier> 中華電信
+
+2018-10-26 13:51:48.238 || floor_area_space_lite&garage_dbname=000001 Request 
+
+2018-10-26 13:51:48.737 || Network-<Carrier> 中華電信
+
+2018-10-26 13:51:48.739 || garage_floor_available&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-26 13:51:48.795 || floor_area_space_lite&garage_dbname=000001 Success 
+
+2018-10-26 13:51:49.556 || garage_floor_available&garage_dbname=000001 Success 
+
+2018-10-26 13:51:50.239 || Network-<Carrier> 中華電信
+
+2018-10-26 13:51:50.240 || get_one_space_status&garage_dbname=000001 Request 
+
+2018-10-26 13:51:50.846 || get_one_space_status&garage_dbname=000001 Success 
+
+2018-10-26 13:51:51.780 || Network-<Carrier> 中華電信
+
+2018-10-26 13:51:51.781 || recommend_cancel Request 
+
+2018-10-26 13:51:51.784 || voiceString:取消自訂導航
+
+2018-10-26 13:51:51.847 || Network-<Carrier> 中華電信
+
+2018-10-26 13:51:51.848 || floor_area_space_lite&garage_dbname=000001 Request 
+
+2018-10-26 13:51:52.185 || recommend_cancel Success 
+
+2018-10-26 13:51:52.362 || floor_area_space_lite&garage_dbname=000001 Success 
+
+2018-10-26 13:51:52.562 || Network-<Carrier> 中華電信
+
+2018-10-26 13:51:52.563 || garage_floor_available&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-26 13:51:53.229 || garage_floor_available&garage_dbname=000001 Success 
+
+2018-10-26 13:51:55.437 || Network-<Carrier> 中華電信
+
+2018-10-26 13:51:55.438 || floor_area_space_lite&garage_dbname=000001 Request 
+
+2018-10-26 13:51:56.116 || floor_area_space_lite&garage_dbname=000001 Success 
+
+2018-10-26 13:51:56.237 || Network-<Carrier> 中華電信
+
+2018-10-26 13:51:56.237 || garage_floor_available&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-26 13:51:56.741 || garage_floor_available&garage_dbname=000001 Success 
+
+2018-10-26 13:51:59.185 || Network-<Carrier> 中華電信
+
+2018-10-26 13:51:59.186 || floor_area_space_lite&garage_dbname=000001 Request 
+
+2018-10-26 13:51:59.752 || Network-<Carrier> 中華電信
+
+2018-10-26 13:51:59.754 || garage_floor_available&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-26 13:51:59.844 || floor_area_space_lite&garage_dbname=000001 Success 
+
+2018-10-26 13:52:00.581 || garage_floor_available&garage_dbname=000001 Success 
+
+2018-10-26 13:52:02.915 || Network-<Carrier> 中華電信
+
+2018-10-26 13:52:02.916 || floor_area_space_lite&garage_dbname=000001 Request 
+
+2018-10-26 13:52:03.591 || Network-<Carrier> 中華電信
+
+2018-10-26 13:52:03.593 || garage_floor_available&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-26 13:52:03.648 || floor_area_space_lite&garage_dbname=000001 Success 
+
+2018-10-26 13:52:04.420 || garage_floor_available&garage_dbname=000001 Success 
+
+2018-10-26 13:52:06.725 || Network-<Carrier> 中華電信
+
+2018-10-26 13:52:06.727 || floor_area_space_lite&garage_dbname=000001 Request 
+
+2018-10-26 13:52:07.313 || floor_area_space_lite&garage_dbname=000001 Success 
+
+2018-10-26 13:52:07.433 || Network-<Carrier> 中華電信
+
+2018-10-26 13:52:07.433 || garage_floor_available&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-26 13:52:07.949 || garage_floor_available&garage_dbname=000001 Success 
+
+2018-10-26 13:52:10.386 || Network-<Carrier> 中華電信
+
+2018-10-26 13:52:10.388 || floor_area_space_lite&garage_dbname=000001 Request 
+
+2018-10-26 13:52:10.961 || Network-<Carrier> 中華電信
+
+2018-10-26 13:52:10.962 || garage_floor_available&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-26 13:52:11.160 || floor_area_space_lite&garage_dbname=000001 Success 
+
+2018-10-26 13:52:11.618 || garage_floor_available&garage_dbname=000001 Success 
+
+2018-10-26 13:52:14.229 || Network-<Carrier> 中華電信
+
+2018-10-26 13:52:14.230 || floor_area_space_lite&garage_dbname=000001 Request 
+
+2018-10-26 13:52:14.629 || Network-<Carrier> 中華電信
+
+2018-10-26 13:52:14.630 || garage_floor_available&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-26 13:52:14.754 || floor_area_space_lite&garage_dbname=000001 Success 
+
+2018-10-26 13:52:15.265 || garage_floor_available&garage_dbname=000001 Success 
+
+2018-10-26 13:52:17.826 || Network-<Carrier> 中華電信
+
+2018-10-26 13:52:17.828 || floor_area_space_lite&garage_dbname=000001 Request 
+
+2018-10-26 13:52:18.276 || Network-<Carrier> 中華電信
+
+2018-10-26 13:52:18.277 || garage_floor_available&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-26 13:52:18.385 || floor_area_space_lite&garage_dbname=000001 Success 
+
+2018-10-26 13:52:19.097 || garage_floor_available&garage_dbname=000001 Success 
+
+2018-10-26 13:52:21.451 || Network-<Carrier> 中華電信
+
+2018-10-26 13:52:21.452 || floor_area_space_lite&garage_dbname=000001 Request 
+
+2018-10-26 13:52:21.979 || floor_area_space_lite&garage_dbname=000001 Success 
+
+2018-10-26 13:52:22.112 || Network-<Carrier> 中華電信
+
+2018-10-26 13:52:22.112 || garage_floor_available&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-26 13:52:22.628 || garage_floor_available&garage_dbname=000001 Success 
+
+2018-10-26 13:52:25.051 || Network-<Carrier> 中華電信
+
+2018-10-26 13:52:25.053 || floor_area_space_lite&garage_dbname=000001 Request 
+
+2018-10-26 13:52:25.639 || Network-<Carrier> 中華電信
+
+2018-10-26 13:52:25.641 || garage_floor_available&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-26 13:52:25.690 || floor_area_space_lite&garage_dbname=000001 Success 
+
+2018-10-26 13:52:26.465 || garage_floor_available&garage_dbname=000001 Success 
+
+2018-10-26 13:52:28.761 || Network-<Carrier> 中華電信
+
+2018-10-26 13:52:28.763 || floor_area_space_lite&garage_dbname=000001 Request 
+
+2018-10-26 13:52:29.338 || floor_area_space_lite&garage_dbname=000001 Success 
+
+2018-10-26 13:52:29.472 || Network-<Carrier> 中華電信
+
+2018-10-26 13:52:29.472 || garage_floor_available&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-26 13:52:29.987 || garage_floor_available&garage_dbname=000001 Success 
+
+2018-10-26 13:52:32.408 || Network-<Carrier> 中華電信
+
+2018-10-26 13:52:32.409 || floor_area_space_lite&garage_dbname=000001 Request 
+
+2018-10-26 13:52:32.999 || Network-<Carrier> 中華電信
+
+2018-10-26 13:52:33.001 || garage_floor_available&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-26 13:52:33.057 || floor_area_space_lite&garage_dbname=000001 Success 
+
+2018-10-26 13:52:33.826 || garage_floor_available&garage_dbname=000001 Success 
+
+2018-10-26 13:52:36.128 || Network-<Carrier> 中華電信
+
+2018-10-26 13:52:36.130 || floor_area_space_lite&garage_dbname=000001 Request 
+
+2018-10-26 13:52:36.699 || floor_area_space_lite&garage_dbname=000001 Success 
+
+2018-10-26 13:52:36.832 || Network-<Carrier> 中華電信
+
+2018-10-26 13:52:36.833 || garage_floor_available&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-26 13:52:37.337 || garage_floor_available&garage_dbname=000001 Success 
+
+2018-10-26 13:52:39.770 || Network-<Carrier> 中華電信
+
+2018-10-26 13:52:39.772 || floor_area_space_lite&garage_dbname=000001 Request 
+
+2018-10-26 13:52:40.349 || Network-<Carrier> 中華電信
+
+2018-10-26 13:52:40.351 || garage_floor_available&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-26 13:52:40.400 || floor_area_space_lite&garage_dbname=000001 Success 
+
+2018-10-26 13:52:41.176 || garage_floor_available&garage_dbname=000001 Success 
+
+2018-10-26 13:52:43.469 || Network-<Carrier> 中華電信
+
+2018-10-26 13:52:43.471 || floor_area_space_lite&garage_dbname=000001 Request 
+
+2018-10-26 13:52:44.058 || floor_area_space_lite&garage_dbname=000001 Success 
+
+2018-10-26 13:52:44.181 || Network-<Carrier> 中華電信
+
+2018-10-26 13:52:44.182 || garage_floor_available&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-26 13:52:44.696 || garage_floor_available&garage_dbname=000001 Success 
+
+2018-10-26 13:52:47.128 || Network-<Carrier> 中華電信
+
+2018-10-26 13:52:47.129 || floor_area_space_lite&garage_dbname=000001 Request 
+
+2018-10-26 13:52:47.707 || Network-<Carrier> 中華電信
+
+2018-10-26 13:52:47.709 || garage_floor_available&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-26 13:52:47.761 || floor_area_space_lite&garage_dbname=000001 Success 
+
+2018-10-26 13:52:48.536 || garage_floor_available&garage_dbname=000001 Success 
+
+2018-10-26 13:52:50.834 || Network-<Carrier> 中華電信
+
+2018-10-26 13:52:50.836 || floor_area_space_lite&garage_dbname=000001 Request 
+
+2018-10-26 13:52:51.417 || floor_area_space_lite&garage_dbname=000001 Success 
+
+2018-10-26 13:52:51.541 || Network-<Carrier> 中華電信
+
+2018-10-26 13:52:51.541 || garage_floor_available&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-26 13:52:52.055 || garage_floor_available&garage_dbname=000001 Success 
+
+2018-10-26 13:52:54.485 || Network-<Carrier> 中華電信
+
+2018-10-26 13:52:54.487 || floor_area_space_lite&garage_dbname=000001 Request 
+
+2018-10-26 13:52:55.066 || Network-<Carrier> 中華電信
+
+2018-10-26 13:52:55.068 || garage_floor_available&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-26 13:52:55.119 || floor_area_space_lite&garage_dbname=000001 Success 
+
+2018-10-26 13:52:55.898 || garage_floor_available&garage_dbname=000001 Success 
+
+2018-10-26 13:52:58.191 || Network-<Carrier> 中華電信
+
+2018-10-26 13:52:58.192 || floor_area_space_lite&garage_dbname=000001 Request 
+
+2018-10-26 13:52:58.803 || floor_area_space_lite&garage_dbname=000001 Success 
+
+2018-10-26 13:52:58.904 || Network-<Carrier> 中華電信
+
+2018-10-26 13:52:58.904 || garage_floor_available&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-26 13:52:59.418 || garage_floor_available&garage_dbname=000001 Success 
+
+2018-10-26 13:53:01.872 || Network-<Carrier> 中華電信
+
+2018-10-26 13:53:01.873 || floor_area_space_lite&garage_dbname=000001 Request 
+
+2018-10-26 13:53:02.429 || Network-<Carrier> 中華電信
+
+2018-10-26 13:53:02.431 || garage_floor_available&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-26 13:53:02.495 || floor_area_space_lite&garage_dbname=000001 Success 
+
+2018-10-26 13:53:03.256 || garage_floor_available&garage_dbname=000001 Success 
+
+2018-10-26 13:53:05.568 || Network-<Carrier> 中華電信
+
+2018-10-26 13:53:05.570 || floor_area_space_lite&garage_dbname=000001 Request 
+
+2018-10-26 13:53:06.106 || floor_area_space_lite&garage_dbname=000001 Success 
+
+2018-10-26 13:53:06.261 || Network-<Carrier> 中華電信
+
+2018-10-26 13:53:06.261 || garage_floor_available&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-26 13:53:06.786 || garage_floor_available&garage_dbname=000001 Success 
+
+2018-10-26 13:53:09.171 || Network-<Carrier> 中華電信
+
+2018-10-26 13:53:09.172 || floor_area_space_lite&garage_dbname=000001 Request 
+
+2018-10-26 13:53:09.798 || Network-<Carrier> 中華電信
+
+2018-10-26 13:53:09.799 || garage_floor_available&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-26 13:53:09.849 || floor_area_space_lite&garage_dbname=000001 Success 
+
+2018-10-26 13:53:10.628 || garage_floor_available&garage_dbname=000001 Success 
+
+2018-10-26 13:53:12.919 || Network-<Carrier> 中華電信
+
+2018-10-26 13:53:12.921 || floor_area_space_lite&garage_dbname=000001 Request 
+
+2018-10-26 13:53:13.501 || floor_area_space_lite&garage_dbname=000001 Success 
+
+2018-10-26 13:53:13.635 || Network-<Carrier> 中華電信
+
+2018-10-26 13:53:13.635 || garage_floor_available&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-26 13:53:14.146 || garage_floor_available&garage_dbname=000001 Success 
+
+2018-10-26 13:53:14.206 || Network-<Carrier> 中華電信
+
+2018-10-26 13:53:14.207 || ANPR_check_exit Request 
+
+2018-10-26 13:53:14.573 || ANPR_check_exit Success 
+
+2018-10-26 13:53:16.575 || Network-<Carrier> 中華電信
+
+2018-10-26 13:53:16.577 || floor_area_space_lite&garage_dbname=000001 Request 
+
+2018-10-26 13:53:16.911 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:0C_GO:-85
+
+2018-10-26 13:53:17.155 || Network-<Carrier> 中華電信
+
+2018-10-26 13:53:17.157 || garage_floor_available&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-26 13:53:17.211 || floor_area_space_lite&garage_dbname=000001 Success 
+
+2018-10-26 13:53:17.437 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:0C_GO:-85
+
+2018-10-26 13:53:17.869 || Network-<Carrier> 中華電信
+
+2018-10-26 13:53:17.871 || ANPR_check_exit Request 
+
+2018-10-26 13:53:17.917 || garage_floor_available&garage_dbname=000001 Success 
+
+2018-10-26 13:53:18.249 || ANPR_check_exit Success 
+
+2018-10-26 13:53:19.028 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:0C_GO:-85
+
+2018-10-26 13:53:19.658 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:0C_GO:-85
+
+2018-10-26 13:53:20.282 || Network-<Carrier> 中華電信
+
+2018-10-26 13:53:20.284 || floor_area_space_lite&garage_dbname=000001 Request 
+
+2018-10-26 13:53:20.867 || floor_area_space_lite&garage_dbname=000001 Success 
+
+2018-10-26 13:53:20.928 || Network-<Carrier> 中華電信
+
+2018-10-26 13:53:20.929 || garage_floor_available&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-26 13:53:21.498 || garage_floor_available&garage_dbname=000001 Success 
+
+2018-10-26 13:53:21.552 || Network-<Carrier> 中華電信
+
+2018-10-26 13:53:21.554 || ANPR_check_exit Request 
+
+2018-10-26 13:53:21.929 || ANPR_check_exit Success 
+
+2018-10-26 13:53:22.492 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:0C_GO:-85
+
+2018-10-26 13:53:23.935 || Network-<Carrier> 中華電信
+
+2018-10-26 13:53:23.937 || floor_area_space_lite&garage_dbname=000001 Request 
+
+2018-10-26 13:53:24.510 || Network-<Carrier> 中華電信
+
+2018-10-26 13:53:24.512 || garage_floor_available&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-26 13:53:24.567 || floor_area_space_lite&garage_dbname=000001 Success 
+
+2018-10-26 13:53:25.234 || Network-<Carrier> 中華電信
+
+2018-10-26 13:53:25.235 || ANPR_check_exit Request 
+
+2018-10-26 13:53:25.295 || garage_floor_available&garage_dbname=000001 Success 
+
+2018-10-26 13:53:25.638 || ANPR_check_exit Success 
+
+2018-10-26 13:53:27.639 || Network-<Carrier> 中華電信
+
+2018-10-26 13:53:27.640 || floor_area_space_lite&garage_dbname=000001 Request 
+
+2018-10-26 13:53:28.227 || floor_area_space_lite&garage_dbname=000001 Success 
+
+2018-10-26 13:53:28.300 || Network-<Carrier> 中華電信
+
+2018-10-26 13:53:28.301 || garage_floor_available&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-26 13:53:28.941 || Network-<Carrier> 中華電信
+
+2018-10-26 13:53:28.943 || ANPR_check_exit Request 
+
+2018-10-26 13:53:28.988 || garage_floor_available&garage_dbname=000001 Success 
+
+2018-10-26 13:53:29.275 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:0C_GO:-85
+
+2018-10-26 13:53:29.376 || ANPR_check_exit Success 
+
+2018-10-26 13:53:29.394 || Network-<Carrier> 中華電信
+
+2018-10-26 13:53:29.395 || parking_tracking_insert_test&garage_dbname=000001 Request 
+
+2018-10-26 13:53:29.408 || Network-<Carrier> 中華電信
+
+2018-10-26 13:53:29.445 || voiceString:謝謝光臨
+
+2018-10-26 13:53:30.147 || parking_tracking_insert_test&garage_dbname=000001 Success 
+
+2018-10-26 13:53:31.299 || Network-<Carrier> 中華電信
+
+2018-10-26 13:53:31.300 || floor_area_space_lite&garage_dbname=000001 Request 
+
+2018-10-26 13:53:31.993 || Network-<Carrier> 中華電信
+
+2018-10-26 13:53:31.994 || garage_floor_available&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-26 13:53:32.037 || floor_area_space_lite&garage_dbname=000001 Success 
+
+2018-10-26 13:53:32.698 || garage_floor_available&garage_dbname=000001 Success 
+
+2018-10-26 13:53:32.709 || leaveGarageName = 特力屋內湖店
+
+2018-10-25 14:39:46.413 || [Gate]_BLEMac<adv>:00:23:A7:A6:AF:10_GI:-88
+
+2018-10-25 14:39:46.414 || [Gate]_BLEMac<p>:00:23:A7:A6:AF:10_GI
+
+2018-10-25 14:39:46.424 || Network-<Carrier> 中華電信
+
+2018-10-25 14:39:46.425 || inputAPI = /app.php?page=checkGarage
+
+2018-10-25 14:39:46.428 || checkGarage Request 
+
+  ||     "00:23:A7:A6:AF:10_GI"
+
+2018-10-25 14:39:46.429 || [Gate]ANPRStatus_GI Start
+
+2018-10-25 14:39:46.429 || ANPRRetryCount:1
+
+2018-10-25 14:39:46.435 || Network-<Carrier> 中華電信
+
+2018-10-25 14:39:46.436 || ANPR_check_enter Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-25 14:39:46.982 || ANPR_check_enter Success 
+
+2018-10-25 14:39:47.018 || checkGarage Success 
+
+  ||                 "garage_id" = 000001;
+
+  ||                 "garage_id" = 000001;
+
+  ||                 "garage_id" = 000001;
+
+  ||                 "garage_id" = 000001;
+
+  ||         "flow_gatecontrol" = 1;
+
+  ||         "garage_id" = 000001;
+
+2018-10-25 14:39:47.053 || [Gate]_BLEMac<adv>:00:23:A7:A6:AF:10_GI:-90
+
+2018-10-25 14:39:47.053 || [Gate]_BLEMac<p>:00:23:A7:A6:AF:10_GI
+
+2018-10-25 14:39:50.283 || ANPRRetryCount:2
+
+2018-10-25 14:39:50.293 || Network-<Carrier> 中華電信
+
+2018-10-25 14:39:50.294 || ANPR_check_enter Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-25 14:39:50.295 || [Gate]_BLEMac<adv>:00:23:A7:A6:AF:10_GI:-89
+
+2018-10-25 14:39:50.295 || [Gate]_BLEMac<p>:00:23:A7:A6:AF:10_GI
+
+2018-10-25 14:39:50.718 || ANPR_check_enter Success 
+
+2018-10-25 14:39:51.344 || [Gate]_BLEMac<adv>:00:23:A7:A6:AF:10_GI:-92
+
+2018-10-25 14:39:51.344 || [Gate]_BLEMac<p>:00:23:A7:A6:AF:10_GI
+
+2018-10-25 14:39:54.018 || ANPRRetryCount:3
+
+2018-10-25 14:39:54.028 || Network-<Carrier> 中華電信
+
+2018-10-25 14:39:54.030 || ANPR_check_enter Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-25 14:39:54.276 || [Gate]_BLEMac<adv>:00:23:A7:A6:AF:10_GI:-94
+
+2018-10-25 14:39:54.276 || [Gate]_BLEMac<p>:00:23:A7:A6:AF:10_GI
+
+2018-10-25 14:39:54.537 || ANPR_check_enter Success 
+
+2018-10-25 14:39:57.529 || [Gate]_BLEMac<adv>:00:23:A7:A6:AF:10_GI:-93
+
+2018-10-25 14:39:57.529 || [Gate]_BLEMac<p>:00:23:A7:A6:AF:10_GI
+
+2018-10-25 14:39:57.705 || [Gate]_BLEMac<adv>:00:23:A7:A6:AF:10_GI:-93
+
+2018-10-25 14:39:57.705 || [Gate]_BLEMac<p>:00:23:A7:A6:AF:10_GI
+
+2018-10-25 14:39:57.837 || ANPRRetryCount:4
+
+2018-10-25 14:39:57.846 || Network-<Carrier> 中華電信
+
+2018-10-25 14:39:57.848 || ANPR_check_enter Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-25 14:39:58.348 || ANPR_check_enter Success 
+
+2018-10-25 14:39:58.549 || [Gate]_BLEMac<adv>:00:23:A7:A6:AF:10_GI:-91
+
+2018-10-25 14:39:58.549 || [Gate]_BLEMac<p>:00:23:A7:A6:AF:10_GI
+
+2018-10-25 14:39:59.283 || [Gate]_BLEMac<adv>:00:23:A7:A6:AF:10_GI:-90
+
+2018-10-25 14:39:59.283 || [Gate]_BLEMac<p>:00:23:A7:A6:AF:10_GI
+
+2018-10-25 14:39:59.912 || [Gate]_BLEMac<adv>:00:23:A7:A6:AF:10_GI:-90
+
+2018-10-25 14:39:59.913 || [Gate]_BLEMac<p>:00:23:A7:A6:AF:10_GI
+
+2018-10-25 14:40:01.277 || [Gate]_BLEMac<adv>:00:23:A7:A6:AF:10_GI:-89
+
+2018-10-25 14:40:01.277 || [Gate]_BLEMac<p>:00:23:A7:A6:AF:10_GI
+
+2018-10-25 14:40:01.373 || ANPRRetryCount:5
+
+2018-10-25 14:40:01.382 || Network-<Carrier> 中華電信
+
+2018-10-25 14:40:01.384 || ANPR_check_enter Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-25 14:40:01.802 || [Gate]_BLEMac<adv>:00:23:A7:A6:AF:10_GI:-92
+
+2018-10-25 14:40:01.802 || [Gate]_BLEMac<p>:00:23:A7:A6:AF:10_GI
+
+2018-10-25 14:40:01.847 || ANPR_check_enter Success 
+
+2018-10-25 14:40:02.757 || [Gate]_BLEMac<adv>:00:23:A7:A6:AF:10_GI:-95
+
+2018-10-25 14:40:02.758 || [Gate]_BLEMac<p>:00:23:A7:A6:AF:10_GI
+
+2018-10-25 14:40:03.679 || [Gate]_BLEMac<adv>:00:23:A7:A6:AF:10_GI:-88
+
+2018-10-25 14:40:03.680 || [Gate]_BLEMac<p>:00:23:A7:A6:AF:10_GI
+
+2018-10-25 14:40:04.316 || [Gate]_BLEMac<adv>:00:23:A7:A6:AF:10_GI:-91
+
+2018-10-25 14:40:04.317 || [Gate]_BLEMac<p>:00:23:A7:A6:AF:10_GI
+
+2018-10-25 14:40:05.140 || ANPRRetryCount:6
+
+2018-10-25 14:40:05.150 || Network-<Carrier> 中華電信
+
+2018-10-25 14:40:05.151 || ANPR_check_enter Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-25 14:40:05.637 || ANPR_check_enter Success 
+
+2018-10-25 14:40:05.781 || [Gate]_BLEMac<adv>:00:23:A7:A6:AF:10_GI:-92
+
+2018-10-25 14:40:05.781 || [Gate]_BLEMac<p>:00:23:A7:A6:AF:10_GI
+
+2018-10-25 14:40:06.300 || [Gate]_BLEMac<adv>:00:23:A7:A6:AF:10_GI:-92
+
+2018-10-25 14:40:06.300 || [Gate]_BLEMac<p>:00:23:A7:A6:AF:10_GI
+
+2018-10-25 14:40:07.569 || [Gate]_BLEMac<adv>:00:23:A7:A6:AF:10_GI:-88
+
+2018-10-25 14:40:07.569 || [Gate]_BLEMac<p>:00:23:A7:A6:AF:10_GI
+
+2018-10-25 14:40:08.203 || [Gate]_BLEMac<adv>:00:23:A7:A6:AF:10_GI:-90
+
+2018-10-25 14:40:08.203 || [Gate]_BLEMac<p>:00:23:A7:A6:AF:10_GI
+
+2018-10-25 14:40:08.926 || ANPRRetryCount:7
+
+2018-10-25 14:40:08.935 || Network-<Carrier> 中華電信
+
+2018-10-25 14:40:08.936 || ANPR_check_enter Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-25 14:40:09.029 || [Gate]_BLEMac<adv>:00:23:A7:A6:AF:10_GI:-92
+
+2018-10-25 14:40:09.029 || [Gate]_BLEMac<p>:00:23:A7:A6:AF:10_GI
+
+2018-10-25 14:40:09.374 || ANPR_check_enter Success 
+
+2018-10-25 14:40:09.972 || [Gate]_BLEMac<adv>:00:23:A7:A6:AF:10_GI:-97
+
+2018-10-25 14:40:09.972 || [Gate]_BLEMac<p>:00:23:A7:A6:AF:10_GI
+
+2018-10-25 14:40:10.184 || [Gate]_BLEMac<adv>:00:23:A7:A6:AF:10_GI:-91
+
+2018-10-25 14:40:10.184 || [Gate]_BLEMac<p>:00:23:A7:A6:AF:10_GI
+
+2018-10-25 14:40:10.722 || [Gate]_BLEMac<adv>:00:23:A7:A6:AF:10_GI:-92
+
+2018-10-25 14:40:10.722 || [Gate]_BLEMac<p>:00:23:A7:A6:AF:10_GI
+
+2018-10-25 14:40:11.462 || [Gate]_BLEMac<adv>:00:23:A7:A6:AF:10_GI:-97
+
+2018-10-25 14:40:11.462 || [Gate]_BLEMac<p>:00:23:A7:A6:AF:10_GI
+
+2018-10-25 14:40:12.308 || [Gate]_BLEMac<adv>:00:23:A7:A6:AF:10_GI:-91
+
+2018-10-25 14:40:12.308 || [Gate]_BLEMac<p>:00:23:A7:A6:AF:10_GI
+
+2018-10-25 14:40:12.390 || ANPRRetryCount:8
+
+2018-10-25 14:40:12.401 || Network-<Carrier> 中華電信
+
+2018-10-25 14:40:12.402 || ANPR_check_enter Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-25 14:40:12.817 || [Gate]_BLEMac<adv>:00:23:A7:A6:AF:10_GI:-91
+
+2018-10-25 14:40:12.817 || [Gate]_BLEMac<p>:00:23:A7:A6:AF:10_GI
+
+2018-10-25 14:40:12.964 || ANPR_check_enter Success 
+
+2018-10-25 14:40:13.360 || [Gate]_BLEMac<adv>:00:23:A7:A6:AF:10_GI:-93
+
+2018-10-25 14:40:13.361 || [Gate]_BLEMac<p>:00:23:A7:A6:AF:10_GI
+
+2018-10-25 14:40:13.995 || [Gate]_BLEMac<adv>:00:23:A7:A6:AF:10_GI:-95
+
+2018-10-25 14:40:13.995 || [Gate]_BLEMac<p>:00:23:A7:A6:AF:10_GI
+
+2018-10-25 14:40:15.356 || [Gate]_BLEMac<adv>:00:23:A7:A6:AF:10_GI:-89
+
+2018-10-25 14:40:15.357 || [Gate]_BLEMac<p>:00:23:A7:A6:AF:10_GI
+
+2018-10-25 14:40:16.099 || [Gate]_BLEMac<adv>:00:23:A7:A6:AF:10_GI:-89
+
+2018-10-25 14:40:16.100 || [Gate]_BLEMac<p>:00:23:A7:A6:AF:10_GI
+
+2018-10-25 14:40:16.146 || ANPRRetryCount:9
+
+2018-10-25 14:40:16.154 || Network-<Carrier> 中華電信
+
+2018-10-25 14:40:16.156 || ANPR_check_enter Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-25 14:40:16.633 || ANPR_check_enter Success 
+
+2018-10-25 14:40:16.720 || [Gate]_BLEMac<adv>:00:23:A7:A6:AF:10_GI:-89
+
+2018-10-25 14:40:16.720 || [Gate]_BLEMac<p>:00:23:A7:A6:AF:10_GI
+
+2018-10-25 14:40:17.345 || [Gate]_BLEMac<adv>:00:23:A7:A6:AF:10_GI:-89
+
+2018-10-25 14:40:17.345 || [Gate]_BLEMac<p>:00:23:A7:A6:AF:10_GI
+
+2018-10-25 14:40:18.079 || [Gate]_BLEMac<adv>:00:23:A7:A6:AF:10_GI:-90
+
+2018-10-25 14:40:18.079 || [Gate]_BLEMac<p>:00:23:A7:A6:AF:10_GI
+
+2018-10-25 14:40:18.609 || [Gate]_BLEMac<adv>:00:23:A7:A6:AF:10_GI:-90
+
+2018-10-25 14:40:18.609 || [Gate]_BLEMac<p>:00:23:A7:A6:AF:10_GI
+
+2018-10-25 14:40:19.352 || [Gate]_BLEMac<adv>:00:23:A7:A6:AF:10_GI:-91
+
+2018-10-25 14:40:19.352 || [Gate]_BLEMac<p>:00:23:A7:A6:AF:10_GI
+
+2018-10-25 14:40:19.931 || ANPRRetryCount:10
+
+2018-10-25 14:40:19.941 || Network-<Carrier> 中華電信
+
+2018-10-25 14:40:19.942 || ANPR_check_enter Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-25 14:40:20.392 || ANPR_check_enter Success 
+
+2018-10-25 14:40:21.352 || [Gate]_BLEMac<adv>:00:23:A7:A6:AF:10_GI:-92
+
+2018-10-25 14:40:21.352 || [Gate]_BLEMac<p>:00:23:A7:A6:AF:10_GI
+
+2018-10-25 14:40:21.995 || [Gate]_BLEMac<adv>:00:23:A7:A6:AF:10_GI:-90
+
+2018-10-25 14:40:21.995 || [Gate]_BLEMac<p>:00:23:A7:A6:AF:10_GI
+
+2018-10-25 14:40:22.630 || [Gate]_BLEMac<adv>:00:23:A7:A6:AF:10_GI:-90
+
+2018-10-25 14:40:22.630 || [Gate]_BLEMac<p>:00:23:A7:A6:AF:10_GI
+
+2018-10-25 14:40:23.155 || [Gate]_BLEMac<adv>:00:23:A7:A6:AF:10_GI:-91
+
+2018-10-25 14:40:23.155 || [Gate]_BLEMac<p>:00:23:A7:A6:AF:10_GI
+
+2018-10-25 14:40:23.399 || ANPRRetryCount:11
+
+2018-10-25 14:40:23.408 || Network-<Carrier> 中華電信
+
+2018-10-25 14:40:23.410 || ANPR_check_enter Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-25 14:40:23.861 || ANPR_check_enter Success 
+
+2018-10-25 14:40:23.993 || [Gate]_BLEMac<adv>:00:23:A7:A6:AF:10_GI:-90
+
+2018-10-25 14:40:23.993 || [Gate]_BLEMac<p>:00:23:A7:A6:AF:10_GI
+
+2018-10-25 14:40:25.782 || [Gate]_BLEMac<adv>:00:23:A7:A6:AF:10_GI:-93
+
+2018-10-25 14:40:25.783 || [Gate]_BLEMac<p>:00:23:A7:A6:AF:10_GI
+
+2018-10-25 14:40:26.734 || [Gate]_BLEMac<adv>:00:23:A7:A6:AF:10_GI:-94
+
+2018-10-25 14:40:26.735 || [Gate]_BLEMac<p>:00:23:A7:A6:AF:10_GI
+
+2018-10-25 14:40:27.136 || ANPRRetryCount:12
+
+2018-10-25 14:40:27.146 || Network-<Carrier> 中華電信
+
+2018-10-25 14:40:27.147 || ANPR_check_enter Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-25 14:40:27.149 || [Gate]_BLEMac<adv>:00:23:A7:A6:AF:10_GI:-93
+
+2018-10-25 14:40:27.149 || [Gate]_BLEMac<p>:00:23:A7:A6:AF:10_GI
+
+2018-10-25 14:40:27.572 || ANPR_check_enter Success 
+
+2018-10-25 14:40:30.870 || ANPRRetryCount:13
+
+2018-10-25 14:40:30.881 || Network-<Carrier> 中華電信
+
+2018-10-25 14:40:30.882 || ANPR_check_enter Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-25 14:40:31.333 || ANPR_check_enter Success 
+
+2018-10-25 14:40:34.405 || ANPRRetryCount:14
+
+2018-10-25 14:40:34.413 || Network-<Carrier> 中華電信
+
+2018-10-25 14:40:34.415 || ANPR_check_enter Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-25 14:40:34.847 || ANPR_check_enter Success 
+
+2018-10-25 14:40:38.140 || ANPRRetryCount:15
+
+2018-10-25 14:40:38.150 || Network-<Carrier> 中華電信
+
+2018-10-25 14:40:38.152 || ANPR_check_enter Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-25 14:40:38.582 || ANPR_check_enter Success 
+
+2018-10-25 14:40:41.884 || ANPRRetryCount:16
+
+2018-10-25 14:40:41.892 || Network-<Carrier> 中華電信
+
+2018-10-25 14:40:41.894 || ANPR_check_enter Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-25 14:40:42.309 || ANPR_check_enter Success 
+
+2018-10-25 14:40:45.419 || ANPRRetryCount:17
+
+2018-10-25 14:40:45.424 || Network-<Carrier> 中華電信
+
+2018-10-25 14:40:45.425 || ANPR_check_enter Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-25 14:40:45.861 || ANPR_check_enter Success 
+
+2018-10-25 14:40:49.146 || ANPRRetryCount:18
+
+2018-10-25 14:40:49.154 || Network-<Carrier> 中華電信
+
+2018-10-25 14:40:49.155 || ANPR_check_enter Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-25 14:40:49.585 || ANPR_check_enter Success 
+
+2018-10-25 14:40:52.886 || ANPRRetryCount:19
+
+2018-10-25 14:40:52.895 || Network-<Carrier> 中華電信
+
+2018-10-25 14:40:52.896 || ANPR_check_enter Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-25 14:40:53.323 || ANPR_check_enter Success 
+
+2018-10-25 14:40:56.432 || ANPRRetryCount:20
+
+2018-10-25 14:40:56.442 || Network-<Carrier> 中華電信
+
+2018-10-25 14:40:56.444 || ANPR_check_enter Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-25 14:40:56.884 || ANPR_check_enter Success 
+
+2018-10-25 14:41:00.161 || Network-<Carrier> 中華電信
+
+2018-10-25 14:41:00.270 || Network-<Carrier> 中華電信
+
+2018-10-25 14:41:46.729 || -[AppDelegate applicationWillResignActive:]|[L:133]|
+
+2018-10-25 14:41:47.607 || -[AppDelegate applicationDidEnterBackground:]|[L:125]|
+
+2018-10-25 14:42:28.254 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:05:9D_GI:-88
+
+2018-10-25 14:42:28.254 || [Gate]_BLEMac<p>:D4:CA:6E:B3:05:9D_GI
+
+2018-10-25 14:42:28.263 || Network-<Carrier> 中華電信
+
+2018-10-25 14:42:28.264 || inputAPI = /app.php?page=checkGarage
+
+2018-10-25 14:42:28.302 || checkGarage Request 
+
+2018-10-25 14:42:28.864 || checkGarage Success 
+
+2018-10-25 14:42:30.220 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:05:9D_GI:-90
+
+2018-10-25 14:42:30.220 || [Gate]_BLEMac<p>:D4:CA:6E:B3:05:9D_GI
+
+2018-10-25 14:42:31.319 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:02:14_GI:-87
+
+2018-10-25 14:42:31.320 || [Gate]_BLEMac<p>:D4:CA:6E:B3:02:14_GI
+
+2018-10-25 14:42:31.334 || Network-<Carrier> 中華電信
+
+2018-10-25 14:42:31.335 || inputAPI = /app.php?page=checkGarage
+
+2018-10-25 14:42:31.339 || checkGarage Request 
+
+2018-10-25 14:42:31.770 || checkGarage Success 
+
+2018-10-25 14:42:35.339 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:02:14_GI:-83
+
+2018-10-25 14:42:35.339 || [Gate]_BLEMac<p>:D4:CA:6E:B3:02:14_GI
+
+2018-10-25 14:42:36.155 || [Gate]_BLEMac<adv>:D4:CA:6E:B2:FD:DF_GI:-92
+
+2018-10-25 14:42:36.156 || [Gate]_BLEMac<p>:D4:CA:6E:B2:FD:DF_GI
+
+2018-10-25 14:42:36.166 || Network-<Carrier> 中華電信
+
+2018-10-25 14:42:36.169 || inputAPI = /app.php?page=checkGarage
+
+2018-10-25 14:42:36.173 || checkGarage Request 
+
+2018-10-25 14:42:36.589 || checkGarage Success 
+
+2018-10-25 14:42:37.164 || [Gate]_BLEMac<adv>:D4:CA:6E:B2:FD:DF_GI:-86
+
+2018-10-25 14:42:37.164 || [Gate]_BLEMac<p>:D4:CA:6E:B2:FD:DF_GI
+
+2018-10-25 14:42:37.350 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:02:14_GI:-80
+
+2018-10-25 14:42:37.351 || [Gate]_BLEMac<p>:D4:CA:6E:B3:02:14_GI
+
+2018-10-25 14:42:38.352 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:02:14_GI:-72
+
+2018-10-25 14:42:38.353 || [Gate]_BLEMac<p>:D4:CA:6E:B3:02:14_GI
+
+2018-10-25 14:42:39.360 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:02:14_GI:-72
+
+2018-10-25 14:42:39.361 || [Gate]_BLEMac<p>:D4:CA:6E:B3:02:14_GI
+
+2018-10-25 14:42:41.178 || [Gate]_BLEMac<adv>:D4:CA:6E:B2:FD:DF_GI:-89
+
+2018-10-25 14:42:41.178 || [Gate]_BLEMac<p>:D4:CA:6E:B2:FD:DF_GI
+
+2018-10-25 14:42:43.185 || [Gate]_BLEMac<adv>:D4:CA:6E:B2:FD:DF_GI:-86
+
+2018-10-25 14:42:43.185 || [Gate]_BLEMac<p>:D4:CA:6E:B2:FD:DF_GI
+
+2018-10-25 14:42:44.383 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:02:14_GI:-74
+
+2018-10-25 14:42:44.383 || [Gate]_BLEMac<p>:D4:CA:6E:B3:02:14_GI
+
+2018-10-25 14:42:45.202 || [Gate]_BLEMac<adv>:D4:CA:6E:B2:FD:DF_GI:-90
+
+2018-10-25 14:42:45.202 || [Gate]_BLEMac<p>:D4:CA:6E:B2:FD:DF_GI
+
+2018-10-25 14:42:45.388 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:02:14_GI:-77
+
+2018-10-25 14:42:45.389 || [Gate]_BLEMac<p>:D4:CA:6E:B3:02:14_GI
+
+2018-10-25 14:42:47.400 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:02:14_GI:-79
+
+2018-10-25 14:42:47.400 || [Gate]_BLEMac<p>:D4:CA:6E:B3:02:14_GI
+
+2018-10-25 14:42:49.414 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:02:14_GI:-82
+
+2018-10-25 14:42:49.414 || [Gate]_BLEMac<p>:D4:CA:6E:B3:02:14_GI
+
+2018-10-25 14:42:50.223 || [Gate]_BLEMac<adv>:D4:CA:6E:B2:FD:DF_GI:-91
+
+2018-10-25 14:42:50.223 || [Gate]_BLEMac<p>:D4:CA:6E:B2:FD:DF_GI
+
+2018-10-25 14:42:50.417 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:02:14_GI:-90
+
+2018-10-25 14:42:50.417 || [Gate]_BLEMac<p>:D4:CA:6E:B3:02:14_GI
+
+2018-10-25 14:42:51.425 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:02:14_GI:-75
+
+2018-10-25 14:42:51.425 || [Gate]_BLEMac<p>:D4:CA:6E:B3:02:14_GI
+
+2018-10-25 14:42:52.229 || [Gate]_BLEMac<adv>:D4:CA:6E:B2:FD:DF_GI:-93
+
+2018-10-25 14:42:52.229 || [Gate]_BLEMac<p>:D4:CA:6E:B2:FD:DF_GI
+
+2018-10-25 14:42:52.426 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:02:14_GI:-73
+
+2018-10-25 14:42:52.426 || [Gate]_BLEMac<p>:D4:CA:6E:B3:02:14_GI
+
+2018-10-25 14:42:53.231 || [Gate]_BLEMac<adv>:D4:CA:6E:B2:FD:DF_GI:-90
+
+2018-10-25 14:42:53.232 || [Gate]_BLEMac<p>:D4:CA:6E:B2:FD:DF_GI
+
+2018-10-25 14:42:54.232 || [Gate]_BLEMac<adv>:D4:CA:6E:B2:FD:DF_GI:-93
+
+2018-10-25 14:42:54.233 || [Gate]_BLEMac<p>:D4:CA:6E:B2:FD:DF_GI
+
+2018-10-25 14:42:54.430 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:02:14_GI:-84
+
+2018-10-25 14:42:54.430 || [Gate]_BLEMac<p>:D4:CA:6E:B3:02:14_GI
+
+2018-10-25 14:42:55.432 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:02:14_GI:-81
+
+2018-10-25 14:42:55.432 || [Gate]_BLEMac<p>:D4:CA:6E:B3:02:14_GI
+
+2018-10-25 14:42:56.433 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:02:14_GI:-82
+
+2018-10-25 14:42:56.433 || [Gate]_BLEMac<p>:D4:CA:6E:B3:02:14_GI
+
+2018-10-25 14:42:57.436 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:02:14_GI:-83
+
+2018-10-25 14:42:57.436 || [Gate]_BLEMac<p>:D4:CA:6E:B3:02:14_GI
+
+2018-10-25 14:43:00.454 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:02:14_GI:-92
+
+2018-10-25 14:43:00.454 || [Gate]_BLEMac<p>:D4:CA:6E:B3:02:14_GI
+
+2018-10-25 14:43:01.455 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:02:14_GI:-89
+
+2018-10-25 14:43:01.462 || [Gate]_BLEMac<p>:D4:CA:6E:B3:02:14_GI
+
+2018-10-25 14:43:02.463 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:02:14_GI:-80
+
+2018-10-25 14:43:02.463 || [Gate]_BLEMac<p>:D4:CA:6E:B3:02:14_GI
+
+2018-10-25 14:43:03.463 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:02:14_GI:-87
+
+2018-10-25 14:43:03.463 || [Gate]_BLEMac<p>:D4:CA:6E:B3:02:14_GI
+
+2018-10-25 14:43:04.471 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:02:14_GI:-86
+
+2018-10-25 14:43:04.472 || [Gate]_BLEMac<p>:D4:CA:6E:B3:02:14_GI
+
+2018-10-25 14:43:05.474 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:02:14_GI:-89
+
+2018-10-25 14:43:05.475 || [Gate]_BLEMac<p>:D4:CA:6E:B3:02:14_GI
+
+2018-10-25 14:43:06.481 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:02:14_GI:-85
+
+2018-10-25 14:43:06.481 || [Gate]_BLEMac<p>:D4:CA:6E:B3:02:14_GI
+
+2018-10-25 14:43:10.499 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:02:14_GI:-83
+
+2018-10-25 14:43:10.499 || [Gate]_BLEMac<p>:D4:CA:6E:B3:02:14_GI
+
+2018-10-25 14:43:13.505 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:02:14_GI:-87
+
+2018-10-25 14:43:13.506 || [Gate]_BLEMac<p>:D4:CA:6E:B3:02:14_GI
+
+2018-10-25 14:43:15.517 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:02:14_GI:-87
+
+2018-10-25 14:43:15.517 || [Gate]_BLEMac<p>:D4:CA:6E:B3:02:14_GI
+
+2018-10-25 14:43:20.539 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:02:14_GI:-77
+
+2018-10-25 14:43:20.539 || [Gate]_BLEMac<p>:D4:CA:6E:B3:02:14_GI
+
+2018-10-25 14:43:21.544 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:02:14_GI:-90
+
+2018-10-25 14:43:21.544 || [Gate]_BLEMac<p>:D4:CA:6E:B3:02:14_GI
+
+2018-10-25 14:43:22.552 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:02:14_GI:-93
+
+2018-10-25 14:43:22.553 || [Gate]_BLEMac<p>:D4:CA:6E:B3:02:14_GI
+
+2018-10-25 14:43:24.560 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:02:14_GI:-87
+
+2018-10-25 14:43:24.561 || [Gate]_BLEMac<p>:D4:CA:6E:B3:02:14_GI
+
+2018-10-25 14:43:25.564 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:02:14_GI:-89
+
+2018-10-25 14:43:25.565 || [Gate]_BLEMac<p>:D4:CA:6E:B3:02:14_GI
+
+2018-10-25 14:43:28.577 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:02:14_GI:-84
+
+2018-10-25 14:43:28.577 || [Gate]_BLEMac<p>:D4:CA:6E:B3:02:14_GI
+
+2018-10-25 14:43:29.586 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:02:14_GI:-80
+
+2018-10-25 14:43:29.587 || [Gate]_BLEMac<p>:D4:CA:6E:B3:02:14_GI
+
+2018-10-25 14:43:30.594 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:02:14_GI:-78
+
+2018-10-25 14:43:30.597 || [Gate]_BLEMac<p>:D4:CA:6E:B3:02:14_GI
+
+2018-10-25 14:43:32.599 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:02:14_GI:-92
+
+2018-10-25 14:43:32.600 || [Gate]_BLEMac<p>:D4:CA:6E:B3:02:14_GI
+
+2018-10-25 14:43:33.601 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:02:14_GI:-88
+
+2018-10-25 14:43:33.601 || [Gate]_BLEMac<p>:D4:CA:6E:B3:02:14_GI
+
+2018-10-25 14:43:37.437 || [Gate]_BLEMac<adv>:D4:CA:6E:B2:FD:DF_GI:-87
+
+2018-10-25 14:43:37.438 || [Gate]_BLEMac<p>:D4:CA:6E:B2:FD:DF_GI
+
+2018-10-25 14:43:38.438 || [Gate]_BLEMac<adv>:D4:CA:6E:B2:FD:DF_GI:-84
+
+2018-10-25 14:43:38.438 || [Gate]_BLEMac<p>:D4:CA:6E:B2:FD:DF_GI
+
+2018-10-25 14:43:39.444 || [Gate]_BLEMac<adv>:D4:CA:6E:B2:FD:DF_GI:-82
+
+2018-10-25 14:43:39.444 || [Gate]_BLEMac<p>:D4:CA:6E:B2:FD:DF_GI
+
+2018-10-25 14:43:42.534 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:05:9D_GI:-86
+
+2018-10-25 14:43:42.534 || [Gate]_BLEMac<p>:D4:CA:6E:B3:05:9D_GI
+
+2018-10-25 14:43:44.548 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:05:9D_GI:-78
+
+2018-10-25 14:43:44.549 || [Gate]_BLEMac<p>:D4:CA:6E:B3:05:9D_GI
+
+2018-10-25 14:43:45.557 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:05:9D_GI:-73
+
+2018-10-25 14:43:45.558 || [Gate]_BLEMac<p>:D4:CA:6E:B3:05:9D_GI
+
+2018-10-25 14:43:46.471 || [Gate]_BLEMac<adv>:D4:CA:6E:B2:FD:DF_GI:-89
+
+2018-10-25 14:43:46.471 || [Gate]_BLEMac<p>:D4:CA:6E:B2:FD:DF_GI
+
+2018-10-25 14:43:46.557 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:05:9D_GI:-76
+
+2018-10-25 14:43:46.558 || [Gate]_BLEMac<p>:D4:CA:6E:B3:05:9D_GI
+
+2018-10-25 14:43:46.671 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:02:14_GI:-91
+
+2018-10-25 14:43:46.671 || [Gate]_BLEMac<p>:D4:CA:6E:B3:02:14_GI
+
+2018-10-25 14:43:47.557 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:05:9D_GI:-87
+
+2018-10-25 14:43:47.557 || [Gate]_BLEMac<p>:D4:CA:6E:B3:05:9D_GI
+
+2018-10-25 14:43:49.560 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:05:9D_GI:-81
+
+2018-10-25 14:43:49.561 || [Gate]_BLEMac<p>:D4:CA:6E:B3:05:9D_GI
+
+2018-10-25 14:43:52.498 || [Gate]_BLEMac<adv>:D4:CA:6E:B2:FD:DF_GI:-89
+
+2018-10-25 14:43:52.498 || [Gate]_BLEMac<p>:D4:CA:6E:B2:FD:DF_GI
+
+2018-10-25 14:43:53.498 || [Gate]_BLEMac<adv>:D4:CA:6E:B2:FD:DF_GI:-93
+
+2018-10-25 14:43:53.499 || [Gate]_BLEMac<p>:D4:CA:6E:B2:FD:DF_GI
+
+2018-10-25 14:43:54.576 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:05:9D_GI:-82
+
+2018-10-25 14:43:54.576 || [Gate]_BLEMac<p>:D4:CA:6E:B3:05:9D_GI
+
+2018-10-25 14:43:55.506 || [Gate]_BLEMac<adv>:D4:CA:6E:B2:FD:DF_GI:-90
+
+2018-10-25 14:43:55.506 || [Gate]_BLEMac<p>:D4:CA:6E:B2:FD:DF_GI
+
+2018-10-25 14:43:56.506 || [Gate]_BLEMac<adv>:D4:CA:6E:B2:FD:DF_GI:-87
+
+2018-10-25 14:43:56.507 || [Gate]_BLEMac<p>:D4:CA:6E:B2:FD:DF_GI
+
+2018-10-25 14:43:56.582 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:05:9D_GI:-91
+
+2018-10-25 14:43:56.582 || [Gate]_BLEMac<p>:D4:CA:6E:B3:05:9D_GI
+
+2018-10-25 14:43:57.507 || [Gate]_BLEMac<adv>:D4:CA:6E:B2:FD:DF_GI:-89
+
+2018-10-25 14:43:57.508 || [Gate]_BLEMac<p>:D4:CA:6E:B2:FD:DF_GI
+
+2018-10-25 14:43:57.580 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:05:9D_GI:-87
+
+2018-10-25 14:43:57.580 || [Gate]_BLEMac<p>:D4:CA:6E:B3:05:9D_GI
+
+2018-10-25 14:43:58.586 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:05:9D_GI:-89
+
+2018-10-25 14:43:58.586 || [Gate]_BLEMac<p>:D4:CA:6E:B3:05:9D_GI
+
+2018-10-25 14:44:00.519 || [Gate]_BLEMac<adv>:D4:CA:6E:B2:FD:DF_GI:-90
+
+2018-10-25 14:44:00.522 || [Gate]_BLEMac<p>:D4:CA:6E:B2:FD:DF_GI
+
+2018-10-25 14:44:00.597 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:05:9D_GI:-89
+
+2018-10-25 14:44:00.598 || [Gate]_BLEMac<p>:D4:CA:6E:B3:05:9D_GI
+
+2018-10-25 14:44:00.751 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:02:14_GI:-93
+
+2018-10-25 14:44:00.752 || [Gate]_BLEMac<p>:D4:CA:6E:B3:02:14_GI
+
+2018-10-25 14:44:02.535 || [Gate]_BLEMac<adv>:D4:CA:6E:B2:FD:DF_GI:-91
+
+2018-10-25 14:44:02.535 || [Gate]_BLEMac<p>:D4:CA:6E:B2:FD:DF_GI
+
+2018-10-25 14:44:04.542 || [Gate]_BLEMac<adv>:D4:CA:6E:B2:FD:DF_GI:-95
+
+2018-10-25 14:44:04.543 || [Gate]_BLEMac<p>:D4:CA:6E:B2:FD:DF_GI
+
+2018-10-25 14:44:04.619 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:05:9D_GI:-83
+
+2018-10-25 14:44:04.619 || [Gate]_BLEMac<p>:D4:CA:6E:B3:05:9D_GI
+
+2018-10-25 14:44:05.551 || [Gate]_BLEMac<adv>:D4:CA:6E:B2:FD:DF_GI:-88
+
+2018-10-25 14:44:05.551 || [Gate]_BLEMac<p>:D4:CA:6E:B2:FD:DF_GI
+
+2018-10-25 14:44:07.631 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:05:9D_GI:-85
+
+2018-10-25 14:44:07.631 || [Gate]_BLEMac<p>:D4:CA:6E:B3:05:9D_GI
+
+2018-10-25 14:44:08.636 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:05:9D_GI:-89
+
+2018-10-25 14:44:08.636 || [Gate]_BLEMac<p>:D4:CA:6E:B3:05:9D_GI
+
+2018-10-25 14:44:09.581 || [Gate]_BLEMac<adv>:D4:CA:6E:B2:FD:DF_GI:-92
+
+2018-10-25 14:44:09.581 || [Gate]_BLEMac<p>:D4:CA:6E:B2:FD:DF_GI
+
+2018-10-25 14:44:09.639 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:05:9D_GI:-87
+
+2018-10-25 14:44:09.640 || [Gate]_BLEMac<p>:D4:CA:6E:B3:05:9D_GI
+
+2018-10-25 14:44:10.589 || [Gate]_BLEMac<adv>:D4:CA:6E:B2:FD:DF_GI:-93
+
+2018-10-25 14:44:10.589 || [Gate]_BLEMac<p>:D4:CA:6E:B2:FD:DF_GI
+
+2018-10-25 14:44:12.652 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:05:9D_GI:-79
+
+2018-10-25 14:44:12.653 || [Gate]_BLEMac<p>:D4:CA:6E:B3:05:9D_GI
+
+2018-10-25 14:44:13.657 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:05:9D_GI:-80
+
+2018-10-25 14:44:13.658 || [Gate]_BLEMac<p>:D4:CA:6E:B3:05:9D_GI
+
+2018-10-25 14:44:13.801 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:02:14_GI:-92
+
+2018-10-25 14:44:13.801 || [Gate]_BLEMac<p>:D4:CA:6E:B3:02:14_GI
+
+2018-10-25 14:44:14.619 || [Gate]_BLEMac<adv>:D4:CA:6E:B2:FD:DF_GI:-91
+
+2018-10-25 14:44:14.619 || [Gate]_BLEMac<p>:D4:CA:6E:B2:FD:DF_GI
+
+2018-10-25 14:44:14.664 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:05:9D_GI:-84
+
+2018-10-25 14:44:14.664 || [Gate]_BLEMac<p>:D4:CA:6E:B3:05:9D_GI
+
+2018-10-25 14:44:15.665 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:05:9D_GI:-89
+
+2018-10-25 14:44:15.665 || [Gate]_BLEMac<p>:D4:CA:6E:B3:05:9D_GI
+
+2018-10-25 14:44:20.692 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:05:9D_GI:-92
+
+2018-10-25 14:44:20.692 || [Gate]_BLEMac<p>:D4:CA:6E:B3:05:9D_GI
+
+2018-10-25 15:23:30.116 || -[AppDelegate applicationWillEnterForeground:]|[L:156]|
+
+2018-10-25 15:23:30.364 || -[AppDelegate applicationDidBecomeActive:]|[L:193]|
+
+2018-10-25 15:23:30.380 || Network-<Carrier> 中華電信
+
+2018-10-25 15:23:30.391 || user_fail_trade_check Request 
+
+2018-10-25 15:23:30.425 || garage_id is Nil or NULL
+
+2018-10-25 15:23:30.874 || user_fail_trade_check Success 
+
+!!!2018-10-25 15:23:30.874 || result: {
+
+!!!2018-10-25 15:23:30.874 || userManager.garageFarePaymentStatus = NoGarageFare 
+
+2018-10-25 15:23:32.086 || -[AppDelegate applicationWillResignActive:]|[L:133]|
+
+2018-10-25 15:23:32.927 || -[AppDelegate applicationDidEnterBackground:]|[L:125]|
+
+2018-10-25 15:23:36.207 || -[BLEManager centralManagerDidUpdateState:]|[L:793]|[Gate]BLE OFF
+
+2018-10-25 15:23:36.282 || -[BLEManager centralManagerDidUpdateState:]|[L:806]|[Gate]UpdateState:PoweredOff
+
+2018-10-25 15:23:37.463 || -[AppDelegate applicationWillEnterForeground:]|[L:156]|
+
+2018-10-25 15:23:37.727 || -[AppDelegate applicationDidBecomeActive:]|[L:193]|
+
+2018-10-25 15:23:37.736 || Network-<Carrier> 中華電信
+
+2018-10-25 15:23:37.737 || user_fail_trade_check Request 
+
+2018-10-25 15:23:37.743 || garage_id is Nil or NULL
+
+2018-10-25 15:23:38.191 || user_fail_trade_check Success 
+
+!!!2018-10-25 15:23:38.191 || result: {
+
+!!!2018-10-25 15:23:38.192 || userManager.garageFarePaymentStatus = NoGarageFare 
+
+2018-10-25 15:23:55.427 || -[AppDelegate applicationWillResignActive:]|[L:133]|
+
+2018-10-25 15:23:56.306 || -[AppDelegate applicationDidEnterBackground:]|[L:125]|
+
+2018-10-25 15:24:02.414 || -[BLEManager centralManagerDidUpdateState:]|[L:790]|[Gate]BLE ON
+
+2018-10-25 15:24:02.430 || -[BLEManager centralManagerDidUpdateState:]|[L:806]|[Gate]UpdateState:PoweredOn
+
+2018-10-25 15:39:42.327 || -[AppDelegate applicationWillEnterForeground:]|[L:156]|
+
+2018-10-25 15:39:42.603 || -[AppDelegate applicationDidBecomeActive:]|[L:193]|
+
+2018-10-25 15:39:42.612 || Network-<Carrier> 中華電信
+
+2018-10-25 15:39:42.613 || user_fail_trade_check Request 
+
+2018-10-25 15:39:42.619 || garage_id is Nil or NULL
+
+2018-10-25 15:39:43.015 || user_fail_trade_check Success 
+
+!!!2018-10-25 15:39:43.015 || result: {
+
+!!!2018-10-25 15:39:43.015 || userManager.garageFarePaymentStatus = NoGarageFare 
+
+2018-10-25 15:40:14.009 || Network-<Carrier> 中華電信
+
+2018-10-25 15:40:14.010 || getBannerList Request 
+
+2018-10-25 15:40:14.434 || getBannerList Success 
+
+2018-10-25 15:40:14.762 || Network-<Carrier> 中華電信
+
+2018-10-25 15:40:14.763 || get_news Request 
+
+2018-10-25 15:40:15.163 || get_news Success 
+
+2018-10-25 15:41:17.015 || Network-<Carrier> 中華電信
+
+2018-10-25 15:41:17.017 || garage_list Request 
+
+2018-10-25 15:41:17.761 || garage_list Success 
+
+2018-10-25 16:12:14.985 || Network-<Carrier> 中華電信
+
+2018-10-25 16:12:14.985 || getBannerList Request 
+
+2018-10-25 16:12:14.999 || Network-<Carrier> 中華電信
+
+2018-10-25 16:12:15.000 || get_news Request 
+
+2018-10-25 16:12:15.374 || getBannerList Success 
+
+2018-10-25 16:12:15.706 || get_news Success 
+
+2018-10-25 16:21:24.285 || -[AppDelegate applicationWillResignActive:]|[L:133]|
+
+2018-10-25 16:21:25.164 || -[AppDelegate applicationDidEnterBackground:]|[L:125]|
+
+2018-10-25 19:43:08.803 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:05:9D_GI:-78
+
+2018-10-25 19:43:08.803 || [Gate]_BLEMac<p>:D4:CA:6E:B3:05:9D_GI
+
+2018-10-25 19:43:08.911 || Network-<Carrier> 中華電信
+
+2018-10-25 19:43:08.949 || inputAPI = /app.php?page=checkGarage
+
+2018-10-25 19:43:09.031 || checkGarage Request 
+
+2018-10-25 19:43:10.710 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:05:9D_GI:-87
+
+2018-10-25 19:43:10.710 || [Gate]_BLEMac<p>:D4:CA:6E:B3:05:9D_GI
+
+2018-10-25 19:43:11.421 || [Gate]_BLEMac<adv>:D4:CA:6E:B2:FD:DF_GI:-88
+
+2018-10-25 19:43:11.421 || [Gate]_BLEMac<p>:D4:CA:6E:B2:FD:DF_GI
+
+2018-10-25 19:43:13.723 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:05:9D_GI:-76
+
+2018-10-25 19:43:13.723 || [Gate]_BLEMac<p>:D4:CA:6E:B3:05:9D_GI
+
+2018-10-25 19:43:14.722 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:05:9D_GI:-88
+
+2018-10-25 19:43:14.723 || [Gate]_BLEMac<p>:D4:CA:6E:B3:05:9D_GI
+
+2018-10-25 19:43:14.755 || checkGarage Success 
+
+2018-10-25 19:43:15.727 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:05:9D_GI:-77
+
+2018-10-25 19:43:15.728 || [Gate]_BLEMac<p>:D4:CA:6E:B3:05:9D_GI
+
+2018-10-25 19:43:16.442 || [Gate]_BLEMac<adv>:D4:CA:6E:B2:FD:DF_GI:-80
+
+2018-10-25 19:43:16.442 || [Gate]_BLEMac<p>:D4:CA:6E:B2:FD:DF_GI
+
+2018-10-25 19:43:16.450 || Network-<Carrier> 中華電信
+
+2018-10-25 19:43:16.453 || inputAPI = /app.php?page=checkGarage
+
+2018-10-25 19:43:16.456 || checkGarage Request 
+
+2018-10-25 19:43:16.738 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:05:9D_GI:-74
+
+2018-10-25 19:43:16.738 || [Gate]_BLEMac<p>:D4:CA:6E:B3:05:9D_GI
+
+2018-10-25 19:43:17.449 || [Gate]_BLEMac<adv>:D4:CA:6E:B2:FD:DF_GI:-91
+
+2018-10-25 19:43:17.450 || [Gate]_BLEMac<p>:D4:CA:6E:B2:FD:DF_GI
+
+2018-10-25 19:43:17.740 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:05:9D_GI:-76
+
+2018-10-25 19:43:17.740 || [Gate]_BLEMac<p>:D4:CA:6E:B3:05:9D_GI
+
+2018-10-25 19:43:18.456 || [Gate]_BLEMac<adv>:D4:CA:6E:B2:FD:DF_GI:-85
+
+2018-10-25 19:43:18.457 || [Gate]_BLEMac<p>:D4:CA:6E:B2:FD:DF_GI
+
+2018-10-25 19:43:18.741 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:05:9D_GI:-69
+
+2018-10-25 19:43:18.742 || [Gate]_BLEMac<p>:D4:CA:6E:B3:05:9D_GI
+
+2018-10-25 19:43:19.373 || checkGarage Success 
+
+2018-10-25 19:43:19.464 || [Gate]_BLEMac<adv>:D4:CA:6E:B2:FD:DF_GI:-84
+
+2018-10-25 19:43:19.464 || [Gate]_BLEMac<p>:D4:CA:6E:B2:FD:DF_GI
+
+2018-10-25 19:43:19.745 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:05:9D_GI:-62
+
+2018-10-25 19:43:19.745 || [Gate]_BLEMac<p>:D4:CA:6E:B3:05:9D_GI
+
+2018-10-25 19:43:21.762 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:05:9D_GI:-71
+
+2018-10-25 19:43:21.762 || [Gate]_BLEMac<p>:D4:CA:6E:B3:05:9D_GI
+
+2018-10-25 19:43:23.764 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:05:9D_GI:-82
+
+2018-10-25 19:43:23.764 || [Gate]_BLEMac<p>:D4:CA:6E:B3:05:9D_GI
+
+2018-10-25 19:43:25.777 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:05:9D_GI:-72
+
+2018-10-25 19:43:25.777 || [Gate]_BLEMac<p>:D4:CA:6E:B3:05:9D_GI
+
+2018-10-25 19:43:26.781 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:05:9D_GI:-77
+
+2018-10-25 19:43:26.782 || [Gate]_BLEMac<p>:D4:CA:6E:B3:05:9D_GI
+
+2018-10-25 19:43:28.789 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:05:9D_GI:-92
+
+2018-10-25 19:43:28.789 || [Gate]_BLEMac<p>:D4:CA:6E:B3:05:9D_GI
+
+2018-10-25 19:43:29.792 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:05:9D_GI:-94
+
+2018-10-25 19:43:29.792 || [Gate]_BLEMac<p>:D4:CA:6E:B3:05:9D_GI
+
+2018-10-25 19:43:33.809 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:05:9D_GI:-88
+
+2018-10-25 19:43:33.810 || [Gate]_BLEMac<p>:D4:CA:6E:B3:05:9D_GI
+
+2018-10-25 19:43:37.829 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:05:9D_GI:-88
+
+2018-10-25 19:43:37.829 || [Gate]_BLEMac<p>:D4:CA:6E:B3:05:9D_GI
+
+2018-10-25 19:43:38.837 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:05:9D_GI:-90
+
+2018-10-25 19:43:38.837 || [Gate]_BLEMac<p>:D4:CA:6E:B3:05:9D_GI
+
+2018-10-25 19:43:41.860 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:05:9D_GI:-89
+
+2018-10-25 19:43:41.861 || [Gate]_BLEMac<p>:D4:CA:6E:B3:05:9D_GI
+
+2018-10-25 19:43:45.881 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:05:9D_GI:-88
+
+2018-10-25 19:43:45.884 || [Gate]_BLEMac<p>:D4:CA:6E:B3:05:9D_GI
+
+2018-10-25 19:43:47.898 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:05:9D_GI:-94
+
+2018-10-25 19:43:47.899 || [Gate]_BLEMac<p>:D4:CA:6E:B3:05:9D_GI
+
+2018-10-25 19:43:48.898 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:05:9D_GI:-90
+
+2018-10-25 19:43:48.898 || [Gate]_BLEMac<p>:D4:CA:6E:B3:05:9D_GI
+
+2018-10-25 19:43:51.914 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:05:9D_GI:-89
+
+2018-10-25 19:43:51.914 || [Gate]_BLEMac<p>:D4:CA:6E:B3:05:9D_GI
+
+2018-10-25 19:43:53.921 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:05:9D_GI:-88
+
+2018-10-25 19:43:53.922 || [Gate]_BLEMac<p>:D4:CA:6E:B3:05:9D_GI
+
+2018-10-25 19:43:56.933 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:05:9D_GI:-90
+
+2018-10-25 19:43:56.934 || [Gate]_BLEMac<p>:D4:CA:6E:B3:05:9D_GI
+
+2018-10-25 19:43:59.943 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:05:9D_GI:-92
+
+2018-10-25 19:43:59.943 || [Gate]_BLEMac<p>:D4:CA:6E:B3:05:9D_GI
+
+2018-10-25 19:44:06.979 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:05:9D_GI:-90
+
+2018-10-25 19:44:06.979 || [Gate]_BLEMac<p>:D4:CA:6E:B3:05:9D_GI
+
+2018-10-25 19:44:09.990 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:05:9D_GI:-91
+
+2018-10-25 19:44:09.990 || [Gate]_BLEMac<p>:D4:CA:6E:B3:05:9D_GI
+
+2018-10-25 19:44:14.000 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:05:9D_GI:-88
+
+2018-10-25 19:44:14.000 || [Gate]_BLEMac<p>:D4:CA:6E:B3:05:9D_GI
+
+2018-10-25 19:44:17.004 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:05:9D_GI:-85
+
+2018-10-25 19:44:17.005 || [Gate]_BLEMac<p>:D4:CA:6E:B3:05:9D_GI
+
+2018-10-25 19:44:17.722 || [Gate]_BLEMac<adv>:D4:CA:6E:B2:FD:DF_GI:-91
+
+2018-10-25 19:44:17.722 || [Gate]_BLEMac<p>:D4:CA:6E:B2:FD:DF_GI
+
+2018-10-25 19:44:20.016 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:05:9D_GI:-82
+
+2018-10-25 19:44:20.017 || [Gate]_BLEMac<p>:D4:CA:6E:B3:05:9D_GI
+
+2018-10-25 19:44:20.741 || [Gate]_BLEMac<adv>:D4:CA:6E:B2:FD:DF_GI:-85
+
+2018-10-25 19:44:20.741 || [Gate]_BLEMac<p>:D4:CA:6E:B2:FD:DF_GI
+
+2018-10-25 19:44:21.025 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:05:9D_GI:-70
+
+2018-10-25 19:44:21.025 || [Gate]_BLEMac<p>:D4:CA:6E:B3:05:9D_GI
+
+2018-10-25 19:44:21.750 || [Gate]_BLEMac<adv>:D4:CA:6E:B2:FD:DF_GI:-91
+
+2018-10-25 19:44:21.750 || [Gate]_BLEMac<p>:D4:CA:6E:B2:FD:DF_GI
+
+2018-10-25 19:44:22.032 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:05:9D_GI:-71
+
+2018-10-25 19:44:22.032 || [Gate]_BLEMac<p>:D4:CA:6E:B3:05:9D_GI
+
+2018-10-25 19:44:24.040 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:05:9D_GI:-75
+
+2018-10-25 19:44:24.040 || [Gate]_BLEMac<p>:D4:CA:6E:B3:05:9D_GI
+
+2018-10-25 19:44:24.770 || [Gate]_BLEMac<adv>:D4:CA:6E:B2:FD:DF_GI:-93
+
+2018-10-25 19:44:24.770 || [Gate]_BLEMac<p>:D4:CA:6E:B2:FD:DF_GI
+
+2018-10-25 19:44:25.041 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:05:9D_GI:-67
+
+2018-10-25 19:44:25.042 || [Gate]_BLEMac<p>:D4:CA:6E:B3:05:9D_GI
+
+2018-10-25 19:44:25.778 || [Gate]_BLEMac<adv>:D4:CA:6E:B2:FD:DF_GI:-89
+
+2018-10-25 19:44:25.778 || [Gate]_BLEMac<p>:D4:CA:6E:B2:FD:DF_GI
+
+2018-10-25 19:44:26.786 || [Gate]_BLEMac<adv>:D4:CA:6E:B2:FD:DF_GI:-92
+
+2018-10-25 19:44:26.786 || [Gate]_BLEMac<p>:D4:CA:6E:B2:FD:DF_GI
+
+2018-10-25 19:44:29.056 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:05:9D_GI:-70
+
+2018-10-25 19:44:29.056 || [Gate]_BLEMac<p>:D4:CA:6E:B3:05:9D_GI
+
+2018-10-25 19:44:30.066 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:05:9D_GI:-69
+
+2018-10-25 19:44:30.066 || [Gate]_BLEMac<p>:D4:CA:6E:B3:05:9D_GI
+
+2018-10-25 19:44:30.809 || [Gate]_BLEMac<adv>:D4:CA:6E:B2:FD:DF_GI:-84
+
+2018-10-25 19:44:30.809 || [Gate]_BLEMac<p>:D4:CA:6E:B2:FD:DF_GI
+
+2018-10-25 19:44:31.817 || [Gate]_BLEMac<adv>:D4:CA:6E:B2:FD:DF_GI:-92
+
+2018-10-25 19:44:31.817 || [Gate]_BLEMac<p>:D4:CA:6E:B2:FD:DF_GI
+
+2018-10-25 19:44:32.083 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:05:9D_GI:-76
+
+2018-10-25 19:44:32.084 || [Gate]_BLEMac<p>:D4:CA:6E:B3:05:9D_GI
+
+2018-10-25 19:44:32.817 || [Gate]_BLEMac<adv>:D4:CA:6E:B2:FD:DF_GI:-89
+
+2018-10-25 19:44:32.817 || [Gate]_BLEMac<p>:D4:CA:6E:B2:FD:DF_GI
+
+2018-10-25 19:44:35.101 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:05:9D_GI:-88
+
+2018-10-25 19:44:35.102 || [Gate]_BLEMac<p>:D4:CA:6E:B3:05:9D_GI
+
+2018-10-25 19:44:36.104 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:05:9D_GI:-86
+
+2018-10-25 19:44:36.104 || [Gate]_BLEMac<p>:D4:CA:6E:B3:05:9D_GI
+
+2018-10-25 19:44:40.129 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:05:9D_GI:-87
+
+2018-10-25 19:44:40.129 || [Gate]_BLEMac<p>:D4:CA:6E:B3:05:9D_GI
+
+2018-10-25 19:44:40.845 || [Gate]_BLEMac<adv>:D4:CA:6E:B2:FD:DF_GI:-91
+
+2018-10-25 19:44:40.845 || [Gate]_BLEMac<p>:D4:CA:6E:B2:FD:DF_GI
+
+2018-10-25 19:44:41.135 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:05:9D_GI:-87
+
+2018-10-25 19:44:41.135 || [Gate]_BLEMac<p>:D4:CA:6E:B3:05:9D_GI
+
+2018-10-25 19:44:42.146 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:05:9D_GI:-92
+
+2018-10-25 19:44:42.146 || [Gate]_BLEMac<p>:D4:CA:6E:B3:05:9D_GI
+
+2018-10-25 19:44:42.847 || [Gate]_BLEMac<adv>:D4:CA:6E:B2:FD:DF_GI:-91
+
+2018-10-25 19:44:42.847 || [Gate]_BLEMac<p>:D4:CA:6E:B2:FD:DF_GI
+
+2018-10-25 19:44:43.149 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:05:9D_GI:-89
+
+2018-10-25 19:44:43.149 || [Gate]_BLEMac<p>:D4:CA:6E:B3:05:9D_GI
+
+2018-10-25 19:44:45.161 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:05:9D_GI:-77
+
+2018-10-25 19:44:45.162 || [Gate]_BLEMac<p>:D4:CA:6E:B3:05:9D_GI
+
+2018-10-25 19:44:46.170 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:05:9D_GI:-77
+
+2018-10-25 19:44:46.170 || [Gate]_BLEMac<p>:D4:CA:6E:B3:05:9D_GI
+
+2018-10-25 19:44:47.174 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:05:9D_GI:-78
+
+2018-10-25 19:44:47.174 || [Gate]_BLEMac<p>:D4:CA:6E:B3:05:9D_GI
+
+2018-10-25 19:44:48.177 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:05:9D_GI:-83
+
+2018-10-25 19:44:48.177 || [Gate]_BLEMac<p>:D4:CA:6E:B3:05:9D_GI
+
+2018-10-25 19:44:48.884 || [Gate]_BLEMac<adv>:D4:CA:6E:B2:FD:DF_GI:-88
+
+2018-10-25 19:44:48.884 || [Gate]_BLEMac<p>:D4:CA:6E:B2:FD:DF_GI
+
+2018-10-25 19:44:49.178 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:05:9D_GI:-83
+
+2018-10-25 19:44:49.179 || [Gate]_BLEMac<p>:D4:CA:6E:B3:05:9D_GI
+
+2018-10-25 19:44:50.187 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:05:9D_GI:-75
+
+2018-10-25 19:44:50.188 || [Gate]_BLEMac<p>:D4:CA:6E:B3:05:9D_GI
+
+2018-10-25 19:44:50.891 || [Gate]_BLEMac<adv>:D4:CA:6E:B2:FD:DF_GI:-89
+
+2018-10-25 19:44:50.892 || [Gate]_BLEMac<p>:D4:CA:6E:B2:FD:DF_GI
+
+2018-10-25 19:44:51.899 || [Gate]_BLEMac<adv>:D4:CA:6E:B2:FD:DF_GI:-88
+
+2018-10-25 19:44:51.899 || [Gate]_BLEMac<p>:D4:CA:6E:B2:FD:DF_GI
+
+2018-10-25 19:44:53.189 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:05:9D_GI:-82
+
+2018-10-25 19:44:53.190 || [Gate]_BLEMac<p>:D4:CA:6E:B3:05:9D_GI
+
+2018-10-25 19:44:53.905 || [Gate]_BLEMac<adv>:D4:CA:6E:B2:FD:DF_GI:-91
+
+2018-10-25 19:44:53.905 || [Gate]_BLEMac<p>:D4:CA:6E:B2:FD:DF_GI
+
+2018-10-25 19:44:54.911 || [Gate]_BLEMac<adv>:D4:CA:6E:B2:FD:DF_GI:-88
+
+2018-10-25 19:44:54.911 || [Gate]_BLEMac<p>:D4:CA:6E:B2:FD:DF_GI
+
+2018-10-25 19:44:57.932 || [Gate]_BLEMac<adv>:D4:CA:6E:B2:FD:DF_GI:-92
+
+2018-10-25 19:44:57.932 || [Gate]_BLEMac<p>:D4:CA:6E:B2:FD:DF_GI
+

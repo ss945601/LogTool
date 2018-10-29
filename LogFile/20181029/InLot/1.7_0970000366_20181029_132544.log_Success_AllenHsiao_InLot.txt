@@ -1,0 +1,1086 @@
+使用者：AllenHsiao
+裝置： iPhone 6
+系統： iOS 12.0.1
+版本： paking versoin:1.7(release)
+電信： 遠傳電信
+預約： 無
+車廠： 000001-特力屋內湖店 車辨入場, 有Ｎ導航
+///////////////////////////////////
+
+( 2018-10-29 11:23:39 )	 [Gate]BLE ON
+
+( 2018-10-29 11:24:00 )	退到App背景
+
+( 2018-10-29 11:54:10 )	 [Gate]BLE ON
+
+( 2018-10-29 11:54:31 )	退到App背景
+
+( 2018-10-29 12:26:56 )	 [Gate]BLE ON
+
+( 2018-10-29 12:27:01 )	退到App背景
+
+( 2018-10-29 12:39:40 )	 [Gate]BLE ON
+
+( 2018-10-29 12:41:55 )	[VoiceString] 歡迎光臨
+
+( 2018-10-29 12:41:58 )	[VoiceString] 本場域提供APP自動付款，無須現場繳費。
+
+( 2018-10-29 12:43:33 )	退到App背景
+
+( 2018-10-29 13:24:33 )	 [Gate]BLE ON
+
+( 2018-10-29 13:25:41 )	[VoiceString] 謝謝光臨
+
+///////////////////////////////////
+網路切換時機
+2018-10-29 10:42:00.528 遠傳電信 (first)
+2018-10-29 11:23:38.576 PaKing-192.168.10.38
+2018-10-29 12:39:39.077 遠傳電信
+
+
+--------detail--------
+
+2018-10-29 10:41:59.757 || !!PaKing APP Open!!
+
+2018-10-29 10:41:59.762 || Allen Hsiao
+
+2018-10-29 10:41:59.762 || iOS 12.0.1
+
+2018-10-29 10:41:59.762 || Device:iPhone 6
+
+2018-10-29 10:41:59.763 || paking versoin:1.7(release)
+
+2018-10-29 10:41:59.763 || paking build:20181024163520
+
+2018-10-29 10:41:59.773 || -[AppDelegate checkUpdate]|[L:322]|開始檢查是否更新
+
+2018-10-29 10:41:59.807 || request authorization succeeded!
+
+2018-10-29 10:41:59.812 || ISO country code is: tw
+
+2018-10-29 10:42:00.509 || userManager.state = UserSTATE_CHECK 
+
+2018-10-29 10:42:00.528 || Network-<Carrier> 遠傳電信
+
+2018-10-29 10:42:00.536 || check_member Request 
+
+!!!2018-10-29 10:43:41.515 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  _kCFStreamErrorDomainKey=4}
+
+!!!2018-10-29 10:43:41.517 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  _kCFStreamErrorDomainKey=4}
+
+2018-10-29 10:43:41.521 || venderID = E9A81FB0-9084-4107-85CA-469564CAA801
+
+2018-10-29 10:43:41.542 || Network-<Carrier> 遠傳電信
+
+2018-10-29 10:43:41.544 || login_check_lite Request 
+
+  ||     identifierForVendor = "E9A81FB0-9084-4107-85CA-469564CAA801";
+
+!!!2018-10-29 10:43:48.860 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  _kCFStreamErrorDomainKey=12}
+
+!!!2018-10-29 10:43:48.860 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  _kCFStreamErrorDomainKey=12}
+
+2018-10-29 11:23:37.605 || -[AppDelegate checkUpdate]|[L:322]|開始檢查是否更新
+
+2018-10-29 11:23:38.576 || Network <WIFI> PaKing-192.168.10.38
+
+2018-10-29 11:23:38.584 || check_member Request 
+
+2018-10-29 11:23:39.012 || check_member Success 
+
+2018-10-29 11:23:39.017 || venderID = E9A81FB0-9084-4107-85CA-469564CAA801
+
+2018-10-29 11:23:39.018 || Network <WIFI> PaKing-192.168.10.38
+
+2018-10-29 11:23:39.019 || login_check_lite Request 
+
+  ||     identifierForVendor = "E9A81FB0-9084-4107-85CA-469564CAA801";
+
+2018-10-29 11:23:39.353 || login_check_lite Success 
+
+2018-10-29 11:23:39.361 || set userManager.isReservation = 0
+
+2018-10-29 11:23:39.361 || set userManager.isGarageReservation = 0
+
+2018-10-29 11:23:39.555 || Network <WIFI> PaKing-192.168.10.38
+
+2018-10-29 11:23:39.556 || getBannerList Request 
+
+2018-10-29 11:23:39.568 || Network <WIFI> PaKing-192.168.10.38
+
+2018-10-29 11:23:39.569 || get_vendor Request 
+
+2018-10-29 11:23:39.663 || Network <WIFI> PaKing-192.168.10.38
+
+2018-10-29 11:23:39.664 || get_news Request 
+
+2018-10-29 11:23:39.856 || [Gate]BLE ON
+
+2018-10-29 11:23:39.907 || getBannerList Success 
+
+2018-10-29 11:23:39.969 || get_vendor Success 
+
+2018-10-29 11:23:40.012 || get_news Success 
+
+2018-10-29 11:23:43.457 || Network <WIFI> PaKing-192.168.10.38
+
+2018-10-29 11:23:43.459 || garage_list Request 
+
+2018-10-29 11:23:44.095 || garage_list Success 
+
+2018-10-29 11:23:52.569 || Network <WIFI> PaKing-192.168.10.38
+
+2018-10-29 11:23:52.975 || one_garage_list Success 
+
+2018-10-29 11:23:53.034 || State = 2
+
+2018-10-29 11:23:53.035 || Desc = 
+
+2018-10-29 11:23:53.042 || Network <WIFI> PaKing-192.168.10.38
+
+2018-10-29 11:23:53.043 || get_vendor Request 
+
+2018-10-29 11:23:53.099 || Network <WIFI> PaKing-192.168.10.38
+
+2018-10-29 11:23:53.101 || garage_list Request 
+
+2018-10-29 11:23:53.382 || get_vendor Success 
+
+2018-10-29 11:23:53.561 || Network <WIFI> PaKing-192.168.10.38
+
+2018-10-29 11:23:53.742 || garage_list Success 
+
+2018-10-29 11:23:53.974 || one_garage_list Success 
+
+2018-10-29 11:23:56.980 || Network <WIFI> PaKing-192.168.10.38
+
+2018-10-29 11:23:57.336 || one_garage_list Success 
+
+2018-10-29 11:23:57.755 || Network <WIFI> PaKing-192.168.10.38
+
+2018-10-29 11:23:57.756 || getBannerList Request 
+
+2018-10-29 11:23:57.797 || Network <WIFI> PaKing-192.168.10.38
+
+2018-10-29 11:23:57.798 || get_news Request 
+
+2018-10-29 11:23:58.062 || getBannerList Success 
+
+2018-10-29 11:23:58.100 || get_news Success 
+
+2018-10-29 11:24:00.653 || -[AppDelegate applicationDidEnterBackground:]|[L:103]|
+
+!!!CoreData: annotation: || CoreData: annotation:  Failed to load optimized model at path '/var/containers/Bundle/Application/5AE835A5-BBC8-4B70-8A7D-1F009288E95D/paking.app/GoogleMaps.bundle/GMSCacheStorage.momd/StorageWithTileProto.omo'
+
+!!!CoreData: annotation: || CoreData: annotation:  Failed to load optimized model at path '/var/containers/Bundle/Application/5AE835A5-BBC8-4B70-8A7D-1F009288E95D/paking.app/GoogleMaps.bundle/GMSCacheStorage.momd/StorageWithTileProto.omo'
+
+!!!CoreData: annotation: || CoreData: annotation:  Failed to load optimized model at path '/var/containers/Bundle/Application/5AE835A5-BBC8-4B70-8A7D-1F009288E95D/paking.app/GoogleMaps.bundle/GMSCacheStorage.momd/StorageWithTileProto.omo'
+
+2018-10-29 11:54:08.756 || -[AppDelegate checkUpdate]|[L:322]|開始檢查是否更新
+
+2018-10-29 11:54:09.601 || Network <WIFI> PaKing-192.168.10.38
+
+2018-10-29 11:54:09.608 || check_member Request 
+
+2018-10-29 11:54:10.001 || check_member Success 
+
+2018-10-29 11:54:10.005 || venderID = E9A81FB0-9084-4107-85CA-469564CAA801
+
+2018-10-29 11:54:10.007 || Network <WIFI> PaKing-192.168.10.38
+
+2018-10-29 11:54:10.008 || login_check_lite Request 
+
+  ||     identifierForVendor = "E9A81FB0-9084-4107-85CA-469564CAA801";
+
+2018-10-29 11:54:10.336 || login_check_lite Success 
+
+2018-10-29 11:54:10.342 || set userManager.isReservation = 0
+
+2018-10-29 11:54:10.342 || set userManager.isGarageReservation = 0
+
+2018-10-29 11:54:10.492 || Network <WIFI> PaKing-192.168.10.38
+
+2018-10-29 11:54:10.493 || getBannerList Request 
+
+2018-10-29 11:54:10.504 || Network <WIFI> PaKing-192.168.10.38
+
+2018-10-29 11:54:10.506 || get_vendor Request 
+
+2018-10-29 11:54:10.593 || Network <WIFI> PaKing-192.168.10.38
+
+2018-10-29 11:54:10.594 || get_news Request 
+
+2018-10-29 11:54:10.768 || [Gate]BLE ON
+
+2018-10-29 11:54:10.959 || get_vendor Success 
+
+2018-10-29 11:54:10.993 || getBannerList Success 
+
+2018-10-29 11:54:11.019 || get_news Success 
+
+2018-10-29 11:54:17.412 || Network <WIFI> PaKing-192.168.10.38
+
+2018-10-29 11:54:17.414 || getBannerList Request 
+
+2018-10-29 11:54:17.452 || Network <WIFI> PaKing-192.168.10.38
+
+2018-10-29 11:54:17.453 || get_news Request 
+
+2018-10-29 11:54:17.738 || getBannerList Success 
+
+2018-10-29 11:54:17.765 || get_news Success 
+
+2018-10-29 11:54:22.226 || Network <WIFI> PaKing-192.168.10.38
+
+2018-10-29 11:54:22.228 || garage_list Request 
+
+2018-10-29 11:54:22.915 || garage_list Success 
+
+2018-10-29 11:54:29.425 || Network <WIFI> PaKing-192.168.10.38
+
+2018-10-29 11:54:29.426 || getBannerList Request 
+
+2018-10-29 11:54:29.490 || Network <WIFI> PaKing-192.168.10.38
+
+2018-10-29 11:54:29.491 || get_news Request 
+
+2018-10-29 11:54:29.745 || getBannerList Success 
+
+2018-10-29 11:54:29.785 || get_news Success 
+
+2018-10-29 11:54:31.642 || -[AppDelegate applicationDidEnterBackground:]|[L:103]|
+
+2018-10-29 11:56:18.921 || [Gate]_BLEMac<adv>:00:23:A7:A6:AF:10_GI:-73
+
+2018-10-29 11:56:18.923 || [Gate]_BLEMac<p>:00:23:A7:A6:AF:10_GI
+
+2018-10-29 11:56:19.061 || Network <WIFI> PaKing-192.168.10.38
+
+2018-10-29 11:56:19.069 || inputAPI = /app.php?page=checkGarage
+
+2018-10-29 11:56:19.087 || checkGarage Request 
+
+2018-10-29 11:56:19.281 || [Gate]_BLEMac<adv>:00:23:A7:A6:AF:10_GI:-71
+
+2018-10-29 11:56:19.281 || [Gate]_BLEMac<p>:00:23:A7:A6:AF:10_GI
+
+2018-10-29 11:56:19.426 || checkGarage Success 
+
+  ||                 "garage_id" = 000001;
+
+  ||                 "garage_id" = 000001;
+
+  ||                 "garage_id" = 000001;
+
+  ||                 "garage_id" = 000001;
+
+  ||         "garage_id" = 000001;
+
+2018-10-29 11:56:19.449 || [Gate]ANPRStatus_GI Start
+
+2018-10-29 11:56:19.451 || ANPRRetryCount:1
+
+2018-10-29 11:56:19.456 || Network <WIFI> PaKing-192.168.10.38
+
+2018-10-29 11:56:19.459 || ANPR_check_enter Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-29 11:56:19.833 || ANPR_check_enter Success 
+
+2018-10-29 11:56:19.938 || [Gate]_BLEMac<adv>:00:23:A7:A6:AF:10_GI:-77
+
+2018-10-29 11:56:19.938 || [Gate]_BLEMac<p>:00:23:A7:A6:AF:10_GI
+
+  ||     "00:23:A7:A6:AF:10_GI"
+
+2018-10-29 11:56:20.456 || [Gate]_BLEMac<adv>:00:23:A7:A6:AF:10_GI:-71
+
+2018-10-29 11:56:20.457 || [Gate]_BLEMac<p>:00:23:A7:A6:AF:10_GI
+
+2018-10-29 11:56:22.962 || ANPRRetryCount:2
+
+2018-10-29 11:56:22.963 || Network <WIFI> PaKing-192.168.10.38
+
+2018-10-29 11:56:22.964 || ANPR_check_enter Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-29 11:56:23.308 || ANPR_check_enter Success 
+
+2018-10-29 11:56:26.428 || ANPRRetryCount:3
+
+2018-10-29 11:56:26.431 || Network <WIFI> PaKing-192.168.10.38
+
+2018-10-29 11:56:26.433 || ANPR_check_enter Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-29 11:56:26.794 || ANPR_check_enter Success 
+
+2018-10-29 11:56:30.097 || ANPRRetryCount:4
+
+2018-10-29 11:56:30.103 || Network <WIFI> PaKing-192.168.10.38
+
+2018-10-29 11:56:30.105 || ANPR_check_enter Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-29 11:56:30.429 || ANPR_check_enter Success 
+
+2018-10-29 11:56:33.627 || ANPRRetryCount:5
+
+2018-10-29 11:56:33.630 || Network <WIFI> PaKing-192.168.10.38
+
+2018-10-29 11:56:33.631 || ANPR_check_enter Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-29 11:56:33.973 || ANPR_check_enter Success 
+
+2018-10-29 11:56:37.178 || ANPRRetryCount:6
+
+2018-10-29 11:56:37.183 || Network <WIFI> PaKing-192.168.10.38
+
+2018-10-29 11:56:37.187 || ANPR_check_enter Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-29 11:56:37.566 || ANPR_check_enter Success 
+
+2018-10-29 11:56:40.777 || ANPRRetryCount:7
+
+2018-10-29 11:56:40.781 || Network <WIFI> PaKing-192.168.10.38
+
+2018-10-29 11:56:40.783 || ANPR_check_enter Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-29 11:56:41.153 || ANPR_check_enter Success 
+
+2018-10-29 11:56:44.411 || ANPRRetryCount:8
+
+2018-10-29 11:56:44.415 || Network <WIFI> PaKing-192.168.10.38
+
+2018-10-29 11:56:44.417 || ANPR_check_enter Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-29 11:56:44.774 || ANPR_check_enter Success 
+
+2018-10-29 11:56:47.893 || ANPRRetryCount:9
+
+2018-10-29 11:56:47.897 || Network <WIFI> PaKing-192.168.10.38
+
+2018-10-29 11:56:47.900 || ANPR_check_enter Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-29 11:56:48.329 || ANPR_check_enter Success 
+
+2018-10-29 11:56:51.580 || ANPRRetryCount:10
+
+2018-10-29 11:56:51.583 || Network <WIFI> PaKing-192.168.10.38
+
+2018-10-29 11:56:51.584 || ANPR_check_enter Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-29 11:56:51.922 || ANPR_check_enter Success 
+
+2018-10-29 11:56:55.182 || ANPRRetryCount:11
+
+2018-10-29 11:56:55.189 || Network <WIFI> PaKing-192.168.10.38
+
+2018-10-29 11:56:55.191 || ANPR_check_enter Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-29 11:56:55.597 || ANPR_check_enter Success 
+
+2018-10-29 11:56:58.898 || ANPRRetryCount:12
+
+2018-10-29 11:56:58.918 || Network <WIFI> PaKing-192.168.10.38
+
+2018-10-29 11:56:58.920 || ANPR_check_enter Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-29 11:56:59.292 || ANPR_check_enter Success 
+
+2018-10-29 11:57:02.544 || ANPRRetryCount:13
+
+2018-10-29 11:57:02.548 || Network <WIFI> PaKing-192.168.10.38
+
+2018-10-29 11:57:02.550 || ANPR_check_enter Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-29 11:57:02.909 || ANPR_check_enter Success 
+
+2018-10-29 11:57:06.172 || ANPRRetryCount:14
+
+2018-10-29 11:57:06.176 || Network <WIFI> PaKing-192.168.10.38
+
+2018-10-29 11:57:06.178 || ANPR_check_enter Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-29 11:57:06.539 || ANPR_check_enter Success 
+
+2018-10-29 11:57:09.714 || ANPRRetryCount:15
+
+2018-10-29 11:57:09.716 || Network <WIFI> PaKing-192.168.10.38
+
+2018-10-29 11:57:09.719 || ANPR_check_enter Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-29 11:57:10.057 || ANPR_check_enter Success 
+
+2018-10-29 11:57:13.256 || ANPRRetryCount:16
+
+2018-10-29 11:57:13.260 || Network <WIFI> PaKing-192.168.10.38
+
+2018-10-29 11:57:13.266 || ANPR_check_enter Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-29 11:57:13.619 || ANPR_check_enter Success 
+
+2018-10-29 11:57:16.915 || ANPRRetryCount:17
+
+2018-10-29 11:57:16.916 || Network <WIFI> PaKing-192.168.10.38
+
+2018-10-29 11:57:16.917 || ANPR_check_enter Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-29 11:57:17.238 || ANPR_check_enter Success 
+
+2018-10-29 11:57:20.467 || ANPRRetryCount:18
+
+2018-10-29 11:57:20.488 || Network <WIFI> PaKing-192.168.10.38
+
+2018-10-29 11:57:20.489 || ANPR_check_enter Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-29 11:57:20.835 || ANPR_check_enter Success 
+
+2018-10-29 11:57:24.123 || ANPRRetryCount:19
+
+2018-10-29 11:57:24.125 || Network <WIFI> PaKing-192.168.10.38
+
+2018-10-29 11:57:24.126 || ANPR_check_enter Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-29 11:57:24.466 || ANPR_check_enter Success 
+
+2018-10-29 11:57:27.761 || ANPRRetryCount:20
+
+2018-10-29 11:57:27.763 || Network <WIFI> PaKing-192.168.10.38
+
+2018-10-29 11:57:27.764 || ANPR_check_enter Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-29 11:57:28.105 || ANPR_check_enter Success 
+
+2018-10-29 11:57:31.419 || Network <WIFI> PaKing-192.168.10.38
+
+2018-10-29 12:26:54.511 || -[AppDelegate checkUpdate]|[L:322]|開始檢查是否更新
+
+2018-10-29 12:26:55.286 || Network <WIFI> PaKing-192.168.10.38
+
+2018-10-29 12:26:55.291 || check_member Request 
+
+2018-10-29 12:26:55.895 || check_member Success 
+
+2018-10-29 12:26:55.899 || venderID = E9A81FB0-9084-4107-85CA-469564CAA801
+
+2018-10-29 12:26:55.902 || Network <WIFI> PaKing-192.168.10.38
+
+2018-10-29 12:26:55.903 || login_check_lite Request 
+
+  ||     identifierForVendor = "E9A81FB0-9084-4107-85CA-469564CAA801";
+
+2018-10-29 12:26:56.248 || login_check_lite Success 
+
+2018-10-29 12:26:56.256 || set userManager.isReservation = 0
+
+2018-10-29 12:26:56.256 || set userManager.isGarageReservation = 0
+
+2018-10-29 12:26:56.465 || Network <WIFI> PaKing-192.168.10.38
+
+2018-10-29 12:26:56.466 || getBannerList Request 
+
+2018-10-29 12:26:56.479 || Network <WIFI> PaKing-192.168.10.38
+
+2018-10-29 12:26:56.480 || get_vendor Request 
+
+2018-10-29 12:26:56.555 || Network <WIFI> PaKing-192.168.10.38
+
+2018-10-29 12:26:56.556 || get_news Request 
+
+2018-10-29 12:26:56.716 || [Gate]BLE ON
+
+2018-10-29 12:26:57.239 || getBannerList Success 
+
+2018-10-29 12:26:57.346 || get_vendor Success 
+
+2018-10-29 12:26:57.362 || get_news Success 
+
+2018-10-29 12:27:01.063 || -[AppDelegate applicationDidEnterBackground:]|[L:103]|
+
+2018-10-29 12:39:38.385 || -[AppDelegate checkUpdate]|[L:322]|開始檢查是否更新
+
+2018-10-29 12:39:39.077 || Network-<Carrier> 遠傳電信
+
+2018-10-29 12:39:39.083 || check_member Request 
+
+2018-10-29 12:39:39.528 || check_member Success 
+
+2018-10-29 12:39:39.531 || venderID = E9A81FB0-9084-4107-85CA-469564CAA801
+
+2018-10-29 12:39:39.539 || Network-<Carrier> 遠傳電信
+
+2018-10-29 12:39:39.540 || login_check_lite Request 
+
+  ||     identifierForVendor = "E9A81FB0-9084-4107-85CA-469564CAA801";
+
+2018-10-29 12:39:39.979 || login_check_lite Success 
+
+2018-10-29 12:39:39.986 || set userManager.isReservation = 0
+
+2018-10-29 12:39:39.986 || set userManager.isGarageReservation = 0
+
+2018-10-29 12:39:40.116 || Network-<Carrier> 遠傳電信
+
+2018-10-29 12:39:40.116 || getBannerList Request 
+
+2018-10-29 12:39:40.135 || Network-<Carrier> 遠傳電信
+
+2018-10-29 12:39:40.136 || get_vendor Request 
+
+2018-10-29 12:39:40.204 || Network-<Carrier> 遠傳電信
+
+2018-10-29 12:39:40.205 || get_news Request 
+
+2018-10-29 12:39:40.386 || [Gate]BLE ON
+
+2018-10-29 12:39:40.599 || get_vendor Success 
+
+2018-10-29 12:39:40.628 || getBannerList Success 
+
+2018-10-29 12:39:40.658 || get_news Success 
+
+2018-10-29 12:39:43.624 || Network-<Carrier> 遠傳電信
+
+2018-10-29 12:39:43.625 || garage_list Request 
+
+2018-10-29 12:39:44.719 || Network-<Carrier> 遠傳電信
+
+2018-10-29 12:39:44.720 || getBannerList Request 
+
+2018-10-29 12:39:44.762 || Network-<Carrier> 遠傳電信
+
+2018-10-29 12:39:44.762 || get_news Request 
+
+2018-10-29 12:39:45.066 || garage_list Success 
+
+2018-10-29 12:39:45.577 || getBannerList Success 
+
+2018-10-29 12:39:45.577 || get_news Success 
+
+2018-10-29 12:39:48.425 || Network-<Carrier> 遠傳電信
+
+2018-10-29 12:39:48.426 || garage_list Request 
+
+2018-10-29 12:39:49.770 || Network-<Carrier> 遠傳電信
+
+2018-10-29 12:39:49.771 || getBannerList Request 
+
+2018-10-29 12:39:49.801 || Network-<Carrier> 遠傳電信
+
+2018-10-29 12:39:49.803 || get_news Request 
+
+2018-10-29 12:39:50.574 || getBannerList Success 
+
+2018-10-29 12:39:50.608 || get_news Success 
+
+2018-10-29 12:39:50.932 || garage_list Success 
+
+2018-10-29 12:41:45.695 || [Gate]_BLEMac<adv>:D4:CA:6E:B6:44:0A_GI:-87
+
+2018-10-29 12:41:45.695 || [Gate]_BLEMac<p>:D4:CA:6E:B6:44:0A_GI
+
+2018-10-29 12:41:45.718 || Network-<Carrier> 遠傳電信
+
+2018-10-29 12:41:45.720 || inputAPI = /app.php?page=checkGarage
+
+2018-10-29 12:41:45.724 || checkGarage Request 
+
+2018-10-29 12:41:46.397 || checkGarage Success 
+
+  ||                 "garage_id" = L00021;
+
+  ||                 "garage_id" = L00021;
+
+  ||                 "garage_id" = L00021;
+
+  ||                 "garage_id" = L00021;
+
+  ||         "garage_id" = L00021;
+
+2018-10-29 12:41:46.405 || [Gate]ANPRStatus_GI Start
+
+2018-10-29 12:41:46.407 || ANPRRetryCount:1
+
+2018-10-29 12:41:46.420 || Network-<Carrier> 遠傳電信
+
+2018-10-29 12:41:46.421 || ANPR_check_enter Request 
+
+  ||     "garage_id" = L00021;
+
+2018-10-29 12:41:46.694 || [Gate]_BLEMac<adv>:D4:CA:6E:B6:44:0A_GI:-90
+
+2018-10-29 12:41:46.694 || [Gate]_BLEMac<p>:D4:CA:6E:B6:44:0A_GI
+
+  ||     "D4:CA:6E:B6:44:0A_GI"
+
+2018-10-29 12:41:46.863 || ANPR_check_enter Success 
+
+2018-10-29 12:41:47.702 || [Gate]_BLEMac<adv>:D4:CA:6E:B6:44:0A_GI:-93
+
+2018-10-29 12:41:47.702 || [Gate]_BLEMac<p>:D4:CA:6E:B6:44:0A_GI
+
+2018-10-29 12:41:48.204 || [Gate]_BLEMac<adv>:D4:CA:6E:B6:44:0A_GI:-90
+
+2018-10-29 12:41:48.205 || [Gate]_BLEMac<p>:D4:CA:6E:B6:44:0A_GI
+
+2018-10-29 12:41:48.345 || [Gate]_BLEMac<adv>:D4:CA:6E:B6:44:1A_GI:-85
+
+2018-10-29 12:41:48.345 || [Gate]_BLEMac<p>:D4:CA:6E:B6:44:1A_GI
+
+  || 
+
+  ||     "D4:CA:6E:B6:44:1A_GI"
+
+2018-10-29 12:41:48.850 || [Gate]_BLEMac<adv>:D4:CA:6E:B6:44:1A_GI:-91
+
+2018-10-29 12:41:48.850 || [Gate]_BLEMac<p>:D4:CA:6E:B6:44:1A_GI
+
+2018-10-29 12:41:49.221 || [Gate]_BLEMac<adv>:D4:CA:6E:B6:44:0A_GI:-83
+
+2018-10-29 12:41:49.222 || [Gate]_BLEMac<p>:D4:CA:6E:B6:44:0A_GI
+
+2018-10-29 12:41:49.729 || [Gate]_BLEMac<adv>:D4:CA:6E:B6:44:0A_GI:-86
+
+2018-10-29 12:41:49.729 || [Gate]_BLEMac<p>:D4:CA:6E:B6:44:0A_GI
+
+2018-10-29 12:41:49.859 || [Gate]_BLEMac<adv>:D4:CA:6E:B6:44:1A_GI:-85
+
+2018-10-29 12:41:49.859 || [Gate]_BLEMac<p>:D4:CA:6E:B6:44:1A_GI
+
+2018-10-29 12:41:50.161 || ANPRRetryCount:2
+
+2018-10-29 12:41:50.188 || Network-<Carrier> 遠傳電信
+
+2018-10-29 12:41:50.189 || ANPR_check_enter Request 
+
+  ||     "garage_id" = L00021;
+
+2018-10-29 12:41:50.731 || [Gate]_BLEMac<adv>:D4:CA:6E:B6:44:0A_GI:-85
+
+2018-10-29 12:41:50.731 || [Gate]_BLEMac<p>:D4:CA:6E:B6:44:0A_GI
+
+2018-10-29 12:41:50.733 || ANPR_check_enter Success 
+
+2018-10-29 12:41:50.871 || [Gate]_BLEMac<adv>:D4:CA:6E:B6:44:1A_GI:-74
+
+2018-10-29 12:41:50.871 || [Gate]_BLEMac<p>:D4:CA:6E:B6:44:1A_GI
+
+2018-10-29 12:41:51.230 || [Gate]_BLEMac<adv>:D4:CA:6E:B6:44:0A_GI:-80
+
+2018-10-29 12:41:51.230 || [Gate]_BLEMac<p>:D4:CA:6E:B6:44:0A_GI
+
+2018-10-29 12:41:51.375 || [Gate]_BLEMac<adv>:D4:CA:6E:B6:44:1A_GI:-69
+
+2018-10-29 12:41:51.375 || [Gate]_BLEMac<p>:D4:CA:6E:B6:44:1A_GI
+
+2018-10-29 12:41:51.738 || [Gate]_BLEMac<adv>:D4:CA:6E:B6:44:0A_GI:-85
+
+2018-10-29 12:41:51.739 || [Gate]_BLEMac<p>:D4:CA:6E:B6:44:0A_GI
+
+2018-10-29 12:41:51.883 || [Gate]_BLEMac<adv>:D4:CA:6E:B6:44:1A_GI:-68
+
+2018-10-29 12:41:51.883 || [Gate]_BLEMac<p>:D4:CA:6E:B6:44:1A_GI
+
+2018-10-29 12:41:52.899 || [Gate]_BLEMac<adv>:D4:CA:6E:B6:44:1A_GI:-72
+
+2018-10-29 12:41:52.899 || [Gate]_BLEMac<p>:D4:CA:6E:B6:44:1A_GI
+
+2018-10-29 12:41:53.256 || [Gate]_BLEMac<adv>:D4:CA:6E:B6:44:0A_GI:-73
+
+2018-10-29 12:41:53.256 || [Gate]_BLEMac<p>:D4:CA:6E:B6:44:0A_GI
+
+2018-10-29 12:41:53.405 || [Gate]_BLEMac<adv>:D4:CA:6E:B6:44:1A_GI:-65
+
+2018-10-29 12:41:53.405 || [Gate]_BLEMac<p>:D4:CA:6E:B6:44:1A_GI
+
+2018-10-29 12:41:53.986 || ANPRRetryCount:3
+
+2018-10-29 12:41:54.009 || Network-<Carrier> 遠傳電信
+
+2018-10-29 12:41:54.011 || ANPR_check_enter Request 
+
+  ||     "garage_id" = L00021;
+
+2018-10-29 12:41:54.265 || [Gate]_BLEMac<adv>:D4:CA:6E:B6:44:0A_GI:-73
+
+2018-10-29 12:41:54.265 || [Gate]_BLEMac<p>:D4:CA:6E:B6:44:0A_GI
+
+2018-10-29 12:41:54.418 || [Gate]_BLEMac<adv>:D4:CA:6E:B6:44:1A_GI:-75
+
+2018-10-29 12:41:54.418 || [Gate]_BLEMac<p>:D4:CA:6E:B6:44:1A_GI
+
+2018-10-29 12:41:54.567 || ANPR_check_enter Success 
+
+2018-10-29 12:41:54.591 || Network-<Carrier> 遠傳電信
+
+2018-10-29 12:41:54.592 || inputAPI = /app.php?page=garage_enter_check_reservechange
+
+2018-10-29 12:41:54.596 || garage_enter_check_reservechange Request 
+
+2018-10-29 12:41:54.613 || Network-<Carrier> 遠傳電信
+
+  ||     "garage_id" = L00021;
+
+2018-10-29 12:41:54.770 || [Gate]_BLEMac<adv>:D4:CA:6E:B6:44:0A_GI:-77
+
+2018-10-29 12:41:54.770 || [Gate]_BLEMac<p>:D4:CA:6E:B6:44:0A_GI
+
+2018-10-29 12:41:54.925 || [Gate]_BLEMac<adv>:D4:CA:6E:B6:44:1A_GI:-67
+
+2018-10-29 12:41:54.925 || [Gate]_BLEMac<p>:D4:CA:6E:B6:44:1A_GI
+
+2018-10-29 12:41:55.059 || Network-<Carrier> 遠傳電信
+
+  ||     "garage_id" = L00021;
+
+2018-10-29 12:41:55.064 || garage_enter_check_reservechange Success 
+
+  ||             "garage_id" = L00021;
+
+  ||                 "garage_id" = L00021;
+
+  ||                 "garage_id" = L00021;
+
+  ||                 "garage_id" = L00021;
+
+  ||                 "garage_id" = L00021;
+
+2018-10-29 12:41:55.068 || userManager.isGarageReservation = 0
+
+2018-10-29 12:41:55.068 || userManager.isReservation = 0
+
+2018-10-29 12:41:55.070 || userManager.isGarageReservation = 0
+
+  ||     "garage_id" = L00021;
+
+2018-10-29 12:41:55.084 || Network-<Carrier> 遠傳電信
+
+2018-10-29 12:41:55.085 || parking_space_list Request 
+
+  ||     "garage_id" = L00021;
+
+2018-10-29 12:41:55.104 || Network-<Carrier> 遠傳電信
+
+2018-10-29 12:41:55.105 || inputAPI = /local.php?page=garage_enter_confirm&garage_dbname=L00021
+
+2018-10-29 12:41:55.107 || garage_enter_confirm&garage_dbname=L00021 Request 
+
+  ||     "garage_id" = L00021;
+
+2018-10-29 12:41:55.157 || voiceString:歡迎光臨
+
+2018-10-29 12:41:55.157 || Utterance:[AVSpeechUtterance 0x282db7f00] String: 歡迎光臨
+
+2018-10-29 12:41:55.414 || normal enter popup
+
+!!!CoreData: annotation: || CoreData: annotation:  Failed to load optimized model at path '/var/containers/Bundle/Application/5AE835A5-BBC8-4B70-8A7D-1F009288E95D/paking.app/GoogleMaps.bundle/GMSCacheStorage.momd/StorageWithTileProto.omo'
+
+!!!CoreData: annotation: || CoreData: annotation:  Failed to load optimized model at path '/var/containers/Bundle/Application/5AE835A5-BBC8-4B70-8A7D-1F009288E95D/paking.app/GoogleMaps.bundle/GMSCacheStorage.momd/StorageWithTileProto.omo'
+
+!!!CoreData: annotation: || CoreData: annotation:  Failed to load optimized model at path '/var/containers/Bundle/Application/5AE835A5-BBC8-4B70-8A7D-1F009288E95D/paking.app/GoogleMaps.bundle/GMSCacheStorage.momd/StorageWithTileProto.omo'
+
+!!!CoreData: annotation: || CoreData: annotation:  Failed to load optimized model at path '/var/containers/Bundle/Application/5AE835A5-BBC8-4B70-8A7D-1F009288E95D/paking.app/GoogleMaps.bundle/GMSCacheStorage.momd/StorageWithTileProto.omo'
+
+!!!CoreData: annotation: || CoreData: annotation:  Failed to load optimized model at path '/var/containers/Bundle/Application/5AE835A5-BBC8-4B70-8A7D-1F009288E95D/paking.app/GoogleMaps.bundle/GMSCacheStorage.momd/StorageWithTileProto.omo'
+
+!!!CoreData: annotation: || CoreData: annotation:  Failed to load optimized model at path '/var/containers/Bundle/Application/5AE835A5-BBC8-4B70-8A7D-1F009288E95D/paking.app/GoogleMaps.bundle/GMSCacheStorage.momd/StorageWithTileProto.omo'
+
+2018-10-29 12:41:55.566 || parking_space_list Success 
+
+2018-10-29 12:41:55.688 || garage_enter_confirm&garage_dbname=L00021 Success 
+
+2018-10-29 12:41:55.700 || Network-<Carrier> 遠傳電信
+
+2018-10-29 12:41:55.701 || ANPR_binding Request 
+
+  ||     "garage_id" = L00021;
+
+2018-10-29 12:41:55.779 || [Gate]_BLEMac<adv>:D4:CA:6E:B6:44:0A_GI:-75
+
+2018-10-29 12:41:55.779 || [Gate]_BLEMac<p>:D4:CA:6E:B6:44:0A_GI
+
+  ||     "D4:CA:6E:B6:44:0A_GI"
+
+2018-10-29 12:41:56.019 || [Gate]_BLEMac<adv>:D4:CA:6E:B6:44:1A_GI:-70
+
+2018-10-29 12:41:56.019 || [Gate]_BLEMac<p>:D4:CA:6E:B6:44:1A_GI
+
+  || 
+
+  ||     "D4:CA:6E:B6:44:1A_GI"
+
+2018-10-29 12:41:56.285 || [Gate]_BLEMac<adv>:D4:CA:6E:B6:44:0A_GI:-66
+
+2018-10-29 12:41:56.285 || [Gate]_BLEMac<p>:D4:CA:6E:B6:44:0A_GI
+
+2018-10-29 12:41:56.787 || [Gate]_BLEMac<adv>:D4:CA:6E:B6:44:0A_GI:-85
+
+2018-10-29 12:41:56.787 || [Gate]_BLEMac<p>:D4:CA:6E:B6:44:0A_GI
+
+2018-10-29 12:41:56.940 || [Gate]_BLEMac<adv>:D4:CA:6E:B6:44:1A_GI:-70
+
+2018-10-29 12:41:56.940 || [Gate]_BLEMac<p>:D4:CA:6E:B6:44:1A_GI
+
+2018-10-29 12:41:57.297 || [Gate]_BLEMac<adv>:D4:CA:6E:B6:44:0A_GI:-63
+
+2018-10-29 12:41:57.297 || [Gate]_BLEMac<p>:D4:CA:6E:B6:44:0A_GI
+
+2018-10-29 12:41:57.410 || ANPR_binding Success 
+
+2018-10-29 12:41:57.445 || [Gate]_BLEMac<adv>:D4:CA:6E:B6:44:1A_GI:-73
+
+2018-10-29 12:41:57.445 || [Gate]_BLEMac<p>:D4:CA:6E:B6:44:1A_GI
+
+2018-10-29 12:41:57.639 || Utterance:[AVSpeechUtterance 0x282db7f00] String: 歡迎光臨
+
+2018-10-29 12:41:57.806 || [Gate]_BLEMac<adv>:D4:CA:6E:B6:44:0A_GI:-65
+
+2018-10-29 12:41:57.807 || [Gate]_BLEMac<p>:D4:CA:6E:B6:44:0A_GI
+
+2018-10-29 12:41:58.108 || [Gate]response 
+
+  ||     "garage_id" = L00021;
+
+2018-10-29 12:41:58.128 || set orderListInfo 
+
+  ||     "garage_id" = L00021;
+
+2018-10-29 12:41:58.129 || userManager.gateGarageInfo 
+
+  ||             "garage_id" = L00021;
+
+  ||             "garage_id" = L00021;
+
+  ||             "garage_id" = L00021;
+
+  ||             "garage_id" = L00021;
+
+  ||     "garage_id" = L00021;
+
+2018-10-29 12:41:58.179 || voiceString:本場域提供APP自動付款，無須現場繳費。
+
+2018-10-29 12:41:58.180 || Utterance:[AVSpeechUtterance 0x2822cd200] String: 本場域提供APP自動付款，無須現場繳費。
+
+2018-10-29 12:42:02.982 || Utterance:[AVSpeechUtterance 0x2822cd200] String: 本場域提供APP自動付款，無須現場繳費。
+
+2018-10-29 12:42:03.145 || Network-<Carrier> 遠傳電信
+
+2018-10-29 12:42:03.146 || getBannerList Request 
+
+2018-10-29 12:42:03.176 || Network-<Carrier> 遠傳電信
+
+2018-10-29 12:42:03.177 || get_news Request 
+
+2018-10-29 12:42:03.682 || get_news Success 
+
+2018-10-29 12:42:03.713 || getBannerList Success 
+
+2018-10-29 12:43:25.823 || Network-<Carrier> 遠傳電信
+
+2018-10-29 12:43:25.824 || trade_get_parkingFee Request 
+
+  ||     "garage_id" = L00021;
+
+2018-10-29 12:43:25.836 || Network-<Carrier> 遠傳電信
+
+2018-10-29 12:43:25.837 || user_invoice_list Request 
+
+2018-10-29 12:43:26.488 || trade_get_parkingFee Success 
+
+2018-10-29 12:43:26.516 || user_invoice_list Success 
+
+2018-10-29 12:43:30.912 || Network-<Carrier> 遠傳電信
+
+2018-10-29 12:43:30.913 || getBannerList Request 
+
+2018-10-29 12:43:31.456 || Network-<Carrier> 遠傳電信
+
+2018-10-29 12:43:31.458 || get_news Request 
+
+2018-10-29 12:43:31.477 || getBannerList Success 
+
+2018-10-29 12:43:31.942 || get_news Success 
+
+2018-10-29 12:43:33.055 || -[AppDelegate applicationDidEnterBackground:]|[L:103]|
+
+2018-10-29 13:24:30.867 || -[AppDelegate checkUpdate]|[L:318]|場外不執行更新
+
+2018-10-29 13:24:31.812 || Network-<Carrier> 遠傳電信
+
+2018-10-29 13:24:31.821 || check_member Request 
+
+2018-10-29 13:24:32.554 || check_member Success 
+
+2018-10-29 13:24:32.558 || venderID = E9A81FB0-9084-4107-85CA-469564CAA801
+
+2018-10-29 13:24:32.570 || Network-<Carrier> 遠傳電信
+
+2018-10-29 13:24:32.571 || login_check_lite Request 
+
+  ||     identifierForVendor = "E9A81FB0-9084-4107-85CA-469564CAA801";
+
+2018-10-29 13:24:33.079 || login_check_lite Success 
+
+  ||                     "garage_id" = L00021;
+
+  ||                     "garage_id" = L00021;
+
+  ||                     "garage_id" = L00021;
+
+  ||                     "garage_id" = L00021;
+
+  ||             "garage_id" = L00021;
+
+  ||             "garage_id" = L00021;
+
+2018-10-29 13:24:33.086 || userManager.isGarageReservation = 0
+
+2018-10-29 13:24:33.086 || userManager.isReservation = 0
+
+  ||     "garage_id" = L00021;
+
+2018-10-29 13:24:33.087 || userManager.isGarageReservation = 0
+
+  ||     "garage_id" = L00021;
+
+2018-10-29 13:24:33.091 || set userManager.isReservation = 0
+
+2018-10-29 13:24:33.091 || set userManager.isGarageReservation = 0
+
+2018-10-29 13:24:33.103 || Network-<Carrier> 遠傳電信
+
+2018-10-29 13:24:33.104 || ANPR_check_exit Request 
+
+2018-10-29 13:24:33.298 || Network-<Carrier> 遠傳電信
+
+2018-10-29 13:24:33.299 || getBannerList Request 
+
+2018-10-29 13:24:33.330 || Network-<Carrier> 遠傳電信
+
+2018-10-29 13:24:33.331 || get_vendor Request 
+
+2018-10-29 13:24:33.482 || Network-<Carrier> 遠傳電信
+
+2018-10-29 13:24:33.483 || get_news Request 
+
+2018-10-29 13:24:33.732 || ANPR_check_exit Success 
+
+2018-10-29 13:24:33.733 || [Gate]BLE ON
+
+2018-10-29 13:24:33.961 || get_vendor Success 
+
+2018-10-29 13:24:33.998 || getBannerList Success 
+
+2018-10-29 13:24:34.021 || get_news Success 
+
+2018-10-29 13:25:25.297 || Network-<Carrier> 遠傳電信
+
+2018-10-29 13:25:25.299 || inputAPI = /app.php?page=checkGarage
+
+2018-10-29 13:25:25.313 || checkGarage Request 
+
+2018-10-29 13:25:26.019 || checkGarage Success 
+
+  ||                 "garage_id" = L00021;
+
+  ||                 "garage_id" = L00021;
+
+  ||                 "garage_id" = L00021;
+
+  ||                 "garage_id" = L00021;
+
+  ||         "garage_id" = L00021;
+
+2018-10-29 13:25:26.061 || Network-<Carrier> 遠傳電信
+
+2018-10-29 13:25:26.062 || ANPR_check_exit Request 
+
+2018-10-29 13:25:26.542 || ANPR_check_exit Success 
+
+2018-10-29 13:25:29.673 || Network-<Carrier> 遠傳電信
+
+2018-10-29 13:25:29.675 || ANPR_check_exit Request 
+
+2018-10-29 13:25:30.193 || ANPR_check_exit Success 
+
+2018-10-29 13:25:33.345 || Network-<Carrier> 遠傳電信
+
+2018-10-29 13:25:33.346 || ANPR_check_exit Request 
+
+2018-10-29 13:25:33.960 || ANPR_check_exit Success 
+
+2018-10-29 13:25:37.229 || Network-<Carrier> 遠傳電信
+
+2018-10-29 13:25:37.230 || ANPR_check_exit Request 
+
+2018-10-29 13:25:37.282 || [Gate]_BLEMac<adv>:D4:CA:6E:B6:44:11_GO:-85
+
+2018-10-29 13:25:37.762 || ANPR_check_exit Success 
+
+2018-10-29 13:25:41.027 || Network-<Carrier> 遠傳電信
+
+2018-10-29 13:25:41.029 || ANPR_check_exit Request 
+
+2018-10-29 13:25:41.562 || ANPR_check_exit Success 
+
+2018-10-29 13:25:41.601 || Network-<Carrier> 遠傳電信
+
+  ||     "garage_id" = L00021;
+
+2018-10-29 13:25:41.687 || voiceString:謝謝光臨
+
+2018-10-29 13:25:41.688 || Utterance:[AVSpeechUtterance 0x2831729c0] String: 謝謝光臨
+
+2018-10-29 13:25:42.046 || Network-<Carrier> 遠傳電信
+
+  ||     "garage_id" = L00021;
+
+2018-10-29 13:25:44.137 || Utterance:[AVSpeechUtterance 0x2831729c0] String: 謝謝光臨
+
+2018-10-29 13:25:44.838 || leaveGarageName = 銓營停車-台北小巨蛋
+

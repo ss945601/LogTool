@@ -1,0 +1,1466 @@
+使用者：Iris💕💕
+裝置： iPhone106
+系統： iOS 11.2.5
+版本： paking versoin:1.6.5(release)
+電信： 台湾大哥大
+預約： 無
+車廠： 000007-便利停車場富敦站 Beacon入場, 有Ｎ導航
+///////////////////////////////////
+
+第一次GI 到 Pop Up 時間 : 3.0秒
+
+///////////////////////////////////
+(  )	沒有離開車廠紀錄
+
+( 2018-10-26 19:14:03 )	[didDisconnectPeripheral]
+
+( 2018-10-26 19:16:03 )	[AppDelegate] applicationWillResignActive
+
+( 2018-10-26 19:16:04 )	退到App背景
+
+( 2018-10-26 19:37:53 )	[Gate]BLE OFF
+
+( 2018-10-29 12:56:55 )	啟動App程序
+
+( 2018-10-29 12:56:56 )	[AppDelegate] applicationDidBecomeActive
+
+( 2018-10-29 12:57:03 )	[AppDelegate] applicationWillResignActive
+
+( 2018-10-29 12:57:05 )	[AppDelegate] applicationDidBecomeActive
+
+( 2018-10-29 12:57:16 )	[AppDelegate] applicationWillResignActive
+
+( 2018-10-29 12:57:17 )	退到App背景
+
+( 2018-10-29 12:57:27 )	啟動App程序
+
+( 2018-10-29 12:57:28 )	[AppDelegate] applicationDidBecomeActive
+
+( 2018-10-29 12:57:39 )	啟動App程序
+
+( 2018-10-29 12:57:39 )	[AppDelegate] applicationDidBecomeActive
+
+( 2018-10-29 12:57:54 )	啟動App程序
+
+( 2018-10-29 12:57:55 )	[AppDelegate] applicationDidBecomeActive
+
+( 2018-10-29 12:58:20 )	啟動App程序
+
+( 2018-10-29 12:58:20 )	[AppDelegate] applicationDidBecomeActive
+
+( 2018-10-29 12:58:42 )	啟動App程序
+
+( 2018-10-29 12:58:42 )	[AppDelegate] applicationDidBecomeActive
+
+( 2018-10-29 12:58:53 )	啟動App程序
+
+( 2018-10-29 12:58:53 )	[AppDelegate] applicationDidBecomeActive
+
+( 2018-10-29 12:59:05 )	[AppDelegate] applicationWillResignActive
+
+( 2018-10-29 12:59:06 )	退到App背景
+
+( 2018-10-29 12:59:10 )	啟動App程序
+
+( 2018-10-29 12:59:10 )	[AppDelegate] applicationDidBecomeActive
+
+( 2018-10-29 12:59:24 )	[AppDelegate] applicationWillResignActive
+
+( 2018-10-29 12:59:25 )	退到App背景
+
+( 2018-10-29 12:59:35 )	進入App前景
+
+( 2018-10-29 12:59:36 )	[AppDelegate] applicationDidBecomeActive
+
+( 2018-10-29 12:59:38 )	[AppDelegate] applicationWillResignActive
+
+( 2018-10-29 12:59:39 )	退到App背景
+
+( 2018-10-29 12:59:51 )	進入App前景
+
+( 2018-10-29 12:59:52 )	[AppDelegate] applicationDidBecomeActive
+
+( 2018-10-29 13:00:14 )	[AppDelegate] applicationWillResignActive
+
+( 2018-10-29 13:00:15 )	退到App背景
+
+( 2018-10-29 13:01:22 )	啟動App程序
+
+( 2018-10-29 13:01:22 )	[AppDelegate] applicationDidBecomeActive
+
+( 2018-10-29 13:01:34 )	[AppDelegate] applicationWillResignActive
+
+( 2018-10-29 13:01:35 )	退到App背景
+
+( 2018-10-29 13:01:38 )	啟動App程序
+
+( 2018-10-29 13:01:39 )	[AppDelegate] applicationDidBecomeActive
+
+( 2018-10-29 13:06:43 )	啟動App程序
+
+( 2018-10-29 13:06:43 )	[AppDelegate] applicationDidBecomeActive
+
+( 2018-10-29 13:09:45 )	啟動App程序
+
+( 2018-10-29 13:09:46 )	[AppDelegate] applicationDidBecomeActive
+
+( 2018-10-29 13:10:04 )	[Gate]BLE ON
+
+( 2018-10-29 13:10:12 )	[AppDelegate] applicationWillResignActive
+
+( 2018-10-29 13:10:14 )	[AppDelegate] applicationDidBecomeActive
+
+( 2018-10-29 13:10:30 )	收到第一個GI
+
+( 2018-10-29 13:10:31 )	[didConnectPeripheral]duration:0.312879
+
+( 2018-10-29 13:10:33 )	入閘POP_UP
+
+( 2018-10-29 13:10:34 )	按下入閘按鈕
+
+( 2018-10-29 13:10:55 )	[didDisconnectPeripheral]
+
+( 2018-10-29 13:10:56 )	[didConnectPeripheral]duration:0.450228
+
+( 2018-10-29 13:11:20 )	[didDisconnectPeripheral]
+
+( 2018-10-29 13:11:21 )	[didConnectPeripheral]duration:0.533725
+
+( 2018-10-29 13:11:43 )	[didDisconnectPeripheral]
+
+( 2018-10-29 13:11:47 )	[AppDelegate] applicationWillResignActive
+
+( 2018-10-29 13:11:48 )	退到App背景
+
+///////////////////////////////////
+
+<API:checkGarage>
+狀態：Success
+呼叫次數：1次
+耗費時間：0.595秒
+網路來源：台湾大哥大
+
+<API:garage_enter_check_reservechange>
+狀態：Success
+呼叫次數：3次
+耗費時間：0.596秒
+網路來源：台湾大哥大
+
+<API:garage_enter_confirm>
+狀態：Fail
+呼叫次數：18次
+錯誤訊息：Request but no feedback success!
+網路來源：台湾大哥大
+
+///////////////////////////////////
+網路切換時機
+2018-10-29 12:56:55.937 PaKing-192.168.7.171 (first)
+2018-10-29 12:57:28.091 台湾大哥大
+2018-10-29 12:57:55.077 PaKing-192.168.7.171
+2018-10-29 13:10:03.986 台湾大哥大
+
+
+--------detail--------
+
+2018-10-26 19:14:00.306 || !!PaKing APP Open!!
+
+2018-10-26 19:14:00.308 || Iris💕💕
+
+2018-10-26 19:14:00.308 || iOS 11.2.5
+
+2018-10-26 19:14:00.308 || -[LogManager defaultLog]|[L:108]|Device:iPhone106
+
+2018-10-26 19:14:00.308 || paking versoin:1.6.5(release)
+
+2018-10-26 19:14:00.308 || paking build:20180925112634
+
+2018-10-26 19:14:00.689 || Utterance:[AVSpeechUtterance 0x1c8266ec0] String: 抵達車廠出口
+
+Voice: [AVSpeechSynthesisVoice ||  Quality: Default [com.apple.ttsbundle.Mei-Jia-compact]
+
+Rate: 0.45
+ || Rate: 0.45
+
+Volume: 1.00
+ || Volume: 1.00
+
+Pitch Multiplier: || Pitch Multiplier: 1.15
+
+2018-10-26 19:14:03.927 || -[BLEManager centralManager:didDisconnectPeripheral:error:]|[L:1060]|[Gate]pName:00:23:A7:A6:B4:24_GO
+
+2018-10-26 19:14:03.928 || -[BLEManager centralManager:didDisconnectPeripheral:error:]|[L:1061]|[Gate]error:Error Domain=CBErrorDomain Code=6 "The connection has timed out unexpectedly." UserInfo={NSLocalizedDescription=The connection has timed out unexpectedly.}
+
+2018-10-26 19:14:03.928 || -[BLEManager centralManager:didDisconnectPeripheral:error:]|[L:1062]|[Gate]completeGateConnectProcess=1
+
+2018-10-26 19:14:12.855 || garage_leave_pay&garage_dbname=000007 Success 
+
+  ||                 "garage_id" = 000007;
+
+2018-10-26 19:16:03.245 || -[AppDelegate applicationWillResignActive:]|[L:133]|
+
+2018-10-26 19:16:04.182 || -[AppDelegate applicationDidEnterBackground:]|[L:125]|
+
+2018-10-26 19:37:53.140 || -[BLEManager centralManagerDidUpdateState:]|[L:793]|[Gate]BLE OFF
+
+2018-10-26 19:37:53.474 || -[BLEManager centralManagerDidUpdateState:]|[L:806]|[Gate]UpdateState:PoweredOff
+
+2018-10-29 12:56:55.778 || -[AppDelegate checkUpdate]|[L:342]|開始檢查是否更新
+
+2018-10-29 12:56:55.937 || Network <WIFI> PaKing-192.168.7.171
+
+2018-10-29 12:56:55.942 || check_member Request 
+
+2018-10-29 12:56:56.080 || -[AppDelegate applicationDidBecomeActive:]|[L:193]|
+
+2018-10-29 12:57:03.165 || -[AppDelegate applicationWillResignActive:]|[L:133]|
+
+2018-10-29 12:57:05.187 || -[AppDelegate applicationDidBecomeActive:]|[L:193]|
+
+!!!2018-10-29 12:57:10.968 ||  NSLocalizedDescription=無法找到指定主機名稱的伺服器。}
+
+!!!2018-10-29 12:57:10.968 ||  NSLocalizedDescription=無法找到指定主機名稱的伺服器。}
+
+2018-10-29 12:57:10.975 || Network <WIFI> PaKing-192.168.7.171
+
+2018-10-29 12:57:10.977 || login_check_lite Request 
+
+!!!2018-10-29 12:57:10.982 ||  NSLocalizedDescription=無法找到指定主機名稱的伺服器。}
+
+!!!2018-10-29 12:57:10.982 ||  NSLocalizedDescription=無法找到指定主機名稱的伺服器。}
+
+2018-10-29 12:57:12.843 || Network <WIFI> PaKing-192.168.7.171
+
+2018-10-29 12:57:12.844 || check_member Request 
+
+!!!2018-10-29 12:57:12.853 ||  NSLocalizedDescription=無法找到指定主機名稱的伺服器。}
+
+!!!2018-10-29 12:57:12.854 ||  NSLocalizedDescription=無法找到指定主機名稱的伺服器。}
+
+2018-10-29 12:57:12.858 || Network <WIFI> PaKing-192.168.7.171
+
+2018-10-29 12:57:12.859 || login_check_lite Request 
+
+!!!2018-10-29 12:57:12.862 ||  NSLocalizedDescription=無法找到指定主機名稱的伺服器。}
+
+!!!2018-10-29 12:57:12.862 ||  NSLocalizedDescription=無法找到指定主機名稱的伺服器。}
+
+2018-10-29 12:57:15.383 || Network <WIFI> PaKing-192.168.7.171
+
+2018-10-29 12:57:15.384 || check_member Request 
+
+!!!2018-10-29 12:57:15.393 ||  NSLocalizedDescription=無法找到指定主機名稱的伺服器。}
+
+!!!2018-10-29 12:57:15.394 ||  NSLocalizedDescription=無法找到指定主機名稱的伺服器。}
+
+2018-10-29 12:57:15.398 || Network <WIFI> PaKing-192.168.7.171
+
+2018-10-29 12:57:15.399 || login_check_lite Request 
+
+!!!2018-10-29 12:57:15.403 ||  NSLocalizedDescription=無法找到指定主機名稱的伺服器。}
+
+!!!2018-10-29 12:57:15.403 ||  NSLocalizedDescription=無法找到指定主機名稱的伺服器。}
+
+2018-10-29 12:57:16.658 || -[AppDelegate applicationWillResignActive:]|[L:133]|
+
+2018-10-29 12:57:17.294 || -[AppDelegate applicationDidEnterBackground:]|[L:125]|
+
+2018-10-29 12:57:27.991 || -[AppDelegate checkUpdate]|[L:342]|開始檢查是否更新
+
+2018-10-29 12:57:28.091 || Network-<Carrier> 台湾大哥大
+
+2018-10-29 12:57:28.094 || check_member Request 
+
+2018-10-29 12:57:28.421 || -[AppDelegate applicationDidBecomeActive:]|[L:193]|
+
+!!!2018-10-29 12:57:34.144 ||  NSLocalizedDescription=無法找到指定主機名稱的伺服器。}
+
+!!!2018-10-29 12:57:34.145 ||  NSLocalizedDescription=無法找到指定主機名稱的伺服器。}
+
+2018-10-29 12:57:34.156 || Network-<Carrier> 台湾大哥大
+
+2018-10-29 12:57:34.157 || login_check_lite Request 
+
+!!!2018-10-29 12:57:34.163 ||  NSLocalizedDescription=無法找到指定主機名稱的伺服器。}
+
+!!!2018-10-29 12:57:34.163 ||  NSLocalizedDescription=無法找到指定主機名稱的伺服器。}
+
+2018-10-29 12:57:36.431 || Network-<Carrier> 台湾大哥大
+
+2018-10-29 12:57:36.432 || check_member Request 
+
+!!!2018-10-29 12:57:36.441 ||  NSLocalizedDescription=無法找到指定主機名稱的伺服器。}
+
+!!!2018-10-29 12:57:36.441 ||  NSLocalizedDescription=無法找到指定主機名稱的伺服器。}
+
+2018-10-29 12:57:36.447 || Network-<Carrier> 台湾大哥大
+
+2018-10-29 12:57:36.448 || login_check_lite Request 
+
+!!!2018-10-29 12:57:36.451 ||  NSLocalizedDescription=無法找到指定主機名稱的伺服器。}
+
+!!!2018-10-29 12:57:36.451 ||  NSLocalizedDescription=無法找到指定主機名稱的伺服器。}
+
+2018-10-29 12:57:39.428 || -[AppDelegate checkUpdate]|[L:342]|開始檢查是否更新
+
+2018-10-29 12:57:39.527 || Network-<Carrier> 台湾大哥大
+
+2018-10-29 12:57:39.529 || check_member Request 
+
+!!!2018-10-29 12:57:39.936 ||  NSLocalizedDescription=無法找到指定主機名稱的伺服器。}
+
+!!!2018-10-29 12:57:39.936 ||  NSLocalizedDescription=無法找到指定主機名稱的伺服器。}
+
+2018-10-29 12:57:39.943 || Network-<Carrier> 台湾大哥大
+
+2018-10-29 12:57:39.944 || login_check_lite Request 
+
+2018-10-29 12:57:39.949 || -[AppDelegate applicationDidBecomeActive:]|[L:193]|
+
+!!!2018-10-29 12:57:39.964 ||  NSLocalizedDescription=無法找到指定主機名稱的伺服器。}
+
+!!!2018-10-29 12:57:39.964 ||  NSLocalizedDescription=無法找到指定主機名稱的伺服器。}
+
+2018-10-29 12:57:41.466 || Network-<Carrier> 台湾大哥大
+
+2018-10-29 12:57:41.468 || check_member Request 
+
+!!!2018-10-29 12:57:41.476 ||  NSLocalizedDescription=無法找到指定主機名稱的伺服器。}
+
+!!!2018-10-29 12:57:41.476 ||  NSLocalizedDescription=無法找到指定主機名稱的伺服器。}
+
+2018-10-29 12:57:41.482 || Network-<Carrier> 台湾大哥大
+
+2018-10-29 12:57:41.483 || login_check_lite Request 
+
+!!!2018-10-29 12:57:41.486 ||  NSLocalizedDescription=無法找到指定主機名稱的伺服器。}
+
+!!!2018-10-29 12:57:41.486 ||  NSLocalizedDescription=無法找到指定主機名稱的伺服器。}
+
+2018-10-29 12:57:47.275 || Network-<Carrier> 台湾大哥大
+
+2018-10-29 12:57:47.277 || check_member Request 
+
+!!!2018-10-29 12:57:47.284 ||  NSLocalizedDescription=無法找到指定主機名稱的伺服器。}
+
+!!!2018-10-29 12:57:47.284 ||  NSLocalizedDescription=無法找到指定主機名稱的伺服器。}
+
+2018-10-29 12:57:47.290 || Network-<Carrier> 台湾大哥大
+
+2018-10-29 12:57:47.291 || login_check_lite Request 
+
+!!!2018-10-29 12:57:47.294 ||  NSLocalizedDescription=無法找到指定主機名稱的伺服器。}
+
+!!!2018-10-29 12:57:47.294 ||  NSLocalizedDescription=無法找到指定主機名稱的伺服器。}
+
+2018-10-29 12:57:54.979 || -[AppDelegate checkUpdate]|[L:342]|開始檢查是否更新
+
+2018-10-29 12:57:55.077 || Network <WIFI> PaKing-192.168.7.171
+
+2018-10-29 12:57:55.078 || check_member Request 
+
+2018-10-29 12:57:55.200 || -[AppDelegate applicationDidBecomeActive:]|[L:193]|
+
+!!!2018-10-29 12:58:10.102 ||  NSLocalizedDescription=無法找到指定主機名稱的伺服器。}
+
+!!!2018-10-29 12:58:10.102 ||  NSLocalizedDescription=無法找到指定主機名稱的伺服器。}
+
+2018-10-29 12:58:10.112 || Network <WIFI> PaKing-192.168.7.171
+
+2018-10-29 12:58:10.113 || login_check_lite Request 
+
+!!!2018-10-29 12:58:10.118 ||  NSLocalizedDescription=無法找到指定主機名稱的伺服器。}
+
+!!!2018-10-29 12:58:10.119 ||  NSLocalizedDescription=無法找到指定主機名稱的伺服器。}
+
+2018-10-29 12:58:14.966 || Network <WIFI> PaKing-192.168.7.171
+
+2018-10-29 12:58:14.967 || check_member Request 
+
+!!!2018-10-29 12:58:14.975 ||  NSLocalizedDescription=無法找到指定主機名稱的伺服器。}
+
+!!!2018-10-29 12:58:14.975 ||  NSLocalizedDescription=無法找到指定主機名稱的伺服器。}
+
+2018-10-29 12:58:14.979 || Network <WIFI> PaKing-192.168.7.171
+
+2018-10-29 12:58:14.980 || login_check_lite Request 
+
+!!!2018-10-29 12:58:14.983 ||  NSLocalizedDescription=無法找到指定主機名稱的伺服器。}
+
+!!!2018-10-29 12:58:14.983 ||  NSLocalizedDescription=無法找到指定主機名稱的伺服器。}
+
+2018-10-29 12:58:16.680 || Network <WIFI> PaKing-192.168.7.171
+
+2018-10-29 12:58:16.681 || check_member Request 
+
+!!!2018-10-29 12:58:16.690 ||  NSLocalizedDescription=無法找到指定主機名稱的伺服器。}
+
+!!!2018-10-29 12:58:16.690 ||  NSLocalizedDescription=無法找到指定主機名稱的伺服器。}
+
+2018-10-29 12:58:16.694 || Network <WIFI> PaKing-192.168.7.171
+
+2018-10-29 12:58:16.695 || login_check_lite Request 
+
+!!!2018-10-29 12:58:16.698 ||  NSLocalizedDescription=無法找到指定主機名稱的伺服器。}
+
+!!!2018-10-29 12:58:16.699 ||  NSLocalizedDescription=無法找到指定主機名稱的伺服器。}
+
+2018-10-29 12:58:20.735 || -[AppDelegate checkUpdate]|[L:342]|開始檢查是否更新
+
+2018-10-29 12:58:20.833 || Network <WIFI> PaKing-192.168.7.171
+
+2018-10-29 12:58:20.834 || check_member Request 
+
+!!!2018-10-29 12:58:20.985 ||  NSLocalizedDescription=無法找到指定主機名稱的伺服器。}
+
+!!!2018-10-29 12:58:20.985 ||  NSLocalizedDescription=無法找到指定主機名稱的伺服器。}
+
+2018-10-29 12:58:20.989 || Network <WIFI> PaKing-192.168.7.171
+
+2018-10-29 12:58:20.989 || login_check_lite Request 
+
+2018-10-29 12:58:20.992 || -[AppDelegate applicationDidBecomeActive:]|[L:193]|
+
+!!!2018-10-29 12:58:20.998 ||  NSLocalizedDescription=無法找到指定主機名稱的伺服器。}
+
+!!!2018-10-29 12:58:20.998 ||  NSLocalizedDescription=無法找到指定主機名稱的伺服器。}
+
+2018-10-29 12:58:42.096 || -[AppDelegate checkUpdate]|[L:342]|開始檢查是否更新
+
+2018-10-29 12:58:42.201 || Network <WIFI> PaKing-192.168.7.171
+
+2018-10-29 12:58:42.202 || check_member Request 
+
+!!!2018-10-29 12:58:42.323 ||  NSLocalizedDescription=無法找到指定主機名稱的伺服器。}
+
+!!!2018-10-29 12:58:42.323 ||  NSLocalizedDescription=無法找到指定主機名稱的伺服器。}
+
+2018-10-29 12:58:42.326 || Network <WIFI> PaKing-192.168.7.171
+
+2018-10-29 12:58:42.327 || login_check_lite Request 
+
+2018-10-29 12:58:42.330 || -[AppDelegate applicationDidBecomeActive:]|[L:193]|
+
+!!!2018-10-29 12:58:42.334 ||  NSLocalizedDescription=無法找到指定主機名稱的伺服器。}
+
+!!!2018-10-29 12:58:42.334 ||  NSLocalizedDescription=無法找到指定主機名稱的伺服器。}
+
+2018-10-29 12:58:53.215 || -[AppDelegate checkUpdate]|[L:342]|開始檢查是否更新
+
+2018-10-29 12:58:53.309 || Network <WIFI> PaKing-192.168.7.171
+
+2018-10-29 12:58:53.310 || check_member Request 
+
+!!!2018-10-29 12:58:53.462 ||  NSLocalizedDescription=無法找到指定主機名稱的伺服器。}
+
+!!!2018-10-29 12:58:53.462 ||  NSLocalizedDescription=無法找到指定主機名稱的伺服器。}
+
+2018-10-29 12:58:53.466 || Network <WIFI> PaKing-192.168.7.171
+
+2018-10-29 12:58:53.466 || login_check_lite Request 
+
+2018-10-29 12:58:53.470 || -[AppDelegate applicationDidBecomeActive:]|[L:193]|
+
+!!!2018-10-29 12:58:53.475 ||  NSLocalizedDescription=無法找到指定主機名稱的伺服器。}
+
+!!!2018-10-29 12:58:53.476 ||  NSLocalizedDescription=無法找到指定主機名稱的伺服器。}
+
+2018-10-29 12:58:55.011 || Network <WIFI> PaKing-192.168.7.171
+
+2018-10-29 12:58:55.012 || check_member Request 
+
+!!!2018-10-29 12:58:55.021 ||  NSLocalizedDescription=無法找到指定主機名稱的伺服器。}
+
+!!!2018-10-29 12:58:55.021 ||  NSLocalizedDescription=無法找到指定主機名稱的伺服器。}
+
+2018-10-29 12:58:55.026 || Network <WIFI> PaKing-192.168.7.171
+
+2018-10-29 12:58:55.027 || login_check_lite Request 
+
+!!!2018-10-29 12:58:55.030 ||  NSLocalizedDescription=無法找到指定主機名稱的伺服器。}
+
+!!!2018-10-29 12:58:55.031 ||  NSLocalizedDescription=無法找到指定主機名稱的伺服器。}
+
+2018-10-29 12:58:57.558 || Network <WIFI> PaKing-192.168.7.171
+
+2018-10-29 12:58:57.559 || check_member Request 
+
+2018-10-29 12:59:05.865 || -[AppDelegate applicationWillResignActive:]|[L:133]|
+
+2018-10-29 12:59:06.478 || -[AppDelegate applicationDidEnterBackground:]|[L:125]|
+
+2018-10-29 12:59:10.024 || -[AppDelegate checkUpdate]|[L:342]|開始檢查是否更新
+
+2018-10-29 12:59:10.119 || Network <WIFI> PaKing-192.168.7.171
+
+2018-10-29 12:59:10.119 || check_member Request 
+
+2018-10-29 12:59:10.257 || -[AppDelegate applicationDidBecomeActive:]|[L:193]|
+
+2018-10-29 12:59:24.204 || -[AppDelegate applicationWillResignActive:]|[L:133]|
+
+2018-10-29 12:59:25.109 || -[AppDelegate applicationDidEnterBackground:]|[L:125]|
+
+!!!2018-10-29 12:59:25.216 ||  NSLocalizedDescription=無法找到指定主機名稱的伺服器。}
+
+!!!2018-10-29 12:59:25.216 ||  NSLocalizedDescription=無法找到指定主機名稱的伺服器。}
+
+2018-10-29 12:59:35.853 || Network <WIFI> PaKing-192.168.7.171
+
+2018-10-29 12:59:35.854 || login_check_lite Request 
+
+2018-10-29 12:59:35.858 || -[AppDelegate applicationWillEnterForeground:]|[L:156]|
+
+2018-10-29 12:59:35.877 || Network <WIFI> PaKing-192.168.7.171
+
+2018-10-29 12:59:35.878 || get_vendor Request 
+
+!!!2018-10-29 12:59:35.897 ||  NSLocalizedDescription=無法找到指定主機名稱的伺服器。}
+
+!!!2018-10-29 12:59:35.897 ||  NSLocalizedDescription=無法找到指定主機名稱的伺服器。}
+
+!!!2018-10-29 12:59:35.907 ||  NSLocalizedDescription=無法找到指定主機名稱的伺服器。}
+
+!!!2018-10-29 12:59:35.907 ||  NSLocalizedDescription=無法找到指定主機名稱的伺服器。}
+
+2018-10-29 12:59:36.148 || -[AppDelegate applicationDidBecomeActive:]|[L:193]|
+
+2018-10-29 12:59:37.612 || Network <WIFI> PaKing-192.168.7.171
+
+2018-10-29 12:59:37.613 || check_member Request 
+
+!!!2018-10-29 12:59:37.623 ||  NSLocalizedDescription=無法找到指定主機名稱的伺服器。}
+
+!!!2018-10-29 12:59:37.623 ||  NSLocalizedDescription=無法找到指定主機名稱的伺服器。}
+
+2018-10-29 12:59:37.627 || Network <WIFI> PaKing-192.168.7.171
+
+2018-10-29 12:59:37.628 || login_check_lite Request 
+
+!!!2018-10-29 12:59:37.631 ||  NSLocalizedDescription=無法找到指定主機名稱的伺服器。}
+
+!!!2018-10-29 12:59:37.631 ||  NSLocalizedDescription=無法找到指定主機名稱的伺服器。}
+
+2018-10-29 12:59:38.769 || -[AppDelegate applicationWillResignActive:]|[L:133]|
+
+2018-10-29 12:59:39.666 || -[AppDelegate applicationDidEnterBackground:]|[L:125]|
+
+2018-10-29 12:59:51.723 || -[AppDelegate applicationWillEnterForeground:]|[L:156]|
+
+2018-10-29 12:59:52.013 || -[AppDelegate applicationDidBecomeActive:]|[L:193]|
+
+2018-10-29 12:59:53.185 || Network <WIFI> PaKing-192.168.7.171
+
+2018-10-29 12:59:53.186 || check_member Request 
+
+!!!2018-10-29 13:00:08.207 ||  NSLocalizedDescription=無法找到指定主機名稱的伺服器。}
+
+!!!2018-10-29 13:00:08.207 ||  NSLocalizedDescription=無法找到指定主機名稱的伺服器。}
+
+2018-10-29 13:00:08.216 || Network <WIFI> PaKing-192.168.7.171
+
+2018-10-29 13:00:08.217 || login_check_lite Request 
+
+!!!2018-10-29 13:00:08.221 ||  NSLocalizedDescription=無法找到指定主機名稱的伺服器。}
+
+!!!2018-10-29 13:00:08.222 ||  NSLocalizedDescription=無法找到指定主機名稱的伺服器。}
+
+2018-10-29 13:00:10.152 || Network <WIFI> PaKing-192.168.7.171
+
+2018-10-29 13:00:10.153 || check_member Request 
+
+!!!2018-10-29 13:00:10.161 ||  NSLocalizedDescription=無法找到指定主機名稱的伺服器。}
+
+!!!2018-10-29 13:00:10.161 ||  NSLocalizedDescription=無法找到指定主機名稱的伺服器。}
+
+2018-10-29 13:00:10.166 || Network <WIFI> PaKing-192.168.7.171
+
+2018-10-29 13:00:10.166 || login_check_lite Request 
+
+!!!2018-10-29 13:00:10.170 ||  NSLocalizedDescription=無法找到指定主機名稱的伺服器。}
+
+!!!2018-10-29 13:00:10.170 ||  NSLocalizedDescription=無法找到指定主機名稱的伺服器。}
+
+2018-10-29 13:00:11.690 || Network <WIFI> PaKing-192.168.7.171
+
+2018-10-29 13:00:11.691 || check_member Request 
+
+!!!2018-10-29 13:00:11.699 ||  NSLocalizedDescription=無法找到指定主機名稱的伺服器。}
+
+!!!2018-10-29 13:00:11.700 ||  NSLocalizedDescription=無法找到指定主機名稱的伺服器。}
+
+2018-10-29 13:00:11.704 || Network <WIFI> PaKing-192.168.7.171
+
+2018-10-29 13:00:11.705 || login_check_lite Request 
+
+!!!2018-10-29 13:00:11.708 ||  NSLocalizedDescription=無法找到指定主機名稱的伺服器。}
+
+!!!2018-10-29 13:00:11.708 ||  NSLocalizedDescription=無法找到指定主機名稱的伺服器。}
+
+2018-10-29 13:00:14.058 || Network <WIFI> PaKing-192.168.7.171
+
+2018-10-29 13:00:14.059 || check_member Request 
+
+!!!2018-10-29 13:00:14.068 ||  NSLocalizedDescription=無法找到指定主機名稱的伺服器。}
+
+!!!2018-10-29 13:00:14.068 ||  NSLocalizedDescription=無法找到指定主機名稱的伺服器。}
+
+2018-10-29 13:00:14.072 || Network <WIFI> PaKing-192.168.7.171
+
+2018-10-29 13:00:14.073 || login_check_lite Request 
+
+!!!2018-10-29 13:00:14.076 ||  NSLocalizedDescription=無法找到指定主機名稱的伺服器。}
+
+!!!2018-10-29 13:00:14.076 ||  NSLocalizedDescription=無法找到指定主機名稱的伺服器。}
+
+2018-10-29 13:00:14.720 || -[AppDelegate applicationWillResignActive:]|[L:133]|
+
+2018-10-29 13:00:15.582 || -[AppDelegate applicationDidEnterBackground:]|[L:125]|
+
+2018-10-29 13:01:22.277 || -[AppDelegate checkUpdate]|[L:342]|開始檢查是否更新
+
+2018-10-29 13:01:22.401 || Network <WIFI> PaKing-192.168.7.171
+
+2018-10-29 13:01:22.405 || check_member Request 
+
+2018-10-29 13:01:22.533 || -[AppDelegate applicationDidBecomeActive:]|[L:193]|
+
+2018-10-29 13:01:34.518 || -[AppDelegate applicationWillResignActive:]|[L:133]|
+
+2018-10-29 13:01:35.464 || -[AppDelegate applicationDidEnterBackground:]|[L:125]|
+
+2018-10-29 13:01:38.879 || -[AppDelegate checkUpdate]|[L:342]|開始檢查是否更新
+
+2018-10-29 13:01:38.968 || Network <WIFI> PaKing-192.168.7.171
+
+2018-10-29 13:01:38.969 || check_member Request 
+
+2018-10-29 13:01:39.088 || -[AppDelegate applicationDidBecomeActive:]|[L:193]|
+
+!!!2018-10-29 13:01:53.995 ||  NSLocalizedDescription=無法找到指定主機名稱的伺服器。}
+
+!!!2018-10-29 13:01:53.995 ||  NSLocalizedDescription=無法找到指定主機名稱的伺服器。}
+
+2018-10-29 13:01:54.002 || Network <WIFI> PaKing-192.168.7.171
+
+2018-10-29 13:01:54.003 || login_check_lite Request 
+
+!!!2018-10-29 13:01:54.009 ||  NSLocalizedDescription=無法找到指定主機名稱的伺服器。}
+
+!!!2018-10-29 13:01:54.009 ||  NSLocalizedDescription=無法找到指定主機名稱的伺服器。}
+
+2018-10-29 13:01:56.520 || Network <WIFI> PaKing-192.168.7.171
+
+2018-10-29 13:01:56.521 || check_member Request 
+
+!!!2018-10-29 13:01:56.531 ||  NSLocalizedDescription=無法找到指定主機名稱的伺服器。}
+
+!!!2018-10-29 13:01:56.531 ||  NSLocalizedDescription=無法找到指定主機名稱的伺服器。}
+
+2018-10-29 13:01:56.535 || Network <WIFI> PaKing-192.168.7.171
+
+2018-10-29 13:01:56.535 || login_check_lite Request 
+
+!!!2018-10-29 13:01:56.539 ||  NSLocalizedDescription=無法找到指定主機名稱的伺服器。}
+
+!!!2018-10-29 13:01:56.539 ||  NSLocalizedDescription=無法找到指定主機名稱的伺服器。}
+
+2018-10-29 13:01:57.838 || Network <WIFI> PaKing-192.168.7.171
+
+2018-10-29 13:01:57.839 || check_member Request 
+
+!!!2018-10-29 13:01:57.845 ||  NSLocalizedDescription=無法找到指定主機名稱的伺服器。}
+
+!!!2018-10-29 13:01:57.845 ||  NSLocalizedDescription=無法找到指定主機名稱的伺服器。}
+
+2018-10-29 13:01:57.849 || Network <WIFI> PaKing-192.168.7.171
+
+2018-10-29 13:01:57.849 || login_check_lite Request 
+
+!!!2018-10-29 13:01:57.853 ||  NSLocalizedDescription=無法找到指定主機名稱的伺服器。}
+
+!!!2018-10-29 13:01:57.853 ||  NSLocalizedDescription=無法找到指定主機名稱的伺服器。}
+
+2018-10-29 13:01:59.159 || Network <WIFI> PaKing-192.168.7.171
+
+2018-10-29 13:01:59.160 || check_member Request 
+
+!!!2018-10-29 13:01:59.166 ||  NSLocalizedDescription=無法找到指定主機名稱的伺服器。}
+
+!!!2018-10-29 13:01:59.167 ||  NSLocalizedDescription=無法找到指定主機名稱的伺服器。}
+
+2018-10-29 13:01:59.170 || Network <WIFI> PaKing-192.168.7.171
+
+2018-10-29 13:01:59.171 || login_check_lite Request 
+
+!!!2018-10-29 13:01:59.174 ||  NSLocalizedDescription=無法找到指定主機名稱的伺服器。}
+
+!!!2018-10-29 13:01:59.174 ||  NSLocalizedDescription=無法找到指定主機名稱的伺服器。}
+
+2018-10-29 13:06:43.630 || -[AppDelegate checkUpdate]|[L:342]|開始檢查是否更新
+
+2018-10-29 13:06:43.730 || Network <WIFI> PaKing-192.168.7.171
+
+2018-10-29 13:06:43.731 || check_member Request 
+
+2018-10-29 13:06:43.856 || -[AppDelegate applicationDidBecomeActive:]|[L:193]|
+
+!!!2018-10-29 13:06:58.756 ||  NSLocalizedDescription=無法找到指定主機名稱的伺服器。}
+
+!!!2018-10-29 13:06:58.756 ||  NSLocalizedDescription=無法找到指定主機名稱的伺服器。}
+
+2018-10-29 13:06:58.764 || Network <WIFI> PaKing-192.168.7.171
+
+2018-10-29 13:06:58.765 || login_check_lite Request 
+
+!!!2018-10-29 13:06:58.771 ||  NSLocalizedDescription=無法找到指定主機名稱的伺服器。}
+
+!!!2018-10-29 13:06:58.771 ||  NSLocalizedDescription=無法找到指定主機名稱的伺服器。}
+
+2018-10-29 13:07:23.317 || Network <WIFI> PaKing-192.168.7.171
+
+2018-10-29 13:07:23.318 || check_member Request 
+
+!!!2018-10-29 13:07:23.328 ||  NSLocalizedDescription=無法找到指定主機名稱的伺服器。}
+
+!!!2018-10-29 13:07:23.328 ||  NSLocalizedDescription=無法找到指定主機名稱的伺服器。}
+
+2018-10-29 13:07:23.332 || Network <WIFI> PaKing-192.168.7.171
+
+2018-10-29 13:07:23.333 || login_check_lite Request 
+
+!!!2018-10-29 13:07:23.337 ||  NSLocalizedDescription=無法找到指定主機名稱的伺服器。}
+
+!!!2018-10-29 13:07:23.337 ||  NSLocalizedDescription=無法找到指定主機名稱的伺服器。}
+
+2018-10-29 13:09:45.243 || -[AppDelegate checkUpdate]|[L:342]|開始檢查是否更新
+
+2018-10-29 13:09:45.346 || Network <WIFI> PaKing-192.168.7.171
+
+2018-10-29 13:09:45.347 || check_member Request 
+
+2018-10-29 13:09:46.116 || -[AppDelegate applicationDidBecomeActive:]|[L:193]|
+
+2018-10-29 13:10:03.976 || check_member Success 
+
+2018-10-29 13:10:03.986 || Network-<Carrier> 台湾大哥大
+
+2018-10-29 13:10:03.988 || login_check_lite Request 
+
+2018-10-29 13:10:04.578 || login_check_lite Success 
+
+2018-10-29 13:10:04.590 || set userManager.isReservation = 0
+
+2018-10-29 13:10:04.590 || set userManager.isGarageReservation = 0
+
+2018-10-29 13:10:04.748 || Network-<Carrier> 台湾大哥大
+
+2018-10-29 13:10:04.749 || getBannerList Request 
+
+2018-10-29 13:10:04.807 || Network-<Carrier> 台湾大哥大
+
+2018-10-29 13:10:04.807 || get_news Request 
+
+2018-10-29 13:10:04.847 || -[BLEManager centralManagerDidUpdateState:]|[L:790]|[Gate]BLE ON
+
+2018-10-29 13:10:04.847 || -[BLEManager centralManagerDidUpdateState:]|[L:806]|[Gate]UpdateState:PoweredOn
+
+2018-10-29 13:10:05.306 || getBannerList Success 
+
+2018-10-29 13:10:05.383 || get_news Success 
+
+2018-10-29 13:10:12.439 || -[AppDelegate applicationWillResignActive:]|[L:133]|
+
+2018-10-29 13:10:14.269 || -[AppDelegate applicationDidBecomeActive:]|[L:193]|
+
+2018-10-29 13:10:14.290 || Network-<Carrier> 台湾大哥大
+
+2018-10-29 13:10:14.292 || user_fail_trade_check Request 
+
+2018-10-29 13:10:14.884 || Network-<Carrier> 台湾大哥大
+
+2018-10-29 13:10:14.884 || get_vendor Request 
+
+2018-10-29 13:10:15.044 || user_fail_trade_check Success 
+
+!!!2018-10-29 13:10:15.044 || result: {
+
+!!!2018-10-29 13:10:15.044 || userManager.garageFarePaymentStatus = NoGarageFare 
+
+2018-10-29 13:10:15.414 || Network-<Carrier> 台湾大哥大
+
+2018-10-29 13:10:15.415 || garage_list Request 
+
+2018-10-29 13:10:15.426 || get_vendor Success 
+
+2018-10-29 13:10:16.891 || garage_list Success 
+
+2018-10-29 13:10:20.416 || Network-<Carrier> 台湾大哥大
+
+2018-10-29 13:10:21.120 || one_garage_list Success 
+
+2018-10-29 13:10:21.212 || State = 2
+
+2018-10-29 13:10:21.212 || Desc = ＊至10/31止停車第一小時免費|＊至10/31止免收預約費
+
+2018-10-29 13:10:21.217 || Network-<Carrier> 台湾大哥大
+
+2018-10-29 13:10:21.218 || get_vendor Request 
+
+2018-10-29 13:10:21.730 || Network-<Carrier> 台湾大哥大
+
+2018-10-29 13:10:21.769 || get_vendor Success 
+
+2018-10-29 13:10:22.304 || one_garage_list Success 
+
+2018-10-29 13:10:25.313 || Network-<Carrier> 台湾大哥大
+
+2018-10-29 13:10:25.960 || one_garage_list Success 
+
+2018-10-29 13:10:28.968 || Network-<Carrier> 台湾大哥大
+
+2018-10-29 13:10:29.642 || one_garage_list Success 
+
+2018-10-29 13:10:30.691 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-85
+
+2018-10-29 13:10:30.692 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-29 13:10:30.701 || Network-<Carrier> 台湾大哥大
+
+2018-10-29 13:10:30.702 || inputAPI = /app.php?page=checkGarage
+
+2018-10-29 13:10:30.702 || Set CHECK_GARAGE 3sec TimeOut /app.php?page=checkGarage
+
+2018-10-29 13:10:30.735 || checkGarage Request 
+
+2018-10-29 13:10:30.992 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-79
+
+2018-10-29 13:10:30.992 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-29 13:10:31.330 || checkGarage Success 
+
+  ||                 "garage_id" = 000007;
+
+  ||                 "garage_id" = 000007;
+
+  ||         "flow_gatecontrol" = 0;
+
+  ||         "garage_id" = 000007;
+
+2018-10-29 13:10:31.525 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-84
+
+2018-10-29 13:10:31.525 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-29 13:10:31.526 || [Gate]GATE > -85!!!!
+
+2018-10-29 13:10:31.627 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-84
+
+2018-10-29 13:10:31.627 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-29 13:10:31.628 || [Gate]GATE > -85!!!!
+
+2018-10-29 13:10:31.629 || [Gate]pName:00:23:A7:A6:B3:D8_GI
+
+2018-10-29 13:10:31.723 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-93
+
+2018-10-29 13:10:31.723 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-29 13:10:31.942 || [Gate]pName:00:23:A7:A6:B3:D8_GI
+
+2018-10-29 13:10:31.942 || -[BLEManager centralManager:didConnectPeripheral:]|[L:1037]|[Gate]connected duration:0.312879
+
+2018-10-29 13:10:31.942 || -[BLEManager centralManager:didConnectPeripheral:]|[L:1038]|[Gate]apiProcessingStatus:{
+
+2018-10-29 13:10:31.943 || [Gate]pName:00:23:A7:A6:B3:D8_GI
+
+2018-10-29 13:10:32.298 || [Gate]pName:00:23:A7:A6:B3:D8_GI
+
+2018-10-29 13:10:32.478 || [Gate]pName:00:23:A7:A6:B3:D8_GI
+
+2018-10-29 13:10:32.579 || -[BLEManager sendDataToMCU:]|[L:1422]|[Gate]send command to mcu:PASSWORD
+
+2018-10-29 13:10:32.653 || Network-<Carrier> 台湾大哥大
+
+2018-10-29 13:10:32.688 || [Gate]pName:00:23:A7:A6:B3:D8_GI
+
+2018-10-29 13:10:32.688 || -[BLEManager peripheral:didUpdateValueForCharacteristic:error:]|[L:1378]|[Gate]Gate Password Success
+
+2018-10-29 13:10:32.746 || Network-<Carrier> 台湾大哥大
+
+2018-10-29 13:10:32.747 || inputAPI = /app.php?page=garage_enter_check_reservechange
+
+2018-10-29 13:10:32.747 || Set CHECK_GARAGE 3sec TimeOut /app.php?page=garage_enter_check_reservechange
+
+2018-10-29 13:10:32.754 || garage_enter_check_reservechange Request 
+
+2018-10-29 13:10:33.260 || one_garage_list Success 
+
+2018-10-29 13:10:33.350 || garage_enter_check_reservechange Success 
+
+2018-10-29 13:10:33.353 || userManager.isGarageReservation = 0
+
+2018-10-29 13:10:33.353 || userManager.isReservation = 0
+
+2018-10-29 13:10:33.355 || userManager.isGarageReservation = 0
+
+  ||     "flow_gatecontrol" = 0;
+
+  ||     "garage_id" = 000007;
+
+2018-10-29 13:10:33.365 || Network-<Carrier> 台湾大哥大
+
+2018-10-29 13:10:33.366 || parking_space_list Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-29 13:10:33.393 || voiceString:抵達車場入口
+
+2018-10-29 13:10:33.469 || normal enter popup
+
+!!!CoreData: annotation: || CoreData: annotation:  Failed to load optimized model at path '/var/containers/Bundle/Application/9C5C6A74-BAAA-4479-AAA1-E04ECECBCFA3/paking.app/GoogleMaps.bundle/GMSCacheStorage.momd/StorageWithTileProto.omo'
+
+!!!CoreData: annotation: || CoreData: annotation:  Failed to load optimized model at path '/var/containers/Bundle/Application/9C5C6A74-BAAA-4479-AAA1-E04ECECBCFA3/paking.app/GoogleMaps.bundle/GMSCacheStorage.momd/StorageWithTileProto.omo'
+
+!!!CoreData: annotation: || CoreData: annotation:  Failed to load optimized model at path '/var/containers/Bundle/Application/9C5C6A74-BAAA-4479-AAA1-E04ECECBCFA3/paking.app/GoogleMaps.bundle/GMSCacheStorage.momd/StorageWithTileProto.omo'
+
+2018-10-29 13:10:34.053 || parking_space_list Success 
+
+2018-10-29 13:10:34.442 || [Gate]Open InOutGate 
+
+2018-10-29 13:10:34.462 || Network-<Carrier> 台湾大哥大
+
+2018-10-29 13:10:34.463 || getBannerList Request 
+
+2018-10-29 13:10:34.517 || Network-<Carrier> 台湾大哥大
+
+2018-10-29 13:10:34.517 || get_news Request 
+
+2018-10-29 13:10:34.545 || Network-<Carrier> 台湾大哥大
+
+2018-10-29 13:10:34.545 || inputAPI = /local.php?page=garage_enter_confirm&garage_dbname=000007
+
+2018-10-29 13:10:34.545 || Set CHECK_GARAGE 3sec TimeOut /local.php?page=garage_enter_confirm&garage_dbname=000007
+
+2018-10-29 13:10:34.548 || garage_enter_confirm&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-29 13:10:34.991 || getBannerList Success 
+
+2018-10-29 13:10:35.081 || get_news Success 
+
+!!!2018-10-29 13:10:37.551 ||  NSLocalizedDescription=要求逾時。}
+
+!!!2018-10-29 13:10:37.552 ||  NSLocalizedDescription=要求逾時。}
+
+!!!2018-10-29 13:10:37.552 ||  NSLocalizedDescription=要求逾時。}
+
+2018-10-29 13:10:38.081 || Network-<Carrier> 台湾大哥大
+
+2018-10-29 13:10:38.083 || inputAPI = /local.php?page=garage_enter_confirm&garage_dbname=000007
+
+2018-10-29 13:10:38.083 || Set CHECK_GARAGE 3sec TimeOut /local.php?page=garage_enter_confirm&garage_dbname=000007
+
+2018-10-29 13:10:38.090 || garage_enter_confirm&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+!!!2018-10-29 13:10:41.095 ||  NSLocalizedDescription=要求逾時。}
+
+!!!2018-10-29 13:10:41.095 ||  NSLocalizedDescription=要求逾時。}
+
+!!!2018-10-29 13:10:41.096 ||  NSLocalizedDescription=要求逾時。}
+
+2018-10-29 13:10:41.658 || Network-<Carrier> 台湾大哥大
+
+2018-10-29 13:10:41.659 || inputAPI = /local.php?page=garage_enter_confirm&garage_dbname=000007
+
+2018-10-29 13:10:41.659 || Set CHECK_GARAGE 3sec TimeOut /local.php?page=garage_enter_confirm&garage_dbname=000007
+
+2018-10-29 13:10:41.666 || garage_enter_confirm&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+!!!2018-10-29 13:10:44.670 ||  NSLocalizedDescription=要求逾時。}
+
+!!!2018-10-29 13:10:44.671 ||  NSLocalizedDescription=要求逾時。}
+
+!!!2018-10-29 13:10:44.671 ||  NSLocalizedDescription=要求逾時。}
+
+2018-10-29 13:10:45.183 || Network-<Carrier> 台湾大哥大
+
+2018-10-29 13:10:45.184 || inputAPI = /local.php?page=garage_enter_confirm&garage_dbname=000007
+
+2018-10-29 13:10:45.185 || Set CHECK_GARAGE 3sec TimeOut /local.php?page=garage_enter_confirm&garage_dbname=000007
+
+2018-10-29 13:10:45.193 || garage_enter_confirm&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+!!!2018-10-29 13:10:48.197 ||  NSLocalizedDescription=要求逾時。}
+
+!!!2018-10-29 13:10:48.199 ||  NSLocalizedDescription=要求逾時。}
+
+!!!2018-10-29 13:10:48.199 ||  NSLocalizedDescription=要求逾時。}
+
+2018-10-29 13:10:48.732 || Network-<Carrier> 台湾大哥大
+
+2018-10-29 13:10:48.734 || inputAPI = /local.php?page=garage_enter_confirm&garage_dbname=000007
+
+2018-10-29 13:10:48.734 || Set CHECK_GARAGE 3sec TimeOut /local.php?page=garage_enter_confirm&garage_dbname=000007
+
+2018-10-29 13:10:48.742 || garage_enter_confirm&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+!!!2018-10-29 13:10:51.746 ||  NSLocalizedDescription=要求逾時。}
+
+!!!2018-10-29 13:10:51.747 ||  NSLocalizedDescription=要求逾時。}
+
+!!!2018-10-29 13:10:51.747 ||  NSLocalizedDescription=要求逾時。}
+
+2018-10-29 13:10:52.271 || Network-<Carrier> 台湾大哥大
+
+2018-10-29 13:10:52.272 || inputAPI = /local.php?page=garage_enter_confirm&garage_dbname=000007
+
+2018-10-29 13:10:52.273 || Set CHECK_GARAGE 3sec TimeOut /local.php?page=garage_enter_confirm&garage_dbname=000007
+
+2018-10-29 13:10:52.281 || garage_enter_confirm&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+!!!2018-10-29 13:10:55.285 ||  NSLocalizedDescription=要求逾時。}
+
+!!!2018-10-29 13:10:55.286 ||  NSLocalizedDescription=要求逾時。}
+
+!!!2018-10-29 13:10:55.286 ||  NSLocalizedDescription=要求逾時。}
+
+2018-10-29 13:10:55.288 || -[BLEManager centralManager:didDisconnectPeripheral:error:]|[L:1060]|[Gate]pName:00:23:A7:A6:B3:D8_GI
+
+2018-10-29 13:10:55.289 || -[BLEManager centralManager:didDisconnectPeripheral:error:]|[L:1061]|[Gate]error:(null)
+
+2018-10-29 13:10:55.289 || -[BLEManager centralManager:didDisconnectPeripheral:error:]|[L:1062]|[Gate]completeGateConnectProcess=0
+
+2018-10-29 13:10:55.876 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-57
+
+2018-10-29 13:10:55.876 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-29 13:10:55.876 || [Gate]GATE > -85!!!!
+
+2018-10-29 13:10:55.945 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-57
+
+2018-10-29 13:10:55.945 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-29 13:10:55.945 || [Gate]GATE > -85!!!!
+
+2018-10-29 13:10:55.946 || [Gate]pName:00:23:A7:A6:B3:D8_GI
+
+2018-10-29 13:10:56.156 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-59
+
+2018-10-29 13:10:56.156 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-29 13:10:56.156 || [Gate]GATE > -85!!!!
+
+2018-10-29 13:10:56.333 || Network-<Carrier> 台湾大哥大
+
+2018-10-29 13:10:56.333 || garage_list Request 
+
+2018-10-29 13:10:56.397 || [Gate]pName:00:23:A7:A6:B3:D8_GI
+
+2018-10-29 13:10:56.397 || -[BLEManager centralManager:didConnectPeripheral:]|[L:1037]|[Gate]connected duration:0.450228
+
+2018-10-29 13:10:56.397 || -[BLEManager centralManager:didConnectPeripheral:]|[L:1038]|[Gate]apiProcessingStatus:{
+
+2018-10-29 13:10:56.397 || [Gate]pName:00:23:A7:A6:B3:D8_GI
+
+2018-10-29 13:10:56.750 || [Gate]pName:00:23:A7:A6:B3:D8_GI
+
+2018-10-29 13:10:56.927 || [Gate]pName:00:23:A7:A6:B3:D8_GI
+
+2018-10-29 13:10:57.029 || -[BLEManager sendDataToMCU:]|[L:1422]|[Gate]send command to mcu:PASSWORD
+
+2018-10-29 13:10:57.137 || [Gate]pName:00:23:A7:A6:B3:D8_GI
+
+2018-10-29 13:10:57.137 || -[BLEManager peripheral:didUpdateValueForCharacteristic:error:]|[L:1378]|[Gate]Gate Password Success
+
+2018-10-29 13:10:57.185 || Network-<Carrier> 台湾大哥大
+
+2018-10-29 13:10:57.186 || inputAPI = /app.php?page=garage_enter_check_reservechange
+
+2018-10-29 13:10:57.186 || Set CHECK_GARAGE 3sec TimeOut /app.php?page=garage_enter_check_reservechange
+
+2018-10-29 13:10:57.191 || garage_enter_check_reservechange Request 
+
+2018-10-29 13:10:57.780 || garage_list Success 
+
+2018-10-29 13:10:57.981 || garage_enter_check_reservechange Success 
+
+2018-10-29 13:10:57.981 || userManager.isGarageReservation = 0
+
+2018-10-29 13:10:57.981 || userManager.isReservation = 0
+
+  ||     "flow_gatecontrol" = 0;
+
+  ||     "garage_id" = 000007;
+
+2018-10-29 13:10:57.982 || userManager.isGarageReservation = 0
+
+  ||     "flow_gatecontrol" = 0;
+
+  ||     "garage_id" = 000007;
+
+2018-10-29 13:10:57.986 || Network-<Carrier> 台湾大哥大
+
+2018-10-29 13:10:57.986 || parking_space_list Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-29 13:10:58.057 || voiceString:抵達車場入口
+
+2018-10-29 13:10:58.057 || normal enter popup
+
+2018-10-29 13:10:58.604 || parking_space_list Success 
+
+2018-10-29 13:10:59.421 || [Gate]Open InOutGate 
+
+2018-10-29 13:10:59.446 || Network-<Carrier> 台湾大哥大
+
+2018-10-29 13:10:59.447 || getBannerList Request 
+
+2018-10-29 13:10:59.472 || Network-<Carrier> 台湾大哥大
+
+2018-10-29 13:10:59.472 || get_news Request 
+
+2018-10-29 13:10:59.477 || Network-<Carrier> 台湾大哥大
+
+2018-10-29 13:10:59.478 || inputAPI = /local.php?page=garage_enter_confirm&garage_dbname=000007
+
+2018-10-29 13:10:59.478 || Set CHECK_GARAGE 3sec TimeOut /local.php?page=garage_enter_confirm&garage_dbname=000007
+
+2018-10-29 13:10:59.483 || garage_enter_confirm&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-29 13:10:59.996 || get_news Success 
+
+2018-10-29 13:11:00.058 || getBannerList Success 
+
+!!!2018-10-29 13:11:02.486 ||  NSLocalizedDescription=要求逾時。}
+
+!!!2018-10-29 13:11:02.487 ||  NSLocalizedDescription=要求逾時。}
+
+!!!2018-10-29 13:11:02.487 ||  NSLocalizedDescription=要求逾時。}
+
+2018-10-29 13:11:03.043 || Network-<Carrier> 台湾大哥大
+
+2018-10-29 13:11:03.044 || inputAPI = /local.php?page=garage_enter_confirm&garage_dbname=000007
+
+2018-10-29 13:11:03.044 || Set CHECK_GARAGE 3sec TimeOut /local.php?page=garage_enter_confirm&garage_dbname=000007
+
+2018-10-29 13:11:03.052 || garage_enter_confirm&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+!!!2018-10-29 13:11:06.055 ||  NSLocalizedDescription=要求逾時。}
+
+!!!2018-10-29 13:11:06.056 ||  NSLocalizedDescription=要求逾時。}
+
+!!!2018-10-29 13:11:06.056 ||  NSLocalizedDescription=要求逾時。}
+
+2018-10-29 13:11:06.617 || Network-<Carrier> 台湾大哥大
+
+2018-10-29 13:11:06.619 || inputAPI = /local.php?page=garage_enter_confirm&garage_dbname=000007
+
+2018-10-29 13:11:06.619 || Set CHECK_GARAGE 3sec TimeOut /local.php?page=garage_enter_confirm&garage_dbname=000007
+
+2018-10-29 13:11:06.627 || garage_enter_confirm&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+!!!2018-10-29 13:11:09.631 ||  NSLocalizedDescription=要求逾時。}
+
+!!!2018-10-29 13:11:09.631 ||  NSLocalizedDescription=要求逾時。}
+
+!!!2018-10-29 13:11:09.632 ||  NSLocalizedDescription=要求逾時。}
+
+2018-10-29 13:11:10.146 || Network-<Carrier> 台湾大哥大
+
+2018-10-29 13:11:10.147 || inputAPI = /local.php?page=garage_enter_confirm&garage_dbname=000007
+
+2018-10-29 13:11:10.148 || Set CHECK_GARAGE 3sec TimeOut /local.php?page=garage_enter_confirm&garage_dbname=000007
+
+2018-10-29 13:11:10.156 || garage_enter_confirm&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-29 13:11:12.465 || Network-<Carrier> 台湾大哥大
+
+2018-10-29 13:11:12.466 || garage_list Request 
+
+!!!2018-10-29 13:11:13.160 ||  NSLocalizedDescription=要求逾時。}
+
+!!!2018-10-29 13:11:13.161 ||  NSLocalizedDescription=要求逾時。}
+
+!!!2018-10-29 13:11:13.161 ||  NSLocalizedDescription=要求逾時。}
+
+2018-10-29 13:11:13.683 || Network-<Carrier> 台湾大哥大
+
+2018-10-29 13:11:13.684 || inputAPI = /local.php?page=garage_enter_confirm&garage_dbname=000007
+
+2018-10-29 13:11:13.684 || Set CHECK_GARAGE 3sec TimeOut /local.php?page=garage_enter_confirm&garage_dbname=000007
+
+2018-10-29 13:11:13.692 || garage_enter_confirm&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-29 13:11:13.908 || garage_list Success 
+
+!!!2018-10-29 13:11:16.696 ||  NSLocalizedDescription=要求逾時。}
+
+!!!2018-10-29 13:11:16.698 ||  NSLocalizedDescription=要求逾時。}
+
+!!!2018-10-29 13:11:16.698 ||  NSLocalizedDescription=要求逾時。}
+
+2018-10-29 13:11:17.249 || Network-<Carrier> 台湾大哥大
+
+2018-10-29 13:11:17.250 || inputAPI = /local.php?page=garage_enter_confirm&garage_dbname=000007
+
+2018-10-29 13:11:17.250 || Set CHECK_GARAGE 3sec TimeOut /local.php?page=garage_enter_confirm&garage_dbname=000007
+
+2018-10-29 13:11:17.259 || garage_enter_confirm&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-29 13:11:19.928 || Network-<Carrier> 台湾大哥大
+
+!!!2018-10-29 13:11:20.280 ||  NSLocalizedDescription=要求逾時。}
+
+!!!2018-10-29 13:11:20.281 ||  NSLocalizedDescription=要求逾時。}
+
+!!!2018-10-29 13:11:20.281 ||  NSLocalizedDescription=要求逾時。}
+
+2018-10-29 13:11:20.297 || -[BLEManager centralManager:didDisconnectPeripheral:error:]|[L:1060]|[Gate]pName:00:23:A7:A6:B3:D8_GI
+
+2018-10-29 13:11:20.297 || -[BLEManager centralManager:didDisconnectPeripheral:error:]|[L:1061]|[Gate]error:(null)
+
+2018-10-29 13:11:20.297 || -[BLEManager centralManager:didDisconnectPeripheral:error:]|[L:1062]|[Gate]completeGateConnectProcess=0
+
+2018-10-29 13:11:20.549 || one_garage_list Success 
+
+2018-10-29 13:11:20.568 || State = 2
+
+2018-10-29 13:11:20.568 || Desc = ＊至10/31止停車第一小時免費|＊至10/31止免收預約費
+
+2018-10-29 13:11:20.578 || Network-<Carrier> 台湾大哥大
+
+2018-10-29 13:11:20.579 || get_vendor Request 
+
+2018-10-29 13:11:20.949 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-60
+
+2018-10-29 13:11:20.949 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-29 13:11:20.950 || [Gate]GATE > -85!!!!
+
+2018-10-29 13:11:21.044 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-60
+
+2018-10-29 13:11:21.045 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-29 13:11:21.045 || [Gate]GATE > -85!!!!
+
+2018-10-29 13:11:21.046 || [Gate]pName:00:23:A7:A6:B3:D8_GI
+
+2018-10-29 13:11:21.097 || Network-<Carrier> 台湾大哥大
+
+2018-10-29 13:11:21.103 || get_vendor Success 
+
+2018-10-29 13:11:21.361 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-60
+
+2018-10-29 13:11:21.362 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-29 13:11:21.362 || [Gate]GATE > -85!!!!
+
+2018-10-29 13:11:21.580 || [Gate]pName:00:23:A7:A6:B3:D8_GI
+
+2018-10-29 13:11:21.580 || -[BLEManager centralManager:didConnectPeripheral:]|[L:1037]|[Gate]connected duration:0.533725
+
+2018-10-29 13:11:21.581 || -[BLEManager centralManager:didConnectPeripheral:]|[L:1038]|[Gate]apiProcessingStatus:{
+
+2018-10-29 13:11:21.581 || [Gate]pName:00:23:A7:A6:B3:D8_GI
+
+2018-10-29 13:11:21.699 || one_garage_list Success 
+
+2018-10-29 13:11:21.940 || [Gate]pName:00:23:A7:A6:B3:D8_GI
+
+2018-10-29 13:11:22.133 || [Gate]pName:00:23:A7:A6:B3:D8_GI
+
+2018-10-29 13:11:22.235 || -[BLEManager sendDataToMCU:]|[L:1422]|[Gate]send command to mcu:PASSWORD
+
+2018-10-29 13:11:22.330 || [Gate]pName:00:23:A7:A6:B3:D8_GI
+
+2018-10-29 13:11:22.330 || -[BLEManager peripheral:didUpdateValueForCharacteristic:error:]|[L:1378]|[Gate]Gate Password Success
+
+2018-10-29 13:11:22.379 || Network-<Carrier> 台湾大哥大
+
+2018-10-29 13:11:22.380 || inputAPI = /app.php?page=garage_enter_check_reservechange
+
+2018-10-29 13:11:22.380 || Set CHECK_GARAGE 3sec TimeOut /app.php?page=garage_enter_check_reservechange
+
+2018-10-29 13:11:22.385 || garage_enter_check_reservechange Request 
+
+2018-10-29 13:11:23.029 || garage_enter_check_reservechange Success 
+
+2018-10-29 13:11:23.031 || userManager.isGarageReservation = 0
+
+2018-10-29 13:11:23.031 || userManager.isReservation = 0
+
+  ||     "flow_gatecontrol" = 0;
+
+  ||     "garage_id" = 000007;
+
+2018-10-29 13:11:23.034 || userManager.isGarageReservation = 0
+
+  ||     "flow_gatecontrol" = 0;
+
+  ||     "garage_id" = 000007;
+
+2018-10-29 13:11:23.043 || Network-<Carrier> 台湾大哥大
+
+2018-10-29 13:11:23.045 || parking_space_list Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-29 13:11:23.060 || voiceString:抵達車場入口
+
+2018-10-29 13:11:23.060 || normal enter popup
+
+2018-10-29 13:11:23.770 || parking_space_list Success 
+
+2018-10-29 13:11:24.166 || [Gate]Open InOutGate 
+
+2018-10-29 13:11:24.183 || Network-<Carrier> 台湾大哥大
+
+2018-10-29 13:11:24.184 || getBannerList Request 
+
+2018-10-29 13:11:24.211 || Network-<Carrier> 台湾大哥大
+
+2018-10-29 13:11:24.211 || get_news Request 
+
+2018-10-29 13:11:24.215 || Network-<Carrier> 台湾大哥大
+
+2018-10-29 13:11:24.215 || inputAPI = /local.php?page=garage_enter_confirm&garage_dbname=000007
+
+2018-10-29 13:11:24.215 || Set CHECK_GARAGE 3sec TimeOut /local.php?page=garage_enter_confirm&garage_dbname=000007
+
+2018-10-29 13:11:24.218 || garage_enter_confirm&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-29 13:11:24.846 || getBannerList Success 
+
+2018-10-29 13:11:24.856 || get_news Success 
+
+!!!2018-10-29 13:11:27.221 ||  NSLocalizedDescription=要求逾時。}
+
+!!!2018-10-29 13:11:27.222 ||  NSLocalizedDescription=要求逾時。}
+
+!!!2018-10-29 13:11:27.222 ||  NSLocalizedDescription=要求逾時。}
+
+2018-10-29 13:11:27.738 || Network-<Carrier> 台湾大哥大
+
+2018-10-29 13:11:27.739 || inputAPI = /local.php?page=garage_enter_confirm&garage_dbname=000007
+
+2018-10-29 13:11:27.739 || Set CHECK_GARAGE 3sec TimeOut /local.php?page=garage_enter_confirm&garage_dbname=000007
+
+2018-10-29 13:11:27.747 || garage_enter_confirm&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+!!!2018-10-29 13:11:30.751 ||  NSLocalizedDescription=要求逾時。}
+
+!!!2018-10-29 13:11:30.753 ||  NSLocalizedDescription=要求逾時。}
+
+!!!2018-10-29 13:11:30.753 ||  NSLocalizedDescription=要求逾時。}
+
+2018-10-29 13:11:31.306 || Network-<Carrier> 台湾大哥大
+
+2018-10-29 13:11:31.308 || inputAPI = /local.php?page=garage_enter_confirm&garage_dbname=000007
+
+2018-10-29 13:11:31.308 || Set CHECK_GARAGE 3sec TimeOut /local.php?page=garage_enter_confirm&garage_dbname=000007
+
+2018-10-29 13:11:31.315 || garage_enter_confirm&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+!!!2018-10-29 13:11:34.319 ||  NSLocalizedDescription=要求逾時。}
+
+!!!2018-10-29 13:11:34.319 ||  NSLocalizedDescription=要求逾時。}
+
+!!!2018-10-29 13:11:34.320 ||  NSLocalizedDescription=要求逾時。}
+
+2018-10-29 13:11:34.859 || Network-<Carrier> 台湾大哥大
+
+2018-10-29 13:11:34.860 || inputAPI = /local.php?page=garage_enter_confirm&garage_dbname=000007
+
+2018-10-29 13:11:34.861 || Set CHECK_GARAGE 3sec TimeOut /local.php?page=garage_enter_confirm&garage_dbname=000007
+
+2018-10-29 13:11:34.868 || garage_enter_confirm&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+!!!2018-10-29 13:11:37.872 ||  NSLocalizedDescription=要求逾時。}
+
+!!!2018-10-29 13:11:37.873 ||  NSLocalizedDescription=要求逾時。}
+
+!!!2018-10-29 13:11:37.873 ||  NSLocalizedDescription=要求逾時。}
+
+2018-10-29 13:11:38.385 || Network-<Carrier> 台湾大哥大
+
+2018-10-29 13:11:38.387 || inputAPI = /local.php?page=garage_enter_confirm&garage_dbname=000007
+
+2018-10-29 13:11:38.387 || Set CHECK_GARAGE 3sec TimeOut /local.php?page=garage_enter_confirm&garage_dbname=000007
+
+2018-10-29 13:11:38.394 || garage_enter_confirm&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+!!!2018-10-29 13:11:41.398 ||  NSLocalizedDescription=要求逾時。}
+
+!!!2018-10-29 13:11:41.399 ||  NSLocalizedDescription=要求逾時。}
+
+!!!2018-10-29 13:11:41.399 ||  NSLocalizedDescription=要求逾時。}
+
+2018-10-29 13:11:41.951 || Network-<Carrier> 台湾大哥大
+
+2018-10-29 13:11:41.953 || inputAPI = /local.php?page=garage_enter_confirm&garage_dbname=000007
+
+2018-10-29 13:11:41.953 || Set CHECK_GARAGE 3sec TimeOut /local.php?page=garage_enter_confirm&garage_dbname=000007
+
+2018-10-29 13:11:41.960 || garage_enter_confirm&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-29 13:11:43.125 || -[BLEManager centralManager:didDisconnectPeripheral:error:]|[L:1060]|[Gate]pName:00:23:A7:A6:B3:D8_GI
+
+2018-10-29 13:11:43.125 || -[BLEManager centralManager:didDisconnectPeripheral:error:]|[L:1061]|[Gate]error:Error Domain=CBErrorDomain Code=6 "The connection has timed out unexpectedly." UserInfo={NSLocalizedDescription=The connection has timed out unexpectedly.}
+
+2018-10-29 13:11:43.126 || -[BLEManager centralManager:didDisconnectPeripheral:error:]|[L:1062]|[Gate]completeGateConnectProcess=0
+
+!!!2018-10-29 13:11:44.964 ||  NSLocalizedDescription=要求逾時。}
+
+!!!2018-10-29 13:11:44.965 ||  NSLocalizedDescription=要求逾時。}
+
+!!!2018-10-29 13:11:44.965 ||  NSLocalizedDescription=要求逾時。}
+
+2018-10-29 13:11:47.222 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-92
+
+2018-10-29 13:11:47.223 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-29 13:11:47.736 || -[AppDelegate applicationWillResignActive:]|[L:133]|
+
+2018-10-29 13:11:47.744 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-91
+
+2018-10-29 13:11:47.744 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-29 13:11:48.709 || -[AppDelegate applicationDidEnterBackground:]|[L:125]|
+
+2018-10-29 13:12:31.563 || -[OrderManager zipGateDelayLogFileCompletion:]|[L:623]|
+

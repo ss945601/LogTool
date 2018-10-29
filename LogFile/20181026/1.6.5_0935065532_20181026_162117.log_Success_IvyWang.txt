@@ -1,0 +1,795 @@
+使用者：IvyWang
+裝置： iPhone105
+系統： iOS 12.0.1
+版本： paking versoin:1.6.5(release)
+電信： 遠傳電信
+預約： 無
+車廠： 000003-應安168華視場 Beacon入場, 有Ｎ導航
+///////////////////////////////////
+
+第一次GI 到 Pop Up 時間 : 4.0秒
+
+///////////////////////////////////
+( 2018-10-24 14:38:38 )	[didDisconnectPeripheral]
+
+( 2018-10-24 14:39:12 )	[AppDelegate] applicationWillResignActive
+
+( 2018-10-24 14:39:13 )	退到App背景
+
+( 2018-10-26 12:51:19 )	啟動App程序
+
+( 2018-10-26 12:51:20 )	[AppDelegate] applicationDidBecomeActive
+
+( 2018-10-26 12:51:21 )	[Gate]BLE ON
+
+( 2018-10-26 12:52:02 )	收到第一個GI
+
+( 2018-10-26 12:52:04 )	[didConnectPeripheral]duration:0.429943
+
+( 2018-10-26 12:52:06 )	入閘POP_UP
+
+( 2018-10-26 12:52:07 )	按下入閘按鈕
+
+( 2018-10-26 12:52:13 )	[didDisconnectPeripheral]
+
+( 2018-10-26 12:53:24 )	[AppDelegate] applicationWillResignActive
+
+( 2018-10-26 12:53:25 )	退到App背景
+
+( 2018-10-26 15:11:55 )	啟動App程序
+
+( 2018-10-26 15:11:55 )	[AppDelegate] applicationDidBecomeActive
+
+( 2018-10-26 15:11:57 )	[Gate]BLE ON
+
+( 2018-10-26 15:12:07 )	退到App背景
+
+( 2018-10-26 15:12:07 )	[AppDelegate] applicationWillResignActive
+
+( 2018-10-26 16:20:14 )	進入App前景
+
+( 2018-10-26 16:20:15 )	[AppDelegate] applicationDidBecomeActive
+
+( 2018-10-26 16:21:13 )	[didConnectPeripheral]duration:0.447911
+
+( 2018-10-26 16:21:17 )	離開車廠紀錄
+
+///////////////////////////////////
+
+<API:checkGarage>
+狀態：Success
+呼叫次數：2次
+耗費時間：1.084秒
+網路來源：遠傳電信
+
+<API:garage_enter_check_reservechange>
+狀態：Success
+呼叫次數：1次
+耗費時間：0.561秒
+網路來源：遠傳電信
+
+<API:garage_enter_confirm>
+狀態：Success
+呼叫次數：1次
+耗費時間：0.886秒
+網路來源：遠傳電信
+
+///////////////////////////////////
+網路切換時機
+2018-10-26 12:51:20.619 遠傳電信 (first)
+
+
+--------detail--------
+
+2018-10-26 12:51:19.835 || !!PaKing APP Open!!
+
+2018-10-26 12:51:19.836 || Ivy Wang
+
+2018-10-26 12:51:19.836 || iOS 12.0.1
+
+2018-10-26 12:51:19.836 || -[LogManager defaultLog]|[L:108]|Device:iPhone105
+
+2018-10-26 12:51:19.836 || paking versoin:1.6.5(release)
+
+2018-10-26 12:51:19.836 || paking build:20180925112634
+
+2018-10-26 12:51:19.839 || -[AppDelegate checkUpdate]|[L:342]|開始檢查是否更新
+
+2018-10-26 12:51:19.848 || ISO country code is: tw
+
+2018-10-26 12:51:20.608 || userManager.state = UserSTATE_CHECK 
+
+2018-10-26 12:51:20.619 || Network-<Carrier> 遠傳電信
+
+2018-10-26 12:51:20.625 || check_member Request 
+
+2018-10-26 12:51:20.969 || -[AppDelegate applicationDidBecomeActive:]|[L:193]|
+
+2018-10-26 12:51:21.125 || check_member Success 
+
+2018-10-26 12:51:21.132 || Network-<Carrier> 遠傳電信
+
+2018-10-26 12:51:21.133 || login_check_lite Request 
+
+2018-10-26 12:51:21.607 || login_check_lite Success 
+
+2018-10-26 12:51:21.626 || set userManager.isReservation = 0
+
+2018-10-26 12:51:21.626 || set userManager.isGarageReservation = 0
+
+2018-10-26 12:51:21.739 || Network-<Carrier> 遠傳電信
+
+2018-10-26 12:51:21.740 || getBannerList Request 
+
+2018-10-26 12:51:21.780 || Network-<Carrier> 遠傳電信
+
+2018-10-26 12:51:21.780 || get_news Request 
+
+2018-10-26 12:51:21.819 || -[BLEManager centralManagerDidUpdateState:]|[L:790]|[Gate]BLE ON
+
+2018-10-26 12:51:21.820 || -[BLEManager centralManagerDidUpdateState:]|[L:806]|[Gate]UpdateState:PoweredOn
+
+2018-10-26 12:51:22.142 || getBannerList Success 
+
+2018-10-26 12:51:22.171 || get_news Success 
+
+2018-10-26 12:51:36.968 || Network-<Carrier> 遠傳電信
+
+2018-10-26 12:51:36.969 || get_vendor Request 
+
+2018-10-26 12:51:37.004 || Network-<Carrier> 遠傳電信
+
+2018-10-26 12:51:37.005 || user_favorite_garage_list Request 
+
+2018-10-26 12:51:37.428 || user_favorite_garage_list Success 
+
+  ||         ReservationLot = 0;
+
+  ||         "flow_gatecontrol" = 0;
+
+  ||         "garage_id" = 000003;
+
+2018-10-26 12:51:37.461 || get_vendor Success 
+
+2018-10-26 12:51:41.788 || Network-<Carrier> 遠傳電信
+
+2018-10-26 12:51:41.789 || getBannerList Request 
+
+2018-10-26 12:51:41.816 || Network-<Carrier> 遠傳電信
+
+2018-10-26 12:51:41.816 || get_news Request 
+
+2018-10-26 12:51:42.224 || get_news Success 
+
+2018-10-26 12:51:42.260 || getBannerList Success 
+
+2018-10-26 12:52:02.681 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:20_GI:-98
+
+2018-10-26 12:52:02.681 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:20_GI
+
+2018-10-26 12:52:02.688 || Network-<Carrier> 遠傳電信
+
+2018-10-26 12:52:02.688 || inputAPI = /app.php?page=checkGarage
+
+2018-10-26 12:52:02.689 || checkGarage Request 
+
+2018-10-26 12:52:03.045 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:20_GI:-90
+
+2018-10-26 12:52:03.045 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:20_GI
+
+2018-10-26 12:52:03.464 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:20_GI:-92
+
+2018-10-26 12:52:03.465 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:20_GI
+
+2018-10-26 12:52:03.773 || checkGarage Success 
+
+  ||                 "garage_id" = 000003;
+
+  ||                 "garage_id" = 000003;
+
+  ||         "flow_gatecontrol" = 0;
+
+  ||         "garage_id" = 000003;
+
+2018-10-26 12:52:04.299 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:20_GI:-80
+
+2018-10-26 12:52:04.299 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:20_GI
+
+2018-10-26 12:52:04.300 || [Gate]GATE > -85!!!!
+
+2018-10-26 12:52:04.400 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:20_GI:-79
+
+2018-10-26 12:52:04.401 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:20_GI
+
+2018-10-26 12:52:04.401 || [Gate]GATE > -85!!!!
+
+2018-10-26 12:52:04.404 || [Gate]pName:00:23:A7:A6:B3:20_GI
+
+2018-10-26 12:52:04.608 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:20_GI:-83
+
+2018-10-26 12:52:04.608 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:20_GI
+
+2018-10-26 12:52:04.609 || [Gate]GATE > -85!!!!
+
+2018-10-26 12:52:04.834 || [Gate]pName:00:23:A7:A6:B3:20_GI
+
+2018-10-26 12:52:04.834 || -[BLEManager centralManager:didConnectPeripheral:]|[L:1037]|[Gate]connected duration:0.429943
+
+2018-10-26 12:52:04.834 || -[BLEManager centralManager:didConnectPeripheral:]|[L:1038]|[Gate]apiProcessingStatus:{
+
+2018-10-26 12:52:04.834 || [Gate]pName:00:23:A7:A6:B3:20_GI
+
+2018-10-26 12:52:05.182 || [Gate]pName:00:23:A7:A6:B3:20_GI
+
+2018-10-26 12:52:05.362 || [Gate]pName:00:23:A7:A6:B3:20_GI
+
+2018-10-26 12:52:05.464 || -[BLEManager sendDataToMCU:]|[L:1422]|[Gate]send command to mcu:PASSWORD
+
+2018-10-26 12:52:05.633 || [Gate]pName:00:23:A7:A6:B3:20_GI
+
+2018-10-26 12:52:05.633 || -[BLEManager peripheral:didUpdateValueForCharacteristic:error:]|[L:1378]|[Gate]Gate Password Success
+
+2018-10-26 12:52:05.687 || Network-<Carrier> 遠傳電信
+
+2018-10-26 12:52:05.688 || inputAPI = /app.php?page=garage_enter_check_reservechange
+
+2018-10-26 12:52:05.690 || garage_enter_check_reservechange Request 
+
+2018-10-26 12:52:06.251 || garage_enter_check_reservechange Success 
+
+2018-10-26 12:52:06.255 || userManager.isGarageReservation = 0
+
+2018-10-26 12:52:06.256 || userManager.isReservation = 0
+
+2018-10-26 12:52:06.258 || userManager.isGarageReservation = 0
+
+  ||     "flow_gatecontrol" = 0;
+
+  ||     "garage_id" = 000003;
+
+2018-10-26 12:52:06.275 || Network-<Carrier> 遠傳電信
+
+2018-10-26 12:52:06.276 || parking_space_list Request 
+
+  ||     "garage_id" = 000003;
+
+2018-10-26 12:52:06.303 || voiceString:抵達車場入口
+
+2018-10-26 12:52:06.421 || normal enter popup
+
+!!!CoreData: annotation: || CoreData: annotation:  Failed to load optimized model at path '/var/containers/Bundle/Application/6A6B741A-9CC5-4419-9E15-2E058683C8B9/paking.app/GoogleMaps.bundle/GMSCacheStorage.momd/StorageWithTileProto.omo'
+
+!!!CoreData: annotation: || CoreData: annotation:  Failed to load optimized model at path '/var/containers/Bundle/Application/6A6B741A-9CC5-4419-9E15-2E058683C8B9/paking.app/GoogleMaps.bundle/GMSCacheStorage.momd/StorageWithTileProto.omo'
+
+!!!CoreData: annotation: || CoreData: annotation:  Failed to load optimized model at path '/var/containers/Bundle/Application/6A6B741A-9CC5-4419-9E15-2E058683C8B9/paking.app/GoogleMaps.bundle/GMSCacheStorage.momd/StorageWithTileProto.omo'
+
+2018-10-26 12:52:06.939 || parking_space_list Success 
+
+2018-10-26 12:52:07.137 || [Gate]Open InOutGate 
+
+2018-10-26 12:52:07.170 || Network-<Carrier> 遠傳電信
+
+2018-10-26 12:52:07.171 || inputAPI = /local.php?page=garage_enter_confirm&garage_dbname=000003
+
+2018-10-26 12:52:07.174 || garage_enter_confirm&garage_dbname=000003 Request 
+
+  ||     "garage_id" = 000003;
+
+2018-10-26 12:52:08.060 || garage_enter_confirm&garage_dbname=000003 Success 
+
+  ||         "garage_id" = 000003;
+
+2018-10-26 12:52:08.162 || -[BLEManager sendDataToMCU:]|[L:1428]|[Gate]send command to mcu:OPEN GATE
+
+2018-10-26 12:52:08.241 || [Gate]pName:00:23:A7:A6:B3:20_GI
+
+2018-10-26 12:52:08.242 || -[BLEManager peripheral:didUpdateValueForCharacteristic:error:]|[L:1391]|[Gate]Gate Open Success
+
+2018-10-26 12:52:08.242 || [Gate]
+
+2018-10-26 12:52:08.248 || set orderListInfo = {
+
+  ||     "flow_gatecontrol" = 0;
+
+  ||     "garage_id" = 000003;
+
+2018-10-26 12:52:08.248 || userManager.gateGarageInfo = {
+
+  ||             "garage_id" = 000003;
+
+  ||             "garage_id" = 000003;
+
+  ||     "flow_gatecontrol" = 0;
+
+  ||     "garage_id" = 000003;
+
+  ||     "flow_gatecontrol" = 0;
+
+  ||     "garage_id" = 000003;
+
+2018-10-26 12:52:08.313 || usermanager.isReservation = 0
+
+2018-10-26 12:52:08.314 || usermanager.isGarageReservation = 0
+
+2018-10-26 12:52:10.909 || Network-<Carrier> 遠傳電信
+
+2018-10-26 12:52:10.910 || garage_floor_available&garage_dbname=000003 Request 
+
+  ||     "garage_id" = 000003;
+
+2018-10-26 12:52:11.663 || garage_floor_available&garage_dbname=000003 Success 
+
+2018-10-26 12:52:12.919 || Network-<Carrier> 遠傳電信
+
+2018-10-26 12:52:12.921 || floor_area_space_lite&garage_dbname=000003 Request 
+
+2018-10-26 12:52:13.320 || -[BLEManager centralManager:didDisconnectPeripheral:error:]|[L:1060]|[Gate]pName:00:23:A7:A6:B3:20_GI
+
+2018-10-26 12:52:13.320 || -[BLEManager centralManager:didDisconnectPeripheral:error:]|[L:1061]|[Gate]error:Error Domain=CBErrorDomain Code=6 "The connection has timed out unexpectedly." UserInfo={NSLocalizedDescription=The connection has timed out unexpectedly.}
+
+2018-10-26 12:52:13.321 || -[BLEManager centralManager:didDisconnectPeripheral:error:]|[L:1062]|[Gate]completeGateConnectProcess=1
+
+2018-10-26 12:52:13.818 || floor_area_space_lite&garage_dbname=000003 Success 
+
+2018-10-26 12:52:14.687 || Network-<Carrier> 遠傳電信
+
+2018-10-26 12:52:14.688 || garage_floor_available&garage_dbname=000003 Request 
+
+  ||     "garage_id" = 000003;
+
+2018-10-26 12:52:16.841 || Network-<Carrier> 遠傳電信
+
+2018-10-26 12:52:16.842 || floor_area_space_lite&garage_dbname=000003 Request 
+
+2018-10-26 12:52:19.032 || floor_area_space_lite&garage_dbname=000003 Success 
+
+2018-10-26 12:52:19.384 || garage_floor_available&garage_dbname=000003 Success 
+
+2018-10-26 12:52:22.059 || Network-<Carrier> 遠傳電信
+
+2018-10-26 12:52:22.060 || floor_area_space_lite&garage_dbname=000003 Request 
+
+2018-10-26 12:52:22.403 || Network-<Carrier> 遠傳電信
+
+2018-10-26 12:52:22.405 || garage_floor_available&garage_dbname=000003 Request 
+
+  ||     "garage_id" = 000003;
+
+2018-10-26 12:52:22.550 || floor_area_space_lite&garage_dbname=000003 Success 
+
+2018-10-26 12:52:22.993 || garage_floor_available&garage_dbname=000003 Success 
+
+2018-10-26 12:52:25.575 || Network-<Carrier> 遠傳電信
+
+2018-10-26 12:52:25.576 || floor_area_space_lite&garage_dbname=000003 Request 
+
+2018-10-26 12:52:26.012 || Network-<Carrier> 遠傳電信
+
+2018-10-26 12:52:26.013 || garage_floor_available&garage_dbname=000003 Request 
+
+  ||     "garage_id" = 000003;
+
+2018-10-26 12:52:26.099 || floor_area_space_lite&garage_dbname=000003 Success 
+
+2018-10-26 12:52:26.672 || garage_floor_available&garage_dbname=000003 Success 
+
+2018-10-26 12:52:29.123 || Network-<Carrier> 遠傳電信
+
+2018-10-26 12:52:29.124 || floor_area_space_lite&garage_dbname=000003 Request 
+
+2018-10-26 12:52:29.689 || Network-<Carrier> 遠傳電信
+
+2018-10-26 12:52:29.690 || garage_floor_available&garage_dbname=000003 Request 
+
+  ||     "garage_id" = 000003;
+
+2018-10-26 12:52:29.823 || floor_area_space_lite&garage_dbname=000003 Success 
+
+2018-10-26 12:52:30.351 || garage_floor_available&garage_dbname=000003 Success 
+
+2018-10-26 12:52:32.730 || Network-<Carrier> 遠傳電信
+
+2018-10-26 12:52:32.730 || garage_floor_available&garage_dbname=000003 Request 
+
+  ||     "garage_id" = 000003;
+
+2018-10-26 12:52:33.280 || garage_floor_available&garage_dbname=000003 Success 
+
+2018-10-26 12:52:36.303 || Network-<Carrier> 遠傳電信
+
+2018-10-26 12:52:36.304 || garage_floor_available&garage_dbname=000003 Request 
+
+  ||     "garage_id" = 000003;
+
+2018-10-26 12:52:36.881 || garage_floor_available&garage_dbname=000003 Success 
+
+2018-10-26 12:52:37.745 || Network-<Carrier> 遠傳電信
+
+2018-10-26 12:52:37.746 || floor_area_space_lite&garage_dbname=000003 Request 
+
+2018-10-26 12:52:38.232 || floor_area_space_lite&garage_dbname=000003 Success 
+
+2018-10-26 12:52:39.898 || Network-<Carrier> 遠傳電信
+
+2018-10-26 12:52:39.900 || garage_floor_available&garage_dbname=000003 Request 
+
+  ||     "garage_id" = 000003;
+
+2018-10-26 12:52:40.471 || garage_floor_available&garage_dbname=000003 Success 
+
+2018-10-26 12:52:41.265 || Network-<Carrier> 遠傳電信
+
+2018-10-26 12:52:41.267 || floor_area_space_lite&garage_dbname=000003 Request 
+
+2018-10-26 12:52:42.473 || floor_area_space_lite&garage_dbname=000003 Success 
+
+2018-10-26 12:52:43.489 || Network-<Carrier> 遠傳電信
+
+2018-10-26 12:52:43.490 || garage_floor_available&garage_dbname=000003 Request 
+
+  ||     "garage_id" = 000003;
+
+2018-10-26 12:52:44.071 || garage_floor_available&garage_dbname=000003 Success 
+
+2018-10-26 12:52:45.503 || Network-<Carrier> 遠傳電信
+
+2018-10-26 12:52:45.504 || floor_area_space_lite&garage_dbname=000003 Request 
+
+2018-10-26 12:52:46.032 || floor_area_space_lite&garage_dbname=000003 Success 
+
+2018-10-26 12:52:47.091 || Network-<Carrier> 遠傳電信
+
+2018-10-26 12:52:47.092 || garage_floor_available&garage_dbname=000003 Request 
+
+  ||     "garage_id" = 000003;
+
+2018-10-26 12:52:47.632 || garage_floor_available&garage_dbname=000003 Success 
+
+2018-10-26 12:52:49.066 || Network-<Carrier> 遠傳電信
+
+2018-10-26 12:52:49.067 || floor_area_space_lite&garage_dbname=000003 Request 
+
+2018-10-26 12:52:50.651 || Network-<Carrier> 遠傳電信
+
+2018-10-26 12:52:50.652 || garage_floor_available&garage_dbname=000003 Request 
+
+  ||     "garage_id" = 000003;
+
+2018-10-26 12:52:51.213 || floor_area_space_lite&garage_dbname=000003 Success 
+
+2018-10-26 12:52:52.159 || garage_floor_available&garage_dbname=000003 Success 
+
+2018-10-26 12:52:54.245 || Network-<Carrier> 遠傳電信
+
+2018-10-26 12:52:54.246 || floor_area_space_lite&garage_dbname=000003 Request 
+
+2018-10-26 12:52:54.762 || floor_area_space_lite&garage_dbname=000003 Success 
+
+2018-10-26 12:52:55.179 || Network-<Carrier> 遠傳電信
+
+2018-10-26 12:52:55.180 || garage_floor_available&garage_dbname=000003 Request 
+
+  ||     "garage_id" = 000003;
+
+2018-10-26 12:52:55.712 || garage_floor_available&garage_dbname=000003 Success 
+
+2018-10-26 12:52:57.795 || Network-<Carrier> 遠傳電信
+
+2018-10-26 12:52:57.796 || floor_area_space_lite&garage_dbname=000003 Request 
+
+2018-10-26 12:52:58.311 || floor_area_space_lite&garage_dbname=000003 Success 
+
+2018-10-26 12:52:58.731 || Network-<Carrier> 遠傳電信
+
+2018-10-26 12:52:58.732 || garage_floor_available&garage_dbname=000003 Request 
+
+  ||     "garage_id" = 000003;
+
+2018-10-26 12:52:59.350 || garage_floor_available&garage_dbname=000003 Success 
+
+2018-10-26 12:53:01.342 || Network-<Carrier> 遠傳電信
+
+2018-10-26 12:53:01.343 || floor_area_space_lite&garage_dbname=000003 Request 
+
+2018-10-26 12:53:01.832 || floor_area_space_lite&garage_dbname=000003 Success 
+
+2018-10-26 12:53:02.368 || Network-<Carrier> 遠傳電信
+
+2018-10-26 12:53:02.370 || garage_floor_available&garage_dbname=000003 Request 
+
+  ||     "garage_id" = 000003;
+
+2018-10-26 12:53:02.950 || garage_floor_available&garage_dbname=000003 Success 
+
+2018-10-26 12:53:04.866 || Network-<Carrier> 遠傳電信
+
+2018-10-26 12:53:04.867 || floor_area_space_lite&garage_dbname=000003 Request 
+
+2018-10-26 12:53:05.349 || floor_area_space_lite&garage_dbname=000003 Success 
+
+2018-10-26 12:53:05.968 || Network-<Carrier> 遠傳電信
+
+2018-10-26 12:53:05.970 || garage_floor_available&garage_dbname=000003 Request 
+
+  ||     "garage_id" = 000003;
+
+2018-10-26 12:53:06.473 || garage_floor_available&garage_dbname=000003 Success 
+
+2018-10-26 12:53:08.382 || Network-<Carrier> 遠傳電信
+
+2018-10-26 12:53:08.383 || floor_area_space_lite&garage_dbname=000003 Request 
+
+2018-10-26 12:53:08.921 || floor_area_space_lite&garage_dbname=000003 Success 
+
+2018-10-26 12:53:09.491 || Network-<Carrier> 遠傳電信
+
+2018-10-26 12:53:09.493 || garage_floor_available&garage_dbname=000003 Request 
+
+  ||     "garage_id" = 000003;
+
+2018-10-26 12:53:10.031 || garage_floor_available&garage_dbname=000003 Success 
+
+2018-10-26 12:53:11.955 || Network-<Carrier> 遠傳電信
+
+2018-10-26 12:53:11.956 || floor_area_space_lite&garage_dbname=000003 Request 
+
+2018-10-26 12:53:12.515 || floor_area_space_lite&garage_dbname=000003 Success 
+
+2018-10-26 12:53:13.050 || Network-<Carrier> 遠傳電信
+
+2018-10-26 12:53:13.051 || garage_floor_available&garage_dbname=000003 Request 
+
+  ||     "garage_id" = 000003;
+
+2018-10-26 12:53:13.751 || garage_floor_available&garage_dbname=000003 Success 
+
+2018-10-26 12:53:15.547 || Network-<Carrier> 遠傳電信
+
+2018-10-26 12:53:15.548 || floor_area_space_lite&garage_dbname=000003 Request 
+
+2018-10-26 12:53:16.400 || floor_area_space_lite&garage_dbname=000003 Success 
+
+2018-10-26 12:53:16.771 || Network-<Carrier> 遠傳電信
+
+2018-10-26 12:53:16.772 || garage_floor_available&garage_dbname=000003 Request 
+
+  ||     "garage_id" = 000003;
+
+2018-10-26 12:53:17.472 || garage_floor_available&garage_dbname=000003 Success 
+
+2018-10-26 12:53:18.436 || voiceString:停完車請確認
+
+2018-10-26 12:53:19.433 || Network-<Carrier> 遠傳電信
+
+2018-10-26 12:53:19.434 || floor_area_space_lite&garage_dbname=000003 Request 
+
+2018-10-26 12:53:20.196 || floor_area_space_lite&garage_dbname=000003 Success 
+
+2018-10-26 12:53:20.491 || Network-<Carrier> 遠傳電信
+
+2018-10-26 12:53:20.492 || garage_floor_available&garage_dbname=000003 Request 
+
+  ||     "garage_id" = 000003;
+
+2018-10-26 12:53:21.111 || garage_floor_available&garage_dbname=000003 Success 
+
+2018-10-26 12:53:21.184 || voiceString:是否停車完成
+
+2018-10-26 12:53:21.185 || ParkedConfirmNote popup
+
+2018-10-26 12:53:22.512 || Network-<Carrier> 遠傳電信
+
+2018-10-26 12:53:22.513 || parking_tracking_insert_test&garage_dbname=000003 Request 
+
+2018-10-26 12:53:22.534 || Network-<Carrier> 遠傳電信
+
+2018-10-26 12:53:22.535 || getBannerList Request 
+
+2018-10-26 12:53:22.557 || Network-<Carrier> 遠傳電信
+
+2018-10-26 12:53:22.557 || get_news Request 
+
+2018-10-26 12:53:23.172 || parking_tracking_insert_test&garage_dbname=000003 Success 
+
+2018-10-26 12:53:23.197 || Network-<Carrier> 遠傳電信
+
+2018-10-26 12:53:23.198 || space_tracking_lite&garage_dbname=000003 Request 
+
+2018-10-26 12:53:24.201 || get_news Success 
+
+2018-10-26 12:53:24.203 || getBannerList Success 
+
+2018-10-26 12:53:24.232 || space_tracking_lite&garage_dbname=000003 Success 
+
+2018-10-26 12:53:24.763 || -[AppDelegate applicationWillResignActive:]|[L:133]|
+
+2018-10-26 12:53:25.136 || -[AppDelegate applicationDidEnterBackground:]|[L:125]|
+
+2018-10-26 15:11:55.011 || -[AppDelegate checkUpdate]|[L:338]|場外不執行更新
+
+2018-10-26 15:11:55.159 || Network-<Carrier> 遠傳電信
+
+2018-10-26 15:11:55.166 || check_member Request 
+
+2018-10-26 15:11:55.184 || -[AppDelegate applicationDidBecomeActive:]|[L:193]|
+
+2018-10-26 15:11:55.705 || check_member Success 
+
+2018-10-26 15:11:55.719 || Network-<Carrier> 遠傳電信
+
+2018-10-26 15:11:55.720 || login_check_lite Request 
+
+2018-10-26 15:11:57.095 || login_check_lite Success 
+
+  ||                     "garage_id" = 000003;
+
+  ||                     "garage_id" = 000003;
+
+  ||             "garage_id" = 000003;
+
+  ||             "flow_gatecontrol" = 0;
+
+  ||             "garage_id" = 000003;
+
+  ||             "garage_id" = 000003;
+
+2018-10-26 15:11:57.116 || userManager.isGarageReservation = 0
+
+2018-10-26 15:11:57.116 || userManager.isReservation = 0
+
+  ||     "flow_gatecontrol" = 0;
+
+  ||     "garage_id" = 000003;
+
+2018-10-26 15:11:57.118 || userManager.isGarageReservation = 0
+
+  ||     "flow_gatecontrol" = 0;
+
+  ||     "garage_id" = 000003;
+
+2018-10-26 15:11:57.124 || set userManager.isReservation = 0
+
+2018-10-26 15:11:57.124 || set userManager.isGarageReservation = 0
+
+2018-10-26 15:11:57.138 || Network-<Carrier> 遠傳電信
+
+2018-10-26 15:11:57.139 || ANPR_check_exit Request 
+
+2018-10-26 15:11:57.224 || Network-<Carrier> 遠傳電信
+
+2018-10-26 15:11:57.225 || getBannerList Request 
+
+2018-10-26 15:11:57.266 || Network-<Carrier> 遠傳電信
+
+2018-10-26 15:11:57.266 || get_news Request 
+
+2018-10-26 15:11:57.317 || -[BLEManager centralManagerDidUpdateState:]|[L:790]|[Gate]BLE ON
+
+2018-10-26 15:11:57.318 || -[BLEManager centralManagerDidUpdateState:]|[L:806]|[Gate]UpdateState:PoweredOn
+
+2018-10-26 15:11:57.528 || ANPR_check_exit Success 
+
+2018-10-26 15:11:57.641 || getBannerList Success 
+
+2018-10-26 15:11:57.673 || get_news Success 
+
+2018-10-26 15:11:58.754 || Network-<Carrier> 遠傳電信
+
+2018-10-26 15:11:58.755 || trade_get_parkingFee Request 
+
+  ||     "garage_id" = 000003;
+
+2018-10-26 15:11:58.762 || Network-<Carrier> 遠傳電信
+
+2018-10-26 15:11:58.763 || user_invoice_list Request 
+
+2018-10-26 15:11:59.267 || trade_get_parkingFee Success 
+
+  ||                 "garage_id" = 000003;
+
+2018-10-26 15:11:59.289 || user_invoice_list Success 
+
+2018-10-26 15:12:07.602 || -[AppDelegate applicationWillResignActive:]|[L:133]|
+
+2018-10-26 15:12:07.959 || -[AppDelegate applicationDidEnterBackground:]|[L:125]|
+
+2018-10-26 16:20:14.814 || -[AppDelegate applicationWillEnterForeground:]|[L:156]|
+
+2018-10-26 16:20:14.880 || Network-<Carrier> 遠傳電信
+
+2018-10-26 16:20:14.888 || get_vendor Request 
+
+2018-10-26 16:20:15.069 || -[AppDelegate applicationDidBecomeActive:]|[L:193]|
+
+2018-10-26 16:20:15.095 || Network-<Carrier> 遠傳電信
+
+2018-10-26 16:20:15.096 || user_fail_trade_check Request 
+
+2018-10-26 16:20:15.112 || Network-<Carrier> 遠傳電信
+
+2018-10-26 16:20:15.112 || ANPR_check_exit Request 
+
+2018-10-26 16:20:15.740 || get_vendor Success 
+
+2018-10-26 16:20:15.892 || ANPR_check_exit Success 
+
+2018-10-26 16:20:15.925 || user_fail_trade_check Success 
+
+!!!2018-10-26 16:20:15.925 || result: {
+
+!!!2018-10-26 16:20:15.925 || userManager.garageFarePaymentStatus = NoGarageFare 
+
+2018-10-26 16:20:22.559 || Network-<Carrier> 遠傳電信
+
+2018-10-26 16:20:22.560 || getBannerList Request 
+
+2018-10-26 16:20:23.149 || Network-<Carrier> 遠傳電信
+
+2018-10-26 16:20:23.150 || get_news Request 
+
+2018-10-26 16:20:23.180 || getBannerList Success 
+
+2018-10-26 16:20:23.778 || get_news Success 
+
+2018-10-26 16:21:10.162 || Network-<Carrier> 遠傳電信
+
+2018-10-26 16:21:10.163 || inputAPI = /app.php?page=checkGarage
+
+2018-10-26 16:21:10.173 || checkGarage Request 
+
+2018-10-26 16:21:10.815 || checkGarage Success 
+
+  ||                 "garage_id" = 000003;
+
+  ||                 "garage_id" = 000003;
+
+  ||         "flow_gatecontrol" = 0;
+
+  ||         "garage_id" = 000003;
+
+2018-10-26 16:21:11.599 || [Gate]_BLEMac<adv>:00:23:A7:A6:B2:B8_GO:-85
+
+2018-10-26 16:21:11.600 || [Gate]GATE > -85!!!!
+
+2018-10-26 16:21:13.163 || [Gate]GATE > -85!!!!
+
+2018-10-26 16:21:13.265 || [Gate]_BLEMac<adv>:00:23:A7:A6:B2:B8_GO:-85
+
+2018-10-26 16:21:13.266 || [Gate]GATE > -85!!!!
+
+2018-10-26 16:21:13.716 || -[BLEManager centralManager:didConnectPeripheral:]|[L:1037]|[Gate]connected duration:0.447911
+
+2018-10-26 16:21:13.716 || -[BLEManager centralManager:didConnectPeripheral:]|[L:1038]|[Gate]apiProcessingStatus:{
+
+2018-10-26 16:21:14.435 || -[BLEManager sendDataToMCU:]|[L:1422]|[Gate]send command to mcu:PASSWORD
+
+2018-10-26 16:21:14.754 || -[BLEManager peripheral:didUpdateValueForCharacteristic:error:]|[L:1378]|[Gate]Gate Password Success
+
+2018-10-26 16:21:14.842 || voiceString:抵達車廠出口
+
+2018-10-26 16:21:17.177 || [Gate]Open InOutGate 
+
+2018-10-26 16:21:17.295 || -[BLEManager sendDataToMCU:]|[L:1428]|[Gate]send command to mcu:OPEN GATE
+
+2018-10-26 16:21:17.453 || -[BLEManager peripheral:didUpdateValueForCharacteristic:error:]|[L:1391]|[Gate]Gate Open Success
+
+2018-10-26 16:21:17.471 || Network-<Carrier> 遠傳電信
+
+2018-10-26 16:21:17.472 || garage_leave_pay&garage_dbname=000003 Request 
+
+2018-10-26 16:21:17.475 || leaveGarageName = 應安168華視場
+
+2018-10-24 14:38:38.003 || -[BLEManager centralManager:didDisconnectPeripheral:error:]|[L:1060]|[Gate]pName:00:23:A7:A6:B2:B8_GO
+
+2018-10-24 14:38:38.004 || -[BLEManager centralManager:didDisconnectPeripheral:error:]|[L:1061]|[Gate]error:Error Domain=CBErrorDomain Code=6 "The connection has timed out unexpectedly." UserInfo={NSLocalizedDescription=The connection has timed out unexpectedly.}
+
+2018-10-24 14:38:38.004 || -[BLEManager centralManager:didDisconnectPeripheral:error:]|[L:1062]|[Gate]completeGateConnectProcess=1
+
+2018-10-24 14:38:48.186 || garage_leave_pay&garage_dbname=000003 Success 
+
+  ||                 "garage_id" = 000003;
+
+2018-10-24 14:39:12.855 || -[AppDelegate applicationWillResignActive:]|[L:133]|
+
+2018-10-24 14:39:13.212 || -[AppDelegate applicationDidEnterBackground:]|[L:125]|
+

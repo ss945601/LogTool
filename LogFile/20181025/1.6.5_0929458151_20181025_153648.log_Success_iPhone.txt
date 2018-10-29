@@ -1,0 +1,2763 @@
+使用者：iPhone
+裝置： iPhone105
+系統： iOS 12.0.1
+版本： paking versoin:1.6.5(release)
+電信： 中華電信
+預約： 有
+車廠： 000011-鴻海高雄軟體研發大樓停車場 Beacon入場, 有Ｎ導航
+///////////////////////////////////
+
+第一次GI 到 Pop Up 時間 : 5.0秒
+
+///////////////////////////////////
+( 2018-10-25 12:38:46 )	啟動App程序
+
+( 2018-10-25 12:38:46 )	[AppDelegate] applicationDidBecomeActive
+
+( 2018-10-25 12:38:47 )	[Gate]BLE OFF
+
+( 2018-10-25 12:38:49 )	[AppDelegate] applicationWillResignActive
+
+( 2018-10-25 12:38:50 )	退到App背景
+
+( 2018-10-25 12:38:54 )	[Gate]BLE ON
+
+( 2018-10-25 12:39:01 )	進入App前景
+
+( 2018-10-25 12:39:01 )	[AppDelegate] applicationDidBecomeActive
+
+( 2018-10-25 12:41:37 )	[AppDelegate] applicationWillResignActive
+
+( 2018-10-25 12:41:40 )	退到App背景
+
+( 2018-10-25 12:41:41 )	[Gate]BLE OFF
+
+( 2018-10-25 12:41:44 )	進入App前景
+
+( 2018-10-25 12:41:45 )	[AppDelegate] applicationDidBecomeActive
+
+( 2018-10-25 12:41:51 )	[AppDelegate] applicationWillResignActive
+
+( 2018-10-25 12:41:52 )	退到App背景
+
+( 2018-10-25 12:41:54 )	啟動App程序
+
+( 2018-10-25 12:41:55 )	[Gate]BLE OFF
+
+( 2018-10-25 12:41:55 )	[AppDelegate] applicationDidBecomeActive
+
+( 2018-10-25 12:42:04 )	[AppDelegate] applicationWillResignActive
+
+( 2018-10-25 12:42:05 )	[AppDelegate] applicationDidBecomeActive
+
+( 2018-10-25 12:42:06 )	[AppDelegate] applicationWillResignActive
+
+( 2018-10-25 12:42:08 )	退到App背景
+
+( 2018-10-25 13:01:44 )	啟動App程序
+
+( 2018-10-25 13:01:44 )	[AppDelegate] applicationDidBecomeActive
+
+( 2018-10-25 13:01:45 )	[Gate]BLE OFF
+
+( 2018-10-25 13:01:48 )	[AppDelegate] applicationWillResignActive
+
+( 2018-10-25 13:01:49 )	退到App背景
+
+( 2018-10-25 13:01:51 )	[Gate]BLE ON
+
+( 2018-10-25 13:01:56 )	進入App前景
+
+( 2018-10-25 13:01:57 )	[AppDelegate] applicationDidBecomeActive
+
+( 2018-10-25 13:02:01 )	[AppDelegate] applicationWillResignActive
+
+( 2018-10-25 13:02:02 )	退到App背景
+
+( 2018-10-25 13:09:33 )	啟動App程序
+
+( 2018-10-25 13:09:33 )	[AppDelegate] applicationDidBecomeActive
+
+( 2018-10-25 13:09:34 )	[Gate]BLE OFF
+
+( 2018-10-25 13:09:38 )	[AppDelegate] applicationWillResignActive
+
+( 2018-10-25 13:09:39 )	退到App背景
+
+( 2018-10-25 13:11:02 )	進入App前景
+
+( 2018-10-25 13:11:03 )	[AppDelegate] applicationDidBecomeActive
+
+( 2018-10-25 13:11:06 )	[AppDelegate] applicationWillResignActive
+
+( 2018-10-25 13:11:07 )	退到App背景
+
+( 2018-10-25 13:11:14 )	進入App前景
+
+( 2018-10-25 13:11:14 )	[AppDelegate] applicationDidBecomeActive
+
+( 2018-10-25 13:11:22 )	[AppDelegate] applicationWillResignActive
+
+( 2018-10-25 13:11:24 )	退到App背景
+
+( 2018-10-25 13:11:35 )	[Gate]BLE ON
+
+( 2018-10-25 13:11:52 )	進入App前景
+
+( 2018-10-25 13:11:53 )	[AppDelegate] applicationDidBecomeActive
+
+( 2018-10-25 13:12:13 )	[AppDelegate] applicationWillResignActive
+
+( 2018-10-25 13:12:14 )	退到App背景
+
+( 2018-10-25 13:12:29 )	進入App前景
+
+( 2018-10-25 13:12:29 )	[AppDelegate] applicationDidBecomeActive
+
+( 2018-10-25 13:13:21 )	收到第一個GI
+
+( 2018-10-25 13:13:24 )	[didConnectPeripheral]duration:0.380009
+
+( 2018-10-25 13:13:26 )	入閘POP_UP
+
+( 2018-10-25 13:13:29 )	按下入閘按鈕
+
+( 2018-10-25 13:13:31 )	[AppDelegate] applicationWillResignActive
+
+( 2018-10-25 13:13:31 )	[AppDelegate] applicationWillResignActive
+
+( 2018-10-25 13:13:34 )	[AppDelegate] applicationDidBecomeActive
+
+( 2018-10-25 13:13:34 )	[AppDelegate] applicationDidBecomeActive
+
+( 2018-10-25 13:13:39 )	[didDisconnectPeripheral]
+
+( 2018-10-25 13:16:31 )	[AppDelegate] applicationWillResignActive
+
+( 2018-10-25 13:16:36 )	退到App背景
+
+( 2018-10-25 15:33:47 )	啟動App程序
+
+( 2018-10-25 15:33:47 )	[AppDelegate] applicationDidBecomeActive
+
+( 2018-10-25 15:33:49 )	[Gate]BLE ON
+
+( 2018-10-25 15:34:20 )	[AppDelegate] applicationWillResignActive
+
+( 2018-10-25 15:34:22 )	退到App背景
+
+( 2018-10-25 15:34:36 )	進入App前景
+
+( 2018-10-25 15:34:37 )	[AppDelegate] applicationDidBecomeActive
+
+( 2018-10-25 15:36:35 )	[AppDelegate] applicationWillResignActive
+
+( 2018-10-25 15:36:38 )	[AppDelegate] applicationDidBecomeActive
+
+( 2018-10-25 15:36:45 )	[didConnectPeripheral]duration:0.359286
+
+( 2018-10-25 15:36:48 )	離開車廠紀錄
+
+///////////////////////////////////
+
+<API:checkGarage>
+狀態：Success
+呼叫次數：2次
+耗費時間：0.446秒
+網路來源：中華電信
+
+<API:garage_enter_check_reservechange>
+狀態：Success
+呼叫次數：1次
+耗費時間：0.487秒
+網路來源：中華電信
+
+<API:garage_enter_confirm>
+狀態：Success
+呼叫次數：1次
+耗費時間：1.080秒
+網路來源：中華電信
+
+///////////////////////////////////
+網路切換時機
+2018-10-25 12:38:46.533 中華電信 (first)
+
+
+--------detail--------
+
+2018-10-25 12:38:46.411 || !!PaKing APP Open!!
+
+2018-10-25 12:38:46.412 || iPhone
+
+2018-10-25 12:38:46.412 || iOS 12.0.1
+
+2018-10-25 12:38:46.413 || -[LogManager defaultLog]|[L:108]|Device:iPhone105
+
+2018-10-25 12:38:46.413 || paking versoin:1.6.5(release)
+
+2018-10-25 12:38:46.413 || paking build:20180925112634
+
+2018-10-25 12:38:46.415 || -[AppDelegate checkUpdate]|[L:342]|開始檢查是否更新
+
+2018-10-25 12:38:46.425 || ISO country code is: tw
+
+2018-10-25 12:38:46.520 || userManager.state = UserSTATE_CHECK 
+
+2018-10-25 12:38:46.533 || Network-<Carrier> 中華電信
+
+2018-10-25 12:38:46.539 || check_member Request 
+
+2018-10-25 12:38:46.953 || -[AppDelegate applicationDidBecomeActive:]|[L:193]|
+
+2018-10-25 12:38:47.018 || check_member Success 
+
+2018-10-25 12:38:47.027 || Network-<Carrier> 中華電信
+
+2018-10-25 12:38:47.027 || login_check_lite Request 
+
+2018-10-25 12:38:47.469 || login_check_lite Success 
+
+2018-10-25 12:38:47.478 || set userManager.isReservation = 0
+
+2018-10-25 12:38:47.478 || set userManager.isGarageReservation = 0
+
+2018-10-25 12:38:47.589 || Network-<Carrier> 中華電信
+
+2018-10-25 12:38:47.589 || getBannerList Request 
+
+2018-10-25 12:38:47.623 || Network-<Carrier> 中華電信
+
+2018-10-25 12:38:47.623 || get_news Request 
+
+2018-10-25 12:38:47.656 || -[BLEManager centralManagerDidUpdateState:]|[L:793]|[Gate]BLE OFF
+
+2018-10-25 12:38:47.659 || -[BLEManager centralManagerDidUpdateState:]|[L:806]|[Gate]UpdateState:PoweredOff
+
+2018-10-25 12:38:47.993 || getBannerList Success 
+
+2018-10-25 12:38:48.038 || get_news Success 
+
+2018-10-25 12:38:49.733 || -[AppDelegate applicationWillResignActive:]|[L:133]|
+
+2018-10-25 12:38:50.676 || -[AppDelegate applicationDidEnterBackground:]|[L:125]|
+
+2018-10-25 12:38:54.529 || -[BLEManager centralManagerDidUpdateState:]|[L:790]|[Gate]BLE ON
+
+2018-10-25 12:38:54.533 || -[BLEManager centralManagerDidUpdateState:]|[L:806]|[Gate]UpdateState:PoweredOn
+
+2018-10-25 12:39:01.105 || -[AppDelegate applicationWillEnterForeground:]|[L:156]|
+
+2018-10-25 12:39:01.120 || Network-<Carrier> 中華電信
+
+2018-10-25 12:39:01.121 || get_vendor Request 
+
+2018-10-25 12:39:01.573 || -[AppDelegate applicationDidBecomeActive:]|[L:193]|
+
+2018-10-25 12:39:01.583 || Network-<Carrier> 中華電信
+
+2018-10-25 12:39:01.583 || user_fail_trade_check Request 
+
+2018-10-25 12:39:01.618 || get_vendor Success 
+
+2018-10-25 12:39:02.025 || user_fail_trade_check Success 
+
+!!!2018-10-25 12:39:02.025 || result: {
+
+!!!2018-10-25 12:39:02.026 || userManager.garageFarePaymentStatus = NoGarageFare 
+
+2018-10-25 12:39:09.633 || Network-<Carrier> 中華電信
+
+2018-10-25 12:39:09.634 || garage_list Request 
+
+2018-10-25 12:39:10.311 || garage_list Success 
+
+2018-10-25 12:41:05.630 || Network-<Carrier> 中華電信
+
+2018-10-25 12:41:05.632 || getBannerList Request 
+
+2018-10-25 12:41:05.667 || Network-<Carrier> 中華電信
+
+2018-10-25 12:41:05.667 || get_news Request 
+
+2018-10-25 12:41:06.159 || getBannerList Success 
+
+2018-10-25 12:41:06.187 || get_news Success 
+
+2018-10-25 12:41:12.653 || Network-<Carrier> 中華電信
+
+2018-10-25 12:41:12.654 || garage_list Request 
+
+2018-10-25 12:41:12.831 || Network-<Carrier> 中華電信
+
+2018-10-25 12:41:12.832 || garage_list Request 
+
+!!!2018-10-25 12:41:12.859 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  NSLocalizedDescription=已取消}
+
+!!!2018-10-25 12:41:12.859 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  NSLocalizedDescription=已取消}
+
+2018-10-25 12:41:13.543 || garage_list Success 
+
+2018-10-25 12:41:13.617 || Network-<Carrier> 中華電信
+
+2018-10-25 12:41:14.047 || one_garage_list Success 
+
+  ||     ReservationLot = 17;
+
+  ||     "flow_gatecontrol" = 0;
+
+  ||     "garage_id" = 000011;
+
+2018-10-25 12:41:14.068 || State = 2
+
+2018-10-25 12:41:14.068 || Desc = ＊至10/31止免收預約費|＊至10/31止停車第一小時免費|＊至10/31止預約進場免費停車3小時
+
+2018-10-25 12:41:14.082 || Network-<Carrier> 中華電信
+
+2018-10-25 12:41:14.083 || get_vendor Request 
+
+!!!CoreData: annotation: || CoreData: annotation:  Failed to load optimized model at path '/var/containers/Bundle/Application/35C745A6-32C2-4FE0-8A0A-5A439F909F68/paking.app/GoogleMaps.bundle/GMSCacheStorage.momd/StorageWithTileProto.omo'
+
+!!!CoreData: annotation: || CoreData: annotation:  Failed to load optimized model at path '/var/containers/Bundle/Application/35C745A6-32C2-4FE0-8A0A-5A439F909F68/paking.app/GoogleMaps.bundle/GMSCacheStorage.momd/StorageWithTileProto.omo'
+
+!!!CoreData: annotation: || CoreData: annotation:  Failed to load optimized model at path '/var/containers/Bundle/Application/35C745A6-32C2-4FE0-8A0A-5A439F909F68/paking.app/GoogleMaps.bundle/GMSCacheStorage.momd/StorageWithTileProto.omo'
+
+!!!CoreData: annotation: || CoreData: annotation:  Failed to load optimized model at path '/var/containers/Bundle/Application/35C745A6-32C2-4FE0-8A0A-5A439F909F68/paking.app/GoogleMaps.bundle/GMSCacheStorage.momd/StorageWithTileProto.omo'
+
+!!!CoreData: annotation: || CoreData: annotation:  Failed to load optimized model at path '/var/containers/Bundle/Application/35C745A6-32C2-4FE0-8A0A-5A439F909F68/paking.app/GoogleMaps.bundle/GMSCacheStorage.momd/StorageWithTileProto.omo'
+
+!!!CoreData: annotation: || CoreData: annotation:  Failed to load optimized model at path '/var/containers/Bundle/Application/35C745A6-32C2-4FE0-8A0A-5A439F909F68/paking.app/GoogleMaps.bundle/GMSCacheStorage.momd/StorageWithTileProto.omo'
+
+2018-10-25 12:41:14.480 || get_vendor Success 
+
+2018-10-25 12:41:14.603 || Network-<Carrier> 中華電信
+
+2018-10-25 12:41:15.080 || one_garage_list Success 
+
+2018-10-25 12:41:18.098 || Network-<Carrier> 中華電信
+
+2018-10-25 12:41:18.589 || one_garage_list Success 
+
+2018-10-25 12:41:27.052 || Network-<Carrier> 中華電信
+
+2018-10-25 12:41:27.053 || reserve_booking_confirm Request 
+
+  ||     "garage_id" = 000011;
+
+2018-10-25 12:41:27.936 || reserve_booking_confirm Success 
+
+  ||         "flow_gatecontrol" = 0;
+
+  ||         "garage_id" = 000011;
+
+  ||     "flow_gatecontrol" = 0;
+
+  ||     "garage_id" = 000011;
+
+2018-10-25 12:41:28.007 || Network-<Carrier> 中華電信
+
+2018-10-25 12:41:28.007 || trade_reserveOverFee Request 
+
+  ||     "garage_id" = 000011;
+
+2018-10-25 12:41:28.291 || Network-<Carrier> 中華電信
+
+2018-10-25 12:41:28.291 || garage_list Request 
+
+2018-10-25 12:41:28.439 || Network-<Carrier> 中華電信
+
+2018-10-25 12:41:28.440 || garage_list Request 
+
+!!!2018-10-25 12:41:28.443 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  NSLocalizedDescription=已取消}
+
+!!!2018-10-25 12:41:28.443 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  NSLocalizedDescription=已取消}
+
+2018-10-25 12:41:28.639 || trade_reserveOverFee Success 
+
+  ||                 "garage_id" = 000011;
+
+  ||                 "garage_id" = 000011;
+
+2018-10-25 12:41:29.055 || garage_list Success 
+
+2018-10-25 12:41:37.187 || -[AppDelegate applicationWillResignActive:]|[L:133]|
+
+2018-10-25 12:41:40.593 || -[AppDelegate applicationDidEnterBackground:]|[L:125]|
+
+2018-10-25 12:41:41.614 || -[BLEManager centralManagerDidUpdateState:]|[L:793]|[Gate]BLE OFF
+
+2018-10-25 12:41:41.619 || -[BLEManager centralManagerDidUpdateState:]|[L:806]|[Gate]UpdateState:PoweredOff
+
+2018-10-25 12:41:44.774 || -[AppDelegate applicationWillEnterForeground:]|[L:156]|
+
+2018-10-25 12:41:45.248 || -[AppDelegate applicationDidBecomeActive:]|[L:193]|
+
+2018-10-25 12:41:45.273 || Network-<Carrier> 中華電信
+
+2018-10-25 12:41:45.274 || user_fail_trade_check Request 
+
+2018-10-25 12:41:45.288 || Network-<Carrier> 中華電信
+
+2018-10-25 12:41:45.289 || trade_reserveOverFee Request 
+
+  ||     "garage_id" = 000011;
+
+2018-10-25 12:41:45.717 || user_fail_trade_check Success 
+
+!!!2018-10-25 12:41:45.717 || result: {
+
+!!!2018-10-25 12:41:45.718 || userManager.garageFarePaymentStatus = NoGarageFare 
+
+2018-10-25 12:41:45.857 || trade_reserveOverFee Success 
+
+  ||                 "garage_id" = 000011;
+
+  ||                 "garage_id" = 000011;
+
+2018-10-25 12:41:51.626 || -[AppDelegate applicationWillResignActive:]|[L:133]|
+
+2018-10-25 12:41:52.651 || -[AppDelegate applicationDidEnterBackground:]|[L:125]|
+
+2018-10-25 12:41:54.691 || -[AppDelegate checkUpdate]|[L:342]|開始檢查是否更新
+
+2018-10-25 12:41:54.782 || Network-<Carrier> 中華電信
+
+2018-10-25 12:41:54.783 || check_member Request 
+
+2018-10-25 12:41:55.185 || -[AppDelegate applicationDidBecomeActive:]|[L:193]|
+
+2018-10-25 12:41:55.208 || check_member Success 
+
+2018-10-25 12:41:55.216 || Network-<Carrier> 中華電信
+
+2018-10-25 12:41:55.217 || login_check_lite Request 
+
+2018-10-25 12:41:55.678 || login_check_lite Success 
+
+  ||             "garage_id" = 000011;
+
+  ||             "flow_gatecontrol" = 0;
+
+  ||             "garage_id" = 000011;
+
+2018-10-25 12:41:55.687 || userManager.isGarageReservation = 0
+
+2018-10-25 12:41:55.688 || userManager.isReservation = 0
+
+  ||     "flow_gatecontrol" = 0;
+
+  ||     "garage_id" = 000011;
+
+2018-10-25 12:41:55.693 || set userManager.isReservation = 1
+
+2018-10-25 12:41:55.693 || set userManager.isGarageReservation = 0
+
+2018-10-25 12:41:55.748 || Network-<Carrier> 中華電信
+
+2018-10-25 12:41:55.748 || getBannerList Request 
+
+2018-10-25 12:41:55.777 || Network-<Carrier> 中華電信
+
+2018-10-25 12:41:55.777 || get_news Request 
+
+2018-10-25 12:41:55.841 || -[BLEManager centralManagerDidUpdateState:]|[L:793]|[Gate]BLE OFF
+
+2018-10-25 12:41:55.842 || -[BLEManager centralManagerDidUpdateState:]|[L:806]|[Gate]UpdateState:PoweredOff
+
+2018-10-25 12:41:56.140 || getBannerList Success 
+
+2018-10-25 12:41:56.168 || get_news Success 
+
+2018-10-25 12:42:00.631 || Network-<Carrier> 中華電信
+
+2018-10-25 12:42:00.631 || get_vendor Request 
+
+2018-10-25 12:42:00.794 || Network-<Carrier> 中華電信
+
+2018-10-25 12:42:00.795 || trade_reserveOverFee Request 
+
+  ||     "garage_id" = 000011;
+
+2018-10-25 12:42:01.046 || get_vendor Success 
+
+2018-10-25 12:42:01.306 || trade_reserveOverFee Success 
+
+  ||                 "garage_id" = 000011;
+
+  ||                 "garage_id" = 000011;
+
+2018-10-25 12:42:01.427 || Network-<Carrier> 中華電信
+
+2018-10-25 12:42:01.427 || garage_list Request 
+
+2018-10-25 12:42:01.432 || Network-<Carrier> 中華電信
+
+2018-10-25 12:42:01.432 || garage_list Request 
+
+!!!2018-10-25 12:42:01.435 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  NSLocalizedDescription=已取消}
+
+!!!2018-10-25 12:42:01.435 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  NSLocalizedDescription=已取消}
+
+2018-10-25 12:42:01.999 || garage_list Success 
+
+2018-10-25 12:42:04.180 || -[AppDelegate applicationWillResignActive:]|[L:133]|
+
+2018-10-25 12:42:05.313 || -[AppDelegate applicationDidBecomeActive:]|[L:193]|
+
+2018-10-25 12:42:05.330 || Network-<Carrier> 中華電信
+
+2018-10-25 12:42:05.331 || user_fail_trade_check Request 
+
+2018-10-25 12:42:05.345 || Network-<Carrier> 中華電信
+
+2018-10-25 12:42:05.346 || trade_reserveOverFee Request 
+
+  ||     "garage_id" = 000011;
+
+2018-10-25 12:42:05.824 || trade_reserveOverFee Success 
+
+  ||                 "garage_id" = 000011;
+
+  ||                 "garage_id" = 000011;
+
+2018-10-25 12:42:05.868 || user_fail_trade_check Success 
+
+!!!2018-10-25 12:42:05.868 || result: {
+
+!!!2018-10-25 12:42:05.868 || userManager.garageFarePaymentStatus = NoGarageFare 
+
+2018-10-25 12:42:06.796 || -[AppDelegate applicationWillResignActive:]|[L:133]|
+
+2018-10-25 12:42:08.037 || -[AppDelegate applicationDidEnterBackground:]|[L:125]|
+
+!!!CoreData: annotation: || CoreData: annotation:  Failed to load optimized model at path '/var/containers/Bundle/Application/35C745A6-32C2-4FE0-8A0A-5A439F909F68/paking.app/GoogleMaps.bundle/GMSCacheStorage.momd/StorageWithTileProto.omo'
+
+!!!CoreData: annotation: || CoreData: annotation:  Failed to load optimized model at path '/var/containers/Bundle/Application/35C745A6-32C2-4FE0-8A0A-5A439F909F68/paking.app/GoogleMaps.bundle/GMSCacheStorage.momd/StorageWithTileProto.omo'
+
+!!!CoreData: annotation: || CoreData: annotation:  Failed to load optimized model at path '/var/containers/Bundle/Application/35C745A6-32C2-4FE0-8A0A-5A439F909F68/paking.app/GoogleMaps.bundle/GMSCacheStorage.momd/StorageWithTileProto.omo'
+
+2018-10-25 13:01:44.027 || -[AppDelegate checkUpdate]|[L:342]|開始檢查是否更新
+
+2018-10-25 13:01:44.111 || Network-<Carrier> 中華電信
+
+2018-10-25 13:01:44.112 || check_member Request 
+
+2018-10-25 13:01:44.662 || check_member Success 
+
+2018-10-25 13:01:44.672 || Network-<Carrier> 中華電信
+
+2018-10-25 13:01:44.672 || login_check_lite Request 
+
+2018-10-25 13:01:44.678 || -[AppDelegate applicationDidBecomeActive:]|[L:193]|
+
+2018-10-25 13:01:45.123 || login_check_lite Success 
+
+  ||             "garage_id" = 000011;
+
+  ||             "flow_gatecontrol" = 0;
+
+  ||             "garage_id" = 000011;
+
+2018-10-25 13:01:45.133 || userManager.isGarageReservation = 0
+
+2018-10-25 13:01:45.133 || userManager.isReservation = 0
+
+  ||     "flow_gatecontrol" = 0;
+
+  ||     "garage_id" = 000011;
+
+2018-10-25 13:01:45.136 || set userManager.isReservation = 1
+
+2018-10-25 13:01:45.136 || set userManager.isGarageReservation = 0
+
+2018-10-25 13:01:45.191 || Network-<Carrier> 中華電信
+
+2018-10-25 13:01:45.191 || getBannerList Request 
+
+2018-10-25 13:01:45.221 || Network-<Carrier> 中華電信
+
+2018-10-25 13:01:45.221 || get_news Request 
+
+2018-10-25 13:01:45.281 || -[BLEManager centralManagerDidUpdateState:]|[L:793]|[Gate]BLE OFF
+
+2018-10-25 13:01:45.282 || -[BLEManager centralManagerDidUpdateState:]|[L:806]|[Gate]UpdateState:PoweredOff
+
+2018-10-25 13:01:45.626 || getBannerList Success 
+
+2018-10-25 13:01:45.643 || get_news Success 
+
+2018-10-25 13:01:47.633 || Network-<Carrier> 中華電信
+
+2018-10-25 13:01:47.633 || get_vendor Request 
+
+2018-10-25 13:01:47.799 || Network-<Carrier> 中華電信
+
+2018-10-25 13:01:47.799 || trade_reserveOverFee Request 
+
+  ||     "garage_id" = 000011;
+
+2018-10-25 13:01:48.020 || get_vendor Success 
+
+2018-10-25 13:01:48.278 || Network-<Carrier> 中華電信
+
+2018-10-25 13:01:48.278 || garage_list Request 
+
+2018-10-25 13:01:48.279 || trade_reserveOverFee Success 
+
+  ||                 "garage_id" = 000011;
+
+  ||                 "garage_id" = 000011;
+
+2018-10-25 13:01:48.414 || Network-<Carrier> 中華電信
+
+2018-10-25 13:01:48.414 || garage_list Request 
+
+!!!2018-10-25 13:01:48.415 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  NSLocalizedDescription=已取消}
+
+!!!2018-10-25 13:01:48.415 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  NSLocalizedDescription=已取消}
+
+2018-10-25 13:01:48.688 || -[AppDelegate applicationWillResignActive:]|[L:133]|
+
+2018-10-25 13:01:49.213 || garage_list Success 
+
+2018-10-25 13:01:49.462 || -[AppDelegate applicationDidEnterBackground:]|[L:125]|
+
+2018-10-25 13:01:51.370 || -[BLEManager centralManagerDidUpdateState:]|[L:790]|[Gate]BLE ON
+
+2018-10-25 13:01:51.374 || -[BLEManager centralManagerDidUpdateState:]|[L:806]|[Gate]UpdateState:PoweredOn
+
+2018-10-25 13:01:56.737 || -[AppDelegate applicationWillEnterForeground:]|[L:156]|
+
+2018-10-25 13:01:57.218 || -[AppDelegate applicationDidBecomeActive:]|[L:193]|
+
+2018-10-25 13:01:57.239 || Network-<Carrier> 中華電信
+
+2018-10-25 13:01:57.240 || user_fail_trade_check Request 
+
+2018-10-25 13:01:57.254 || Network-<Carrier> 中華電信
+
+2018-10-25 13:01:57.255 || trade_reserveOverFee Request 
+
+  ||     "garage_id" = 000011;
+
+2018-10-25 13:01:57.665 || user_fail_trade_check Success 
+
+!!!2018-10-25 13:01:57.665 || result: {
+
+!!!2018-10-25 13:01:57.666 || userManager.garageFarePaymentStatus = NoGarageFare 
+
+2018-10-25 13:01:57.759 || trade_reserveOverFee Success 
+
+  ||                 "garage_id" = 000011;
+
+  ||                 "garage_id" = 000011;
+
+2018-10-25 13:02:01.558 || -[AppDelegate applicationWillResignActive:]|[L:133]|
+
+2018-10-25 13:02:02.500 || -[AppDelegate applicationDidEnterBackground:]|[L:125]|
+
+!!!CoreData: annotation: || CoreData: annotation:  Failed to load optimized model at path '/var/containers/Bundle/Application/35C745A6-32C2-4FE0-8A0A-5A439F909F68/paking.app/GoogleMaps.bundle/GMSCacheStorage.momd/StorageWithTileProto.omo'
+
+!!!CoreData: annotation: || CoreData: annotation:  Failed to load optimized model at path '/var/containers/Bundle/Application/35C745A6-32C2-4FE0-8A0A-5A439F909F68/paking.app/GoogleMaps.bundle/GMSCacheStorage.momd/StorageWithTileProto.omo'
+
+!!!CoreData: annotation: || CoreData: annotation:  Failed to load optimized model at path '/var/containers/Bundle/Application/35C745A6-32C2-4FE0-8A0A-5A439F909F68/paking.app/GoogleMaps.bundle/GMSCacheStorage.momd/StorageWithTileProto.omo'
+
+2018-10-25 13:09:33.481 || -[AppDelegate checkUpdate]|[L:342]|開始檢查是否更新
+
+2018-10-25 13:09:33.568 || Network-<Carrier> 中華電信
+
+2018-10-25 13:09:33.569 || check_member Request 
+
+2018-10-25 13:09:33.903 || -[AppDelegate applicationDidBecomeActive:]|[L:193]|
+
+2018-10-25 13:09:33.964 || check_member Success 
+
+2018-10-25 13:09:33.977 || Network-<Carrier> 中華電信
+
+2018-10-25 13:09:33.978 || login_check_lite Request 
+
+2018-10-25 13:09:34.461 || login_check_lite Success 
+
+  ||             "garage_id" = 000011;
+
+  ||             "flow_gatecontrol" = 0;
+
+  ||             "garage_id" = 000011;
+
+2018-10-25 13:09:34.470 || userManager.isGarageReservation = 0
+
+2018-10-25 13:09:34.470 || userManager.isReservation = 0
+
+  ||     "flow_gatecontrol" = 0;
+
+  ||     "garage_id" = 000011;
+
+2018-10-25 13:09:34.473 || set userManager.isReservation = 1
+
+2018-10-25 13:09:34.473 || set userManager.isGarageReservation = 0
+
+2018-10-25 13:09:34.529 || Network-<Carrier> 中華電信
+
+2018-10-25 13:09:34.529 || getBannerList Request 
+
+2018-10-25 13:09:34.558 || Network-<Carrier> 中華電信
+
+2018-10-25 13:09:34.559 || get_news Request 
+
+2018-10-25 13:09:34.618 || -[BLEManager centralManagerDidUpdateState:]|[L:793]|[Gate]BLE OFF
+
+2018-10-25 13:09:34.619 || -[BLEManager centralManagerDidUpdateState:]|[L:806]|[Gate]UpdateState:PoweredOff
+
+2018-10-25 13:09:34.911 || getBannerList Success 
+
+2018-10-25 13:09:34.976 || get_news Success 
+
+2018-10-25 13:09:36.229 || Network-<Carrier> 中華電信
+
+2018-10-25 13:09:36.229 || get_vendor Request 
+
+2018-10-25 13:09:36.394 || Network-<Carrier> 中華電信
+
+2018-10-25 13:09:36.394 || trade_reserveOverFee Request 
+
+  ||     "garage_id" = 000011;
+
+2018-10-25 13:09:36.614 || get_vendor Success 
+
+2018-10-25 13:09:36.908 || trade_reserveOverFee Success 
+
+  ||                 "garage_id" = 000011;
+
+  ||                 "garage_id" = 000011;
+
+2018-10-25 13:09:37.036 || Network-<Carrier> 中華電信
+
+2018-10-25 13:09:37.036 || garage_list Request 
+
+2018-10-25 13:09:37.041 || Network-<Carrier> 中華電信
+
+2018-10-25 13:09:37.041 || garage_list Request 
+
+!!!2018-10-25 13:09:37.047 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  NSLocalizedDescription=已取消}
+
+!!!2018-10-25 13:09:37.047 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  NSLocalizedDescription=已取消}
+
+2018-10-25 13:09:37.855 || garage_list Success 
+
+2018-10-25 13:09:38.711 || -[AppDelegate applicationWillResignActive:]|[L:133]|
+
+2018-10-25 13:09:39.483 || -[AppDelegate applicationDidEnterBackground:]|[L:125]|
+
+2018-10-25 13:11:02.870 || -[AppDelegate applicationWillEnterForeground:]|[L:156]|
+
+2018-10-25 13:11:03.420 || -[AppDelegate applicationDidBecomeActive:]|[L:193]|
+
+2018-10-25 13:11:03.437 || Network-<Carrier> 中華電信
+
+2018-10-25 13:11:03.438 || user_fail_trade_check Request 
+
+2018-10-25 13:11:03.451 || Network-<Carrier> 中華電信
+
+2018-10-25 13:11:03.452 || trade_reserveOverFee Request 
+
+  ||     "garage_id" = 000011;
+
+2018-10-25 13:11:03.865 || user_fail_trade_check Success 
+
+!!!2018-10-25 13:11:03.865 || result: {
+
+!!!2018-10-25 13:11:03.865 || userManager.garageFarePaymentStatus = NoGarageFare 
+
+2018-10-25 13:11:03.973 || trade_reserveOverFee Success 
+
+  ||                 "garage_id" = 000011;
+
+  ||                 "garage_id" = 000011;
+
+2018-10-25 13:11:06.406 || -[AppDelegate applicationWillResignActive:]|[L:133]|
+
+2018-10-25 13:11:07.181 || -[AppDelegate applicationDidEnterBackground:]|[L:125]|
+
+2018-10-25 13:11:14.164 || -[AppDelegate applicationWillEnterForeground:]|[L:156]|
+
+2018-10-25 13:11:14.942 || -[AppDelegate applicationDidBecomeActive:]|[L:193]|
+
+2018-10-25 13:11:14.959 || Network-<Carrier> 中華電信
+
+2018-10-25 13:11:14.960 || user_fail_trade_check Request 
+
+2018-10-25 13:11:14.973 || Network-<Carrier> 中華電信
+
+2018-10-25 13:11:14.974 || trade_reserveOverFee Request 
+
+  ||     "garage_id" = 000011;
+
+2018-10-25 13:11:15.419 || user_fail_trade_check Success 
+
+!!!2018-10-25 13:11:15.419 || result: {
+
+!!!2018-10-25 13:11:15.419 || userManager.garageFarePaymentStatus = NoGarageFare 
+
+2018-10-25 13:11:15.513 || trade_reserveOverFee Success 
+
+  ||                 "garage_id" = 000011;
+
+  ||                 "garage_id" = 000011;
+
+2018-10-25 13:11:22.223 || -[AppDelegate applicationWillResignActive:]|[L:133]|
+
+2018-10-25 13:11:24.874 || -[AppDelegate applicationDidEnterBackground:]|[L:125]|
+
+2018-10-25 13:11:35.954 || -[BLEManager centralManagerDidUpdateState:]|[L:790]|[Gate]BLE ON
+
+2018-10-25 13:11:35.957 || -[BLEManager centralManagerDidUpdateState:]|[L:806]|[Gate]UpdateState:PoweredOn
+
+2018-10-25 13:11:52.913 || -[AppDelegate applicationWillEnterForeground:]|[L:156]|
+
+2018-10-25 13:11:53.476 || -[AppDelegate applicationDidBecomeActive:]|[L:193]|
+
+2018-10-25 13:11:53.496 || Network-<Carrier> 中華電信
+
+2018-10-25 13:11:53.497 || user_fail_trade_check Request 
+
+2018-10-25 13:11:53.508 || Network-<Carrier> 中華電信
+
+2018-10-25 13:11:53.509 || trade_reserveOverFee Request 
+
+  ||     "garage_id" = 000011;
+
+2018-10-25 13:11:53.930 || user_fail_trade_check Success 
+
+!!!2018-10-25 13:11:53.930 || result: {
+
+!!!2018-10-25 13:11:53.931 || userManager.garageFarePaymentStatus = NoGarageFare 
+
+2018-10-25 13:11:54.044 || trade_reserveOverFee Success 
+
+  ||                 "garage_id" = 000011;
+
+  ||                 "garage_id" = 000011;
+
+2018-10-25 13:12:13.708 || -[AppDelegate applicationWillResignActive:]|[L:133]|
+
+2018-10-25 13:12:14.483 || -[AppDelegate applicationDidEnterBackground:]|[L:125]|
+
+2018-10-25 13:12:29.192 || -[AppDelegate applicationWillEnterForeground:]|[L:156]|
+
+2018-10-25 13:12:29.789 || -[AppDelegate applicationDidBecomeActive:]|[L:193]|
+
+2018-10-25 13:12:29.805 || Network-<Carrier> 中華電信
+
+2018-10-25 13:12:29.806 || user_fail_trade_check Request 
+
+2018-10-25 13:12:29.820 || Network-<Carrier> 中華電信
+
+2018-10-25 13:12:29.821 || trade_reserveOverFee Request 
+
+  ||     "garage_id" = 000011;
+
+2018-10-25 13:12:30.338 || trade_reserveOverFee Success 
+
+  ||                 "garage_id" = 000011;
+
+  ||                 "garage_id" = 000011;
+
+2018-10-25 13:12:30.439 || user_fail_trade_check Success 
+
+!!!2018-10-25 13:12:30.439 || result: {
+
+!!!2018-10-25 13:12:30.439 || userManager.garageFarePaymentStatus = NoGarageFare 
+
+!!!CoreData: annotation: || CoreData: annotation:  Failed to load optimized model at path '/var/containers/Bundle/Application/35C745A6-32C2-4FE0-8A0A-5A439F909F68/paking.app/GoogleMaps.bundle/GMSCacheStorage.momd/StorageWithTileProto.omo'
+
+!!!CoreData: annotation: || CoreData: annotation:  Failed to load optimized model at path '/var/containers/Bundle/Application/35C745A6-32C2-4FE0-8A0A-5A439F909F68/paking.app/GoogleMaps.bundle/GMSCacheStorage.momd/StorageWithTileProto.omo'
+
+!!!CoreData: annotation: || CoreData: annotation:  Failed to load optimized model at path '/var/containers/Bundle/Application/35C745A6-32C2-4FE0-8A0A-5A439F909F68/paking.app/GoogleMaps.bundle/GMSCacheStorage.momd/StorageWithTileProto.omo'
+
+2018-10-25 13:12:51.868 || Network-<Carrier> 中華電信
+
+2018-10-25 13:12:51.869 || trade_reserveOverFee Request 
+
+  ||     "garage_id" = 000011;
+
+2018-10-25 13:12:52.616 || trade_reserveOverFee Success 
+
+  ||                 "garage_id" = 000011;
+
+  ||                 "garage_id" = 000011;
+
+2018-10-25 13:13:21.884 || [Gate]_BLEMac<adv>:00:23:A7:A6:B2:00_GI:-90
+
+2018-10-25 13:13:21.884 || [Gate]_BLEMac<p>:00:23:A7:A6:B2:00_GI
+
+2018-10-25 13:13:21.901 || Network-<Carrier> 中華電信
+
+2018-10-25 13:13:21.902 || inputAPI = /app.php?page=checkGarage
+
+2018-10-25 13:13:21.905 || checkGarage Request 
+
+2018-10-25 13:13:22.086 || [Gate]_BLEMac<adv>:00:23:A7:A6:B2:00_GI:-88
+
+2018-10-25 13:13:22.087 || [Gate]_BLEMac<p>:00:23:A7:A6:B2:00_GI
+
+2018-10-25 13:13:22.351 || checkGarage Success 
+
+  ||                 "garage_id" = 000011;
+
+  ||                 "garage_id" = 000011;
+
+  ||         "flow_gatecontrol" = 0;
+
+  ||         "garage_id" = 000011;
+
+2018-10-25 13:13:22.615 || [Gate]_BLEMac<adv>:00:23:A7:A6:B2:00_GI:-87
+
+2018-10-25 13:13:22.615 || [Gate]_BLEMac<p>:00:23:A7:A6:B2:00_GI
+
+2018-10-25 13:13:23.033 || [Gate]_BLEMac<adv>:00:23:A7:A6:B2:00_GI:-91
+
+2018-10-25 13:13:23.034 || [Gate]_BLEMac<p>:00:23:A7:A6:B2:00_GI
+
+2018-10-25 13:13:23.556 || [Gate]_BLEMac<adv>:00:23:A7:A6:B2:00_GI:-79
+
+2018-10-25 13:13:23.556 || [Gate]_BLEMac<p>:00:23:A7:A6:B2:00_GI
+
+2018-10-25 13:13:23.557 || [Gate]GATE > -85!!!!
+
+2018-10-25 13:13:23.770 || [Gate]_BLEMac<adv>:00:23:A7:A6:B2:00_GI:-82
+
+2018-10-25 13:13:23.770 || [Gate]_BLEMac<p>:00:23:A7:A6:B2:00_GI
+
+2018-10-25 13:13:23.771 || [Gate]GATE > -85!!!!
+
+2018-10-25 13:13:23.773 || [Gate]pName:00:23:A7:A6:B2:00_GI
+
+2018-10-25 13:13:23.879 || [Gate]_BLEMac<adv>:00:23:A7:A6:B2:00_GI:-88
+
+2018-10-25 13:13:23.879 || [Gate]_BLEMac<p>:00:23:A7:A6:B2:00_GI
+
+2018-10-25 13:13:24.153 || [Gate]pName:00:23:A7:A6:B2:00_GI
+
+2018-10-25 13:13:24.153 || -[BLEManager centralManager:didConnectPeripheral:]|[L:1037]|[Gate]connected duration:0.380009
+
+2018-10-25 13:13:24.153 || -[BLEManager centralManager:didConnectPeripheral:]|[L:1038]|[Gate]apiProcessingStatus:{
+
+2018-10-25 13:13:24.153 || [Gate]pName:00:23:A7:A6:B2:00_GI
+
+2018-10-25 13:13:24.780 || [Gate]pName:00:23:A7:A6:B2:00_GI
+
+2018-10-25 13:13:24.960 || [Gate]pName:00:23:A7:A6:B2:00_GI
+
+2018-10-25 13:13:25.062 || -[BLEManager sendDataToMCU:]|[L:1422]|[Gate]send command to mcu:PASSWORD
+
+2018-10-25 13:13:25.291 || [Gate]pName:00:23:A7:A6:B2:00_GI
+
+2018-10-25 13:13:25.291 || -[BLEManager peripheral:didUpdateValueForCharacteristic:error:]|[L:1378]|[Gate]Gate Password Success
+
+2018-10-25 13:13:25.336 || Network-<Carrier> 中華電信
+
+2018-10-25 13:13:25.337 || inputAPI = /app.php?page=garage_enter_check_reservechange
+
+2018-10-25 13:13:25.340 || garage_enter_check_reservechange Request 
+
+2018-10-25 13:13:25.827 || garage_enter_check_reservechange Success 
+
+2018-10-25 13:13:25.833 || userManager.isGarageReservation = 1
+
+2018-10-25 13:13:25.833 || userManager.isReservation = 1
+
+  ||     "garage_id" = 000011;
+
+2018-10-25 13:13:25.836 || userManager.isGarageReservation = 1
+
+  ||     "flow_gatecontrol" = 0;
+
+  ||     "garage_id" = 000011;
+
+2018-10-25 13:13:25.853 || Network-<Carrier> 中華電信
+
+2018-10-25 13:13:25.854 || parking_space_list Request 
+
+  ||     "garage_id" = 000011;
+
+2018-10-25 13:13:25.880 || 不須拿票卡
+
+2018-10-25 13:13:26.043 || reservation enter popup
+
+2018-10-25 13:13:26.445 || parking_space_list Success 
+
+2018-10-25 13:13:29.421 || [Gate]Open InOutGate 
+
+2018-10-25 13:13:29.449 || Network-<Carrier> 中華電信
+
+2018-10-25 13:13:29.450 || getBannerList Request 
+
+2018-10-25 13:13:29.534 || Network-<Carrier> 中華電信
+
+2018-10-25 13:13:29.534 || get_news Request 
+
+2018-10-25 13:13:29.543 || Network-<Carrier> 中華電信
+
+2018-10-25 13:13:29.543 || inputAPI = /local.php?page=garage_enter_confirm&garage_dbname=000011
+
+2018-10-25 13:13:29.544 || garage_enter_confirm&garage_dbname=000011 Request 
+
+  ||     "garage_id" = 000011;
+
+2018-10-25 13:13:29.867 || getBannerList Success 
+
+2018-10-25 13:13:29.920 || get_news Success 
+
+2018-10-25 13:13:30.624 || garage_enter_confirm&garage_dbname=000011 Success 
+
+  ||         "garage_id" = 000011;
+
+2018-10-25 13:13:30.727 || -[BLEManager sendDataToMCU:]|[L:1428]|[Gate]send command to mcu:OPEN GATE
+
+2018-10-25 13:13:30.931 || [Gate]pName:00:23:A7:A6:B2:00_GI
+
+2018-10-25 13:13:30.931 || -[BLEManager peripheral:didUpdateValueForCharacteristic:error:]|[L:1391]|[Gate]Gate Open Success
+
+2018-10-25 13:13:30.931 || [Gate]
+
+2018-10-25 13:13:30.947 || set orderListInfo = {
+
+  ||     "flow_gatecontrol" = 0;
+
+  ||     "garage_id" = 000011;
+
+2018-10-25 13:13:30.947 || userManager.gateGarageInfo = {
+
+  ||             "garage_id" = 000011;
+
+  ||             "garage_id" = 000011;
+
+  ||     "flow_gatecontrol" = 0;
+
+  ||     "garage_id" = 000011;
+
+2018-10-25 13:13:30.966 ||  18號
+
+  ||     "flow_gatecontrol" = 0;
+
+  ||     "garage_id" = 000011;
+
+2018-10-25 13:13:31.022 || usermanager.isReservation = 0
+
+2018-10-25 13:13:31.022 || usermanager.isGarageReservation = 1
+
+2018-10-25 13:13:31.065 || -[AppDelegate applicationWillResignActive:]|[L:133]|
+
+2018-10-25 13:13:31.065 || -[AppDelegate applicationWillResignActive:]|[L:136]|userManager.checkMotionAlertState == CheckSTATE_CHECKING  
+
+2018-10-25 13:13:34.014 || Network-<Carrier> 中華電信
+
+2018-10-25 13:13:34.015 || get_one_space_status&garage_dbname=000011 Request 
+
+2018-10-25 13:13:34.661 || get_one_space_status&garage_dbname=000011 Success 
+
+2018-10-25 13:13:34.904 || -[AppDelegate applicationDidBecomeActive:]|[L:193]|
+
+2018-10-25 13:13:34.909 || -[AppDelegate applicationDidBecomeActive:]|[L:201]|userManager.checkMotionAlertState = CheckSTATE_CHECKED
+
+2018-10-25 13:13:34.921 || Network-<Carrier> 中華電信
+
+2018-10-25 13:13:34.922 || user_fail_trade_check Request 
+
+2018-10-25 13:13:34.930 || Network-<Carrier> 中華電信
+
+2018-10-25 13:13:34.931 || ANPR_check_exit Request 
+
+2018-10-25 13:13:34.944 || Network-<Carrier> 中華電信
+
+2018-10-25 13:13:34.944 || garage_floor_available&garage_dbname=000011 Request 
+
+  ||     "garage_id" = 000011;
+
+2018-10-25 13:13:35.349 || ANPR_check_exit Success 
+
+2018-10-25 13:13:35.380 || user_fail_trade_check Success 
+
+!!!2018-10-25 13:13:35.381 || result: {
+
+!!!2018-10-25 13:13:35.381 || userManager.garageFarePaymentStatus = NoGarageFare 
+
+2018-10-25 13:13:35.472 || garage_floor_available&garage_dbname=000011 Success 
+
+2018-10-25 13:13:35.485 || Network-<Carrier> 中華電信
+
+2018-10-25 13:13:35.486 || garage_floor_available&garage_dbname=000011 Request 
+
+  ||     "garage_id" = 000011;
+
+2018-10-25 13:13:35.924 || [Gate]pName:00:23:A7:A6:B2:00_GI
+
+2018-10-25 13:13:36.010 || garage_floor_available&garage_dbname=000011 Success 
+
+2018-10-25 13:13:36.027 || Network-<Carrier> 中華電信
+
+2018-10-25 13:13:36.028 || garage_floor_available&garage_dbname=000011 Request 
+
+  ||     "garage_id" = 000011;
+
+2018-10-25 13:13:36.605 || garage_floor_available&garage_dbname=000011 Success 
+
+2018-10-25 13:13:36.618 || Network-<Carrier> 中華電信
+
+2018-10-25 13:13:36.619 || garage_floor_available&garage_dbname=000011 Request 
+
+  ||     "garage_id" = 000011;
+
+2018-10-25 13:13:37.012 || Network-<Carrier> 中華電信
+
+2018-10-25 13:13:37.013 || get_one_space_status&garage_dbname=000011 Request 
+
+2018-10-25 13:13:37.144 || garage_floor_available&garage_dbname=000011 Success 
+
+2018-10-25 13:13:37.157 || Network-<Carrier> 中華電信
+
+2018-10-25 13:13:37.159 || garage_floor_available&garage_dbname=000011 Request 
+
+  ||     "garage_id" = 000011;
+
+2018-10-25 13:13:37.572 || get_one_space_status&garage_dbname=000011 Success 
+
+2018-10-25 13:13:38.084 || garage_floor_available&garage_dbname=000011 Success 
+
+2018-10-25 13:13:38.097 || Network-<Carrier> 中華電信
+
+2018-10-25 13:13:38.098 || garage_floor_available&garage_dbname=000011 Request 
+
+  ||     "garage_id" = 000011;
+
+2018-10-25 13:13:38.628 || garage_floor_available&garage_dbname=000011 Success 
+
+2018-10-25 13:13:38.642 || Network-<Carrier> 中華電信
+
+2018-10-25 13:13:38.643 || garage_floor_available&garage_dbname=000011 Request 
+
+  ||     "garage_id" = 000011;
+
+2018-10-25 13:13:39.225 || garage_floor_available&garage_dbname=000011 Success 
+
+2018-10-25 13:13:39.239 || Network-<Carrier> 中華電信
+
+2018-10-25 13:13:39.240 || garage_floor_available&garage_dbname=000011 Request 
+
+  ||     "garage_id" = 000011;
+
+2018-10-25 13:13:39.749 || garage_floor_available&garage_dbname=000011 Success 
+
+2018-10-25 13:13:39.763 || Network-<Carrier> 中華電信
+
+2018-10-25 13:13:39.765 || garage_floor_available&garage_dbname=000011 Request 
+
+  ||     "garage_id" = 000011;
+
+2018-10-25 13:13:39.766 || -[BLEManager centralManager:didDisconnectPeripheral:error:]|[L:1060]|[Gate]pName:00:23:A7:A6:B2:00_GI
+
+2018-10-25 13:13:39.766 || -[BLEManager centralManager:didDisconnectPeripheral:error:]|[L:1061]|[Gate]error:Error Domain=CBErrorDomain Code=6 "The connection has timed out unexpectedly." UserInfo={NSLocalizedDescription=The connection has timed out unexpectedly.}
+
+2018-10-25 13:13:39.767 || -[BLEManager centralManager:didDisconnectPeripheral:error:]|[L:1062]|[Gate]completeGateConnectProcess=1
+
+2018-10-25 13:13:40.052 || Network-<Carrier> 中華電信
+
+2018-10-25 13:13:40.053 || get_one_space_status&garage_dbname=000011 Request 
+
+2018-10-25 13:13:40.333 || garage_floor_available&garage_dbname=000011 Success 
+
+2018-10-25 13:13:40.347 || Network-<Carrier> 中華電信
+
+2018-10-25 13:13:40.348 || garage_floor_available&garage_dbname=000011 Request 
+
+  ||     "garage_id" = 000011;
+
+2018-10-25 13:13:40.724 || get_one_space_status&garage_dbname=000011 Success 
+
+2018-10-25 13:13:41.148 || garage_floor_available&garage_dbname=000011 Success 
+
+2018-10-25 13:13:41.162 || Network-<Carrier> 中華電信
+
+2018-10-25 13:13:41.163 || garage_floor_available&garage_dbname=000011 Request 
+
+  ||     "garage_id" = 000011;
+
+2018-10-25 13:13:41.709 || garage_floor_available&garage_dbname=000011 Success 
+
+2018-10-25 13:13:41.724 || Network-<Carrier> 中華電信
+
+2018-10-25 13:13:41.725 || garage_floor_available&garage_dbname=000011 Request 
+
+  ||     "garage_id" = 000011;
+
+2018-10-25 13:13:42.284 || garage_floor_available&garage_dbname=000011 Success 
+
+2018-10-25 13:13:42.298 || Network-<Carrier> 中華電信
+
+2018-10-25 13:13:42.299 || garage_floor_available&garage_dbname=000011 Request 
+
+  ||     "garage_id" = 000011;
+
+2018-10-25 13:13:42.849 || garage_floor_available&garage_dbname=000011 Success 
+
+2018-10-25 13:13:42.863 || Network-<Carrier> 中華電信
+
+2018-10-25 13:13:42.864 || garage_floor_available&garage_dbname=000011 Request 
+
+  ||     "garage_id" = 000011;
+
+2018-10-25 13:13:43.009 || Network-<Carrier> 中華電信
+
+2018-10-25 13:13:43.010 || get_one_space_status&garage_dbname=000011 Request 
+
+2018-10-25 13:13:43.405 || garage_floor_available&garage_dbname=000011 Success 
+
+2018-10-25 13:13:43.418 || Network-<Carrier> 中華電信
+
+2018-10-25 13:13:43.419 || garage_floor_available&garage_dbname=000011 Request 
+
+  ||     "garage_id" = 000011;
+
+2018-10-25 13:13:43.852 || get_one_space_status&garage_dbname=000011 Success 
+
+2018-10-25 13:13:44.280 || garage_floor_available&garage_dbname=000011 Success 
+
+2018-10-25 13:13:44.295 || Network-<Carrier> 中華電信
+
+2018-10-25 13:13:44.296 || garage_floor_available&garage_dbname=000011 Request 
+
+  ||     "garage_id" = 000011;
+
+2018-10-25 13:13:44.820 || garage_floor_available&garage_dbname=000011 Success 
+
+2018-10-25 13:13:44.835 || Network-<Carrier> 中華電信
+
+2018-10-25 13:13:44.836 || garage_floor_available&garage_dbname=000011 Request 
+
+  ||     "garage_id" = 000011;
+
+2018-10-25 13:13:45.429 || garage_floor_available&garage_dbname=000011 Success 
+
+2018-10-25 13:13:45.444 || Network-<Carrier> 中華電信
+
+2018-10-25 13:13:45.445 || garage_floor_available&garage_dbname=000011 Request 
+
+  ||     "garage_id" = 000011;
+
+2018-10-25 13:13:45.964 || garage_floor_available&garage_dbname=000011 Success 
+
+2018-10-25 13:13:45.979 || Network-<Carrier> 中華電信
+
+2018-10-25 13:13:45.980 || garage_floor_available&garage_dbname=000011 Request 
+
+  ||     "garage_id" = 000011;
+
+2018-10-25 13:13:46.006 || Network-<Carrier> 中華電信
+
+2018-10-25 13:13:46.006 || get_one_space_status&garage_dbname=000011 Request 
+
+2018-10-25 13:13:46.544 || garage_floor_available&garage_dbname=000011 Success 
+
+2018-10-25 13:13:46.558 || Network-<Carrier> 中華電信
+
+2018-10-25 13:13:46.560 || garage_floor_available&garage_dbname=000011 Request 
+
+  ||     "garage_id" = 000011;
+
+2018-10-25 13:13:46.985 || get_one_space_status&garage_dbname=000011 Success 
+
+2018-10-25 13:13:47.405 || garage_floor_available&garage_dbname=000011 Success 
+
+2018-10-25 13:13:47.418 || Network-<Carrier> 中華電信
+
+2018-10-25 13:13:47.420 || garage_floor_available&garage_dbname=000011 Request 
+
+  ||     "garage_id" = 000011;
+
+2018-10-25 13:13:47.965 || garage_floor_available&garage_dbname=000011 Success 
+
+2018-10-25 13:13:47.980 || Network-<Carrier> 中華電信
+
+2018-10-25 13:13:47.981 || garage_floor_available&garage_dbname=000011 Request 
+
+  ||     "garage_id" = 000011;
+
+2018-10-25 13:13:48.548 || garage_floor_available&garage_dbname=000011 Success 
+
+2018-10-25 13:13:48.562 || Network-<Carrier> 中華電信
+
+2018-10-25 13:13:48.563 || garage_floor_available&garage_dbname=000011 Request 
+
+  ||     "garage_id" = 000011;
+
+2018-10-25 13:13:49.010 || Network-<Carrier> 中華電信
+
+2018-10-25 13:13:49.011 || get_one_space_status&garage_dbname=000011 Request 
+
+2018-10-25 13:13:49.140 || garage_floor_available&garage_dbname=000011 Success 
+
+2018-10-25 13:13:49.153 || Network-<Carrier> 中華電信
+
+2018-10-25 13:13:49.154 || garage_floor_available&garage_dbname=000011 Request 
+
+  ||     "garage_id" = 000011;
+
+2018-10-25 13:13:49.585 || get_one_space_status&garage_dbname=000011 Success 
+
+2018-10-25 13:13:50.047 || garage_floor_available&garage_dbname=000011 Success 
+
+2018-10-25 13:13:50.052 || Network-<Carrier> 中華電信
+
+2018-10-25 13:13:50.052 || garage_floor_available&garage_dbname=000011 Request 
+
+  ||     "garage_id" = 000011;
+
+2018-10-25 13:13:50.549 || garage_floor_available&garage_dbname=000011 Success 
+
+2018-10-25 13:13:50.564 || Network-<Carrier> 中華電信
+
+2018-10-25 13:13:50.565 || garage_floor_available&garage_dbname=000011 Request 
+
+  ||     "garage_id" = 000011;
+
+2018-10-25 13:13:51.132 || garage_floor_available&garage_dbname=000011 Success 
+
+2018-10-25 13:13:51.146 || Network-<Carrier> 中華電信
+
+2018-10-25 13:13:51.147 || garage_floor_available&garage_dbname=000011 Request 
+
+  ||     "garage_id" = 000011;
+
+2018-10-25 13:13:51.668 || garage_floor_available&garage_dbname=000011 Success 
+
+2018-10-25 13:13:51.683 || Network-<Carrier> 中華電信
+
+2018-10-25 13:13:51.684 || garage_floor_available&garage_dbname=000011 Request 
+
+  ||     "garage_id" = 000011;
+
+2018-10-25 13:13:52.012 || Network-<Carrier> 中華電信
+
+2018-10-25 13:13:52.013 || get_one_space_status&garage_dbname=000011 Request 
+
+2018-10-25 13:13:52.328 || garage_floor_available&garage_dbname=000011 Success 
+
+2018-10-25 13:13:52.341 || Network-<Carrier> 中華電信
+
+2018-10-25 13:13:52.342 || garage_floor_available&garage_dbname=000011 Request 
+
+  ||     "garage_id" = 000011;
+
+2018-10-25 13:13:52.768 || get_one_space_status&garage_dbname=000011 Success 
+
+2018-10-25 13:13:53.200 || garage_floor_available&garage_dbname=000011 Success 
+
+2018-10-25 13:13:53.213 || Network-<Carrier> 中華電信
+
+2018-10-25 13:13:53.215 || garage_floor_available&garage_dbname=000011 Request 
+
+  ||     "garage_id" = 000011;
+
+2018-10-25 13:13:53.697 || garage_floor_available&garage_dbname=000011 Success 
+
+2018-10-25 13:13:53.711 || Network-<Carrier> 中華電信
+
+2018-10-25 13:13:53.712 || garage_floor_available&garage_dbname=000011 Request 
+
+  ||     "garage_id" = 000011;
+
+2018-10-25 13:13:54.285 || garage_floor_available&garage_dbname=000011 Success 
+
+2018-10-25 13:13:54.299 || Network-<Carrier> 中華電信
+
+2018-10-25 13:13:54.300 || garage_floor_available&garage_dbname=000011 Request 
+
+  ||     "garage_id" = 000011;
+
+2018-10-25 13:13:54.824 || garage_floor_available&garage_dbname=000011 Success 
+
+2018-10-25 13:13:54.837 || Network-<Carrier> 中華電信
+
+2018-10-25 13:13:54.839 || garage_floor_available&garage_dbname=000011 Request 
+
+  ||     "garage_id" = 000011;
+
+2018-10-25 13:13:55.047 || Network-<Carrier> 中華電信
+
+2018-10-25 13:13:55.047 || get_one_space_status&garage_dbname=000011 Request 
+
+2018-10-25 13:13:55.344 || garage_floor_available&garage_dbname=000011 Success 
+
+2018-10-25 13:13:55.359 || Network-<Carrier> 中華電信
+
+2018-10-25 13:13:55.360 || garage_floor_available&garage_dbname=000011 Request 
+
+  ||     "garage_id" = 000011;
+
+2018-10-25 13:13:55.849 || get_one_space_status&garage_dbname=000011 Success 
+
+2018-10-25 13:13:56.277 || garage_floor_available&garage_dbname=000011 Success 
+
+2018-10-25 13:13:56.293 || Network-<Carrier> 中華電信
+
+2018-10-25 13:13:56.294 || garage_floor_available&garage_dbname=000011 Request 
+
+  ||     "garage_id" = 000011;
+
+2018-10-25 13:13:56.925 || garage_floor_available&garage_dbname=000011 Success 
+
+2018-10-25 13:13:56.939 || Network-<Carrier> 中華電信
+
+2018-10-25 13:13:56.940 || garage_floor_available&garage_dbname=000011 Request 
+
+  ||     "garage_id" = 000011;
+
+2018-10-25 13:13:57.456 || garage_floor_available&garage_dbname=000011 Success 
+
+2018-10-25 13:13:57.469 || Network-<Carrier> 中華電信
+
+2018-10-25 13:13:57.470 || garage_floor_available&garage_dbname=000011 Request 
+
+  ||     "garage_id" = 000011;
+
+2018-10-25 13:13:58.010 || Network-<Carrier> 中華電信
+
+2018-10-25 13:13:58.011 || get_one_space_status&garage_dbname=000011 Request 
+
+2018-10-25 13:13:58.043 || garage_floor_available&garage_dbname=000011 Success 
+
+2018-10-25 13:13:58.056 || Network-<Carrier> 中華電信
+
+2018-10-25 13:13:58.057 || garage_floor_available&garage_dbname=000011 Request 
+
+  ||     "garage_id" = 000011;
+
+2018-10-25 13:13:58.532 || get_one_space_status&garage_dbname=000011 Success 
+
+2018-10-25 13:13:58.924 || garage_floor_available&garage_dbname=000011 Success 
+
+2018-10-25 13:13:58.937 || Network-<Carrier> 中華電信
+
+2018-10-25 13:13:58.939 || garage_floor_available&garage_dbname=000011 Request 
+
+  ||     "garage_id" = 000011;
+
+2018-10-25 13:13:59.424 || garage_floor_available&garage_dbname=000011 Success 
+
+2018-10-25 13:13:59.437 || Network-<Carrier> 中華電信
+
+2018-10-25 13:13:59.438 || garage_floor_available&garage_dbname=000011 Request 
+
+  ||     "garage_id" = 000011;
+
+2018-10-25 13:14:00.047 || garage_floor_available&garage_dbname=000011 Success 
+
+2018-10-25 13:14:00.053 || Network-<Carrier> 中華電信
+
+2018-10-25 13:14:00.054 || garage_floor_available&garage_dbname=000011 Request 
+
+  ||     "garage_id" = 000011;
+
+2018-10-25 13:14:00.660 || garage_floor_available&garage_dbname=000011 Success 
+
+2018-10-25 13:14:00.675 || Network-<Carrier> 中華電信
+
+2018-10-25 13:14:00.676 || garage_floor_available&garage_dbname=000011 Request 
+
+  ||     "garage_id" = 000011;
+
+2018-10-25 13:14:01.010 || Network-<Carrier> 中華電信
+
+2018-10-25 13:14:01.011 || get_one_space_status&garage_dbname=000011 Request 
+
+2018-10-25 13:14:01.352 || garage_floor_available&garage_dbname=000011 Success 
+
+2018-10-25 13:14:01.365 || Network-<Carrier> 中華電信
+
+2018-10-25 13:14:01.366 || garage_floor_available&garage_dbname=000011 Request 
+
+  ||     "garage_id" = 000011;
+
+2018-10-25 13:14:01.971 || get_one_space_status&garage_dbname=000011 Success 
+
+2018-10-25 13:14:02.556 || garage_floor_available&garage_dbname=000011 Success 
+
+2018-10-25 13:14:02.570 || Network-<Carrier> 中華電信
+
+2018-10-25 13:14:02.571 || garage_floor_available&garage_dbname=000011 Request 
+
+  ||     "garage_id" = 000011;
+
+2018-10-25 13:14:03.212 || garage_floor_available&garage_dbname=000011 Success 
+
+2018-10-25 13:14:03.226 || Network-<Carrier> 中華電信
+
+2018-10-25 13:14:03.228 || garage_floor_available&garage_dbname=000011 Request 
+
+  ||     "garage_id" = 000011;
+
+2018-10-25 13:14:03.856 || garage_floor_available&garage_dbname=000011 Success 
+
+2018-10-25 13:14:03.870 || Network-<Carrier> 中華電信
+
+2018-10-25 13:14:03.871 || garage_floor_available&garage_dbname=000011 Request 
+
+  ||     "garage_id" = 000011;
+
+2018-10-25 13:14:04.009 || Network-<Carrier> 中華電信
+
+2018-10-25 13:14:04.010 || get_one_space_status&garage_dbname=000011 Request 
+
+2018-10-25 13:14:04.525 || garage_floor_available&garage_dbname=000011 Success 
+
+2018-10-25 13:14:04.538 || Network-<Carrier> 中華電信
+
+2018-10-25 13:14:04.539 || garage_floor_available&garage_dbname=000011 Request 
+
+  ||     "garage_id" = 000011;
+
+2018-10-25 13:14:05.047 || get_one_space_status&garage_dbname=000011 Success 
+
+2018-10-25 13:14:05.633 || garage_floor_available&garage_dbname=000011 Success 
+
+2018-10-25 13:14:05.646 || Network-<Carrier> 中華電信
+
+2018-10-25 13:14:05.647 || garage_floor_available&garage_dbname=000011 Request 
+
+  ||     "garage_id" = 000011;
+
+2018-10-25 13:14:06.317 || garage_floor_available&garage_dbname=000011 Success 
+
+2018-10-25 13:14:06.332 || Network-<Carrier> 中華電信
+
+2018-10-25 13:14:06.333 || garage_floor_available&garage_dbname=000011 Request 
+
+  ||     "garage_id" = 000011;
+
+2018-10-25 13:14:06.533 || Network-<Carrier> 中華電信
+
+2018-10-25 13:14:06.533 || garage_floor_available&garage_dbname=000011 Request 
+
+  ||     "garage_id" = 000011;
+
+2018-10-25 13:14:06.966 || garage_floor_available&garage_dbname=000011 Success 
+
+2018-10-25 13:14:06.980 || Network-<Carrier> 中華電信
+
+2018-10-25 13:14:06.981 || garage_floor_available&garage_dbname=000011 Request 
+
+  ||     "garage_id" = 000011;
+
+2018-10-25 13:14:07.005 || Network-<Carrier> 中華電信
+
+2018-10-25 13:14:07.006 || get_one_space_status&garage_dbname=000011 Request 
+
+2018-10-25 13:14:07.425 || garage_floor_available&garage_dbname=000011 Success 
+
+2018-10-25 13:14:07.944 || garage_floor_available&garage_dbname=000011 Success 
+
+2018-10-25 13:14:08.491 || get_one_space_status&garage_dbname=000011 Success 
+
+2018-10-25 13:14:09.544 || Network-<Carrier> 中華電信
+
+2018-10-25 13:14:09.545 || floor_area_space_lite&garage_dbname=000011 Request 
+
+2018-10-25 13:14:10.029 || Network-<Carrier> 中華電信
+
+2018-10-25 13:14:10.030 || get_one_space_status&garage_dbname=000011 Request 
+
+2018-10-25 13:14:10.332 || floor_area_space_lite&garage_dbname=000011 Success 
+
+2018-10-25 13:14:10.823 || get_one_space_status&garage_dbname=000011 Success 
+
+2018-10-25 13:14:10.959 || Network-<Carrier> 中華電信
+
+2018-10-25 13:14:10.960 || garage_floor_available&garage_dbname=000011 Request 
+
+  ||     "garage_id" = 000011;
+
+2018-10-25 13:14:11.643 || garage_floor_available&garage_dbname=000011 Success 
+
+2018-10-25 13:14:13.011 || Network-<Carrier> 中華電信
+
+2018-10-25 13:14:13.012 || get_one_space_status&garage_dbname=000011 Request 
+
+2018-10-25 13:14:13.348 || Network-<Carrier> 中華電信
+
+2018-10-25 13:14:13.349 || floor_area_space_lite&garage_dbname=000011 Request 
+
+2018-10-25 13:14:13.604 || get_one_space_status&garage_dbname=000011 Success 
+
+2018-10-25 13:14:14.032 || floor_area_space_lite&garage_dbname=000011 Success 
+
+2018-10-25 13:14:14.661 || Network-<Carrier> 中華電信
+
+2018-10-25 13:14:14.662 || garage_floor_available&garage_dbname=000011 Request 
+
+  ||     "garage_id" = 000011;
+
+2018-10-25 13:14:15.224 || garage_floor_available&garage_dbname=000011 Success 
+
+2018-10-25 13:14:16.010 || Network-<Carrier> 中華電信
+
+2018-10-25 13:14:16.011 || get_one_space_status&garage_dbname=000011 Request 
+
+2018-10-25 13:14:16.707 || get_one_space_status&garage_dbname=000011 Success 
+
+2018-10-25 13:14:17.050 || Network-<Carrier> 中華電信
+
+2018-10-25 13:14:17.052 || floor_area_space_lite&garage_dbname=000011 Request 
+
+2018-10-25 13:14:17.787 || floor_area_space_lite&garage_dbname=000011 Success 
+
+2018-10-25 13:14:18.241 || Network-<Carrier> 中華電信
+
+2018-10-25 13:14:18.242 || garage_floor_available&garage_dbname=000011 Request 
+
+  ||     "garage_id" = 000011;
+
+2018-10-25 13:14:18.387 || voiceString:前方右轉
+
+2018-10-25 13:14:19.012 || Network-<Carrier> 中華電信
+
+2018-10-25 13:14:19.013 || get_one_space_status&garage_dbname=000011 Request 
+
+2018-10-25 13:14:19.043 || garage_floor_available&garage_dbname=000011 Success 
+
+2018-10-25 13:14:19.675 || get_one_space_status&garage_dbname=000011 Success 
+
+2018-10-25 13:14:20.807 || Network-<Carrier> 中華電信
+
+2018-10-25 13:14:20.808 || floor_area_space_lite&garage_dbname=000011 Request 
+
+2018-10-25 13:14:21.460 || floor_area_space_lite&garage_dbname=000011 Success 
+
+2018-10-25 13:14:22.009 || Network-<Carrier> 中華電信
+
+2018-10-25 13:14:22.011 || get_one_space_status&garage_dbname=000011 Request 
+
+2018-10-25 13:14:22.057 || Network-<Carrier> 中華電信
+
+2018-10-25 13:14:22.058 || garage_floor_available&garage_dbname=000011 Request 
+
+  ||     "garage_id" = 000011;
+
+2018-10-25 13:14:22.688 || get_one_space_status&garage_dbname=000011 Success 
+
+2018-10-25 13:14:23.304 || garage_floor_available&garage_dbname=000011 Success 
+
+2018-10-25 13:14:24.479 || Network-<Carrier> 中華電信
+
+2018-10-25 13:14:24.480 || floor_area_space_lite&garage_dbname=000011 Request 
+
+2018-10-25 13:14:25.004 || Network-<Carrier> 中華電信
+
+2018-10-25 13:14:25.005 || get_one_space_status&garage_dbname=000011 Request 
+
+2018-10-25 13:14:25.187 || floor_area_space_lite&garage_dbname=000011 Success 
+
+2018-10-25 13:14:25.705 || get_one_space_status&garage_dbname=000011 Success 
+
+2018-10-25 13:14:26.323 || Network-<Carrier> 中華電信
+
+2018-10-25 13:14:26.324 || garage_floor_available&garage_dbname=000011 Request 
+
+  ||     "garage_id" = 000011;
+
+2018-10-25 13:14:26.476 || send [lockerDown] notification
+
+2018-10-25 13:14:26.510 || voiceString:已接近預約車位
+
+2018-10-25 13:14:26.511 || voiceString:左側
+
+2018-10-25 13:14:26.511 || voiceString:18號
+
+2018-10-25 13:14:26.964 || garage_floor_available&garage_dbname=000011 Success 
+
+2018-10-25 13:14:28.015 || Network-<Carrier> 中華電信
+
+2018-10-25 13:14:28.016 || get_one_space_status&garage_dbname=000011 Request 
+
+2018-10-25 13:14:28.204 || Network-<Carrier> 中華電信
+
+2018-10-25 13:14:28.206 || floor_area_space_lite&garage_dbname=000011 Request 
+
+2018-10-25 13:14:28.532 || get_one_space_status&garage_dbname=000011 Success 
+
+2018-10-25 13:14:28.904 || floor_area_space_lite&garage_dbname=000011 Success 
+
+2018-10-25 13:14:30.013 || Network-<Carrier> 中華電信
+
+2018-10-25 13:14:30.013 || garage_floor_available&garage_dbname=000011 Request 
+
+  ||     "garage_id" = 000011;
+
+2018-10-25 13:14:30.588 || garage_floor_available&garage_dbname=000011 Success 
+
+2018-10-25 13:14:31.010 || Network-<Carrier> 中華電信
+
+2018-10-25 13:14:31.011 || get_one_space_status&garage_dbname=000011 Request 
+
+2018-10-25 13:14:31.487 || get_one_space_status&garage_dbname=000011 Success 
+
+2018-10-25 13:14:31.924 || Network-<Carrier> 中華電信
+
+2018-10-25 13:14:31.925 || floor_area_space_lite&garage_dbname=000011 Request 
+
+2018-10-25 13:14:32.435 || floor_area_space_lite&garage_dbname=000011 Success 
+
+2018-10-25 13:14:33.606 || Network-<Carrier> 中華電信
+
+2018-10-25 13:14:33.607 || garage_floor_available&garage_dbname=000011 Request 
+
+  ||     "garage_id" = 000011;
+
+2018-10-25 13:14:34.010 || Network-<Carrier> 中華電信
+
+2018-10-25 13:14:34.011 || get_one_space_status&garage_dbname=000011 Request 
+
+2018-10-25 13:14:34.171 || garage_floor_available&garage_dbname=000011 Success 
+
+2018-10-25 13:14:34.604 || get_one_space_status&garage_dbname=000011 Success 
+
+2018-10-25 13:14:35.455 || Network-<Carrier> 中華電信
+
+2018-10-25 13:14:35.457 || floor_area_space_lite&garage_dbname=000011 Request 
+
+2018-10-25 13:14:35.983 || floor_area_space_lite&garage_dbname=000011 Success 
+
+2018-10-25 13:14:37.011 || Network-<Carrier> 中華電信
+
+2018-10-25 13:14:37.012 || get_one_space_status&garage_dbname=000011 Request 
+
+2018-10-25 13:14:37.188 || Network-<Carrier> 中華電信
+
+2018-10-25 13:14:37.189 || garage_floor_available&garage_dbname=000011 Request 
+
+  ||     "garage_id" = 000011;
+
+2018-10-25 13:14:37.591 || get_one_space_status&garage_dbname=000011 Success 
+
+2018-10-25 13:14:38.051 || garage_floor_available&garage_dbname=000011 Success 
+
+2018-10-25 13:14:39.003 || Network-<Carrier> 中華電信
+
+2018-10-25 13:14:39.004 || floor_area_space_lite&garage_dbname=000011 Request 
+
+2018-10-25 13:14:39.535 || floor_area_space_lite&garage_dbname=000011 Success 
+
+2018-10-25 13:14:40.050 || Network-<Carrier> 中華電信
+
+2018-10-25 13:14:40.051 || get_one_space_status&garage_dbname=000011 Request 
+
+2018-10-25 13:14:40.567 || get_one_space_status&garage_dbname=000011 Success 
+
+2018-10-25 13:14:41.068 || Network-<Carrier> 中華電信
+
+2018-10-25 13:14:41.069 || garage_floor_available&garage_dbname=000011 Request 
+
+  ||     "garage_id" = 000011;
+
+2018-10-25 13:14:41.683 || garage_floor_available&garage_dbname=000011 Success 
+
+2018-10-25 13:14:42.554 || Network-<Carrier> 中華電信
+
+2018-10-25 13:14:42.555 || floor_area_space_lite&garage_dbname=000011 Request 
+
+2018-10-25 13:14:43.011 || Network-<Carrier> 中華電信
+
+2018-10-25 13:14:43.012 || get_one_space_status&garage_dbname=000011 Request 
+
+2018-10-25 13:14:43.059 || floor_area_space_lite&garage_dbname=000011 Success 
+
+2018-10-25 13:14:43.551 || get_one_space_status&garage_dbname=000011 Success 
+
+2018-10-25 13:14:44.699 || Network-<Carrier> 中華電信
+
+2018-10-25 13:14:44.700 || garage_floor_available&garage_dbname=000011 Request 
+
+  ||     "garage_id" = 000011;
+
+2018-10-25 13:14:45.332 || garage_floor_available&garage_dbname=000011 Success 
+
+2018-10-25 13:14:46.011 || Network-<Carrier> 中華電信
+
+2018-10-25 13:14:46.012 || get_one_space_status&garage_dbname=000011 Request 
+
+2018-10-25 13:14:46.076 || Network-<Carrier> 中華電信
+
+2018-10-25 13:14:46.077 || floor_area_space_lite&garage_dbname=000011 Request 
+
+2018-10-25 13:14:46.317 || Network-<Carrier> 中華電信
+
+2018-10-25 13:14:46.538 || get_one_space_status&garage_dbname=000011 Success 
+
+2018-10-25 13:14:46.918 || floor_area_space_lite&garage_dbname=000011 Success 
+
+2018-10-25 13:14:48.349 || Network-<Carrier> 中華電信
+
+2018-10-25 13:14:48.350 || garage_floor_available&garage_dbname=000011 Request 
+
+  ||     "garage_id" = 000011;
+
+2018-10-25 13:14:48.923 || garage_floor_available&garage_dbname=000011 Success 
+
+2018-10-25 13:14:49.011 || Network-<Carrier> 中華電信
+
+2018-10-25 13:14:49.012 || get_one_space_status&garage_dbname=000011 Request 
+
+2018-10-25 13:14:49.547 || get_one_space_status&garage_dbname=000011 Success 
+
+2018-10-25 13:14:49.936 || Network-<Carrier> 中華電信
+
+2018-10-25 13:14:49.937 || floor_area_space_lite&garage_dbname=000011 Request 
+
+2018-10-25 13:14:50.523 || floor_area_space_lite&garage_dbname=000011 Success 
+
+2018-10-25 13:14:51.451 || Network-<Carrier> 中華電信
+
+2018-10-25 13:14:51.452 || floor_area_space_lite&garage_dbname=000011 Request 
+
+2018-10-25 13:14:51.461 || Network-<Carrier> 中華電信
+
+2018-10-25 13:14:51.462 || garage_floor_available&garage_dbname=000011 Request 
+
+  ||     "garage_id" = 000011;
+
+2018-10-25 13:14:51.972 || floor_area_space_lite&garage_dbname=000011 Success 
+
+2018-10-25 13:14:52.424 || garage_floor_available&garage_dbname=000011 Success 
+
+2018-10-25 13:14:55.048 || Network-<Carrier> 中華電信
+
+2018-10-25 13:14:55.048 || floor_area_space_lite&garage_dbname=000011 Request 
+
+2018-10-25 13:14:55.439 || Network-<Carrier> 中華電信
+
+2018-10-25 13:14:55.441 || garage_floor_available&garage_dbname=000011 Request 
+
+  ||     "garage_id" = 000011;
+
+2018-10-25 13:14:55.529 || floor_area_space_lite&garage_dbname=000011 Success 
+
+2018-10-25 13:14:56.009 || garage_floor_available&garage_dbname=000011 Success 
+
+2018-10-25 13:14:58.548 || Network-<Carrier> 中華電信
+
+2018-10-25 13:14:58.549 || floor_area_space_lite&garage_dbname=000011 Request 
+
+2018-10-25 13:14:59.026 || Network-<Carrier> 中華電信
+
+2018-10-25 13:14:59.027 || garage_floor_available&garage_dbname=000011 Request 
+
+  ||     "garage_id" = 000011;
+
+2018-10-25 13:14:59.043 || floor_area_space_lite&garage_dbname=000011 Success 
+
+2018-10-25 13:14:59.604 || garage_floor_available&garage_dbname=000011 Success 
+
+2018-10-25 13:15:02.060 || Network-<Carrier> 中華電信
+
+2018-10-25 13:15:02.061 || floor_area_space_lite&garage_dbname=000011 Request 
+
+2018-10-25 13:15:02.621 || Network-<Carrier> 中華電信
+
+2018-10-25 13:15:02.623 || garage_floor_available&garage_dbname=000011 Request 
+
+  ||     "garage_id" = 000011;
+
+2018-10-25 13:15:02.738 || floor_area_space_lite&garage_dbname=000011 Success 
+
+2018-10-25 13:15:03.304 || garage_floor_available&garage_dbname=000011 Success 
+
+2018-10-25 13:15:05.756 || Network-<Carrier> 中華電信
+
+2018-10-25 13:15:05.757 || floor_area_space_lite&garage_dbname=000011 Request 
+
+2018-10-25 13:15:06.322 || Network-<Carrier> 中華電信
+
+2018-10-25 13:15:06.323 || garage_floor_available&garage_dbname=000011 Request 
+
+  ||     "garage_id" = 000011;
+
+2018-10-25 13:15:06.395 || floor_area_space_lite&garage_dbname=000011 Success 
+
+2018-10-25 13:15:06.984 || garage_floor_available&garage_dbname=000011 Success 
+
+2018-10-25 13:15:09.413 || Network-<Carrier> 中華電信
+
+2018-10-25 13:15:09.414 || floor_area_space_lite&garage_dbname=000011 Request 
+
+2018-10-25 13:15:10.053 || Network-<Carrier> 中華電信
+
+2018-10-25 13:15:10.054 || garage_floor_available&garage_dbname=000011 Request 
+
+  ||     "garage_id" = 000011;
+
+2018-10-25 13:15:10.121 || floor_area_space_lite&garage_dbname=000011 Success 
+
+2018-10-25 13:15:10.707 || garage_floor_available&garage_dbname=000011 Success 
+
+2018-10-25 13:15:13.137 || Network-<Carrier> 中華電信
+
+2018-10-25 13:15:13.138 || floor_area_space_lite&garage_dbname=000011 Request 
+
+2018-10-25 13:15:13.684 || floor_area_space_lite&garage_dbname=000011 Success 
+
+2018-10-25 13:15:13.723 || Network-<Carrier> 中華電信
+
+2018-10-25 13:15:13.724 || garage_floor_available&garage_dbname=000011 Request 
+
+  ||     "garage_id" = 000011;
+
+2018-10-25 13:15:14.288 || garage_floor_available&garage_dbname=000011 Success 
+
+2018-10-25 13:15:16.703 || Network-<Carrier> 中華電信
+
+2018-10-25 13:15:16.704 || floor_area_space_lite&garage_dbname=000011 Request 
+
+2018-10-25 13:15:17.304 || Network-<Carrier> 中華電信
+
+2018-10-25 13:15:17.305 || garage_floor_available&garage_dbname=000011 Request 
+
+  ||     "garage_id" = 000011;
+
+2018-10-25 13:15:17.306 || floor_area_space_lite&garage_dbname=000011 Success 
+
+2018-10-25 13:15:17.847 || garage_floor_available&garage_dbname=000011 Success 
+
+2018-10-25 13:15:20.324 || Network-<Carrier> 中華電信
+
+2018-10-25 13:15:20.325 || floor_area_space_lite&garage_dbname=000011 Request 
+
+2018-10-25 13:15:20.864 || Network-<Carrier> 中華電信
+
+2018-10-25 13:15:20.865 || garage_floor_available&garage_dbname=000011 Request 
+
+  ||     "garage_id" = 000011;
+
+2018-10-25 13:15:20.866 || floor_area_space_lite&garage_dbname=000011 Success 
+
+2018-10-25 13:15:21.467 || garage_floor_available&garage_dbname=000011 Success 
+
+2018-10-25 13:15:23.884 || Network-<Carrier> 中華電信
+
+2018-10-25 13:15:23.886 || floor_area_space_lite&garage_dbname=000011 Request 
+
+2018-10-25 13:15:24.451 || floor_area_space_lite&garage_dbname=000011 Success 
+
+2018-10-25 13:15:24.483 || Network-<Carrier> 中華電信
+
+2018-10-25 13:15:24.484 || garage_floor_available&garage_dbname=000011 Request 
+
+  ||     "garage_id" = 000011;
+
+2018-10-25 13:15:25.133 || garage_floor_available&garage_dbname=000011 Success 
+
+2018-10-25 13:15:27.470 || Network-<Carrier> 中華電信
+
+2018-10-25 13:15:27.471 || floor_area_space_lite&garage_dbname=000011 Request 
+
+2018-10-25 13:15:27.979 || floor_area_space_lite&garage_dbname=000011 Success 
+
+2018-10-25 13:15:28.148 || Network-<Carrier> 中華電信
+
+2018-10-25 13:15:28.149 || garage_floor_available&garage_dbname=000011 Request 
+
+  ||     "garage_id" = 000011;
+
+2018-10-25 13:15:28.519 || voiceString:停完車請確認
+
+2018-10-25 13:15:28.725 || garage_floor_available&garage_dbname=000011 Success 
+
+2018-10-25 13:15:30.999 || Network-<Carrier> 中華電信
+
+2018-10-25 13:15:31.000 || floor_area_space_lite&garage_dbname=000011 Request 
+
+2018-10-25 13:15:31.543 || floor_area_space_lite&garage_dbname=000011 Success 
+
+2018-10-25 13:15:31.741 || Network-<Carrier> 中華電信
+
+2018-10-25 13:15:31.743 || garage_floor_available&garage_dbname=000011 Request 
+
+  ||     "garage_id" = 000011;
+
+2018-10-25 13:15:32.243 || garage_floor_available&garage_dbname=000011 Success 
+
+2018-10-25 13:15:34.562 || Network-<Carrier> 中華電信
+
+2018-10-25 13:15:34.563 || floor_area_space_lite&garage_dbname=000011 Request 
+
+2018-10-25 13:15:35.102 || floor_area_space_lite&garage_dbname=000011 Success 
+
+2018-10-25 13:15:35.260 || Network-<Carrier> 中華電信
+
+2018-10-25 13:15:35.261 || garage_floor_available&garage_dbname=000011 Request 
+
+  ||     "garage_id" = 000011;
+
+2018-10-25 13:15:35.827 || garage_floor_available&garage_dbname=000011 Success 
+
+2018-10-25 13:15:38.119 || Network-<Carrier> 中華電信
+
+2018-10-25 13:15:38.120 || floor_area_space_lite&garage_dbname=000011 Request 
+
+2018-10-25 13:15:38.715 || floor_area_space_lite&garage_dbname=000011 Success 
+
+2018-10-25 13:15:38.843 || Network-<Carrier> 中華電信
+
+2018-10-25 13:15:38.844 || garage_floor_available&garage_dbname=000011 Request 
+
+  ||     "garage_id" = 000011;
+
+2018-10-25 13:15:39.392 || garage_floor_available&garage_dbname=000011 Success 
+
+2018-10-25 13:15:41.734 || Network-<Carrier> 中華電信
+
+2018-10-25 13:15:41.736 || floor_area_space_lite&garage_dbname=000011 Request 
+
+2018-10-25 13:15:42.284 || floor_area_space_lite&garage_dbname=000011 Success 
+
+2018-10-25 13:15:42.408 || Network-<Carrier> 中華電信
+
+2018-10-25 13:15:42.409 || garage_floor_available&garage_dbname=000011 Request 
+
+  ||     "garage_id" = 000011;
+
+2018-10-25 13:15:42.963 || garage_floor_available&garage_dbname=000011 Success 
+
+2018-10-25 13:15:45.302 || Network-<Carrier> 中華電信
+
+2018-10-25 13:15:45.303 || floor_area_space_lite&garage_dbname=000011 Request 
+
+2018-10-25 13:15:45.843 || floor_area_space_lite&garage_dbname=000011 Success 
+
+2018-10-25 13:15:45.979 || Network-<Carrier> 中華電信
+
+2018-10-25 13:15:45.980 || garage_floor_available&garage_dbname=000011 Request 
+
+  ||     "garage_id" = 000011;
+
+2018-10-25 13:15:46.529 || garage_floor_available&garage_dbname=000011 Success 
+
+2018-10-25 13:15:48.862 || Network-<Carrier> 中華電信
+
+2018-10-25 13:15:48.863 || floor_area_space_lite&garage_dbname=000011 Request 
+
+2018-10-25 13:15:49.443 || floor_area_space_lite&garage_dbname=000011 Success 
+
+2018-10-25 13:15:49.546 || Network-<Carrier> 中華電信
+
+2018-10-25 13:15:49.547 || garage_floor_available&garage_dbname=000011 Request 
+
+  ||     "garage_id" = 000011;
+
+2018-10-25 13:15:50.089 || garage_floor_available&garage_dbname=000011 Success 
+
+2018-10-25 13:15:52.463 || Network-<Carrier> 中華電信
+
+2018-10-25 13:15:52.464 || floor_area_space_lite&garage_dbname=000011 Request 
+
+2018-10-25 13:15:53.007 || floor_area_space_lite&garage_dbname=000011 Success 
+
+2018-10-25 13:15:53.103 || Network-<Carrier> 中華電信
+
+2018-10-25 13:15:53.104 || garage_floor_available&garage_dbname=000011 Request 
+
+  ||     "garage_id" = 000011;
+
+2018-10-25 13:15:53.699 || garage_floor_available&garage_dbname=000011 Success 
+
+2018-10-25 13:15:56.026 || Network-<Carrier> 中華電信
+
+2018-10-25 13:15:56.027 || floor_area_space_lite&garage_dbname=000011 Request 
+
+2018-10-25 13:15:56.535 || floor_area_space_lite&garage_dbname=000011 Success 
+
+2018-10-25 13:15:56.715 || Network-<Carrier> 中華電信
+
+2018-10-25 13:15:56.716 || garage_floor_available&garage_dbname=000011 Request 
+
+  ||     "garage_id" = 000011;
+
+2018-10-25 13:15:57.272 || garage_floor_available&garage_dbname=000011 Success 
+
+2018-10-25 13:15:59.555 || Network-<Carrier> 中華電信
+
+2018-10-25 13:15:59.556 || floor_area_space_lite&garage_dbname=000011 Request 
+
+2018-10-25 13:16:00.242 || floor_area_space_lite&garage_dbname=000011 Success 
+
+2018-10-25 13:16:00.288 || Network-<Carrier> 中華電信
+
+2018-10-25 13:16:00.289 || garage_floor_available&garage_dbname=000011 Request 
+
+  ||     "garage_id" = 000011;
+
+2018-10-25 13:16:00.931 || garage_floor_available&garage_dbname=000011 Success 
+
+2018-10-25 13:16:03.260 || Network-<Carrier> 中華電信
+
+2018-10-25 13:16:03.261 || floor_area_space_lite&garage_dbname=000011 Request 
+
+2018-10-25 13:16:03.867 || floor_area_space_lite&garage_dbname=000011 Success 
+
+2018-10-25 13:16:03.946 || Network-<Carrier> 中華電信
+
+2018-10-25 13:16:03.947 || garage_floor_available&garage_dbname=000011 Request 
+
+  ||     "garage_id" = 000011;
+
+2018-10-25 13:16:04.603 || garage_floor_available&garage_dbname=000011 Success 
+
+2018-10-25 13:16:06.887 || Network-<Carrier> 中華電信
+
+2018-10-25 13:16:06.888 || floor_area_space_lite&garage_dbname=000011 Request 
+
+2018-10-25 13:16:07.479 || floor_area_space_lite&garage_dbname=000011 Success 
+
+2018-10-25 13:16:07.621 || Network-<Carrier> 中華電信
+
+2018-10-25 13:16:07.622 || garage_floor_available&garage_dbname=000011 Request 
+
+  ||     "garage_id" = 000011;
+
+2018-10-25 13:16:08.287 || garage_floor_available&garage_dbname=000011 Success 
+
+2018-10-25 13:16:10.498 || Network-<Carrier> 中華電信
+
+2018-10-25 13:16:10.499 || floor_area_space_lite&garage_dbname=000011 Request 
+
+2018-10-25 13:16:11.163 || floor_area_space_lite&garage_dbname=000011 Success 
+
+2018-10-25 13:16:11.303 || Network-<Carrier> 中華電信
+
+2018-10-25 13:16:11.305 || garage_floor_available&garage_dbname=000011 Request 
+
+  ||     "garage_id" = 000011;
+
+2018-10-25 13:16:12.164 || garage_floor_available&garage_dbname=000011 Success 
+
+2018-10-25 13:16:14.179 || Network-<Carrier> 中華電信
+
+2018-10-25 13:16:14.180 || floor_area_space_lite&garage_dbname=000011 Request 
+
+2018-10-25 13:16:14.824 || floor_area_space_lite&garage_dbname=000011 Success 
+
+2018-10-25 13:16:15.174 || Network-<Carrier> 中華電信
+
+2018-10-25 13:16:15.174 || garage_floor_available&garage_dbname=000011 Request 
+
+  ||     "garage_id" = 000011;
+
+2018-10-25 13:16:15.904 || garage_floor_available&garage_dbname=000011 Success 
+
+2018-10-25 13:16:17.844 || Network-<Carrier> 中華電信
+
+2018-10-25 13:16:17.845 || floor_area_space_lite&garage_dbname=000011 Request 
+
+2018-10-25 13:16:18.521 || floor_area_space_lite&garage_dbname=000011 Success 
+
+2018-10-25 13:16:18.921 || Network-<Carrier> 中華電信
+
+2018-10-25 13:16:18.922 || garage_floor_available&garage_dbname=000011 Request 
+
+  ||     "garage_id" = 000011;
+
+2018-10-25 13:16:19.072 || voiceString:是否停車完成
+
+2018-10-25 13:16:19.073 || ParkedConfirmNote popup
+
+2018-10-25 13:16:19.625 || garage_floor_available&garage_dbname=000011 Success 
+
+2018-10-25 13:16:21.020 || Network-<Carrier> 中華電信
+
+2018-10-25 13:16:21.021 || parking_tracking_insert_test&garage_dbname=000011 Request 
+
+2018-10-25 13:16:21.038 || Network-<Carrier> 中華電信
+
+2018-10-25 13:16:21.038 || getBannerList Request 
+
+2018-10-25 13:16:21.055 || Network-<Carrier> 中華電信
+
+2018-10-25 13:16:21.056 || get_news Request 
+
+2018-10-25 13:16:21.472 || getBannerList Success 
+
+2018-10-25 13:16:21.516 || get_news Success 
+
+2018-10-25 13:16:21.784 || parking_tracking_insert_test&garage_dbname=000011 Success 
+
+2018-10-25 13:16:21.806 || Network-<Carrier> 中華電信
+
+2018-10-25 13:16:21.807 || space_tracking_lite&garage_dbname=000011 Request 
+
+2018-10-25 13:16:23.388 || space_tracking_lite&garage_dbname=000011 Success 
+
+2018-10-25 13:16:26.165 || Network-<Carrier> 中華電信
+
+2018-10-25 13:16:26.166 || trade_get_parkingFee Request 
+
+  ||     "garage_id" = 000011;
+
+2018-10-25 13:16:26.176 || Network-<Carrier> 中華電信
+
+2018-10-25 13:16:26.177 || user_invoice_list Request 
+
+2018-10-25 13:16:26.698 || trade_get_parkingFee Success 
+
+  ||                 "garage_id" = 000011;
+
+  ||                 "garage_id" = 000011;
+
+2018-10-25 13:16:26.722 || user_invoice_list Success 
+
+2018-10-25 13:16:30.295 || Network-<Carrier> 中華電信
+
+2018-10-25 13:16:30.296 || getBannerList Request 
+
+2018-10-25 13:16:30.764 || getBannerList Success 
+
+2018-10-25 13:16:30.837 || Network-<Carrier> 中華電信
+
+2018-10-25 13:16:30.838 || get_news Request 
+
+2018-10-25 13:16:31.291 || get_news Success 
+
+2018-10-25 13:16:31.913 || -[AppDelegate applicationWillResignActive:]|[L:133]|
+
+2018-10-25 13:16:36.787 || -[AppDelegate applicationDidEnterBackground:]|[L:125]|
+
+2018-10-25 15:33:47.400 || -[AppDelegate checkUpdate]|[L:338]|場外不執行更新
+
+2018-10-25 15:33:47.526 || Network-<Carrier> 中華電信
+
+2018-10-25 15:33:47.532 || check_member Request 
+
+2018-10-25 15:33:47.549 || -[AppDelegate applicationDidBecomeActive:]|[L:193]|
+
+2018-10-25 15:33:48.029 || check_member Success 
+
+2018-10-25 15:33:48.039 || Network-<Carrier> 中華電信
+
+2018-10-25 15:33:48.040 || login_check_lite Request 
+
+2018-10-25 15:33:49.362 || login_check_lite Success 
+
+  ||                     "garage_id" = 000011;
+
+  ||                     "garage_id" = 000011;
+
+  ||             "garage_id" = 000011;
+
+  ||             "flow_gatecontrol" = 0;
+
+  ||             "garage_id" = 000011;
+
+  ||             "garage_id" = 000011;
+
+  ||             "garage_id" = 000011;
+
+  ||             "flow_gatecontrol" = 0;
+
+  ||             "garage_id" = 000011;
+
+2018-10-25 15:33:49.387 || userManager.isGarageReservation = 1
+
+2018-10-25 15:33:49.387 || userManager.isReservation = 1
+
+  ||     "flow_gatecontrol" = 0;
+
+  ||     "garage_id" = 000011;
+
+2018-10-25 15:33:49.389 || userManager.isGarageReservation = 1
+
+2018-10-25 15:33:49.394 || userManager.isGarageReservation = 1
+
+2018-10-25 15:33:49.394 || userManager.isReservation = 1
+
+  ||     "flow_gatecontrol" = 0;
+
+  ||     "garage_id" = 000011;
+
+2018-10-25 15:33:49.405 || set userManager.isReservation = 0
+
+2018-10-25 15:33:49.405 || set userManager.isGarageReservation = 1
+
+2018-10-25 15:33:49.416 || Network-<Carrier> 中華電信
+
+2018-10-25 15:33:49.416 || ANPR_check_exit Request 
+
+2018-10-25 15:33:49.495 || Network-<Carrier> 中華電信
+
+2018-10-25 15:33:49.495 || getBannerList Request 
+
+2018-10-25 15:33:49.524 || Network-<Carrier> 中華電信
+
+2018-10-25 15:33:49.524 || get_news Request 
+
+2018-10-25 15:33:49.570 || -[BLEManager centralManagerDidUpdateState:]|[L:790]|[Gate]BLE ON
+
+2018-10-25 15:33:49.570 || -[BLEManager centralManagerDidUpdateState:]|[L:806]|[Gate]UpdateState:PoweredOn
+
+2018-10-25 15:33:49.832 || ANPR_check_exit Success 
+
+2018-10-25 15:33:49.930 || get_news Success 
+
+2018-10-25 15:33:49.957 || getBannerList Success 
+
+2018-10-25 15:33:52.429 || Network-<Carrier> 中華電信
+
+2018-10-25 15:33:52.429 || space_tracking_lite&garage_dbname=000011 Request 
+
+2018-10-25 15:33:53.746 || space_tracking_lite&garage_dbname=000011 Success 
+
+2018-10-25 15:33:56.768 || Network-<Carrier> 中華電信
+
+2018-10-25 15:33:56.770 || get_one_space_status&garage_dbname=000011 Request 
+
+2018-10-25 15:33:57.426 || get_one_space_status&garage_dbname=000011 Success 
+
+2018-10-25 15:33:59.768 || Network-<Carrier> 中華電信
+
+2018-10-25 15:33:59.769 || get_one_space_status&garage_dbname=000011 Request 
+
+2018-10-25 15:34:00.478 || Network-<Carrier> 中華電信
+
+2018-10-25 15:34:00.479 || getBannerList Request 
+
+2018-10-25 15:34:00.496 || get_one_space_status&garage_dbname=000011 Success 
+
+2018-10-25 15:34:00.507 || Network-<Carrier> 中華電信
+
+2018-10-25 15:34:00.508 || get_news Request 
+
+2018-10-25 15:34:01.019 || getBannerList Success 
+
+2018-10-25 15:34:01.047 || get_news Success 
+
+2018-10-25 15:34:02.767 || Network-<Carrier> 中華電信
+
+2018-10-25 15:34:02.768 || get_one_space_status&garage_dbname=000011 Request 
+
+2018-10-25 15:34:02.833 || Network-<Carrier> 中華電信
+
+2018-10-25 15:34:02.834 || trade_get_parkingFee Request 
+
+  ||     "garage_id" = 000011;
+
+2018-10-25 15:34:02.842 || Network-<Carrier> 中華電信
+
+2018-10-25 15:34:02.842 || user_invoice_list Request 
+
+2018-10-25 15:34:03.290 || user_invoice_list Success 
+
+2018-10-25 15:34:03.401 || get_one_space_status&garage_dbname=000011 Success 
+
+2018-10-25 15:34:03.402 || trade_get_parkingFee Success 
+
+  ||                 "garage_id" = 000011;
+
+  ||                 "garage_id" = 000011;
+
+2018-10-25 15:34:05.767 || Network-<Carrier> 中華電信
+
+2018-10-25 15:34:05.768 || get_one_space_status&garage_dbname=000011 Request 
+
+2018-10-25 15:34:06.461 || get_one_space_status&garage_dbname=000011 Success 
+
+2018-10-25 15:34:06.696 || Network-<Carrier> 中華電信
+
+2018-10-25 15:34:06.697 || getBannerList Request 
+
+2018-10-25 15:34:07.125 || getBannerList Success 
+
+2018-10-25 15:34:07.237 || Network-<Carrier> 中華電信
+
+2018-10-25 15:34:07.238 || get_news Request 
+
+2018-10-25 15:34:07.730 || get_news Success 
+
+2018-10-25 15:34:08.766 || Network-<Carrier> 中華電信
+
+2018-10-25 15:34:08.767 || get_one_space_status&garage_dbname=000011 Request 
+
+2018-10-25 15:34:09.375 || get_one_space_status&garage_dbname=000011 Success 
+
+2018-10-25 15:34:11.766 || Network-<Carrier> 中華電信
+
+2018-10-25 15:34:11.767 || get_one_space_status&garage_dbname=000011 Request 
+
+2018-10-25 15:34:12.339 || get_one_space_status&garage_dbname=000011 Success 
+
+2018-10-25 15:34:14.766 || Network-<Carrier> 中華電信
+
+2018-10-25 15:34:14.767 || get_one_space_status&garage_dbname=000011 Request 
+
+2018-10-25 15:34:15.299 || get_one_space_status&garage_dbname=000011 Success 
+
+2018-10-25 15:34:17.765 || Network-<Carrier> 中華電信
+
+2018-10-25 15:34:17.766 || get_one_space_status&garage_dbname=000011 Request 
+
+2018-10-25 15:34:18.442 || get_one_space_status&garage_dbname=000011 Success 
+
+2018-10-25 15:34:20.046 || -[AppDelegate applicationWillResignActive:]|[L:133]|
+
+2018-10-25 15:34:20.767 || Network-<Carrier> 中華電信
+
+2018-10-25 15:34:20.769 || get_one_space_status&garage_dbname=000011 Request 
+
+2018-10-25 15:34:21.506 || get_one_space_status&garage_dbname=000011 Success 
+
+2018-10-25 15:34:22.913 || -[AppDelegate applicationDidEnterBackground:]|[L:125]|
+
+2018-10-25 15:34:23.800 || Network-<Carrier> 中華電信
+
+2018-10-25 15:34:23.800 || get_one_space_status&garage_dbname=000011 Request 
+
+2018-10-25 15:34:24.526 || get_one_space_status&garage_dbname=000011 Success 
+
+2018-10-25 15:34:26.814 || Network-<Carrier> 中華電信
+
+2018-10-25 15:34:26.816 || get_one_space_status&garage_dbname=000011 Request 
+
+2018-10-25 15:34:27.539 || get_one_space_status&garage_dbname=000011 Success 
+
+2018-10-25 15:34:29.861 || Network-<Carrier> 中華電信
+
+2018-10-25 15:34:29.863 || get_one_space_status&garage_dbname=000011 Request 
+
+2018-10-25 15:34:30.622 || get_one_space_status&garage_dbname=000011 Success 
+
+2018-10-25 15:34:32.822 || Network-<Carrier> 中華電信
+
+2018-10-25 15:34:32.824 || get_one_space_status&garage_dbname=000011 Request 
+
+2018-10-25 15:34:33.544 || get_one_space_status&garage_dbname=000011 Success 
+
+2018-10-25 15:34:35.846 || Network-<Carrier> 中華電信
+
+2018-10-25 15:34:35.848 || get_one_space_status&garage_dbname=000011 Request 
+
+2018-10-25 15:34:36.481 || get_one_space_status&garage_dbname=000011 Success 
+
+2018-10-25 15:34:36.988 || -[AppDelegate applicationWillEnterForeground:]|[L:156]|
+
+2018-10-25 15:34:37.002 || Network-<Carrier> 中華電信
+
+2018-10-25 15:34:37.002 || get_vendor Request 
+
+2018-10-25 15:34:37.461 || get_vendor Success 
+
+2018-10-25 15:34:37.464 || -[AppDelegate applicationDidBecomeActive:]|[L:193]|
+
+2018-10-25 15:34:37.477 || Network-<Carrier> 中華電信
+
+2018-10-25 15:34:37.477 || user_fail_trade_check Request 
+
+2018-10-25 15:34:37.486 || Network-<Carrier> 中華電信
+
+2018-10-25 15:34:37.487 || ANPR_check_exit Request 
+
+2018-10-25 15:34:37.922 || user_fail_trade_check Success 
+
+!!!2018-10-25 15:34:37.922 || result: {
+
+!!!2018-10-25 15:34:37.922 || userManager.garageFarePaymentStatus = NoGarageFare 
+
+2018-10-25 15:34:37.955 || ANPR_check_exit Success 
+
+2018-10-25 15:34:38.701 || Network-<Carrier> 中華電信
+
+2018-10-25 15:34:38.701 || space_tracking_lite&garage_dbname=000011 Request 
+
+2018-10-25 15:34:40.499 || space_tracking_lite&garage_dbname=000011 Success 
+
+2018-10-25 15:34:43.517 || Network-<Carrier> 中華電信
+
+2018-10-25 15:34:43.519 || get_one_space_status&garage_dbname=000011 Request 
+
+2018-10-25 15:34:44.259 || get_one_space_status&garage_dbname=000011 Success 
+
+2018-10-25 15:34:46.517 || Network-<Carrier> 中華電信
+
+2018-10-25 15:34:46.519 || get_one_space_status&garage_dbname=000011 Request 
+
+2018-10-25 15:34:47.201 || Network-<Carrier> 中華電信
+
+2018-10-25 15:34:47.202 || getBannerList Request 
+
+2018-10-25 15:34:47.219 || get_one_space_status&garage_dbname=000011 Success 
+
+2018-10-25 15:34:47.231 || Network-<Carrier> 中華電信
+
+2018-10-25 15:34:47.231 || get_news Request 
+
+2018-10-25 15:34:47.650 || getBannerList Success 
+
+2018-10-25 15:34:47.675 || get_news Success 
+
+2018-10-25 15:34:49.462 || Network-<Carrier> 中華電信
+
+2018-10-25 15:34:49.463 || trade_get_parkingFee Request 
+
+  ||     "garage_id" = 000011;
+
+2018-10-25 15:34:49.471 || Network-<Carrier> 中華電信
+
+2018-10-25 15:34:49.471 || user_invoice_list Request 
+
+2018-10-25 15:34:49.520 || Network-<Carrier> 中華電信
+
+2018-10-25 15:34:49.520 || get_one_space_status&garage_dbname=000011 Request 
+
+2018-10-25 15:34:49.991 || trade_get_parkingFee Success 
+
+  ||                 "garage_id" = 000011;
+
+  ||                 "garage_id" = 000011;
+
+2018-10-25 15:34:50.014 || user_invoice_list Success 
+
+2018-10-25 15:34:50.089 || get_one_space_status&garage_dbname=000011 Success 
+
+2018-10-25 15:34:52.518 || Network-<Carrier> 中華電信
+
+2018-10-25 15:34:52.519 || get_one_space_status&garage_dbname=000011 Request 
+
+2018-10-25 15:34:53.098 || get_one_space_status&garage_dbname=000011 Success 
+
+2018-10-25 15:34:54.635 || Network-<Carrier> 中華電信
+
+2018-10-25 15:34:54.636 || getBannerList Request 
+
+2018-10-25 15:34:55.074 || getBannerList Success 
+
+2018-10-25 15:34:55.176 || Network-<Carrier> 中華電信
+
+2018-10-25 15:34:55.177 || get_news Request 
+
+2018-10-25 15:34:55.516 || Network-<Carrier> 中華電信
+
+2018-10-25 15:34:55.517 || get_one_space_status&garage_dbname=000011 Request 
+
+2018-10-25 15:34:55.643 || get_news Success 
+
+2018-10-25 15:34:56.179 || get_one_space_status&garage_dbname=000011 Success 
+
+2018-10-25 15:34:58.518 || Network-<Carrier> 中華電信
+
+2018-10-25 15:34:58.519 || get_one_space_status&garage_dbname=000011 Request 
+
+2018-10-25 15:34:59.130 || get_one_space_status&garage_dbname=000011 Success 
+
+2018-10-25 15:35:01.516 || Network-<Carrier> 中華電信
+
+2018-10-25 15:35:01.517 || get_one_space_status&garage_dbname=000011 Request 
+
+2018-10-25 15:35:02.238 || get_one_space_status&garage_dbname=000011 Success 
+
+2018-10-25 15:35:04.517 || Network-<Carrier> 中華電信
+
+2018-10-25 15:35:04.518 || get_one_space_status&garage_dbname=000011 Request 
+
+2018-10-25 15:35:05.242 || get_one_space_status&garage_dbname=000011 Success 
+
+2018-10-25 15:35:07.517 || Network-<Carrier> 中華電信
+
+2018-10-25 15:35:07.518 || get_one_space_status&garage_dbname=000011 Request 
+
+2018-10-25 15:35:08.125 || get_one_space_status&garage_dbname=000011 Success 
+
+2018-10-25 15:35:10.518 || Network-<Carrier> 中華電信
+
+2018-10-25 15:35:10.519 || get_one_space_status&garage_dbname=000011 Request 
+
+2018-10-25 15:35:11.147 || get_one_space_status&garage_dbname=000011 Success 
+
+2018-10-25 15:35:13.515 || Network-<Carrier> 中華電信
+
+2018-10-25 15:35:13.517 || get_one_space_status&garage_dbname=000011 Request 
+
+2018-10-25 15:35:14.288 || get_one_space_status&garage_dbname=000011 Success 
+
+2018-10-25 15:35:34.682 || Network-<Carrier> 中華電信
+
+2018-10-25 15:35:34.683 || get_one_space_status&garage_dbname=000011 Request 
+
+2018-10-25 15:35:35.455 || get_one_space_status&garage_dbname=000011 Success 
+
+2018-10-25 15:35:38.197 || Network-<Carrier> 中華電信
+
+2018-10-25 15:35:38.198 || get_one_space_status&garage_dbname=000011 Request 
+
+2018-10-25 15:35:38.791 || get_one_space_status&garage_dbname=000011 Success 
+
+2018-10-25 15:35:41.632 || Network-<Carrier> 中華電信
+
+2018-10-25 15:35:41.634 || get_one_space_status&garage_dbname=000011 Request 
+
+2018-10-25 15:35:42.171 || get_one_space_status&garage_dbname=000011 Success 
+
+2018-10-25 15:35:43.517 || Network-<Carrier> 中華電信
+
+2018-10-25 15:35:43.519 || get_one_space_status&garage_dbname=000011 Request 
+
+2018-10-25 15:35:44.051 || get_one_space_status&garage_dbname=000011 Success 
+
+2018-10-25 15:35:46.518 || Network-<Carrier> 中華電信
+
+2018-10-25 15:35:46.519 || get_one_space_status&garage_dbname=000011 Request 
+
+2018-10-25 15:35:47.059 || get_one_space_status&garage_dbname=000011 Success 
+
+2018-10-25 15:35:49.516 || Network-<Carrier> 中華電信
+
+2018-10-25 15:35:49.517 || get_one_space_status&garage_dbname=000011 Request 
+
+2018-10-25 15:35:50.131 || get_one_space_status&garage_dbname=000011 Success 
+
+2018-10-25 15:35:52.518 || Network-<Carrier> 中華電信
+
+2018-10-25 15:35:52.519 || get_one_space_status&garage_dbname=000011 Request 
+
+2018-10-25 15:35:53.271 || get_one_space_status&garage_dbname=000011 Success 
+
+2018-10-25 15:35:55.516 || Network-<Carrier> 中華電信
+
+2018-10-25 15:35:55.518 || get_one_space_status&garage_dbname=000011 Request 
+
+2018-10-25 15:35:56.051 || get_one_space_status&garage_dbname=000011 Success 
+
+2018-10-25 15:35:58.517 || Network-<Carrier> 中華電信
+
+2018-10-25 15:35:58.518 || get_one_space_status&garage_dbname=000011 Request 
+
+2018-10-25 15:35:59.090 || get_one_space_status&garage_dbname=000011 Success 
+
+2018-10-25 15:36:01.517 || Network-<Carrier> 中華電信
+
+2018-10-25 15:36:01.518 || get_one_space_status&garage_dbname=000011 Request 
+
+2018-10-25 15:36:02.167 || get_one_space_status&garage_dbname=000011 Success 
+
+2018-10-25 15:36:04.517 || Network-<Carrier> 中華電信
+
+2018-10-25 15:36:04.519 || get_one_space_status&garage_dbname=000011 Request 
+
+2018-10-25 15:36:05.231 || get_one_space_status&garage_dbname=000011 Success 
+
+2018-10-25 15:36:07.517 || Network-<Carrier> 中華電信
+
+2018-10-25 15:36:07.518 || get_one_space_status&garage_dbname=000011 Request 
+
+2018-10-25 15:36:08.151 || get_one_space_status&garage_dbname=000011 Success 
+
+2018-10-25 15:36:10.518 || Network-<Carrier> 中華電信
+
+2018-10-25 15:36:10.519 || get_one_space_status&garage_dbname=000011 Request 
+
+2018-10-25 15:36:11.187 || get_one_space_status&garage_dbname=000011 Success 
+
+2018-10-25 15:36:33.421 || Network-<Carrier> 中華電信
+
+2018-10-25 15:36:33.422 || inputAPI = /app.php?page=checkGarage
+
+2018-10-25 15:36:33.426 || checkGarage Request 
+
+2018-10-25 15:36:34.151 || checkGarage Success 
+
+  ||                 "garage_id" = 000011;
+
+  ||                 "garage_id" = 000011;
+
+  ||         "flow_gatecontrol" = 0;
+
+  ||         "garage_id" = 000011;
+
+2018-10-25 15:36:35.801 || -[AppDelegate applicationWillResignActive:]|[L:133]|
+
+2018-10-25 15:36:38.286 || -[AppDelegate applicationDidBecomeActive:]|[L:193]|
+
+2018-10-25 15:36:38.307 || Network-<Carrier> 中華電信
+
+2018-10-25 15:36:38.309 || user_fail_trade_check Request 
+
+2018-10-25 15:36:38.319 || Network-<Carrier> 中華電信
+
+2018-10-25 15:36:38.320 || ANPR_check_exit Request 
+
+2018-10-25 15:36:38.776 || ANPR_check_exit Success 
+
+2018-10-25 15:36:38.835 || user_fail_trade_check Success 
+
+!!!2018-10-25 15:36:38.835 || result: {
+
+!!!2018-10-25 15:36:38.835 || userManager.garageFarePaymentStatus = NoGarageFare 
+
+2018-10-25 15:36:39.681 || Network-<Carrier> 中華電信
+
+2018-10-25 15:36:39.682 || getBannerList Request 
+
+2018-10-25 15:36:39.713 || Network-<Carrier> 中華電信
+
+2018-10-25 15:36:39.713 || get_news Request 
+
+2018-10-25 15:36:39.831 || [Gate]GATE > -85!!!!
+
+2018-10-25 15:36:40.134 || getBannerList Success 
+
+2018-10-25 15:36:40.151 || get_news Success 
+
+2018-10-25 15:36:41.189 || [Gate]GATE > -85!!!!
+
+2018-10-25 15:36:44.223 || [Gate]GATE > -85!!!!
+
+2018-10-25 15:36:44.858 || [Gate]_BLEMac<adv>:00:23:A7:CF:1F:70_GO:-85
+
+2018-10-25 15:36:44.859 || [Gate]GATE > -85!!!!
+
+2018-10-25 15:36:44.963 || [Gate]GATE > -85!!!!
+
+2018-10-25 15:36:45.221 || -[BLEManager centralManager:didConnectPeripheral:]|[L:1037]|[Gate]connected duration:0.359286
+
+2018-10-25 15:36:45.221 || -[BLEManager centralManager:didConnectPeripheral:]|[L:1038]|[Gate]apiProcessingStatus:{
+
+2018-10-25 15:36:46.307 || -[BLEManager sendDataToMCU:]|[L:1422]|[Gate]send command to mcu:PASSWORD
+
+2018-10-25 15:36:46.536 || -[BLEManager peripheral:didUpdateValueForCharacteristic:error:]|[L:1378]|[Gate]Gate Password Success
+
+2018-10-25 15:36:46.607 || voiceString:抵達車廠出口
+
+2018-10-25 15:36:47.864 || [Gate]Open InOutGate 
+
+2018-10-25 15:36:47.979 || -[BLEManager sendDataToMCU:]|[L:1428]|[Gate]send command to mcu:OPEN GATE
+
+2018-10-25 15:36:48.126 || -[BLEManager peripheral:didUpdateValueForCharacteristic:error:]|[L:1391]|[Gate]Gate Open Success
+
+2018-10-25 15:36:48.142 || Network-<Carrier> 中華電信
+
+2018-10-25 15:36:48.143 || garage_leave_pay&garage_dbname=000011 Request 
+
+2018-10-25 15:36:48.145 || leaveGarageName = 鴻海高雄軟體研發大樓停車場
+

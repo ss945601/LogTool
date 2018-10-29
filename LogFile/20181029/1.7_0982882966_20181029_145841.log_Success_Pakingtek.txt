@@ -1,0 +1,689 @@
+使用者：Pakingtek
+‘裝置： iPhone 6s
+系統： iOS 12.0.1
+版本： paking versoin:1.7(release)
+電信： 
+預約： 無
+車廠： 000001-特力屋內湖店 車辨入場, 有Ｎ導航
+///////////////////////////////////
+
+第一次GI 到 Pop Up 時間 : 19.0秒
+
+///////////////////////////////////
+( 2018-10-29 14:56:29 )	收到第一個GI
+
+( 2018-10-29 14:56:48 )	入閘POP_UP
+
+( 2018-10-29 14:58:41 )	離開車廠紀錄
+
+///////////////////////////////////
+
+<API:checkGarage>
+狀態：Success
+呼叫次數：1次
+耗費時間：0.810秒
+網路來源：PaKing-172.20.10.11
+
+<API:ANPR_check_enter>
+狀態：Success
+呼叫次數：2次
+耗費時間：0.956秒
+網路來源：PaKing-172.20.10.11
+
+<API:garage_enter_check_reservechange>
+狀態：Success
+呼叫次數：1次
+耗費時間：1.094秒
+網路來源：PaKing-172.20.10.11
+
+<API:garage_enter_confirm>
+狀態：Success
+呼叫次數：1次
+耗費時間：1.032秒
+網路來源：PaKing-172.20.10.11
+
+<API:ANPR_binding>
+狀態：Success
+呼叫次數：1次
+耗費時間：2.333秒
+網路來源：PaKing-172.20.10.11
+
+///////////////////////////////////
+網路切換時機
+2018-10-29 14:54:44.021 PaKing-172.20.10.11 (first)
+
+
+--------detail--------
+
+2018-10-29 14:54:30.257 || !!PaKing APP Open!!
+
+2018-10-29 14:54:30.261 || Pakingtek 的 iPhone (2)
+
+2018-10-29 14:54:30.261 || iOS 12.0.1
+
+2018-10-29 14:54:30.261 || -[LogManager defaultLog]|[L:108]|Device:iPhone 6s
+
+2018-10-29 14:54:30.261 || paking versoin:1.7(release)
+
+2018-10-29 14:54:30.262 || paking build:20181024163520
+
+2018-10-29 14:54:37.980 || 
+
+2018-10-29 14:54:38.410 || 
+
+2018-10-29 14:54:38.411 || 
+
+2018-10-29 14:54:38.888 || [Gate][Locker]
+
+2018-10-29 14:54:41.678 || not from LocalNotiPress
+
+2018-10-29 14:54:44.021 || Network <WIFI> PaKing-172.20.10.11
+
+2018-10-29 14:54:44.022 || user_setting_edit Request 
+
+2018-10-29 14:54:44.937 || user_setting_edit Success 
+
+2018-10-29 14:54:45.678 || Network <WIFI> PaKing-172.20.10.11
+
+2018-10-29 14:54:45.680 || user_setting_edit Request 
+
+2018-10-29 14:54:46.408 || user_setting_edit Success 
+
+2018-10-29 14:54:47.204 || Network <WIFI> PaKing-172.20.10.11
+
+2018-10-29 14:54:47.205 || getBannerList Request 
+
+2018-10-29 14:54:47.728 || Network <WIFI> PaKing-172.20.10.11
+
+2018-10-29 14:54:47.729 || get_news Request 
+
+2018-10-29 14:54:48.046 || getBannerList Success 
+
+2018-10-29 14:54:48.210 || get_news Success 
+
+2018-10-29 14:56:29.805 || [Gate]_BLEMac<adv>:00:23:A7:A6:AF:10_GI:-100
+
+2018-10-29 14:56:29.806 || [Gate]_BLEMac<p>:00:23:A7:A6:AF:10_GI
+
+2018-10-29 14:56:29.810 || Network <WIFI> PaKing-172.20.10.11
+
+2018-10-29 14:56:29.812 || inputAPI = /app.php?page=checkGarage
+
+2018-10-29 14:56:29.816 || checkGarage Request 
+
+  ||     "00:23:A7:A6:AF:10_GI"
+
+2018-10-29 14:56:30.626 || checkGarage Success 
+
+  ||                 "garage_id" = 000001;
+
+  ||                 "garage_id" = 000001;
+
+  ||                 "garage_id" = 000001;
+
+  ||                 "garage_id" = 000001;
+
+  ||         "flow_gatecontrol" = 1;
+
+  ||         "garage_id" = 000001;
+
+2018-10-29 14:56:31.693 || [Gate]_BLEMac<adv>:00:23:A7:A6:AF:10_GI:-98
+
+2018-10-29 14:56:31.694 || [Gate]_BLEMac<p>:00:23:A7:A6:AF:10_GI
+
+2018-10-29 14:56:35.396 || [Gate]_BLEMac<adv>:00:23:A7:A6:AF:10_GI:-98
+
+2018-10-29 14:56:35.396 || [Gate]_BLEMac<p>:00:23:A7:A6:AF:10_GI
+
+2018-10-29 14:56:36.870 || [Gate]_BLEMac<adv>:00:23:A7:A6:AF:10_GI:-99
+
+2018-10-29 14:56:36.871 || [Gate]_BLEMac<p>:00:23:A7:A6:AF:10_GI
+
+2018-10-29 14:56:38.566 || [Gate]_BLEMac<adv>:00:23:A7:A6:AF:10_GI:-99
+
+2018-10-29 14:56:38.567 || [Gate]_BLEMac<p>:00:23:A7:A6:AF:10_GI
+
+2018-10-29 14:56:39.403 || [Gate]_BLEMac<adv>:00:23:A7:A6:AF:10_GI:-95
+
+2018-10-29 14:56:39.403 || [Gate]_BLEMac<p>:00:23:A7:A6:AF:10_GI
+
+2018-10-29 14:56:39.821 || [Gate]_BLEMac<adv>:00:23:A7:A6:AF:10_GI:-91
+
+2018-10-29 14:56:39.821 || [Gate]_BLEMac<p>:00:23:A7:A6:AF:10_GI
+
+2018-10-29 14:56:40.352 || [Gate]_BLEMac<adv>:00:23:A7:A6:AF:10_GI:-95
+
+2018-10-29 14:56:40.352 || [Gate]_BLEMac<p>:00:23:A7:A6:AF:10_GI
+
+2018-10-29 14:56:40.879 || [Gate]_BLEMac<adv>:00:23:A7:A6:AF:10_GI:-99
+
+2018-10-29 14:56:40.879 || [Gate]_BLEMac<p>:00:23:A7:A6:AF:10_GI
+
+2018-10-29 14:56:41.406 || [Gate]_BLEMac<adv>:00:23:A7:A6:AF:10_GI:-97
+
+2018-10-29 14:56:41.406 || [Gate]_BLEMac<p>:00:23:A7:A6:AF:10_GI
+
+2018-10-29 14:56:41.829 || [Gate]_BLEMac<adv>:00:23:A7:A6:AF:10_GI:-90
+
+2018-10-29 14:56:41.829 || [Gate]_BLEMac<p>:00:23:A7:A6:AF:10_GI
+
+2018-10-29 14:56:41.830 || [Gate]ANPRStatus_GI Start
+
+2018-10-29 14:56:41.830 || ANPRRetryCount:1
+
+2018-10-29 14:56:41.832 || Network <WIFI> PaKing-172.20.10.11
+
+2018-10-29 14:56:41.833 || ANPR_check_enter Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-29 14:56:42.789 || ANPR_check_enter Success 
+
+2018-10-29 14:56:42.999 || [Gate]_BLEMac<adv>:00:23:A7:A6:AF:10_GI:-85
+
+2018-10-29 14:56:42.999 || [Gate]_BLEMac<p>:00:23:A7:A6:AF:10_GI
+
+2018-10-29 14:56:44.366 || [Gate]_BLEMac<adv>:00:23:A7:A6:AF:10_GI:-80
+
+2018-10-29 14:56:44.374 || [Gate]_BLEMac<p>:00:23:A7:A6:AF:10_GI
+
+2018-10-29 14:56:44.901 || [Gate]_BLEMac<adv>:00:23:A7:A6:AF:10_GI:-84
+
+2018-10-29 14:56:44.901 || [Gate]_BLEMac<p>:00:23:A7:A6:AF:10_GI
+
+2018-10-29 14:56:45.323 || [Gate]_BLEMac<adv>:00:23:A7:A6:AF:10_GI:-84
+
+2018-10-29 14:56:45.324 || [Gate]_BLEMac<p>:00:23:A7:A6:AF:10_GI
+
+2018-10-29 14:56:45.858 || [Gate]_BLEMac<adv>:00:23:A7:A6:AF:10_GI:-77
+
+2018-10-29 14:56:45.860 || [Gate]_BLEMac<p>:00:23:A7:A6:AF:10_GI
+
+2018-10-29 14:56:45.998 || ANPRRetryCount:2
+
+2018-10-29 14:56:46.002 || Network <WIFI> PaKing-172.20.10.11
+
+2018-10-29 14:56:46.003 || ANPR_check_enter Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-29 14:56:46.485 || [Gate]_BLEMac<adv>:00:23:A7:A6:AF:10_GI:-74
+
+2018-10-29 14:56:46.485 || [Gate]_BLEMac<p>:00:23:A7:A6:AF:10_GI
+
+2018-10-29 14:56:46.903 || ANPR_check_enter Success 
+
+2018-10-29 14:56:46.907 || Network <WIFI> PaKing-172.20.10.11
+
+2018-10-29 14:56:46.908 || inputAPI = /app.php?page=garage_enter_check_reservechange
+
+2018-10-29 14:56:46.913 || garage_enter_check_reservechange Request 
+
+2018-10-29 14:56:46.916 || Network <WIFI> PaKing-172.20.10.11
+
+2018-10-29 14:56:47.115 || [Gate]_BLEMac<adv>:00:23:A7:A6:AF:10_GI:-78
+
+2018-10-29 14:56:47.115 || [Gate]_BLEMac<p>:00:23:A7:A6:AF:10_GI
+
+2018-10-29 14:56:47.394 || Network <WIFI> PaKing-172.20.10.11
+
+2018-10-29 14:56:48.007 || garage_enter_check_reservechange Success 
+
+  ||             "flow_gatecontrol" = 1;
+
+  ||             "garage_id" = 000001;
+
+  ||                 "garage_id" = 000001;
+
+  ||                 "garage_id" = 000001;
+
+  ||                 "garage_id" = 000001;
+
+  ||                 "garage_id" = 000001;
+
+2018-10-29 14:56:48.033 || userManager.isGarageReservation = 0
+
+2018-10-29 14:56:48.033 || userManager.isReservation = 0
+
+2018-10-29 14:56:48.039 || userManager.isGarageReservation = 0
+
+  ||     "flow_gatecontrol" = 1;
+
+  ||     "garage_id" = 000001;
+
+2018-10-29 14:56:48.048 || Network <WIFI> PaKing-172.20.10.11
+
+2018-10-29 14:56:48.049 || parking_space_list Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-29 14:56:48.055 || Network <WIFI> PaKing-172.20.10.11
+
+2018-10-29 14:56:48.056 || inputAPI = /local.php?page=garage_enter_confirm&garage_dbname=000001
+
+2018-10-29 14:56:48.057 || garage_enter_confirm&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-29 14:56:48.066 || voiceString:歡迎光臨
+
+2018-10-29 14:56:48.067 || normal enter popup
+
+2018-10-29 14:56:48.991 || [Gate]_BLEMac<adv>:00:23:A7:A6:AF:10_GI:-77
+
+2018-10-29 14:56:48.991 || [Gate]_BLEMac<p>:00:23:A7:A6:AF:10_GI
+
+  ||     "00:23:A7:A6:AF:10_GI"
+
+2018-10-29 14:56:49.089 || garage_enter_confirm&garage_dbname=000001 Success 
+
+2018-10-29 14:56:49.093 || Network <WIFI> PaKing-172.20.10.11
+
+2018-10-29 14:56:49.094 || ANPR_binding Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-29 14:56:49.407 || [Gate]_BLEMac<adv>:00:23:A7:A6:AF:10_GI:-87
+
+2018-10-29 14:56:49.408 || [Gate]_BLEMac<p>:00:23:A7:A6:AF:10_GI
+
+2018-10-29 14:56:50.029 || parking_space_list Success 
+
+2018-10-29 14:56:50.367 || [Gate]_BLEMac<adv>:00:23:A7:A6:AF:10_GI:-93
+
+2018-10-29 14:56:50.367 || [Gate]_BLEMac<p>:00:23:A7:A6:AF:10_GI
+
+2018-10-29 14:56:50.886 || [Gate]_BLEMac<adv>:00:23:A7:A6:AF:10_GI:-97
+
+2018-10-29 14:56:50.886 || [Gate]_BLEMac<p>:00:23:A7:A6:AF:10_GI
+
+2018-10-29 14:56:51.412 || [Gate]_BLEMac<adv>:00:23:A7:A6:AF:10_GI:-98
+
+2018-10-29 14:56:51.412 || [Gate]_BLEMac<p>:00:23:A7:A6:AF:10_GI
+
+2018-10-29 14:56:51.427 || ANPR_binding Success 
+
+2018-10-29 14:56:51.432 || [Gate]response = {
+
+  ||     "garage_id" = 000001;
+
+2018-10-29 14:56:51.440 || set orderListInfo = {
+
+  ||     "flow_gatecontrol" = 1;
+
+  ||     "garage_id" = 000001;
+
+2018-10-29 14:56:51.441 || userManager.gateGarageInfo = {
+
+  ||             "garage_id" = 000001;
+
+  ||             "garage_id" = 000001;
+
+  ||             "garage_id" = 000001;
+
+  ||             "garage_id" = 000001;
+
+  ||     "flow_gatecontrol" = 1;
+
+  ||     "garage_id" = 000001;
+
+  ||     "flow_gatecontrol" = 1;
+
+  ||     "garage_id" = 000001;
+
+2018-10-29 14:56:51.473 || usermanager.isReservation = 0
+
+2018-10-29 14:56:51.473 || usermanager.isGarageReservation = 0
+
+2018-10-29 14:57:12.300 || Network <WIFI> PaKing-172.20.10.11
+
+2018-10-29 14:57:12.300 || garage_floor_available&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-29 14:57:13.550 || garage_floor_available&garage_dbname=000001 Success 
+
+2018-10-29 14:57:16.306 || Network <WIFI> PaKing-172.20.10.11
+
+2018-10-29 14:57:16.308 || floor_area_space_lite&garage_dbname=000001 Request 
+
+2018-10-29 14:57:16.556 || Network <WIFI> PaKing-172.20.10.11
+
+2018-10-29 14:57:16.558 || garage_floor_available&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-29 14:57:17.641 || floor_area_space_lite&garage_dbname=000001 Success 
+
+2018-10-29 14:57:17.705 || garage_floor_available&garage_dbname=000001 Success 
+
+2018-10-29 14:57:20.709 || Network <WIFI> PaKing-172.20.10.11
+
+2018-10-29 14:57:20.711 || floor_area_space_lite&garage_dbname=000001 Request 
+
+2018-10-29 14:57:20.715 || Network <WIFI> PaKing-172.20.10.11
+
+2018-10-29 14:57:20.717 || garage_floor_available&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-29 14:57:21.858 || garage_floor_available&garage_dbname=000001 Success 
+
+2018-10-29 14:57:22.067 || floor_area_space_lite&garage_dbname=000001 Success 
+
+2018-10-29 14:57:24.863 || Network <WIFI> PaKing-172.20.10.11
+
+2018-10-29 14:57:24.865 || garage_floor_available&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-29 14:57:25.134 || Network <WIFI> PaKing-172.20.10.11
+
+2018-10-29 14:57:25.136 || floor_area_space_lite&garage_dbname=000001 Request 
+
+2018-10-29 14:57:26.180 || garage_floor_available&garage_dbname=000001 Success 
+
+2018-10-29 14:57:26.307 || floor_area_space_lite&garage_dbname=000001 Success 
+
+2018-10-29 14:57:29.186 || Network <WIFI> PaKing-172.20.10.11
+
+2018-10-29 14:57:29.187 || garage_floor_available&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-29 14:57:29.376 || Network <WIFI> PaKing-172.20.10.11
+
+2018-10-29 14:57:29.377 || floor_area_space_lite&garage_dbname=000001 Request 
+
+2018-10-29 14:57:29.917 || garage_floor_available&garage_dbname=000001 Success 
+
+2018-10-29 14:57:30.282 || floor_area_space_lite&garage_dbname=000001 Success 
+
+2018-10-29 14:57:32.921 || Network <WIFI> PaKing-172.20.10.11
+
+2018-10-29 14:57:32.922 || garage_floor_available&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-29 14:57:33.350 || Network <WIFI> PaKing-172.20.10.11
+
+2018-10-29 14:57:33.352 || floor_area_space_lite&garage_dbname=000001 Request 
+
+2018-10-29 14:57:35.159 || floor_area_space_lite&garage_dbname=000001 Success 
+
+2018-10-29 14:57:35.309 || garage_floor_available&garage_dbname=000001 Success 
+
+2018-10-29 14:57:38.223 || Network <WIFI> PaKing-172.20.10.11
+
+2018-10-29 14:57:38.225 || floor_area_space_lite&garage_dbname=000001 Request 
+
+2018-10-29 14:57:38.312 || Network <WIFI> PaKing-172.20.10.11
+
+2018-10-29 14:57:38.314 || garage_floor_available&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-29 14:57:38.848 || floor_area_space_lite&garage_dbname=000001 Success 
+
+2018-10-29 14:57:39.307 || garage_floor_available&garage_dbname=000001 Success 
+
+2018-10-29 14:57:41.913 || Network <WIFI> PaKing-172.20.10.11
+
+2018-10-29 14:57:41.914 || floor_area_space_lite&garage_dbname=000001 Request 
+
+2018-10-29 14:57:42.311 || Network <WIFI> PaKing-172.20.10.11
+
+2018-10-29 14:57:42.312 || garage_floor_available&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-29 14:57:42.795 || floor_area_space_lite&garage_dbname=000001 Success 
+
+2018-10-29 14:57:43.050 || garage_floor_available&garage_dbname=000001 Success 
+
+2018-10-29 14:57:45.868 || Network <WIFI> PaKing-172.20.10.11
+
+2018-10-29 14:57:45.869 || floor_area_space_lite&garage_dbname=000001 Request 
+
+2018-10-29 14:57:46.053 || Network <WIFI> PaKing-172.20.10.11
+
+2018-10-29 14:57:46.054 || garage_floor_available&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-29 14:57:46.440 || floor_area_space_lite&garage_dbname=000001 Success 
+
+2018-10-29 14:57:46.974 || garage_floor_available&garage_dbname=000001 Success 
+
+2018-10-29 14:57:49.507 || Network <WIFI> PaKing-172.20.10.11
+
+2018-10-29 14:57:49.509 || floor_area_space_lite&garage_dbname=000001 Request 
+
+2018-10-29 14:57:49.980 || Network <WIFI> PaKing-172.20.10.11
+
+2018-10-29 14:57:49.982 || garage_floor_available&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-29 14:57:50.189 || floor_area_space_lite&garage_dbname=000001 Success 
+
+2018-10-29 14:57:50.559 || garage_floor_available&garage_dbname=000001 Success 
+
+2018-10-29 14:57:53.258 || Network <WIFI> PaKing-172.20.10.11
+
+2018-10-29 14:57:53.259 || floor_area_space_lite&garage_dbname=000001 Request 
+
+2018-10-29 14:57:53.564 || Network <WIFI> PaKing-172.20.10.11
+
+2018-10-29 14:57:53.565 || garage_floor_available&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-29 14:57:54.084 || floor_area_space_lite&garage_dbname=000001 Success 
+
+2018-10-29 14:57:54.293 || garage_floor_available&garage_dbname=000001 Success 
+
+2018-10-29 14:57:57.152 || Network <WIFI> PaKing-172.20.10.11
+
+2018-10-29 14:57:57.154 || floor_area_space_lite&garage_dbname=000001 Request 
+
+2018-10-29 14:57:57.297 || Network <WIFI> PaKing-172.20.10.11
+
+2018-10-29 14:57:57.300 || garage_floor_available&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-29 14:57:57.740 || floor_area_space_lite&garage_dbname=000001 Success 
+
+2018-10-29 14:57:58.130 || garage_floor_available&garage_dbname=000001 Success 
+
+2018-10-29 14:58:00.811 || Network <WIFI> PaKing-172.20.10.11
+
+2018-10-29 14:58:00.812 || floor_area_space_lite&garage_dbname=000001 Request 
+
+2018-10-29 14:58:01.136 || Network <WIFI> PaKing-172.20.10.11
+
+2018-10-29 14:58:01.138 || garage_floor_available&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-29 14:58:01.469 || floor_area_space_lite&garage_dbname=000001 Success 
+
+2018-10-29 14:58:01.850 || garage_floor_available&garage_dbname=000001 Success 
+
+2018-10-29 14:58:04.533 || Network <WIFI> PaKing-172.20.10.11
+
+2018-10-29 14:58:04.535 || floor_area_space_lite&garage_dbname=000001 Request 
+
+2018-10-29 14:58:04.855 || Network <WIFI> PaKing-172.20.10.11
+
+2018-10-29 14:58:04.857 || garage_floor_available&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-29 14:58:05.253 || floor_area_space_lite&garage_dbname=000001 Success 
+
+2018-10-29 14:58:05.680 || garage_floor_available&garage_dbname=000001 Success 
+
+2018-10-29 14:58:08.322 || Network <WIFI> PaKing-172.20.10.11
+
+2018-10-29 14:58:08.324 || floor_area_space_lite&garage_dbname=000001 Request 
+
+2018-10-29 14:58:08.686 || Network <WIFI> PaKing-172.20.10.11
+
+2018-10-29 14:58:08.687 || garage_floor_available&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-29 14:58:08.867 || floor_area_space_lite&garage_dbname=000001 Success 
+
+2018-10-29 14:58:09.313 || garage_floor_available&garage_dbname=000001 Success 
+
+2018-10-29 14:58:11.932 || Network <WIFI> PaKing-172.20.10.11
+
+2018-10-29 14:58:11.933 || floor_area_space_lite&garage_dbname=000001 Request 
+
+2018-10-29 14:58:12.319 || Network <WIFI> PaKing-172.20.10.11
+
+2018-10-29 14:58:12.321 || garage_floor_available&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-29 14:58:12.481 || floor_area_space_lite&garage_dbname=000001 Success 
+
+2018-10-29 14:58:12.870 || garage_floor_available&garage_dbname=000001 Success 
+
+2018-10-29 14:58:15.551 || Network <WIFI> PaKing-172.20.10.11
+
+2018-10-29 14:58:15.553 || floor_area_space_lite&garage_dbname=000001 Request 
+
+2018-10-29 14:58:15.873 || Network <WIFI> PaKing-172.20.10.11
+
+2018-10-29 14:58:15.876 || garage_floor_available&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-29 14:58:16.310 || floor_area_space_lite&garage_dbname=000001 Success 
+
+2018-10-29 14:58:16.683 || garage_floor_available&garage_dbname=000001 Success 
+
+2018-10-29 14:58:19.380 || Network <WIFI> PaKing-172.20.10.11
+
+2018-10-29 14:58:19.382 || floor_area_space_lite&garage_dbname=000001 Request 
+
+2018-10-29 14:58:19.687 || Network <WIFI> PaKing-172.20.10.11
+
+2018-10-29 14:58:19.689 || garage_floor_available&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-29 14:58:20.108 || floor_area_space_lite&garage_dbname=000001 Success 
+
+2018-10-29 14:58:20.397 || garage_floor_available&garage_dbname=000001 Success 
+
+2018-10-29 14:58:23.178 || Network <WIFI> PaKing-172.20.10.11
+
+2018-10-29 14:58:23.180 || floor_area_space_lite&garage_dbname=000001 Request 
+
+2018-10-29 14:58:23.401 || Network <WIFI> PaKing-172.20.10.11
+
+2018-10-29 14:58:23.403 || garage_floor_available&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-29 14:58:23.779 || floor_area_space_lite&garage_dbname=000001 Success 
+
+2018-10-29 14:58:24.517 || garage_floor_available&garage_dbname=000001 Success 
+
+2018-10-29 14:58:26.846 || Network <WIFI> PaKing-172.20.10.11
+
+2018-10-29 14:58:26.847 || floor_area_space_lite&garage_dbname=000001 Request 
+
+2018-10-29 14:58:27.523 || Network <WIFI> PaKing-172.20.10.11
+
+2018-10-29 14:58:27.525 || garage_floor_available&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-29 14:58:27.566 || floor_area_space_lite&garage_dbname=000001 Success 
+
+2018-10-29 14:58:28.528 || garage_floor_available&garage_dbname=000001 Success 
+
+2018-10-29 14:58:29.082 || Network <WIFI> PaKing-172.20.10.11
+
+2018-10-29 14:58:29.084 || ANPR_check_exit Request 
+
+2018-10-29 14:58:29.902 || ANPR_check_exit Success 
+
+2018-10-29 14:58:30.631 || Network <WIFI> PaKing-172.20.10.11
+
+2018-10-29 14:58:30.632 || floor_area_space_lite&garage_dbname=000001 Request 
+
+2018-10-29 14:58:31.340 || floor_area_space_lite&garage_dbname=000001 Success 
+
+2018-10-29 14:58:31.530 || Network <WIFI> PaKing-172.20.10.11
+
+2018-10-29 14:58:31.531 || garage_floor_available&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-29 14:58:32.643 || garage_floor_available&garage_dbname=000001 Success 
+
+2018-10-29 14:58:33.205 || Network <WIFI> PaKing-172.20.10.11
+
+2018-10-29 14:58:33.207 || ANPR_check_exit Request 
+
+2018-10-29 14:58:34.190 || ANPR_check_exit Success 
+
+2018-10-29 14:58:34.406 || Network <WIFI> PaKing-172.20.10.11
+
+2018-10-29 14:58:34.408 || floor_area_space_lite&garage_dbname=000001 Request 
+
+2018-10-29 14:58:34.752 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:0C_GO:-85
+
+2018-10-29 14:58:35.164 || floor_area_space_lite&garage_dbname=000001 Success 
+
+2018-10-29 14:58:35.647 || Network <WIFI> PaKing-172.20.10.11
+
+2018-10-29 14:58:35.648 || garage_floor_available&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-29 14:58:36.500 || garage_floor_available&garage_dbname=000001 Success 
+
+2018-10-29 14:58:37.493 || Network <WIFI> PaKing-172.20.10.11
+
+2018-10-29 14:58:37.495 || ANPR_check_exit Request 
+
+2018-10-29 14:58:37.677 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:0C_GO:-85
+
+2018-10-29 14:58:38.192 || ANPR_check_exit Success 
+
+2018-10-29 14:58:38.198 || Network <WIFI> PaKing-172.20.10.11
+
+2018-10-29 14:58:38.200 || parking_tracking_insert_test&garage_dbname=000001 Request 
+
+2018-10-29 14:58:38.205 || Network <WIFI> PaKing-172.20.10.11
+
+2018-10-29 14:58:38.219 || voiceString:謝謝光臨
+
+2018-10-29 14:58:38.237 || Network <WIFI> PaKing-172.20.10.11
+
+2018-10-29 14:58:38.239 || floor_area_space_lite&garage_dbname=000001 Request 
+
+2018-10-29 14:58:38.987 || floor_area_space_lite&garage_dbname=000001 Success 
+
+2018-10-29 14:58:39.313 || parking_tracking_insert_test&garage_dbname=000001 Success 
+
+2018-10-29 14:58:40.326 || Network <WIFI> PaKing-172.20.10.11
+
+2018-10-29 14:58:40.327 || garage_floor_available&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-29 14:58:40.934 || garage_floor_available&garage_dbname=000001 Success 
+
+2018-10-29 14:58:41.422 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:0C_GO:-85
+
+2018-10-29 14:58:41.464 || leaveGarageName = 特力屋內湖店
+

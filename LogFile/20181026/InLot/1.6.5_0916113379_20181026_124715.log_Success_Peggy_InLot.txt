@@ -1,0 +1,927 @@
+使用者：Peggy
+裝置： iPhone 7 Plus
+系統： iOS 12.0.1
+版本： paking versoin:1.6.5(release)
+電信： 遠傳電信
+預約： 無
+車廠： 000007-便利停車場富敦站 Beacon入場, 有Ｎ導航
+///////////////////////////////////
+
+( 2018-10-23 00:10:40 )	 [Gate]BLE ON
+
+( 2018-10-23 00:14:28 )	退到App背景
+
+( 2018-10-23 00:15:38 )	進入App前景
+
+( 2018-10-23 00:15:47 )	退到App背景
+
+( 2018-10-26 11:57:54 )	 [Gate]BLE OFF
+
+( 2018-10-26 11:58:54 )	退到App背景
+
+( 2018-10-26 11:58:55 )	 [Gate]BLE ON
+
+( 2018-10-26 11:58:57 )	進入App前景
+
+( 2018-10-26 11:59:32 )	退到App背景
+
+( 2018-10-26 12:27:45 )	進入App前景
+
+( 2018-10-26 12:27:57 )	退到App背景
+
+( 2018-10-26 12:45:10 )	進入App前景
+
+( 2018-10-26 12:45:14 )	退到App背景
+
+( 2018-10-26 12:45:31 )	進入App前景
+
+( 2018-10-26 12:45:45 )	退到App背景
+
+///////////////////////////////////
+網路切換時機
+2018-10-26 11:57:52.820 遠傳電信 (first)
+2018-10-26 12:45:11.042 PaKing-192.168.5.85
+2018-10-23 00:10:37.979 PaKing-192.168.1.105
+2018-10-23 00:12:35.666 遠傳電信
+2018-10-23 00:13:35.708 PaKing-192.168.1.105
+2018-10-23 00:15:43.324 遠傳電信
+
+
+--------detail--------
+
+2018-10-26 11:57:52.684 || !!PaKing APP Open!!
+
+2018-10-26 11:57:52.685 || Peggy
+
+2018-10-26 11:57:52.685 || iOS 12.0.1
+
+2018-10-26 11:57:52.685 || Device:iPhone 7 Plus
+
+2018-10-26 11:57:52.685 || paking versoin:1.6.5(release)
+
+2018-10-26 11:57:52.685 || paking build:20180925112634
+
+2018-10-26 11:57:52.687 || -[AppDelegate checkUpdate]|[L:342]|開始檢查是否更新
+
+2018-10-26 11:57:52.696 || ISO country code is: tw
+
+2018-10-26 11:57:52.807 || userManager.state = UserSTATE_CHECK 
+
+2018-10-26 11:57:52.820 || Network-<Carrier> 遠傳電信
+
+2018-10-26 11:57:52.827 || check_member Request 
+
+2018-10-26 11:57:53.526 || check_member Success 
+
+2018-10-26 11:57:53.535 || Network-<Carrier> 遠傳電信
+
+2018-10-26 11:57:53.535 || login_check_lite Request 
+
+2018-10-26 11:57:54.169 || login_check_lite Success 
+
+2018-10-26 11:57:54.180 || set userManager.isReservation = 0
+
+2018-10-26 11:57:54.180 || set userManager.isGarageReservation = 0
+
+2018-10-26 11:57:54.350 || Network-<Carrier> 遠傳電信
+
+2018-10-26 11:57:54.351 || getBannerList Request 
+
+2018-10-26 11:57:54.433 || Network-<Carrier> 遠傳電信
+
+2018-10-26 11:57:54.433 || get_news Request 
+
+2018-10-26 11:57:54.525 || [Gate]BLE OFF
+
+2018-10-26 11:57:54.797 || getBannerList Success 
+
+2018-10-26 11:57:55.141 || get_news Success 
+
+2018-10-26 11:57:58.642 || Network-<Carrier> 遠傳電信
+
+2018-10-26 11:57:58.642 || get_vendor Request 
+
+2018-10-26 11:57:59.383 || get_vendor Success 
+
+2018-10-26 11:58:00.198 || Network-<Carrier> 遠傳電信
+
+2018-10-26 11:58:00.199 || garage_list Request 
+
+2018-10-26 11:58:01.410 || garage_list Success 
+
+2018-10-26 11:58:07.662 || Network-<Carrier> 遠傳電信
+
+2018-10-26 11:58:07.663 || garage_list Request 
+
+2018-10-26 11:58:08.345 || Network-<Carrier> 遠傳電信
+
+2018-10-26 11:58:08.346 || garage_list Request 
+
+!!!2018-10-26 11:58:08.371 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  NSLocalizedDescription=已取消}
+
+!!!2018-10-26 11:58:08.371 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  NSLocalizedDescription=已取消}
+
+2018-10-26 11:58:10.456 || garage_list Success 
+
+2018-10-26 11:58:54.227 || -[AppDelegate applicationDidEnterBackground:]|[L:125]|
+
+2018-10-26 11:58:55.632 || [Gate]BLE ON
+
+2018-10-26 11:58:57.571 || -[AppDelegate applicationWillEnterForeground:]|[L:156]|
+
+2018-10-26 11:58:57.880 || Network-<Carrier> 遠傳電信
+
+2018-10-26 11:58:57.881 || user_fail_trade_check Request 
+
+2018-10-26 11:58:58.160 || Network-<Carrier> 遠傳電信
+
+2018-10-26 11:58:58.161 || garage_list Request 
+
+2018-10-26 11:58:58.306 || user_fail_trade_check Success 
+
+!!!2018-10-26 11:58:58.307 || result: {
+
+!!!2018-10-26 11:58:58.307 || userManager.garageFarePaymentStatus = NoGarageFare 
+
+2018-10-26 11:58:59.876 || garage_list Success 
+
+!!!2018-10-26 11:59:00.220 || 2018-10-26 11:59:00.220 paking[1931:325577] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-26 11:59:00.220 || 2018-10-26 11:59:00.220 paking[1931:325577] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-26 11:59:00.220 || 2018-10-26 11:59:00.220 paking[1931:325577] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-26 11:59:00.220 || 2018-10-26 11:59:00.220 paking[1931:325577] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-26 11:59:00.220 || 2018-10-26 11:59:00.220 paking[1931:325577] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-26 11:59:00.220 || 2018-10-26 11:59:00.220 paking[1931:325577] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-26 11:59:00.220 || 2018-10-26 11:59:00.220 paking[1931:325577] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-26 11:59:00.220 || 2018-10-26 11:59:00.220 paking[1931:325577] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-26 11:59:00.220 || 2018-10-26 11:59:00.220 paking[1931:325577] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-26 11:59:00.220 || 2018-10-26 11:59:00.220 paking[1931:325577] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-26 11:59:00.220 || 2018-10-26 11:59:00.220 paking[1931:325577] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-26 11:59:00.221 || 2018-10-26 11:59:00.221 paking[1931:325577] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-26 11:59:00.221 || 2018-10-26 11:59:00.221 paking[1931:325577] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-26 11:59:00.221 || 2018-10-26 11:59:00.221 paking[1931:325577] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-26 11:59:00.221 || 2018-10-26 11:59:00.221 paking[1931:325577] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-26 11:59:00.221 || 2018-10-26 11:59:00.221 paking[1931:325577] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-26 11:59:00.221 || 2018-10-26 11:59:00.221 paking[1931:325577] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-26 11:59:00.221 || 2018-10-26 11:59:00.221 paking[1931:325577] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-26 11:59:00.221 || 2018-10-26 11:59:00.221 paking[1931:325577] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-26 11:59:00.221 || 2018-10-26 11:59:00.221 paking[1931:325577] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-26 11:59:00.221 || 2018-10-26 11:59:00.221 paking[1931:325577] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-26 11:59:00.221 || 2018-10-26 11:59:00.221 paking[1931:325577] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-26 11:59:00.221 || 2018-10-26 11:59:00.221 paking[1931:325577] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-26 11:59:00.221 || 2018-10-26 11:59:00.221 paking[1931:325577] ((null)) was false: Failed to allocate texture space for marker
+
+2018-10-26 11:59:02.997 || Network-<Carrier> 遠傳電信
+
+2018-10-26 11:59:03.488 || one_garage_list Success 
+
+2018-10-26 11:59:03.515 || State = 2
+
+2018-10-26 11:59:03.515 || Desc = ＊至10/31止停車第一小時免費|＊至10/31止免收預約費
+
+2018-10-26 11:59:03.521 || Network-<Carrier> 遠傳電信
+
+2018-10-26 11:59:03.521 || get_vendor Request 
+
+2018-10-26 11:59:03.898 || get_vendor Success 
+
+2018-10-26 11:59:04.032 || Network-<Carrier> 遠傳電信
+
+2018-10-26 11:59:04.539 || one_garage_list Success 
+
+2018-10-26 11:59:07.544 || Network-<Carrier> 遠傳電信
+
+2018-10-26 11:59:07.981 || one_garage_list Success 
+
+!!!CoreData: annotation: || CoreData: annotation:  Failed to load optimized model at path '/var/containers/Bundle/Application/AFFC1154-83AC-4606-972C-08DD5A15D3EC/paking.app/GoogleMaps.bundle/GMSCacheStorage.momd/StorageWithTileProto.omo'
+
+!!!CoreData: annotation: || CoreData: annotation:  Failed to load optimized model at path '/var/containers/Bundle/Application/AFFC1154-83AC-4606-972C-08DD5A15D3EC/paking.app/GoogleMaps.bundle/GMSCacheStorage.momd/StorageWithTileProto.omo'
+
+!!!CoreData: annotation: || CoreData: annotation:  Failed to load optimized model at path '/var/containers/Bundle/Application/AFFC1154-83AC-4606-972C-08DD5A15D3EC/paking.app/GoogleMaps.bundle/GMSCacheStorage.momd/StorageWithTileProto.omo'
+
+2018-10-26 11:59:15.014 || Network-<Carrier> 遠傳電信
+
+2018-10-26 11:59:15.015 || reserve_booking_confirm Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-26 11:59:16.028 || reserve_booking_confirm Success 
+
+  ||         "garage_id" = 000007;
+
+  ||     "garage_id" = 000007;
+
+2018-10-26 11:59:16.078 || Network-<Carrier> 遠傳電信
+
+2018-10-26 11:59:16.079 || trade_reserveOverFee Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-26 11:59:16.444 || Network-<Carrier> 遠傳電信
+
+2018-10-26 11:59:16.445 || garage_list Request 
+
+2018-10-26 11:59:16.571 || Network-<Carrier> 遠傳電信
+
+2018-10-26 11:59:16.573 || garage_list Request 
+
+2018-10-26 11:59:16.574 || trade_reserveOverFee Success 
+
+  ||                 "garage_id" = 000007;
+
+  ||                 "garage_id" = 000007;
+
+!!!2018-10-26 11:59:16.676 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  NSLocalizedDescription=已取消}
+
+!!!2018-10-26 11:59:16.676 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  NSLocalizedDescription=已取消}
+
+2018-10-26 11:59:17.186 || garage_list Success 
+
+2018-10-26 11:59:32.010 || -[AppDelegate applicationDidEnterBackground:]|[L:125]|
+
+2018-10-26 12:27:45.547 || -[AppDelegate applicationWillEnterForeground:]|[L:156]|
+
+2018-10-26 12:27:45.840 || Network-<Carrier> 遠傳電信
+
+2018-10-26 12:27:45.841 || user_fail_trade_check Request 
+
+2018-10-26 12:27:45.852 || Network-<Carrier> 遠傳電信
+
+2018-10-26 12:27:45.853 || trade_reserveOverFee Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-26 12:27:46.458 || trade_reserveOverFee Success 
+
+  ||                 "garage_id" = 000007;
+
+  ||                 "garage_id" = 000007;
+
+2018-10-26 12:27:46.599 || user_fail_trade_check Success 
+
+!!!2018-10-26 12:27:46.599 || result: {
+
+!!!2018-10-26 12:27:46.599 || userManager.garageFarePaymentStatus = NoGarageFare 
+
+2018-10-26 12:27:57.976 || -[AppDelegate applicationDidEnterBackground:]|[L:125]|
+
+2018-10-26 12:45:10.740 || -[AppDelegate applicationWillEnterForeground:]|[L:156]|
+
+2018-10-26 12:45:11.042 || Network <WIFI> PaKing-192.168.5.85
+
+2018-10-26 12:45:11.043 || user_fail_trade_check Request 
+
+2018-10-26 12:45:11.059 || Network <WIFI> PaKing-192.168.5.85
+
+2018-10-26 12:45:11.059 || trade_reserveOverFee Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-26 12:45:11.756 || user_fail_trade_check Success 
+
+!!!2018-10-26 12:45:11.756 || result: {
+
+!!!2018-10-26 12:45:11.756 || userManager.garageFarePaymentStatus = NoGarageFare 
+
+2018-10-26 12:45:11.896 || trade_reserveOverFee Success 
+
+  ||                 "garage_id" = 000007;
+
+  ||                 "garage_id" = 000007;
+
+2018-10-26 12:45:12.366 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-93
+
+2018-10-26 12:45:12.366 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-26 12:45:12.373 || Network <WIFI> PaKing-192.168.5.85
+
+2018-10-26 12:45:12.374 || inputAPI = /app.php?page=checkGarage
+
+2018-10-26 12:45:12.374 || Set CHECK_GARAGE 3sec TimeOut /app.php?page=checkGarage
+
+2018-10-26 12:45:12.382 || checkGarage Request 
+
+2018-10-26 12:45:12.568 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-92
+
+2018-10-26 12:45:12.568 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-26 12:45:12.736 || checkGarage Success 
+
+  ||                 "garage_id" = 000007;
+
+  ||                 "garage_id" = 000007;
+
+  ||         "garage_id" = 000007;
+
+2018-10-26 12:45:14.598 || -[AppDelegate applicationDidEnterBackground:]|[L:125]|
+
+2018-10-26 12:45:15.696 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-94
+
+2018-10-26 12:45:15.696 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-26 12:45:17.484 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-93
+
+2018-10-26 12:45:17.484 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-26 12:45:21.347 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-88
+
+2018-10-26 12:45:21.347 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-26 12:45:22.916 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-95
+
+2018-10-26 12:45:22.916 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-26 12:45:23.440 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-88
+
+2018-10-26 12:45:23.440 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-26 12:45:27.321 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-89
+
+2018-10-26 12:45:27.322 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-26 12:45:28.878 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-87
+
+2018-10-26 12:45:28.878 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-26 12:45:31.261 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-90
+
+2018-10-26 12:45:31.261 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-26 12:45:31.566 || -[AppDelegate applicationWillEnterForeground:]|[L:156]|
+
+2018-10-26 12:45:31.869 || Network <WIFI> PaKing-192.168.5.85
+
+2018-10-26 12:45:31.870 || user_fail_trade_check Request 
+
+2018-10-26 12:45:31.878 || Network <WIFI> PaKing-192.168.5.85
+
+2018-10-26 12:45:31.879 || trade_reserveOverFee Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-26 12:45:32.735 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-90
+
+2018-10-26 12:45:32.736 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-26 12:45:32.908 || user_fail_trade_check Success 
+
+!!!2018-10-26 12:45:32.908 || result: {
+
+!!!2018-10-26 12:45:32.909 || userManager.garageFarePaymentStatus = NoGarageFare 
+
+2018-10-26 12:45:32.911 || trade_reserveOverFee Success 
+
+  ||                 "garage_id" = 000007;
+
+  ||                 "garage_id" = 000007;
+
+2018-10-26 12:45:34.313 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-87
+
+2018-10-26 12:45:34.313 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-26 12:45:34.524 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-88
+
+2018-10-26 12:45:34.524 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-26 12:45:35.628 || Network <WIFI> PaKing-192.168.5.85
+
+2018-10-26 12:45:35.629 || getBannerList Request 
+
+2018-10-26 12:45:35.809 || Network <WIFI> PaKing-192.168.5.85
+
+2018-10-26 12:45:35.809 || get_news Request 
+
+2018-10-26 12:45:35.887 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-96
+
+2018-10-26 12:45:35.887 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-26 12:45:35.968 || getBannerList Success 
+
+2018-10-26 12:45:37.079 || get_news Success 
+
+2018-10-26 12:45:37.604 || Network <WIFI> PaKing-192.168.5.85
+
+2018-10-26 12:45:37.604 || garage_list Request 
+
+2018-10-26 12:45:37.876 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-85
+
+2018-10-26 12:45:37.876 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-26 12:45:37.876 || [Gate]GATE > -85!!!!
+
+2018-10-26 12:45:39.063 || garage_list Success 
+
+2018-10-26 12:45:41.126 || Network <WIFI> PaKing-192.168.5.85
+
+2018-10-26 12:45:41.423 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-84
+
+2018-10-26 12:45:41.423 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-26 12:45:41.423 || [Gate]GATE > -85!!!!
+
+2018-10-26 12:45:41.907 || one_garage_list Success 
+
+2018-10-26 12:45:41.933 || Network <WIFI> PaKing-192.168.5.85
+
+2018-10-26 12:45:41.935 || get_vendor Request 
+
+2018-10-26 12:45:42.655 || get_vendor Success 
+
+2018-10-26 12:45:44.441 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-96
+
+2018-10-26 12:45:44.442 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-26 12:45:45.715 || -[AppDelegate applicationDidEnterBackground:]|[L:125]|
+
+2018-10-26 12:45:47.026 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-84
+
+2018-10-26 12:45:47.026 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-26 12:45:47.026 || [Gate]GATE > -85!!!!
+
+2018-10-26 12:45:47.169 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-85
+
+2018-10-26 12:45:47.169 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-26 12:45:47.169 || [Gate]GATE > -85!!!!
+
+2018-10-26 12:45:47.180 || [Gate]pName:00:23:A7:A6:B3:D8_GI
+
+2018-10-26 12:45:47.908 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-88
+
+2018-10-26 12:45:47.908 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-26 12:45:48.295 || [Gate]pName:00:23:A7:A6:B3:D8_GI
+
+2018-10-26 12:45:48.295 || [Gate]pName:00:23:A7:A6:B3:D8_GI
+
+2018-10-26 12:45:49.067 || [Gate]pName:00:23:A7:A6:B3:D8_GI
+
+2018-10-26 12:45:49.488 || [Gate]pName:00:23:A7:A6:B3:D8_GI
+
+2018-10-26 12:45:49.910 || [Gate]pName:00:23:A7:A6:B3:D8_GI
+
+2018-10-26 12:45:49.963 || 不須拿票卡
+
+2018-10-26 12:45:49.976 || 不須拿票卡
+
+2018-10-26 12:45:55.480 || 不須拿票卡
+
+2018-10-23 00:10:37.773 || -[AppDelegate checkUpdate]|[L:342]|開始檢查是否更新
+
+2018-10-23 00:10:37.979 || Network <WIFI> PaKing-192.168.1.105
+
+2018-10-23 00:10:37.985 || check_member Request 
+
+2018-10-23 00:10:38.386 || check_member Success 
+
+2018-10-23 00:10:38.388 || Network <WIFI> PaKing-192.168.1.105
+
+2018-10-23 00:10:38.389 || login_check_lite Request 
+
+2018-10-23 00:10:39.850 || login_check_lite Success 
+
+2018-10-23 00:10:39.862 || set userManager.isReservation = 0
+
+2018-10-23 00:10:39.862 || set userManager.isGarageReservation = 0
+
+2018-10-23 00:10:40.031 || Network <WIFI> PaKing-192.168.1.105
+
+2018-10-23 00:10:40.032 || getBannerList Request 
+
+2018-10-23 00:10:40.075 || Network <WIFI> PaKing-192.168.1.105
+
+2018-10-23 00:10:40.075 || get_news Request 
+
+2018-10-23 00:10:40.167 || [Gate]BLE ON
+
+2018-10-23 00:10:40.618 || getBannerList Success 
+
+2018-10-23 00:10:40.994 || get_news Success 
+
+2018-10-23 00:10:45.230 || Network <WIFI> PaKing-192.168.1.105
+
+2018-10-23 00:10:45.230 || get_vendor Request 
+
+2018-10-23 00:10:45.849 || get_vendor Success 
+
+2018-10-23 00:10:47.336 || Network <WIFI> PaKing-192.168.1.105
+
+2018-10-23 00:10:47.337 || garage_list Request 
+
+2018-10-23 00:10:49.922 || garage_list Success 
+
+2018-10-23 00:11:06.342 || Network <WIFI> PaKing-192.168.1.105
+
+2018-10-23 00:11:06.342 || garage_list Request 
+
+2018-10-23 00:11:06.856 || Network <WIFI> PaKing-192.168.1.105
+
+2018-10-23 00:11:06.857 || garage_list Request 
+
+!!!2018-10-23 00:11:06.889 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  NSLocalizedDescription=已取消}
+
+!!!2018-10-23 00:11:06.889 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  NSLocalizedDescription=已取消}
+
+2018-10-23 00:11:12.664 || garage_list Success 
+
+2018-10-23 00:11:24.150 || Network <WIFI> PaKing-192.168.1.105
+
+2018-10-23 00:11:24.829 || one_garage_list Success 
+
+2018-10-23 00:11:24.878 || State = 1
+
+2018-10-23 00:11:24.878 || Desc = ＊至10/31止停車第一小時免費|＊至10/31止免收預約費
+
+2018-10-23 00:11:24.881 || Network <WIFI> PaKing-192.168.1.105
+
+2018-10-23 00:11:24.881 || get_vendor Request 
+
+2018-10-23 00:11:25.393 || get_vendor Success 
+
+2018-10-23 00:11:41.300 || Network <WIFI> PaKing-192.168.1.105
+
+2018-10-23 00:11:41.301 || garage_list Request 
+
+2018-10-23 00:11:45.775 || garage_list Success 
+
+!!!2018-10-23 00:11:46.155 || 2018-10-23 00:11:46.155 paking[1190:345893] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-23 00:11:46.155 || 2018-10-23 00:11:46.155 paking[1190:345893] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-23 00:11:46.155 || 2018-10-23 00:11:46.155 paking[1190:345893] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-23 00:11:46.155 || 2018-10-23 00:11:46.155 paking[1190:345893] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-23 00:11:46.155 || 2018-10-23 00:11:46.155 paking[1190:345893] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-23 00:11:46.155 || 2018-10-23 00:11:46.155 paking[1190:345893] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-23 00:11:46.155 || 2018-10-23 00:11:46.155 paking[1190:345893] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-23 00:11:46.155 || 2018-10-23 00:11:46.155 paking[1190:345893] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-23 00:11:46.155 || 2018-10-23 00:11:46.155 paking[1190:345893] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-23 00:11:46.155 || 2018-10-23 00:11:46.155 paking[1190:345893] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-23 00:11:46.155 || 2018-10-23 00:11:46.155 paking[1190:345893] ((null)) was false: Failed to allocate texture space for marker
+
+2018-10-23 00:12:01.189 || Network <WIFI> PaKing-192.168.1.105
+
+2018-10-23 00:12:01.190 || garage_list Request 
+
+2018-10-23 00:12:04.062 || garage_list Success 
+
+2018-10-23 00:12:08.941 || Network <WIFI> PaKing-192.168.1.105
+
+2018-10-23 00:12:08.942 || garage_list Request 
+
+2018-10-23 00:12:14.025 || garage_list Success 
+
+2018-10-23 00:12:35.666 || Network-<Carrier> 遠傳電信
+
+2018-10-23 00:12:35.667 || getBannerList Request 
+
+2018-10-23 00:12:35.740 || Network-<Carrier> 遠傳電信
+
+2018-10-23 00:12:35.741 || get_news Request 
+
+2018-10-23 00:12:37.932 || get_news Success 
+
+2018-10-23 00:12:37.948 || getBannerList Success 
+
+2018-10-23 00:12:38.329 || Network-<Carrier> 遠傳電信
+
+2018-10-23 00:12:38.330 || garage_list Request 
+
+2018-10-23 00:12:40.007 || garage_list Success 
+
+2018-10-23 00:12:50.744 || Network-<Carrier> 遠傳電信
+
+2018-10-23 00:12:50.745 || garage_list Request 
+
+2018-10-23 00:12:51.259 || Network-<Carrier> 遠傳電信
+
+2018-10-23 00:12:51.260 || garage_list Request 
+
+!!!2018-10-23 00:12:51.272 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  NSLocalizedDescription=已取消}
+
+!!!2018-10-23 00:12:51.272 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  NSLocalizedDescription=已取消}
+
+2018-10-23 00:12:57.352 || garage_list Success 
+
+2018-10-23 00:13:01.921 || Network-<Carrier> 遠傳電信
+
+2018-10-23 00:13:02.432 || one_garage_list Success 
+
+2018-10-23 00:13:02.450 || State = 0
+
+2018-10-23 00:13:02.450 || Desc = 
+
+2018-10-23 00:13:02.475 || Network-<Carrier> 遠傳電信
+
+2018-10-23 00:13:02.475 || get_vendor Request 
+
+2018-10-23 00:13:02.858 || get_vendor Success 
+
+2018-10-23 00:13:07.325 || Network-<Carrier> 遠傳電信
+
+2018-10-23 00:13:07.325 || get_vendor Request 
+
+2018-10-23 00:13:07.351 || Network-<Carrier> 遠傳電信
+
+2018-10-23 00:13:08.332 || get_vendor Success 
+
+2018-10-23 00:13:08.372 || one_garage_list Success 
+
+2018-10-23 00:13:08.377 || State = 0
+
+2018-10-23 00:13:08.377 || Desc = 
+
+2018-10-23 00:13:08.384 || Network-<Carrier> 遠傳電信
+
+2018-10-23 00:13:08.385 || get_vendor Request 
+
+2018-10-23 00:13:09.163 || get_vendor Success 
+
+2018-10-23 00:13:11.560 || Network-<Carrier> 遠傳電信
+
+2018-10-23 00:13:11.561 || get_vendor Request 
+
+2018-10-23 00:13:11.581 || Network-<Carrier> 遠傳電信
+
+2018-10-23 00:13:12.601 || get_vendor Success 
+
+2018-10-23 00:13:12.664 || one_garage_list Success 
+
+2018-10-23 00:13:12.675 || State = 0
+
+2018-10-23 00:13:12.675 || Desc = 
+
+2018-10-23 00:13:12.683 || Network-<Carrier> 遠傳電信
+
+2018-10-23 00:13:12.684 || get_vendor Request 
+
+!!!CoreData: annotation: || CoreData: annotation:  Failed to load optimized model at path '/var/containers/Bundle/Application/AFFC1154-83AC-4606-972C-08DD5A15D3EC/paking.app/GoogleMaps.bundle/GMSCacheStorage.momd/StorageWithTileProto.omo'
+
+!!!CoreData: annotation: || CoreData: annotation:  Failed to load optimized model at path '/var/containers/Bundle/Application/AFFC1154-83AC-4606-972C-08DD5A15D3EC/paking.app/GoogleMaps.bundle/GMSCacheStorage.momd/StorageWithTileProto.omo'
+
+!!!CoreData: annotation: || CoreData: annotation:  Failed to load optimized model at path '/var/containers/Bundle/Application/AFFC1154-83AC-4606-972C-08DD5A15D3EC/paking.app/GoogleMaps.bundle/GMSCacheStorage.momd/StorageWithTileProto.omo'
+
+2018-10-23 00:13:13.627 || get_vendor Success 
+
+2018-10-23 00:13:17.189 || Network-<Carrier> 遠傳電信
+
+2018-10-23 00:13:17.190 || getBannerList Request 
+
+2018-10-23 00:13:17.251 || Network-<Carrier> 遠傳電信
+
+2018-10-23 00:13:17.252 || get_news Request 
+
+2018-10-23 00:13:18.184 || get_news Success 
+
+2018-10-23 00:13:19.335 || getBannerList Success 
+
+2018-10-23 00:13:20.365 || Network-<Carrier> 遠傳電信
+
+2018-10-23 00:13:20.365 || garage_list Request 
+
+2018-10-23 00:13:21.490 || garage_list Success 
+
+2018-10-23 00:13:35.708 || Network <WIFI> PaKing-192.168.1.105
+
+2018-10-23 00:13:35.708 || garage_list Request 
+
+2018-10-23 00:13:36.262 || Network <WIFI> PaKing-192.168.1.105
+
+2018-10-23 00:13:36.263 || garage_list Request 
+
+!!!2018-10-23 00:13:36.278 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  NSLocalizedDescription=已取消}
+
+!!!2018-10-23 00:13:36.278 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  NSLocalizedDescription=已取消}
+
+2018-10-23 00:13:38.746 || garage_list Success 
+
+2018-10-23 00:13:46.871 || Network <WIFI> PaKing-192.168.1.105
+
+2018-10-23 00:13:49.502 || one_garage_list Success 
+
+2018-10-23 00:13:49.519 || State = 1
+
+2018-10-23 00:13:49.519 || Desc = ＊至10/31止停車第一小時免費|＊至10/31止免收預約費
+
+2018-10-23 00:13:49.527 || Network <WIFI> PaKing-192.168.1.105
+
+2018-10-23 00:13:49.528 || get_vendor Request 
+
+2018-10-23 00:13:49.893 || get_vendor Success 
+
+2018-10-23 00:13:56.855 || Network <WIFI> PaKing-192.168.1.105
+
+2018-10-23 00:13:56.858 || get_vendor Request 
+
+2018-10-23 00:13:56.889 || Network <WIFI> PaKing-192.168.1.105
+
+2018-10-23 00:13:57.657 || get_vendor Success 
+
+2018-10-23 00:13:57.842 || one_garage_list Success 
+
+2018-10-23 00:13:57.859 || State = 0
+
+2018-10-23 00:13:57.859 || Desc = 
+
+2018-10-23 00:13:57.863 || Network <WIFI> PaKing-192.168.1.105
+
+2018-10-23 00:13:57.867 || get_vendor Request 
+
+2018-10-23 00:13:58.868 || get_vendor Success 
+
+2018-10-23 00:13:59.899 || Network <WIFI> PaKing-192.168.1.105
+
+2018-10-23 00:13:59.899 || get_vendor Request 
+
+2018-10-23 00:13:59.915 || Network <WIFI> PaKing-192.168.1.105
+
+2018-10-23 00:14:00.367 || one_garage_list Success 
+
+2018-10-23 00:14:00.374 || State = 0
+
+2018-10-23 00:14:00.374 || Desc = 
+
+2018-10-23 00:14:00.377 || Network <WIFI> PaKing-192.168.1.105
+
+2018-10-23 00:14:00.377 || get_vendor Request 
+
+2018-10-23 00:14:00.600 || get_vendor Success 
+
+2018-10-23 00:14:00.799 || get_vendor Success 
+
+2018-10-23 00:14:04.027 || Network <WIFI> PaKing-192.168.1.105
+
+2018-10-23 00:14:04.027 || get_vendor Request 
+
+2018-10-23 00:14:04.035 || Network <WIFI> PaKing-192.168.1.105
+
+2018-10-23 00:14:04.549 || get_vendor Success 
+
+2018-10-23 00:14:04.566 || one_garage_list Success 
+
+2018-10-23 00:14:04.574 || State = 2
+
+2018-10-23 00:14:04.574 || Desc = ＊至10/31止停車第一小時免費|＊至10/31止免收預約費
+
+2018-10-23 00:14:04.577 || Network <WIFI> PaKing-192.168.1.105
+
+2018-10-23 00:14:04.577 || get_vendor Request 
+
+2018-10-23 00:14:05.085 || Network <WIFI> PaKing-192.168.1.105
+
+2018-10-23 00:14:06.873 || one_garage_list Success 
+
+2018-10-23 00:14:07.149 || get_vendor Success 
+
+2018-10-23 00:14:09.875 || Network <WIFI> PaKing-192.168.1.105
+
+2018-10-23 00:14:13.021 || one_garage_list Success 
+
+2018-10-23 00:14:16.028 || Network <WIFI> PaKing-192.168.1.105
+
+2018-10-23 00:14:16.573 || one_garage_list Success 
+
+2018-10-23 00:14:19.576 || Network <WIFI> PaKing-192.168.1.105
+
+2018-10-23 00:14:20.019 || one_garage_list Success 
+
+2018-10-23 00:14:23.025 || Network <WIFI> PaKing-192.168.1.105
+
+2018-10-23 00:14:23.946 || one_garage_list Success 
+
+2018-10-23 00:14:28.029 || -[AppDelegate applicationDidEnterBackground:]|[L:125]|
+
+2018-10-23 00:15:38.722 || -[AppDelegate applicationWillEnterForeground:]|[L:156]|
+
+2018-10-23 00:15:39.003 || Network <WIFI> PaKing-192.168.1.105
+
+2018-10-23 00:15:39.003 || user_fail_trade_check Request 
+
+2018-10-23 00:15:39.793 || user_fail_trade_check Success 
+
+!!!2018-10-23 00:15:39.794 || result: {
+
+!!!2018-10-23 00:15:39.794 || userManager.garageFarePaymentStatus = NoGarageFare 
+
+2018-10-23 00:15:40.095 || Network <WIFI> PaKing-192.168.1.105
+
+2018-10-23 00:15:40.096 || garage_list Request 
+
+2018-10-23 00:15:42.232 || Network <WIFI> PaKing-192.168.1.105
+
+2018-10-23 00:15:42.233 || get_vendor Request 
+
+2018-10-23 00:15:42.270 || Network <WIFI> PaKing-192.168.1.105
+
+2018-10-23 00:15:43.232 || get_vendor Success 
+
+2018-10-23 00:15:43.302 || one_garage_list Success 
+
+2018-10-23 00:15:43.317 || State = 2
+
+2018-10-23 00:15:43.317 || Desc = ＊至10/31止停車第一小時免費|＊至10/31止免收預約費
+
+2018-10-23 00:15:43.324 || Network-<Carrier> 遠傳電信
+
+2018-10-23 00:15:43.324 || get_vendor Request 
+
+2018-10-23 00:15:43.705 || get_vendor Success 
+
+2018-10-23 00:15:43.846 || Network-<Carrier> 遠傳電信
+
+2018-10-23 00:15:44.427 || one_garage_list Success 
+
+2018-10-23 00:15:45.628 || garage_list Success 
+
+!!!2018-10-23 00:15:45.993 || 2018-10-23 00:15:45.993 paking[1190:345893] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-23 00:15:45.993 || 2018-10-23 00:15:45.993 paking[1190:345893] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-23 00:15:45.994 || 2018-10-23 00:15:45.994 paking[1190:345893] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-23 00:15:45.994 || 2018-10-23 00:15:45.994 paking[1190:345893] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-23 00:15:45.994 || 2018-10-23 00:15:45.994 paking[1190:345893] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-23 00:15:45.994 || 2018-10-23 00:15:45.994 paking[1190:345893] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-23 00:15:45.994 || 2018-10-23 00:15:45.994 paking[1190:345893] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-23 00:15:45.994 || 2018-10-23 00:15:45.994 paking[1190:345893] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-23 00:15:45.996 || 2018-10-23 00:15:45.996 paking[1190:345893] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-23 00:15:45.996 || 2018-10-23 00:15:45.996 paking[1190:345893] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-23 00:15:45.996 || 2018-10-23 00:15:45.996 paking[1190:345893] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-23 00:15:45.996 || 2018-10-23 00:15:45.996 paking[1190:345893] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-23 00:15:45.996 || 2018-10-23 00:15:45.996 paking[1190:345893] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-23 00:15:45.996 || 2018-10-23 00:15:45.996 paking[1190:345893] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-23 00:15:45.996 || 2018-10-23 00:15:45.996 paking[1190:345893] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-23 00:15:45.996 || 2018-10-23 00:15:45.996 paking[1190:345893] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-23 00:15:45.996 || 2018-10-23 00:15:45.996 paking[1190:345893] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-23 00:15:45.997 || 2018-10-23 00:15:45.997 paking[1190:345893] ((null)) was false: Failed to allocate texture space for marker
+
+2018-10-23 00:15:47.403 || -[AppDelegate applicationDidEnterBackground:]|[L:125]|
+
+2018-10-23 00:15:47.448 || Network-<Carrier> 遠傳電信
+
+2018-10-23 00:15:47.818 || one_garage_list Success 
+

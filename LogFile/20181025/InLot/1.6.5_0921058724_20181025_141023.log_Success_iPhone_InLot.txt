@@ -1,0 +1,3409 @@
+使用者：iPhone
+裝置： 16.476 || 6
+系統： iOS 11.3.1
+版本： paking versoin:1.6.5(release)
+電信： 中華電信
+預約： 無
+車廠： 000001-特力屋內湖店 車辨入場, 有Ｎ導航
+///////////////////////////////////
+
+( 2018-10-25 12:52:43 )	退到App背景
+
+( 2018-10-25 13:57:09 )	 [Gate]BLE ON
+
+( 2018-10-25 13:57:13 )	退到App背景
+
+( 2018-10-25 14:02:41 )	 [Gate]BLE ON
+
+( 2018-10-25 14:03:30 )	退到App背景
+
+( 2018-10-25 14:05:18 )	進入App前景
+
+( 2018-10-25 14:05:38 )	[VoiceString] 歡迎光臨
+
+( 2018-10-25 14:06:05 )	[CarNavigation]ans: 3F_02_14
+
+( 2018-10-25 14:06:06 )	[CarNavigation]ans: 3F_02_1
+
+( 2018-10-25 14:06:13 )	[VoiceString] 前方右轉
+
+( 2018-10-25 14:06:24 )	[VoiceString] 取消自訂導航
+
+( 2018-10-25 14:06:28 )	[VoiceString] 前方右轉
+
+( 2018-10-25 14:06:31 )	[VoiceString] 取消自訂導航
+
+( 2018-10-25 14:06:36 )	[VoiceString] 前方右轉
+
+( 2018-10-25 14:06:43 )	[CarNavigation]ans: 3F_02_20
+
+( 2018-10-25 14:06:49 )	[CarNavigation]ans: 3F_03_2
+
+( 2018-10-25 14:06:49 )	[VoiceString] 繼續直行
+
+( 2018-10-25 14:06:55 )	[CarNavigation]ans: 3F_03_3
+
+( 2018-10-25 14:06:58 )	[CarNavigation]ans: 3F_03_4
+
+( 2018-10-25 14:07:00 )	[CarNavigation]ans: 3F_04_5
+
+( 2018-10-25 14:07:02 )	[CarNavigation]ans: 3F_04_6
+
+( 2018-10-25 14:07:04 )	[CarNavigation]ans: 3F_04_7
+
+( 2018-10-25 14:07:04 )	[VoiceString] 前方右轉
+
+( 2018-10-25 14:07:07 )	[CarNavigation]ans: 3F_04_8
+
+( 2018-10-25 14:07:07 )	[VoiceString] 繼續直行
+
+( 2018-10-25 14:07:13 )	[CarNavigation]ans: 3F_01_21
+
+( 2018-10-25 14:07:18 )	[CarNavigation]ans: 3F_01_9
+
+( 2018-10-25 14:07:18 )	[VoiceString] 前方右轉
+
+( 2018-10-25 14:07:22 )	[CarNavigation]ans: 3F_01_10
+
+( 2018-10-25 14:07:26 )	[CarNavigation]ans: 3F_01_11
+
+( 2018-10-25 14:07:35 )	[CarNavigation]ans: 4F_02_14
+
+( 2018-10-25 14:07:35 )	[VoiceString] 前方右轉
+
+( 2018-10-25 14:07:37 )	[CarNavigation]ans: 4F_02_1
+
+( 2018-10-25 14:07:37 )	[VoiceString] 前方右轉
+
+( 2018-10-25 14:07:40 )	[CarNavigation]ans: 4F_02_20
+
+( 2018-10-25 14:07:53 )	[CarNavigation]ans: 4F_02_15
+
+( 2018-10-25 14:07:58 )	[CarNavigation]ans: 4F_02_16
+
+( 2018-10-25 14:08:01 )	[CarNavigation]ans: 4F_01_17
+
+( 2018-10-25 14:08:05 )	[CarNavigation]ans: 4F_01_18
+
+( 2018-10-25 14:08:06 )	[CarNavigation]ans: 4F_01_19
+
+( 2018-10-25 14:08:06 )	[VoiceString] 下樓
+
+( 2018-10-25 14:08:09 )	[CarNavigation]ans: 4F_01_21
+
+( 2018-10-25 14:08:09 )	[VoiceString] 下樓
+
+( 2018-10-25 14:08:14 )	[CarNavigation]ans: 4F_01_9
+
+( 2018-10-25 14:08:14 )	[VoiceString] 前方右轉
+
+( 2018-10-25 14:08:24 )	[CarNavigation]ans: 3F_01_10
+
+( 2018-10-25 14:08:32 )	[VoiceString] 取消自訂導航
+
+( 2018-10-25 14:08:35 )	[CarNavigation]ans: 3F_01_11
+
+( 2018-10-25 14:08:51 )	[CarNavigation]ans: 3F_02_12
+
+( 2018-10-25 14:08:52 )	[CarNavigation]ans: 3F_02_13
+
+( 2018-10-25 14:08:54 )	[CarNavigation]ans: 3F_02_14
+
+( 2018-10-25 14:08:54 )	[VoiceString] 前方右轉
+
+( 2018-10-25 14:08:57 )	[CarNavigation]ans: 3F_02_1
+
+( 2018-10-25 14:08:57 )	[VoiceString] 前方右轉
+
+( 2018-10-25 14:09:04 )	[CarNavigation]ans: 3F_02_20
+
+( 2018-10-25 14:09:09 )	[CarNavigation]ans: 3F_02_15
+
+( 2018-10-25 14:09:13 )	[CarNavigation]ans: 3F_02_16
+
+( 2018-10-25 14:09:16 )	[CarNavigation]ans: 3F_02_17
+
+( 2018-10-25 14:09:19 )	[CarNavigation]ans: 3F_01_18
+
+( 2018-10-25 14:09:21 )	[CarNavigation]ans: 3F_01_19
+
+( 2018-10-25 14:09:21 )	[VoiceString] 已到達目的地
+
+( 2018-10-25 14:09:21 )	[VoiceString] 左側
+
+( 2018-10-25 14:09:21 )	[VoiceString] 240號
+
+( 2018-10-25 14:09:33 )	[CarNavigation]ans: 3F_01_21
+
+( 2018-10-25 14:09:52 )	[CarNavigation]ans: 3F_01_9
+
+( 2018-10-25 14:09:58 )	[CarNavigation]ans: 3F_01_10
+
+( 2018-10-25 14:10:20 )	[VoiceString] 謝謝光臨
+
+( 2018-10-25 14:10:20 )	 [SendTrackingData]
+
+///////////////////////////////////
+網路切換時機
+2018-10-25 12:54:03.814 中華電信 (first)
+
+
+--------detail--------
+
+2018-10-25 12:51:16.471 || !!PaKing APP Open!!
+
+2018-10-25 12:51:16.476 || iPhone
+
+2018-10-25 12:51:16.476 || iOS 11.3.1
+
+2018-10-25 12:51:16.476 || 6
+
+2018-10-25 12:51:16.476 || paking versoin:1.6.5(release)
+
+2018-10-25 12:51:16.476 || paking build:20180925112634
+
+2018-10-25 12:51:25.399 || [Gate][Locker]
+
+2018-10-25 12:52:42.392 || 
+
+2018-10-25 12:52:43.282 || -[AppDelegate applicationDidEnterBackground:]|[L:125]|
+
+2018-10-25 12:52:43.282 || [Gate]0.000000
+
+2018-10-25 12:52:43.282 || [Locker]0.000000
+
+2018-10-25 12:54:03.810 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:05:9D_GI:-93
+
+2018-10-25 12:54:03.810 || [Gate]_BLEMac<p>:D4:CA:6E:B3:05:9D_GI
+
+2018-10-25 12:54:03.814 || Network-<Carrier> 中華電信
+
+2018-10-25 12:54:03.814 || inputAPI = /app.php?page=checkGarage
+
+2018-10-25 12:54:03.834 || checkGarage Request 
+
+2018-10-25 12:54:04.432 || checkGarage Success 
+
+2018-10-25 12:54:07.807 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:05:9D_GI:-89
+
+2018-10-25 12:54:07.807 || [Gate]_BLEMac<p>:D4:CA:6E:B3:05:9D_GI
+
+2018-10-25 12:54:11.824 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:05:9D_GI:-94
+
+2018-10-25 12:54:11.825 || [Gate]_BLEMac<p>:D4:CA:6E:B3:05:9D_GI
+
+2018-10-25 12:54:14.843 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:05:9D_GI:-88
+
+2018-10-25 12:54:14.843 || [Gate]_BLEMac<p>:D4:CA:6E:B3:05:9D_GI
+
+2018-10-25 12:54:16.856 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:05:9D_GI:-94
+
+2018-10-25 12:54:16.857 || [Gate]_BLEMac<p>:D4:CA:6E:B3:05:9D_GI
+
+2018-10-25 12:54:17.864 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:05:9D_GI:-82
+
+2018-10-25 12:54:17.864 || [Gate]_BLEMac<p>:D4:CA:6E:B3:05:9D_GI
+
+2018-10-25 12:54:20.879 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:05:9D_GI:-80
+
+2018-10-25 12:54:20.879 || [Gate]_BLEMac<p>:D4:CA:6E:B3:05:9D_GI
+
+2018-10-25 12:54:22.896 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:05:9D_GI:-77
+
+2018-10-25 12:54:22.896 || [Gate]_BLEMac<p>:D4:CA:6E:B3:05:9D_GI
+
+2018-10-25 12:54:24.901 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:05:9D_GI:-79
+
+2018-10-25 12:54:24.902 || [Gate]_BLEMac<p>:D4:CA:6E:B3:05:9D_GI
+
+2018-10-25 12:54:25.906 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:05:9D_GI:-71
+
+2018-10-25 12:54:25.906 || [Gate]_BLEMac<p>:D4:CA:6E:B3:05:9D_GI
+
+2018-10-25 12:54:26.909 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:05:9D_GI:-65
+
+2018-10-25 12:54:26.909 || [Gate]_BLEMac<p>:D4:CA:6E:B3:05:9D_GI
+
+2018-10-25 12:54:27.918 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:05:9D_GI:-74
+
+2018-10-25 12:54:27.918 || [Gate]_BLEMac<p>:D4:CA:6E:B3:05:9D_GI
+
+2018-10-25 12:54:29.668 || [Gate]_BLEMac<adv>:D4:CA:6E:B2:FD:DF_GI:-82
+
+2018-10-25 12:54:29.668 || [Gate]_BLEMac<p>:D4:CA:6E:B2:FD:DF_GI
+
+2018-10-25 12:54:29.681 || Network-<Carrier> 中華電信
+
+2018-10-25 12:54:29.684 || inputAPI = /app.php?page=checkGarage
+
+2018-10-25 12:54:29.689 || checkGarage Request 
+
+2018-10-25 12:54:29.938 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:05:9D_GI:-67
+
+2018-10-25 12:54:29.938 || [Gate]_BLEMac<p>:D4:CA:6E:B3:05:9D_GI
+
+2018-10-25 12:54:30.308 || checkGarage Success 
+
+2018-10-25 12:54:30.673 || [Gate]_BLEMac<adv>:D4:CA:6E:B2:FD:DF_GI:-85
+
+2018-10-25 12:54:30.673 || [Gate]_BLEMac<p>:D4:CA:6E:B2:FD:DF_GI
+
+2018-10-25 12:54:30.939 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:05:9D_GI:-63
+
+2018-10-25 12:54:30.939 || [Gate]_BLEMac<p>:D4:CA:6E:B3:05:9D_GI
+
+2018-10-25 12:54:31.674 || [Gate]_BLEMac<adv>:D4:CA:6E:B2:FD:DF_GI:-85
+
+2018-10-25 12:54:31.674 || [Gate]_BLEMac<p>:D4:CA:6E:B2:FD:DF_GI
+
+2018-10-25 12:54:31.945 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:05:9D_GI:-60
+
+2018-10-25 12:54:31.946 || [Gate]_BLEMac<p>:D4:CA:6E:B3:05:9D_GI
+
+2018-10-25 12:54:32.951 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:05:9D_GI:-60
+
+2018-10-25 12:54:32.952 || [Gate]_BLEMac<p>:D4:CA:6E:B3:05:9D_GI
+
+2018-10-25 12:54:33.953 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:05:9D_GI:-76
+
+2018-10-25 12:54:33.953 || [Gate]_BLEMac<p>:D4:CA:6E:B3:05:9D_GI
+
+2018-10-25 12:54:34.962 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:05:9D_GI:-75
+
+2018-10-25 12:54:34.963 || [Gate]_BLEMac<p>:D4:CA:6E:B3:05:9D_GI
+
+2018-10-25 12:54:35.698 || [Gate]_BLEMac<adv>:D4:CA:6E:B2:FD:DF_GI:-89
+
+2018-10-25 12:54:35.699 || [Gate]_BLEMac<p>:D4:CA:6E:B2:FD:DF_GI
+
+2018-10-25 12:54:36.968 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:05:9D_GI:-67
+
+2018-10-25 12:54:36.969 || [Gate]_BLEMac<p>:D4:CA:6E:B3:05:9D_GI
+
+2018-10-25 12:54:37.974 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:05:9D_GI:-59
+
+2018-10-25 12:54:37.974 || [Gate]_BLEMac<p>:D4:CA:6E:B3:05:9D_GI
+
+2018-10-25 12:54:40.987 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:05:9D_GI:-64
+
+2018-10-25 12:54:40.987 || [Gate]_BLEMac<p>:D4:CA:6E:B3:05:9D_GI
+
+2018-10-25 12:54:41.996 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:05:9D_GI:-70
+
+2018-10-25 12:54:41.996 || [Gate]_BLEMac<p>:D4:CA:6E:B3:05:9D_GI
+
+2018-10-25 12:54:42.723 || [Gate]_BLEMac<adv>:D4:CA:6E:B2:FD:DF_GI:-91
+
+2018-10-25 12:54:42.723 || [Gate]_BLEMac<p>:D4:CA:6E:B2:FD:DF_GI
+
+2018-10-25 12:54:46.024 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:05:9D_GI:-68
+
+2018-10-25 12:54:46.024 || [Gate]_BLEMac<p>:D4:CA:6E:B3:05:9D_GI
+
+2018-10-25 12:54:47.024 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:05:9D_GI:-68
+
+2018-10-25 12:54:47.024 || [Gate]_BLEMac<p>:D4:CA:6E:B3:05:9D_GI
+
+2018-10-25 12:54:49.031 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:05:9D_GI:-80
+
+2018-10-25 12:54:49.031 || [Gate]_BLEMac<p>:D4:CA:6E:B3:05:9D_GI
+
+2018-10-25 12:54:50.039 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:05:9D_GI:-90
+
+2018-10-25 12:54:50.039 || [Gate]_BLEMac<p>:D4:CA:6E:B3:05:9D_GI
+
+2018-10-25 12:54:51.047 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:05:9D_GI:-65
+
+2018-10-25 12:54:51.047 || [Gate]_BLEMac<p>:D4:CA:6E:B3:05:9D_GI
+
+2018-10-25 12:54:54.068 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:05:9D_GI:-69
+
+2018-10-25 12:54:54.068 || [Gate]_BLEMac<p>:D4:CA:6E:B3:05:9D_GI
+
+2018-10-25 12:54:55.072 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:05:9D_GI:-69
+
+2018-10-25 12:54:55.072 || [Gate]_BLEMac<p>:D4:CA:6E:B3:05:9D_GI
+
+2018-10-25 12:54:58.085 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:05:9D_GI:-62
+
+2018-10-25 12:54:58.085 || [Gate]_BLEMac<p>:D4:CA:6E:B3:05:9D_GI
+
+2018-10-25 12:55:00.818 || [Gate]_BLEMac<adv>:D4:CA:6E:B2:FD:DF_GI:-88
+
+2018-10-25 12:55:00.822 || [Gate]_BLEMac<p>:D4:CA:6E:B2:FD:DF_GI
+
+2018-10-25 12:55:03.103 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:05:9D_GI:-70
+
+2018-10-25 12:55:03.104 || [Gate]_BLEMac<p>:D4:CA:6E:B3:05:9D_GI
+
+2018-10-25 12:55:04.107 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:05:9D_GI:-73
+
+2018-10-25 12:55:04.108 || [Gate]_BLEMac<p>:D4:CA:6E:B3:05:9D_GI
+
+2018-10-25 12:55:04.840 || [Gate]_BLEMac<adv>:D4:CA:6E:B2:FD:DF_GI:-83
+
+2018-10-25 12:55:04.841 || [Gate]_BLEMac<p>:D4:CA:6E:B2:FD:DF_GI
+
+2018-10-25 12:55:05.114 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:05:9D_GI:-78
+
+2018-10-25 12:55:05.114 || [Gate]_BLEMac<p>:D4:CA:6E:B3:05:9D_GI
+
+2018-10-25 12:55:06.115 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:05:9D_GI:-79
+
+2018-10-25 12:55:06.115 || [Gate]_BLEMac<p>:D4:CA:6E:B3:05:9D_GI
+
+2018-10-25 12:55:07.123 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:05:9D_GI:-84
+
+2018-10-25 12:55:07.123 || [Gate]_BLEMac<p>:D4:CA:6E:B3:05:9D_GI
+
+2018-10-25 12:55:09.140 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:05:9D_GI:-88
+
+2018-10-25 12:55:09.140 || [Gate]_BLEMac<p>:D4:CA:6E:B3:05:9D_GI
+
+2018-10-25 12:55:10.145 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:05:9D_GI:-86
+
+2018-10-25 12:55:10.146 || [Gate]_BLEMac<p>:D4:CA:6E:B3:05:9D_GI
+
+2018-10-25 12:55:11.154 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:05:9D_GI:-82
+
+2018-10-25 12:55:11.154 || [Gate]_BLEMac<p>:D4:CA:6E:B3:05:9D_GI
+
+2018-10-25 12:55:12.157 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:05:9D_GI:-83
+
+2018-10-25 12:55:12.157 || [Gate]_BLEMac<p>:D4:CA:6E:B3:05:9D_GI
+
+2018-10-25 12:55:13.158 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:05:9D_GI:-85
+
+2018-10-25 12:55:13.158 || [Gate]_BLEMac<p>:D4:CA:6E:B3:05:9D_GI
+
+2018-10-25 12:55:13.902 || [Gate]_BLEMac<adv>:D4:CA:6E:B2:FD:DF_GI:-94
+
+2018-10-25 12:55:13.902 || [Gate]_BLEMac<p>:D4:CA:6E:B2:FD:DF_GI
+
+2018-10-25 12:55:15.174 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:05:9D_GI:-89
+
+2018-10-25 12:55:15.174 || [Gate]_BLEMac<p>:D4:CA:6E:B3:05:9D_GI
+
+2018-10-25 12:55:16.183 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:05:9D_GI:-92
+
+2018-10-25 12:55:16.183 || [Gate]_BLEMac<p>:D4:CA:6E:B3:05:9D_GI
+
+2018-10-25 12:55:17.186 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:05:9D_GI:-87
+
+2018-10-25 12:55:17.186 || [Gate]_BLEMac<p>:D4:CA:6E:B3:05:9D_GI
+
+2018-10-25 12:55:18.187 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:05:9D_GI:-86
+
+2018-10-25 12:55:18.187 || [Gate]_BLEMac<p>:D4:CA:6E:B3:05:9D_GI
+
+2018-10-25 12:55:19.187 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:05:9D_GI:-87
+
+2018-10-25 12:55:19.187 || [Gate]_BLEMac<p>:D4:CA:6E:B3:05:9D_GI
+
+2018-10-25 12:55:21.197 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:05:9D_GI:-79
+
+2018-10-25 12:55:21.197 || [Gate]_BLEMac<p>:D4:CA:6E:B3:05:9D_GI
+
+2018-10-25 12:55:22.199 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:05:9D_GI:-81
+
+2018-10-25 12:55:22.200 || [Gate]_BLEMac<p>:D4:CA:6E:B3:05:9D_GI
+
+2018-10-25 12:55:23.208 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:05:9D_GI:-77
+
+2018-10-25 12:55:23.208 || [Gate]_BLEMac<p>:D4:CA:6E:B3:05:9D_GI
+
+2018-10-25 12:55:24.945 || [Gate]_BLEMac<adv>:D4:CA:6E:B2:FD:DF_GI:-86
+
+2018-10-25 12:55:24.946 || [Gate]_BLEMac<p>:D4:CA:6E:B2:FD:DF_GI
+
+2018-10-25 12:55:26.222 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:05:9D_GI:-76
+
+2018-10-25 12:55:26.222 || [Gate]_BLEMac<p>:D4:CA:6E:B3:05:9D_GI
+
+2018-10-25 12:55:27.960 || [Gate]_BLEMac<adv>:D4:CA:6E:B2:FD:DF_GI:-87
+
+2018-10-25 12:55:27.960 || [Gate]_BLEMac<p>:D4:CA:6E:B2:FD:DF_GI
+
+2018-10-25 12:55:29.232 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:05:9D_GI:-76
+
+2018-10-25 12:55:29.232 || [Gate]_BLEMac<p>:D4:CA:6E:B3:05:9D_GI
+
+2018-10-25 12:55:31.973 || [Gate]_BLEMac<adv>:D4:CA:6E:B2:FD:DF_GI:-88
+
+2018-10-25 12:55:31.973 || [Gate]_BLEMac<p>:D4:CA:6E:B2:FD:DF_GI
+
+2018-10-25 12:55:33.246 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:05:9D_GI:-79
+
+2018-10-25 12:55:33.246 || [Gate]_BLEMac<p>:D4:CA:6E:B3:05:9D_GI
+
+2018-10-25 12:55:34.251 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:05:9D_GI:-82
+
+2018-10-25 12:55:34.251 || [Gate]_BLEMac<p>:D4:CA:6E:B3:05:9D_GI
+
+2018-10-25 12:55:37.267 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:05:9D_GI:-75
+
+2018-10-25 12:55:37.267 || [Gate]_BLEMac<p>:D4:CA:6E:B3:05:9D_GI
+
+2018-10-25 12:55:37.994 || [Gate]_BLEMac<adv>:D4:CA:6E:B2:FD:DF_GI:-92
+
+2018-10-25 12:55:37.994 || [Gate]_BLEMac<p>:D4:CA:6E:B2:FD:DF_GI
+
+2018-10-25 12:55:38.268 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:05:9D_GI:-70
+
+2018-10-25 12:55:38.269 || [Gate]_BLEMac<p>:D4:CA:6E:B3:05:9D_GI
+
+2018-10-25 12:55:40.282 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:05:9D_GI:-79
+
+2018-10-25 12:55:40.282 || [Gate]_BLEMac<p>:D4:CA:6E:B3:05:9D_GI
+
+2018-10-25 12:55:41.292 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:05:9D_GI:-72
+
+2018-10-25 12:55:41.292 || [Gate]_BLEMac<p>:D4:CA:6E:B3:05:9D_GI
+
+2018-10-25 12:55:42.294 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:05:9D_GI:-85
+
+2018-10-25 12:55:42.294 || [Gate]_BLEMac<p>:D4:CA:6E:B3:05:9D_GI
+
+2018-10-25 12:55:45.316 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:05:9D_GI:-80
+
+2018-10-25 12:55:45.316 || [Gate]_BLEMac<p>:D4:CA:6E:B3:05:9D_GI
+
+2018-10-25 12:55:46.319 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:05:9D_GI:-74
+
+2018-10-25 12:55:46.319 || [Gate]_BLEMac<p>:D4:CA:6E:B3:05:9D_GI
+
+2018-10-25 12:55:48.335 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:05:9D_GI:-79
+
+2018-10-25 12:55:48.335 || [Gate]_BLEMac<p>:D4:CA:6E:B3:05:9D_GI
+
+2018-10-25 12:55:49.342 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:05:9D_GI:-74
+
+2018-10-25 12:55:49.342 || [Gate]_BLEMac<p>:D4:CA:6E:B3:05:9D_GI
+
+2018-10-25 12:55:50.341 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:05:9D_GI:-82
+
+2018-10-25 12:55:50.342 || [Gate]_BLEMac<p>:D4:CA:6E:B3:05:9D_GI
+
+2018-10-25 12:55:51.347 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:05:9D_GI:-76
+
+2018-10-25 12:55:51.347 || [Gate]_BLEMac<p>:D4:CA:6E:B3:05:9D_GI
+
+2018-10-25 12:55:52.356 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:05:9D_GI:-74
+
+2018-10-25 12:55:52.356 || [Gate]_BLEMac<p>:D4:CA:6E:B3:05:9D_GI
+
+2018-10-25 12:55:53.069 || [Gate]_BLEMac<adv>:D4:CA:6E:B2:FD:DF_GI:-93
+
+2018-10-25 12:55:53.070 || [Gate]_BLEMac<p>:D4:CA:6E:B2:FD:DF_GI
+
+2018-10-25 12:55:55.381 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:05:9D_GI:-93
+
+2018-10-25 12:55:55.381 || [Gate]_BLEMac<p>:D4:CA:6E:B3:05:9D_GI
+
+2018-10-25 12:55:57.101 || [Gate]_BLEMac<adv>:D4:CA:6E:B2:FD:DF_GI:-91
+
+2018-10-25 12:55:57.101 || [Gate]_BLEMac<p>:D4:CA:6E:B2:FD:DF_GI
+
+2018-10-25 12:55:57.393 || [Gate]_BLEMac<adv>:D4:CA:6E:B3:05:9D_GI:-91
+
+2018-10-25 12:55:57.393 || [Gate]_BLEMac<p>:D4:CA:6E:B3:05:9D_GI
+
+2018-10-25 13:57:08.318 || -[AppDelegate checkUpdate]|[L:342]|開始檢查是否更新
+
+2018-10-25 13:57:08.408 || Network-<Carrier> 中華電信
+
+2018-10-25 13:57:08.415 || check_member Request 
+
+2018-10-25 13:57:08.954 || check_member Success 
+
+2018-10-25 13:57:08.959 || Network-<Carrier> 中華電信
+
+2018-10-25 13:57:08.960 || login_check_lite Request 
+
+2018-10-25 13:57:09.393 || login_check_lite Success 
+
+2018-10-25 13:57:09.404 || set userManager.isReservation = 0
+
+2018-10-25 13:57:09.405 || set userManager.isGarageReservation = 0
+
+2018-10-25 13:57:09.526 || Network-<Carrier> 中華電信
+
+2018-10-25 13:57:09.526 || getBannerList Request 
+
+2018-10-25 13:57:09.587 || Network-<Carrier> 中華電信
+
+2018-10-25 13:57:09.588 || get_news Request 
+
+2018-10-25 13:57:09.644 || [Gate]BLE ON
+
+2018-10-25 13:57:09.869 || getBannerList Success 
+
+2018-10-25 13:57:10.069 || get_news Success 
+
+2018-10-25 13:57:13.766 || -[AppDelegate applicationDidEnterBackground:]|[L:125]|
+
+2018-10-25 14:02:39.896 || -[AppDelegate checkUpdate]|[L:342]|開始檢查是否更新
+
+2018-10-25 14:02:39.964 || Network-<Carrier> 中華電信
+
+2018-10-25 14:02:39.965 || check_member Request 
+
+2018-10-25 14:02:40.475 || check_member Success 
+
+2018-10-25 14:02:40.485 || Network-<Carrier> 中華電信
+
+2018-10-25 14:02:40.486 || login_check_lite Request 
+
+2018-10-25 14:02:40.900 || login_check_lite Success 
+
+2018-10-25 14:02:40.909 || set userManager.isReservation = 0
+
+2018-10-25 14:02:40.909 || set userManager.isGarageReservation = 0
+
+2018-10-25 14:02:40.997 || Network-<Carrier> 中華電信
+
+2018-10-25 14:02:40.997 || getBannerList Request 
+
+2018-10-25 14:02:41.055 || Network-<Carrier> 中華電信
+
+2018-10-25 14:02:41.056 || get_news Request 
+
+2018-10-25 14:02:41.089 || [Gate]BLE ON
+
+2018-10-25 14:02:41.351 || getBannerList Success 
+
+2018-10-25 14:02:41.580 || get_news Success 
+
+2018-10-25 14:02:45.679 || Network-<Carrier> 中華電信
+
+2018-10-25 14:02:45.680 || get_vendor Request 
+
+2018-10-25 14:02:46.040 || get_vendor Success 
+
+2018-10-25 14:02:46.482 || Network-<Carrier> 中華電信
+
+2018-10-25 14:02:46.484 || garage_list Request 
+
+2018-10-25 14:02:47.392 || garage_list Success 
+
+2018-10-25 14:02:50.877 || Network-<Carrier> 中華電信
+
+2018-10-25 14:02:50.878 || garage_list Request 
+
+2018-10-25 14:02:51.725 || garage_list Success 
+
+2018-10-25 14:03:03.343 || Network-<Carrier> 中華電信
+
+2018-10-25 14:03:04.000 || one_garage_list Success 
+
+2018-10-25 14:03:04.091 || State = 2
+
+2018-10-25 14:03:04.091 || Desc = 
+
+2018-10-25 14:03:04.096 || Network-<Carrier> 中華電信
+
+2018-10-25 14:03:04.097 || get_vendor Request 
+
+2018-10-25 14:03:04.454 || get_vendor Success 
+
+2018-10-25 14:03:04.610 || Network-<Carrier> 中華電信
+
+2018-10-25 14:03:05.031 || one_garage_list Success 
+
+2018-10-25 14:03:08.042 || Network-<Carrier> 中華電信
+
+2018-10-25 14:03:08.474 || one_garage_list Success 
+
+2018-10-25 14:03:11.485 || Network-<Carrier> 中華電信
+
+2018-10-25 14:03:11.921 || one_garage_list Success 
+
+2018-10-25 14:03:14.932 || Network-<Carrier> 中華電信
+
+2018-10-25 14:03:15.351 || one_garage_list Success 
+
+2018-10-25 14:03:18.362 || Network-<Carrier> 中華電信
+
+2018-10-25 14:03:18.845 || one_garage_list Success 
+
+2018-10-25 14:03:21.856 || Network-<Carrier> 中華電信
+
+2018-10-25 14:03:22.280 || one_garage_list Success 
+
+2018-10-25 14:03:25.291 || Network-<Carrier> 中華電信
+
+2018-10-25 14:03:25.720 || one_garage_list Success 
+
+2018-10-25 14:03:28.731 || Network-<Carrier> 中華電信
+
+2018-10-25 14:03:29.165 || one_garage_list Success 
+
+2018-10-25 14:03:30.797 || -[AppDelegate applicationDidEnterBackground:]|[L:125]|
+
+2018-10-25 14:05:18.292 || -[AppDelegate applicationWillEnterForeground:]|[L:156]|
+
+2018-10-25 14:05:18.429 || [Gate]_BLEMac<adv>:00:23:A7:A6:AF:10_GI:-86
+
+2018-10-25 14:05:18.429 || [Gate]_BLEMac<p>:00:23:A7:A6:AF:10_GI
+
+2018-10-25 14:05:18.434 || Network-<Carrier> 中華電信
+
+2018-10-25 14:05:18.436 || inputAPI = /app.php?page=checkGarage
+
+2018-10-25 14:05:18.457 || checkGarage Request 
+
+2018-10-25 14:05:18.567 || Network-<Carrier> 中華電信
+
+2018-10-25 14:05:18.568 || user_fail_trade_check Request 
+
+2018-10-25 14:05:18.881 || checkGarage Success 
+
+  ||                 "garage_id" = 000001;
+
+  ||                 "garage_id" = 000001;
+
+  ||                 "garage_id" = 000001;
+
+  ||                 "garage_id" = 000001;
+
+  ||         "garage_id" = 000001;
+
+2018-10-25 14:05:18.883 || [Gate]ANPRStatus_GI Start
+
+2018-10-25 14:05:18.883 || ANPRRetryCount:1
+
+2018-10-25 14:05:18.888 || Network-<Carrier> 中華電信
+
+2018-10-25 14:05:18.888 || ANPR_check_enter Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-25 14:05:18.965 || user_fail_trade_check Success 
+
+!!!2018-10-25 14:05:18.965 || result: {
+
+!!!2018-10-25 14:05:18.965 || userManager.garageFarePaymentStatus = NoGarageFare 
+
+2018-10-25 14:05:19.021 || Network-<Carrier> 中華電信
+
+2018-10-25 14:05:19.022 || garage_list Request 
+
+2018-10-25 14:05:19.299 || ANPR_check_enter Success 
+
+2018-10-25 14:05:19.467 || [Gate]_BLEMac<adv>:00:23:A7:A6:AF:10_GI:-94
+
+2018-10-25 14:05:19.467 || [Gate]_BLEMac<p>:00:23:A7:A6:AF:10_GI
+
+  ||     "00:23:A7:A6:AF:10_GI"
+
+2018-10-25 14:05:19.783 || garage_list Success 
+
+2018-10-25 14:05:19.857 || [Gate]_BLEMac<adv>:00:23:A7:A6:AF:10_GI:-86
+
+2018-10-25 14:05:19.857 || [Gate]_BLEMac<p>:00:23:A7:A6:AF:10_GI
+
+2018-10-25 14:05:20.099 || [Gate]_BLEMac<adv>:00:23:A7:A6:AF:10_GI:-81
+
+2018-10-25 14:05:20.099 || [Gate]_BLEMac<p>:00:23:A7:A6:AF:10_GI
+
+2018-10-25 14:05:20.627 || [Gate]_BLEMac<adv>:00:23:A7:A6:AF:10_GI:-87
+
+2018-10-25 14:05:20.627 || [Gate]_BLEMac<p>:00:23:A7:A6:AF:10_GI
+
+2018-10-25 14:05:21.353 || [Gate]_BLEMac<adv>:00:23:A7:A6:AF:10_GI:-89
+
+2018-10-25 14:05:21.353 || [Gate]_BLEMac<p>:00:23:A7:A6:AF:10_GI
+
+2018-10-25 14:05:21.675 || [Gate]_BLEMac<adv>:00:23:A7:A6:AF:10_GI:-90
+
+2018-10-25 14:05:21.675 || [Gate]_BLEMac<p>:00:23:A7:A6:AF:10_GI
+
+2018-10-25 14:05:22.309 || [Gate]_BLEMac<adv>:00:23:A7:A6:AF:10_GI:-90
+
+2018-10-25 14:05:22.309 || [Gate]_BLEMac<p>:00:23:A7:A6:AF:10_GI
+
+2018-10-25 14:05:22.603 || ANPRRetryCount:2
+
+2018-10-25 14:05:22.612 || Network-<Carrier> 中華電信
+
+2018-10-25 14:05:22.614 || ANPR_check_enter Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-25 14:05:22.620 || [Gate]_BLEMac<adv>:00:23:A7:A6:AF:10_GI:-88
+
+2018-10-25 14:05:22.620 || [Gate]_BLEMac<p>:00:23:A7:A6:AF:10_GI
+
+2018-10-25 14:05:23.234 || [Gate]_BLEMac<adv>:00:23:A7:A6:AF:10_GI:-88
+
+2018-10-25 14:05:23.235 || [Gate]_BLEMac<p>:00:23:A7:A6:AF:10_GI
+
+2018-10-25 14:05:23.463 || ANPR_check_enter Success 
+
+2018-10-25 14:05:24.069 || [Gate]_BLEMac<adv>:00:23:A7:A6:AF:10_GI:-88
+
+2018-10-25 14:05:24.069 || [Gate]_BLEMac<p>:00:23:A7:A6:AF:10_GI
+
+2018-10-25 14:05:24.380 || [Gate]_BLEMac<adv>:00:23:A7:A6:AF:10_GI:-94
+
+2018-10-25 14:05:24.380 || [Gate]_BLEMac<p>:00:23:A7:A6:AF:10_GI
+
+2018-10-25 14:05:24.790 || [Gate]_BLEMac<adv>:00:23:A7:A6:AF:10_GI:-89
+
+2018-10-25 14:05:24.791 || [Gate]_BLEMac<p>:00:23:A7:A6:AF:10_GI
+
+2018-10-25 14:05:25.210 || [Gate]_BLEMac<adv>:00:23:A7:A6:AF:10_GI:-91
+
+2018-10-25 14:05:25.210 || [Gate]_BLEMac<p>:00:23:A7:A6:AF:10_GI
+
+2018-10-25 14:05:25.630 || [Gate]_BLEMac<adv>:00:23:A7:A6:AF:10_GI:-89
+
+2018-10-25 14:05:25.631 || [Gate]_BLEMac<p>:00:23:A7:A6:AF:10_GI
+
+2018-10-25 14:05:26.151 || [Gate]_BLEMac<adv>:00:23:A7:A6:AF:10_GI:-91
+
+2018-10-25 14:05:26.151 || [Gate]_BLEMac<p>:00:23:A7:A6:AF:10_GI
+
+2018-10-25 14:05:26.754 || ANPRRetryCount:3
+
+2018-10-25 14:05:26.762 || Network-<Carrier> 中華電信
+
+2018-10-25 14:05:26.764 || ANPR_check_enter Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-25 14:05:26.990 || [Gate]_BLEMac<adv>:00:23:A7:A6:AF:10_GI:-89
+
+2018-10-25 14:05:26.990 || [Gate]_BLEMac<p>:00:23:A7:A6:AF:10_GI
+
+2018-10-25 14:05:27.206 || ANPR_check_enter Success 
+
+2018-10-25 14:05:28.140 || [Gate]_BLEMac<adv>:00:23:A7:A6:AF:10_GI:-88
+
+2018-10-25 14:05:28.140 || [Gate]_BLEMac<p>:00:23:A7:A6:AF:10_GI
+
+2018-10-25 14:05:28.671 || [Gate]_BLEMac<adv>:00:23:A7:A6:AF:10_GI:-89
+
+2018-10-25 14:05:28.671 || [Gate]_BLEMac<p>:00:23:A7:A6:AF:10_GI
+
+2018-10-25 14:05:29.197 || [Gate]_BLEMac<adv>:00:23:A7:A6:AF:10_GI:-79
+
+2018-10-25 14:05:29.197 || [Gate]_BLEMac<p>:00:23:A7:A6:AF:10_GI
+
+2018-10-25 14:05:29.722 || [Gate]_BLEMac<adv>:00:23:A7:A6:AF:10_GI:-87
+
+2018-10-25 14:05:29.723 || [Gate]_BLEMac<p>:00:23:A7:A6:AF:10_GI
+
+2018-10-25 14:05:30.132 || [Gate]_BLEMac<adv>:00:23:A7:A6:AF:10_GI:-85
+
+2018-10-25 14:05:30.132 || [Gate]_BLEMac<p>:00:23:A7:A6:AF:10_GI
+
+2018-10-25 14:05:30.505 || ANPRRetryCount:4
+
+2018-10-25 14:05:30.515 || Network-<Carrier> 中華電信
+
+2018-10-25 14:05:30.516 || ANPR_check_enter Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-25 14:05:30.667 || [Gate]_BLEMac<adv>:00:23:A7:A6:AF:10_GI:-82
+
+2018-10-25 14:05:30.668 || [Gate]_BLEMac<p>:00:23:A7:A6:AF:10_GI
+
+2018-10-25 14:05:30.981 || ANPR_check_enter Success 
+
+2018-10-25 14:05:31.183 || [Gate]_BLEMac<adv>:00:23:A7:A6:AF:10_GI:-84
+
+2018-10-25 14:05:31.184 || [Gate]_BLEMac<p>:00:23:A7:A6:AF:10_GI
+
+2018-10-25 14:05:31.715 || [Gate]_BLEMac<adv>:00:23:A7:A6:AF:10_GI:-82
+
+2018-10-25 14:05:31.715 || [Gate]_BLEMac<p>:00:23:A7:A6:AF:10_GI
+
+2018-10-25 14:05:32.141 || [Gate]_BLEMac<adv>:00:23:A7:A6:AF:10_GI:-77
+
+2018-10-25 14:05:32.141 || [Gate]_BLEMac<p>:00:23:A7:A6:AF:10_GI
+
+2018-10-25 14:05:32.660 || [Gate]_BLEMac<adv>:00:23:A7:A6:AF:10_GI:-71
+
+2018-10-25 14:05:32.660 || [Gate]_BLEMac<p>:00:23:A7:A6:AF:10_GI
+
+2018-10-25 14:05:33.174 || [Gate]_BLEMac<adv>:00:23:A7:A6:AF:10_GI:-73
+
+2018-10-25 14:05:33.174 || [Gate]_BLEMac<p>:00:23:A7:A6:AF:10_GI
+
+2018-10-25 14:05:33.706 || [Gate]_BLEMac<adv>:00:23:A7:A6:AF:10_GI:-71
+
+2018-10-25 14:05:33.707 || [Gate]_BLEMac<p>:00:23:A7:A6:AF:10_GI
+
+2018-10-25 14:05:34.133 || [Gate]_BLEMac<adv>:00:23:A7:A6:AF:10_GI:-66
+
+2018-10-25 14:05:34.133 || [Gate]_BLEMac<p>:00:23:A7:A6:AF:10_GI
+
+2018-10-25 14:05:34.282 || ANPRRetryCount:5
+
+2018-10-25 14:05:34.290 || Network-<Carrier> 中華電信
+
+2018-10-25 14:05:34.292 || ANPR_check_enter Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-25 14:05:34.644 || [Gate]_BLEMac<adv>:00:23:A7:A6:AF:10_GI:-73
+
+2018-10-25 14:05:34.644 || [Gate]_BLEMac<p>:00:23:A7:A6:AF:10_GI
+
+2018-10-25 14:05:34.732 || ANPR_check_enter Success 
+
+2018-10-25 14:05:35.181 || [Gate]_BLEMac<adv>:00:23:A7:A6:AF:10_GI:-65
+
+2018-10-25 14:05:35.181 || [Gate]_BLEMac<p>:00:23:A7:A6:AF:10_GI
+
+2018-10-25 14:05:35.698 || [Gate]_BLEMac<adv>:00:23:A7:A6:AF:10_GI:-73
+
+2018-10-25 14:05:35.698 || [Gate]_BLEMac<p>:00:23:A7:A6:AF:10_GI
+
+2018-10-25 14:05:36.228 || [Gate]_BLEMac<adv>:00:23:A7:A6:AF:10_GI:-70
+
+2018-10-25 14:05:36.229 || [Gate]_BLEMac<p>:00:23:A7:A6:AF:10_GI
+
+2018-10-25 14:05:36.653 || [Gate]_BLEMac<adv>:00:23:A7:A6:AF:10_GI:-60
+
+2018-10-25 14:05:36.653 || [Gate]_BLEMac<p>:00:23:A7:A6:AF:10_GI
+
+2018-10-25 14:05:37.173 || [Gate]_BLEMac<adv>:00:23:A7:A6:AF:10_GI:-58
+
+2018-10-25 14:05:37.173 || [Gate]_BLEMac<p>:00:23:A7:A6:AF:10_GI
+
+2018-10-25 14:05:37.704 || [Gate]_BLEMac<adv>:00:23:A7:A6:AF:10_GI:-71
+
+2018-10-25 14:05:37.704 || [Gate]_BLEMac<p>:00:23:A7:A6:AF:10_GI
+
+2018-10-25 14:05:37.763 || ANPRRetryCount:6
+
+2018-10-25 14:05:37.772 || Network-<Carrier> 中華電信
+
+2018-10-25 14:05:37.773 || ANPR_check_enter Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-25 14:05:38.204 || ANPR_check_enter Success 
+
+2018-10-25 14:05:38.214 || Network-<Carrier> 中華電信
+
+2018-10-25 14:05:38.216 || inputAPI = /app.php?page=garage_enter_check_reservechange
+
+2018-10-25 14:05:38.219 || garage_enter_check_reservechange Request 
+
+2018-10-25 14:05:38.231 || Network-<Carrier> 中華電信
+
+2018-10-25 14:05:38.348 || [Gate]_BLEMac<adv>:00:23:A7:A6:AF:10_GI:-84
+
+2018-10-25 14:05:38.348 || [Gate]_BLEMac<p>:00:23:A7:A6:AF:10_GI
+
+2018-10-25 14:05:38.664 || [Gate]_BLEMac<adv>:00:23:A7:A6:AF:10_GI:-84
+
+2018-10-25 14:05:38.664 || [Gate]_BLEMac<p>:00:23:A7:A6:AF:10_GI
+
+  ||     "00:23:A7:A6:AF:10_GI"
+
+2018-10-25 14:05:38.680 || garage_enter_check_reservechange Success 
+
+  ||             "garage_id" = 000001;
+
+  ||                 "garage_id" = 000001;
+
+  ||                 "garage_id" = 000001;
+
+  ||                 "garage_id" = 000001;
+
+  ||                 "garage_id" = 000001;
+
+2018-10-25 14:05:38.702 || userManager.isGarageReservation = 0
+
+2018-10-25 14:05:38.703 || userManager.isReservation = 0
+
+2018-10-25 14:05:38.706 || userManager.isGarageReservation = 0
+
+  ||     "garage_id" = 000001;
+
+2018-10-25 14:05:38.717 || Network-<Carrier> 中華電信
+
+2018-10-25 14:05:38.717 || parking_space_list Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-25 14:05:38.726 || Network-<Carrier> 中華電信
+
+2018-10-25 14:05:38.727 || inputAPI = /local.php?page=garage_enter_confirm&garage_dbname=000001
+
+2018-10-25 14:05:38.728 || garage_enter_confirm&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-25 14:05:38.766 || voiceString:歡迎光臨
+
+2018-10-25 14:05:38.766 || Utterance:[AVSpeechUtterance 0x1d0874c40] String: 歡迎光臨
+
+2018-10-25 14:05:38.880 || normal enter popup
+
+!!!CoreData: annotation: || CoreData: annotation:  Failed to load optimized model at path '/var/containers/Bundle/Application/0714F21E-B49B-49EC-A63F-C63400344E02/paking.app/GoogleMaps.bundle/GMSCacheStorage.momd/StorageWithTileProto.omo'
+
+!!!CoreData: annotation: || CoreData: annotation:  Failed to load optimized model at path '/var/containers/Bundle/Application/0714F21E-B49B-49EC-A63F-C63400344E02/paking.app/GoogleMaps.bundle/GMSCacheStorage.momd/StorageWithTileProto.omo'
+
+!!!CoreData: annotation: || CoreData: annotation:  Failed to load optimized model at path '/var/containers/Bundle/Application/0714F21E-B49B-49EC-A63F-C63400344E02/paking.app/GoogleMaps.bundle/GMSCacheStorage.momd/StorageWithTileProto.omo'
+
+2018-10-25 14:05:39.183 || [Gate]_BLEMac<adv>:00:23:A7:A6:AF:10_GI:-91
+
+2018-10-25 14:05:39.183 || [Gate]_BLEMac<p>:00:23:A7:A6:AF:10_GI
+
+2018-10-25 14:05:39.336 || parking_space_list Success 
+
+2018-10-25 14:05:39.620 || garage_enter_confirm&garage_dbname=000001 Success 
+
+2018-10-25 14:05:39.629 || Network-<Carrier> 中華電信
+
+2018-10-25 14:05:39.631 || ANPR_binding Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-25 14:05:39.702 || [Gate]_BLEMac<adv>:00:23:A7:A6:AF:10_GI:-93
+
+2018-10-25 14:05:39.702 || [Gate]_BLEMac<p>:00:23:A7:A6:AF:10_GI
+
+2018-10-25 14:05:40.561 || Utterance:[AVSpeechUtterance 0x1d0874c40] String: 歡迎光臨
+
+2018-10-25 14:05:42.100 || ANPR_binding Success 
+
+2018-10-25 14:05:42.104 || [Gate]
+
+2018-10-25 14:05:42.113 || set orderListInfo 
+
+  ||     "garage_id" = 000001;
+
+2018-10-25 14:05:42.114 || userManager.gateGarageInfo 
+
+  ||             "garage_id" = 000001;
+
+  ||             "garage_id" = 000001;
+
+  ||             "garage_id" = 000001;
+
+  ||             "garage_id" = 000001;
+
+  ||     "garage_id" = 000001;
+
+2018-10-25 14:05:42.160 || Network-<Carrier> 中華電信
+
+2018-10-25 14:05:42.161 || getBannerList Request 
+
+2018-10-25 14:05:42.253 || Network-<Carrier> 中華電信
+
+2018-10-25 14:05:42.253 || get_news Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-25 14:05:42.280 || usermanager.isReservation = 0
+
+2018-10-25 14:05:42.280 || usermanager.isGarageReservation = 0
+
+2018-10-25 14:05:42.547 || getBannerList Success 
+
+2018-10-25 14:05:42.883 || get_news Success 
+
+2018-10-25 14:06:01.299 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:0 callback數:0
+
+2018-10-25 14:06:01.299 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:5 上閥值1
+
+2018-10-25 14:06:02.338 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:2 callback數:1
+
+2018-10-25 14:06:02.338 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:5 上閥值1
+
+2018-10-25 14:06:03.293 || Network-<Carrier> 中華電信
+
+2018-10-25 14:06:03.294 || garage_floor_available&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-25 14:06:04.280 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:0 callback數:6
+
+2018-10-25 14:06:04.280 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:5 上閥值2
+
+2018-10-25 14:06:04.295 || garage_floor_available&garage_dbname=000001 Success 
+
+2018-10-25 14:06:05.307 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:3 callback數:14
+
+2018-10-25 14:06:05.308 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:6 上閥值3
+
+2018-10-25 14:06:05.309 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:3164]|[CarNavigation]ans: 3F_02_14
+
+2018-10-25 14:06:06.298 || Network-<Carrier> 中華電信
+
+2018-10-25 14:06:06.300 || floor_area_space_lite&garage_dbname=000001 Request 
+
+2018-10-25 14:06:06.356 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:3 callback數:15
+
+2018-10-25 14:06:06.356 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:6 上閥值3
+
+2018-10-25 14:06:06.356 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:3164]|[CarNavigation]ans: 3F_02_1
+
+2018-10-25 14:06:06.826 || floor_area_space_lite&garage_dbname=000001 Success 
+
+2018-10-25 14:06:07.307 || Network-<Carrier> 中華電信
+
+2018-10-25 14:06:07.308 || garage_floor_available&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-25 14:06:07.409 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:4 callback數:15
+
+2018-10-25 14:06:07.409 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:6 上閥值3
+
+2018-10-25 14:06:08.173 || garage_floor_available&garage_dbname=000001 Success 
+
+2018-10-25 14:06:08.454 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:3 callback數:17
+
+2018-10-25 14:06:08.454 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:8 上閥值3
+
+2018-10-25 14:06:09.522 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:4 callback數:12
+
+2018-10-25 14:06:09.522 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:6 上閥值2
+
+2018-10-25 14:06:09.898 || Network-<Carrier> 中華電信
+
+2018-10-25 14:06:09.900 || floor_area_space_lite&garage_dbname=000001 Request 
+
+2018-10-25 14:06:10.557 || floor_area_space_lite&garage_dbname=000001 Success 
+
+2018-10-25 14:06:10.622 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:4 callback數:18
+
+2018-10-25 14:06:10.622 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:8 上閥值4
+
+2018-10-25 14:06:11.184 || Network-<Carrier> 中華電信
+
+2018-10-25 14:06:11.186 || garage_floor_available&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-25 14:06:11.627 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:4 callback數:11
+
+2018-10-25 14:06:11.627 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:6 上閥值2
+
+2018-10-25 14:06:11.841 || garage_floor_available&garage_dbname=000001 Success 
+
+2018-10-25 14:06:12.678 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:4 callback數:17
+
+2018-10-25 14:06:12.678 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:8 上閥值3
+
+  ||     ReservationType = 0;
+
+2018-10-25 14:06:13.307 || voiceString:前方右轉
+
+2018-10-25 14:06:13.308 || Utterance:[AVSpeechUtterance 0x1c807d840] String: 前方右轉
+
+2018-10-25 14:06:13.628 || Network-<Carrier> 中華電信
+
+2018-10-25 14:06:13.629 || floor_area_space_lite&garage_dbname=000001 Request 
+
+2018-10-25 14:06:13.736 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:4 callback數:11
+
+2018-10-25 14:06:13.736 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:6 上閥值2
+
+2018-10-25 14:06:14.567 || floor_area_space_lite&garage_dbname=000001 Success 
+
+2018-10-25 14:06:14.779 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:4 callback數:11
+
+2018-10-25 14:06:14.779 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:6 上閥值2
+
+2018-10-25 14:06:14.852 || Network-<Carrier> 中華電信
+
+2018-10-25 14:06:14.853 || garage_floor_available&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-25 14:06:14.934 || Utterance:[AVSpeechUtterance 0x1c807d840] String: 前方右轉
+
+2018-10-25 14:06:15.535 || garage_floor_available&garage_dbname=000001 Success 
+
+2018-10-25 14:06:15.829 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:3 callback數:15
+
+2018-10-25 14:06:15.830 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:6 上閥值3
+
+2018-10-25 14:06:16.316 || Network-<Carrier> 中華電信
+
+2018-10-25 14:06:16.318 || get_one_space_status&garage_dbname=000001 Request 
+
+2018-10-25 14:06:16.877 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:3 callback數:14
+
+2018-10-25 14:06:16.878 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:6 上閥值3
+
+2018-10-25 14:06:17.126 || get_one_space_status&garage_dbname=000001 Success 
+
+2018-10-25 14:06:17.648 || Network-<Carrier> 中華電信
+
+2018-10-25 14:06:17.648 || floor_area_space_lite&garage_dbname=000001 Request 
+
+2018-10-25 14:06:17.921 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:3 callback數:11
+
+2018-10-25 14:06:17.922 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:6 上閥值2
+
+2018-10-25 14:06:18.424 || floor_area_space_lite&garage_dbname=000001 Success 
+
+2018-10-25 14:06:18.542 || Network-<Carrier> 中華電信
+
+2018-10-25 14:06:18.542 || garage_floor_available&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-25 14:06:18.976 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:3 callback數:10
+
+2018-10-25 14:06:18.976 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:6 上閥值2
+
+2018-10-25 14:06:19.316 || Network-<Carrier> 中華電信
+
+2018-10-25 14:06:19.317 || get_one_space_status&garage_dbname=000001 Request 
+
+2018-10-25 14:06:19.358 || garage_floor_available&garage_dbname=000001 Success 
+
+2018-10-25 14:06:19.999 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:3 callback數:9
+
+2018-10-25 14:06:20.000 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:6 上閥值2
+
+2018-10-25 14:06:20.007 || get_one_space_status&garage_dbname=000001 Success 
+
+2018-10-25 14:06:21.064 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:4 callback數:12
+
+2018-10-25 14:06:21.064 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:6 上閥值2
+
+2018-10-25 14:06:21.500 || Network-<Carrier> 中華電信
+
+2018-10-25 14:06:21.501 || floor_area_space_lite&garage_dbname=000001 Request 
+
+2018-10-25 14:06:22.105 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:4 callback數:6
+
+2018-10-25 14:06:22.105 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:5 上閥值2
+
+2018-10-25 14:06:22.253 || floor_area_space_lite&garage_dbname=000001 Success 
+
+2018-10-25 14:06:22.318 || Network-<Carrier> 中華電信
+
+2018-10-25 14:06:22.318 || get_one_space_status&garage_dbname=000001 Request 
+
+2018-10-25 14:06:22.364 || Network-<Carrier> 中華電信
+
+2018-10-25 14:06:22.364 || garage_floor_available&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-25 14:06:23.162 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:4 callback數:9
+
+2018-10-25 14:06:23.162 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:6 上閥值2
+
+2018-10-25 14:06:23.205 || get_one_space_status&garage_dbname=000001 Success 
+
+2018-10-25 14:06:23.303 || garage_floor_available&garage_dbname=000001 Success 
+
+2018-10-25 14:06:24.220 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:4 callback數:10
+
+2018-10-25 14:06:24.221 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:6 上閥值2
+
+2018-10-25 14:06:24.665 || Network-<Carrier> 中華電信
+
+2018-10-25 14:06:24.666 || recommend_cancel Request 
+
+2018-10-25 14:06:24.668 || voiceString:取消自訂導航
+
+2018-10-25 14:06:24.669 || Utterance:[AVSpeechUtterance 0x1cc260140] String: 取消自訂導航
+
+2018-10-25 14:06:25.073 || recommend_cancel Success 
+
+2018-10-25 14:06:25.271 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:3 callback數:10
+
+2018-10-25 14:06:25.271 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:6 上閥值2
+
+2018-10-25 14:06:25.324 || Network-<Carrier> 中華電信
+
+2018-10-25 14:06:25.326 || floor_area_space_lite&garage_dbname=000001 Request 
+
+2018-10-25 14:06:26.091 || floor_area_space_lite&garage_dbname=000001 Success 
+
+2018-10-25 14:06:26.310 || Network-<Carrier> 中華電信
+
+2018-10-25 14:06:26.311 || garage_floor_available&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-25 14:06:26.329 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:3 callback數:12
+
+2018-10-25 14:06:26.329 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:6 上閥值2
+
+2018-10-25 14:06:26.728 || Utterance:[AVSpeechUtterance 0x1cc260140] String: 取消自訂導航
+
+2018-10-25 14:06:27.045 || garage_floor_available&garage_dbname=000001 Success 
+
+2018-10-25 14:06:27.381 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:3 callback數:10
+
+2018-10-25 14:06:27.382 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:6 上閥值2
+
+2018-10-25 14:06:28.408 || voiceString:前方右轉
+
+2018-10-25 14:06:28.409 || Utterance:[AVSpeechUtterance 0x1c4267c40] String: 前方右轉
+
+2018-10-25 14:06:28.437 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:3 callback數:11
+
+2018-10-25 14:06:28.437 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:6 上閥值2
+
+2018-10-25 14:06:29.165 || Network-<Carrier> 中華電信
+
+2018-10-25 14:06:29.166 || floor_area_space_lite&garage_dbname=000001 Request 
+
+2018-10-25 14:06:29.473 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:3 callback數:16
+
+2018-10-25 14:06:29.473 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:8 上閥值3
+
+2018-10-25 14:06:29.927 || Utterance:[AVSpeechUtterance 0x1c4267c40] String: 前方右轉
+
+2018-10-25 14:06:29.931 || floor_area_space_lite&garage_dbname=000001 Success 
+
+2018-10-25 14:06:30.051 || Network-<Carrier> 中華電信
+
+2018-10-25 14:06:30.052 || garage_floor_available&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-25 14:06:30.525 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:3 callback數:7
+
+2018-10-25 14:06:30.526 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:5 上閥值2
+
+2018-10-25 14:06:30.566 || garage_floor_available&garage_dbname=000001 Success 
+
+2018-10-25 14:06:31.417 || Network-<Carrier> 中華電信
+
+2018-10-25 14:06:31.418 || get_one_space_status&garage_dbname=000001 Request 
+
+2018-10-25 14:06:31.588 || Network-<Carrier> 中華電信
+
+2018-10-25 14:06:31.590 || recommend_cancel Request 
+
+2018-10-25 14:06:31.594 || voiceString:取消自訂導航
+
+2018-10-25 14:06:31.594 || Utterance:[AVSpeechUtterance 0x1c4267180] String: 取消自訂導航
+
+2018-10-25 14:06:31.597 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:3 callback數:12
+
+2018-10-25 14:06:31.597 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:6 上閥值2
+
+2018-10-25 14:06:31.963 || recommend_cancel Success 
+
+2018-10-25 14:06:31.971 || get_one_space_status&garage_dbname=000001 Success 
+
+2018-10-25 14:06:32.650 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:3 callback數:9
+
+2018-10-25 14:06:32.650 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:6 上閥值2
+
+2018-10-25 14:06:33.006 || Network-<Carrier> 中華電信
+
+2018-10-25 14:06:33.008 || floor_area_space_lite&garage_dbname=000001 Request 
+
+2018-10-25 14:06:33.554 || Utterance:[AVSpeechUtterance 0x1c4267180] String: 取消自訂導航
+
+2018-10-25 14:06:33.576 || Network-<Carrier> 中華電信
+
+2018-10-25 14:06:33.577 || garage_floor_available&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-25 14:06:33.639 || floor_area_space_lite&garage_dbname=000001 Success 
+
+2018-10-25 14:06:33.757 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:3 callback數:7
+
+2018-10-25 14:06:33.757 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:5 上閥值2
+
+2018-10-25 14:06:34.085 || garage_floor_available&garage_dbname=000001 Success 
+
+2018-10-25 14:06:34.766 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:3 callback數:15
+
+2018-10-25 14:06:34.766 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:6 上閥值3
+
+2018-10-25 14:06:35.820 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:3 callback數:5
+
+2018-10-25 14:06:35.820 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:5 上閥值2
+
+2018-10-25 14:06:36.095 || voiceString:前方右轉
+
+2018-10-25 14:06:36.095 || Utterance:[AVSpeechUtterance 0x1cc267ac0] String: 前方右轉
+
+2018-10-25 14:06:36.716 || Network-<Carrier> 中華電信
+
+2018-10-25 14:06:36.718 || floor_area_space_lite&garage_dbname=000001 Request 
+
+2018-10-25 14:06:36.857 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:3 callback數:11
+
+2018-10-25 14:06:36.857 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:6 上閥值2
+
+2018-10-25 14:06:37.097 || Network-<Carrier> 中華電信
+
+2018-10-25 14:06:37.099 || garage_floor_available&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-25 14:06:37.251 || floor_area_space_lite&garage_dbname=000001 Success 
+
+2018-10-25 14:06:37.696 || Utterance:[AVSpeechUtterance 0x1cc267ac0] String: 前方右轉
+
+2018-10-25 14:06:37.893 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:3 callback數:11
+
+2018-10-25 14:06:37.893 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:6 上閥值2
+
+2018-10-25 14:06:37.925 || garage_floor_available&garage_dbname=000001 Success 
+
+2018-10-25 14:06:38.944 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:3 callback數:8
+
+2018-10-25 14:06:38.944 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:6 上閥值2
+
+2018-10-25 14:06:39.104 || Network-<Carrier> 中華電信
+
+2018-10-25 14:06:39.106 || get_one_space_status&garage_dbname=000001 Request 
+
+2018-10-25 14:06:39.847 || get_one_space_status&garage_dbname=000001 Success 
+
+2018-10-25 14:06:39.997 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:3 callback數:14
+
+2018-10-25 14:06:39.998 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:6 上閥值3
+
+2018-10-25 14:06:40.330 || Network-<Carrier> 中華電信
+
+2018-10-25 14:06:40.331 || floor_area_space_lite&garage_dbname=000001 Request 
+
+2018-10-25 14:06:40.935 || Network-<Carrier> 中華電信
+
+2018-10-25 14:06:40.936 || garage_floor_available&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-25 14:06:41.039 || floor_area_space_lite&garage_dbname=000001 Success 
+
+2018-10-25 14:06:41.143 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:4 callback數:14
+
+2018-10-25 14:06:41.143 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:6 上閥值3
+
+2018-10-25 14:06:41.766 || garage_floor_available&garage_dbname=000001 Success 
+
+2018-10-25 14:06:42.105 || Network-<Carrier> 中華電信
+
+2018-10-25 14:06:42.106 || get_one_space_status&garage_dbname=000001 Request 
+
+2018-10-25 14:06:42.250 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:4 callback數:16
+
+2018-10-25 14:06:42.250 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:8 上閥值3
+
+2018-10-25 14:06:42.724 || get_one_space_status&garage_dbname=000001 Success 
+
+2018-10-25 14:06:43.343 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:4 callback數:17
+
+2018-10-25 14:06:43.343 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:8 上閥值3
+
+2018-10-25 14:06:43.864 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:3164]|[CarNavigation]ans: 3F_02_20
+
+2018-10-25 14:06:44.111 || Network-<Carrier> 中華電信
+
+2018-10-25 14:06:44.112 || floor_area_space_lite&garage_dbname=000001 Request 
+
+2018-10-25 14:06:44.360 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:4 callback數:13
+
+2018-10-25 14:06:44.361 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:6 上閥值3
+
+2018-10-25 14:06:44.777 || Network-<Carrier> 中華電信
+
+2018-10-25 14:06:44.778 || garage_floor_available&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-25 14:06:44.881 || floor_area_space_lite&garage_dbname=000001 Success 
+
+2018-10-25 14:06:45.098 || Network-<Carrier> 中華電信
+
+2018-10-25 14:06:45.099 || get_one_space_status&garage_dbname=000001 Request 
+
+2018-10-25 14:06:45.348 || garage_floor_available&garage_dbname=000001 Success 
+
+2018-10-25 14:06:45.392 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:4 callback數:13
+
+2018-10-25 14:06:45.392 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:6 上閥值3
+
+2018-10-25 14:06:45.724 || get_one_space_status&garage_dbname=000001 Success 
+
+2018-10-25 14:06:46.446 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:6 callback數:11
+
+2018-10-25 14:06:46.446 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:6 上閥值2
+
+2018-10-25 14:06:47.507 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:5 callback數:12
+
+2018-10-25 14:06:47.507 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:6 上閥值2
+
+2018-10-25 14:06:47.956 || Network-<Carrier> 中華電信
+
+2018-10-25 14:06:47.958 || floor_area_space_lite&garage_dbname=000001 Request 
+
+2018-10-25 14:06:48.101 || Network-<Carrier> 中華電信
+
+2018-10-25 14:06:48.103 || get_one_space_status&garage_dbname=000001 Request 
+
+2018-10-25 14:06:48.359 || Network-<Carrier> 中華電信
+
+2018-10-25 14:06:48.361 || garage_floor_available&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-25 14:06:48.547 || floor_area_space_lite&garage_dbname=000001 Success 
+
+2018-10-25 14:06:48.608 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:5 callback數:15
+
+2018-10-25 14:06:48.608 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:6 上閥值3
+
+2018-10-25 14:06:49.064 || get_one_space_status&garage_dbname=000001 Success 
+
+2018-10-25 14:06:49.392 || garage_floor_available&garage_dbname=000001 Success 
+
+2018-10-25 14:06:49.611 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:4 callback數:19
+
+2018-10-25 14:06:49.611 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:8 上閥值4
+
+2018-10-25 14:06:49.611 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2913]|導航:(背娃娃參考點)下點3F_03_2 下下點3F_03_3 目前點3F_02_20
+
+2018-10-25 14:06:49.612 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:3164]|[CarNavigation]ans: 3F_03_2
+
+2018-10-25 14:06:49.614 || voiceString:繼續直行
+
+2018-10-25 14:06:49.615 || Utterance:[AVSpeechUtterance 0x1cc267b80] String: 繼續直行
+
+2018-10-25 14:06:50.686 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:4 callback數:10
+
+2018-10-25 14:06:50.686 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:6 上閥值2
+
+2018-10-25 14:06:51.100 || Network-<Carrier> 中華電信
+
+2018-10-25 14:06:51.102 || get_one_space_status&garage_dbname=000001 Request 
+
+2018-10-25 14:06:51.116 || Utterance:[AVSpeechUtterance 0x1cc267b80] String: 繼續直行
+
+2018-10-25 14:06:51.618 || Network-<Carrier> 中華電信
+
+2018-10-25 14:06:51.619 || floor_area_space_lite&garage_dbname=000001 Request 
+
+2018-10-25 14:06:51.733 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:4 callback數:19
+
+2018-10-25 14:06:51.733 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:8 上閥值4
+
+2018-10-25 14:06:52.403 || Network-<Carrier> 中華電信
+
+2018-10-25 14:06:52.405 || garage_floor_available&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-25 14:06:52.788 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:4 callback數:18
+
+2018-10-25 14:06:52.788 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:8 上閥值4
+
+2018-10-25 14:06:53.091 || get_one_space_status&garage_dbname=000001 Success 
+
+2018-10-25 14:06:53.421 || garage_floor_available&garage_dbname=000001 Success 
+
+2018-10-25 14:06:53.813 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:5 callback數:16
+
+2018-10-25 14:06:53.813 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:8 上閥值3
+
+2018-10-25 14:06:54.063 || floor_area_space_lite&garage_dbname=000001 Success 
+
+2018-10-25 14:06:54.126 || Network-<Carrier> 中華電信
+
+2018-10-25 14:06:54.126 || get_one_space_status&garage_dbname=000001 Request 
+
+2018-10-25 14:06:54.700 || get_one_space_status&garage_dbname=000001 Success 
+
+2018-10-25 14:06:54.853 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:6 callback數:12
+
+2018-10-25 14:06:54.853 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:6 上閥值2
+
+2018-10-25 14:06:55.211 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:3164]|[CarNavigation]ans: 3F_03_3
+
+2018-10-25 14:06:55.895 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:5 callback數:20
+
+2018-10-25 14:06:55.895 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:8 上閥值4
+
+2018-10-25 14:06:56.432 || Network-<Carrier> 中華電信
+
+2018-10-25 14:06:56.434 || garage_floor_available&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-25 14:06:56.940 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:6 callback數:17
+
+2018-10-25 14:06:56.940 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:8 上閥值3
+
+2018-10-25 14:06:57.037 || garage_floor_available&garage_dbname=000001 Success 
+
+2018-10-25 14:06:57.103 || Network-<Carrier> 中華電信
+
+2018-10-25 14:06:57.105 || get_one_space_status&garage_dbname=000001 Request 
+
+2018-10-25 14:06:57.130 || Network-<Carrier> 中華電信
+
+2018-10-25 14:06:57.131 || floor_area_space_lite&garage_dbname=000001 Request 
+
+2018-10-25 14:06:57.668 || get_one_space_status&garage_dbname=000001 Success 
+
+2018-10-25 14:06:57.983 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:6 callback數:15
+
+2018-10-25 14:06:57.984 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:6 上閥值3
+
+2018-10-25 14:06:58.012 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:3164]|[CarNavigation]ans: 3F_03_4
+
+2018-10-25 14:06:58.033 || floor_area_space_lite&garage_dbname=000001 Success 
+
+2018-10-25 14:06:59.034 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:7 callback數:21
+
+2018-10-25 14:06:59.034 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:8 上閥值4
+
+2018-10-25 14:07:00.046 || Network-<Carrier> 中華電信
+
+2018-10-25 14:07:00.047 || garage_floor_available&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-25 14:07:00.099 || Network-<Carrier> 中華電信
+
+2018-10-25 14:07:00.100 || get_one_space_status&garage_dbname=000001 Request 
+
+2018-10-25 14:07:00.124 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:6 callback數:17
+
+2018-10-25 14:07:00.125 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:8 上閥值3
+
+2018-10-25 14:07:00.861 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:3164]|[CarNavigation]ans: 3F_04_5
+
+2018-10-25 14:07:00.951 || garage_floor_available&garage_dbname=000001 Success 
+
+2018-10-25 14:07:01.078 || get_one_space_status&garage_dbname=000001 Success 
+
+2018-10-25 14:07:01.101 || Network-<Carrier> 中華電信
+
+2018-10-25 14:07:01.102 || floor_area_space_lite&garage_dbname=000001 Request 
+
+2018-10-25 14:07:01.190 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:7 callback數:12
+
+2018-10-25 14:07:01.190 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:6 上閥值2
+
+2018-10-25 14:07:01.905 || floor_area_space_lite&garage_dbname=000001 Success 
+
+2018-10-25 14:07:02.227 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:7 callback數:16
+
+2018-10-25 14:07:02.227 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:8 上閥值3
+
+2018-10-25 14:07:02.930 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:3164]|[CarNavigation]ans: 3F_04_6
+
+2018-10-25 14:07:03.101 || Network-<Carrier> 中華電信
+
+2018-10-25 14:07:03.102 || get_one_space_status&garage_dbname=000001 Request 
+
+2018-10-25 14:07:03.241 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:7 callback數:18
+
+2018-10-25 14:07:03.241 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:8 上閥值4
+
+2018-10-25 14:07:03.822 || get_one_space_status&garage_dbname=000001 Success 
+
+2018-10-25 14:07:03.960 || Network-<Carrier> 中華電信
+
+2018-10-25 14:07:03.962 || garage_floor_available&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-25 14:07:04.257 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:7 callback數:18
+
+2018-10-25 14:07:04.257 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:8 上閥值4
+
+2018-10-25 14:07:04.626 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:3164]|[CarNavigation]ans: 3F_04_7
+
+2018-10-25 14:07:04.628 || voiceString:前方右轉
+
+2018-10-25 14:07:04.629 || Utterance:[AVSpeechUtterance 0x1cc076140] String: 前方右轉
+
+2018-10-25 14:07:04.729 || garage_floor_available&garage_dbname=000001 Success 
+
+2018-10-25 14:07:04.974 || Network-<Carrier> 中華電信
+
+2018-10-25 14:07:04.975 || floor_area_space_lite&garage_dbname=000001 Request 
+
+2018-10-25 14:07:05.313 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:6 callback數:21
+
+2018-10-25 14:07:05.313 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:8 上閥值4
+
+2018-10-25 14:07:05.698 || floor_area_space_lite&garage_dbname=000001 Success 
+
+2018-10-25 14:07:06.105 || Network-<Carrier> 中華電信
+
+2018-10-25 14:07:06.107 || get_one_space_status&garage_dbname=000001 Request 
+
+2018-10-25 14:07:06.245 || Utterance:[AVSpeechUtterance 0x1cc076140] String: 前方右轉
+
+2018-10-25 14:07:06.321 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:7 callback數:17
+
+2018-10-25 14:07:06.321 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:8 上閥值3
+
+2018-10-25 14:07:06.648 || get_one_space_status&garage_dbname=000001 Success 
+
+2018-10-25 14:07:07.427 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:6 callback數:14
+
+2018-10-25 14:07:07.427 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:6 上閥值3
+
+2018-10-25 14:07:07.427 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:3164]|[CarNavigation]ans: 3F_04_8
+
+2018-10-25 14:07:07.428 || voiceString:繼續直行
+
+2018-10-25 14:07:07.428 || Utterance:[AVSpeechUtterance 0x1c806c8c0] String: 繼續直行
+
+2018-10-25 14:07:07.735 || Network-<Carrier> 中華電信
+
+2018-10-25 14:07:07.736 || garage_floor_available&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-25 14:07:08.511 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:5 callback數:13
+
+2018-10-25 14:07:08.511 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:6 上閥值3
+
+2018-10-25 14:07:08.578 || garage_floor_available&garage_dbname=000001 Success 
+
+2018-10-25 14:07:08.750 || Network-<Carrier> 中華電信
+
+2018-10-25 14:07:08.752 || floor_area_space_lite&garage_dbname=000001 Request 
+
+2018-10-25 14:07:08.823 || Utterance:[AVSpeechUtterance 0x1c806c8c0] String: 繼續直行
+
+2018-10-25 14:07:09.098 || Network-<Carrier> 中華電信
+
+2018-10-25 14:07:09.099 || get_one_space_status&garage_dbname=000001 Request 
+
+2018-10-25 14:07:09.366 || floor_area_space_lite&garage_dbname=000001 Success 
+
+2018-10-25 14:07:09.552 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:4 callback數:19
+
+2018-10-25 14:07:09.552 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:8 上閥值4
+
+2018-10-25 14:07:09.749 || get_one_space_status&garage_dbname=000001 Success 
+
+2018-10-25 14:07:10.582 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:4 callback數:22
+
+2018-10-25 14:07:10.582 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:8 上閥值4
+
+2018-10-25 14:07:11.588 || Network-<Carrier> 中華電信
+
+2018-10-25 14:07:11.589 || garage_floor_available&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-25 14:07:11.631 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:4 callback數:13
+
+2018-10-25 14:07:11.631 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:6 上閥值3
+
+2018-10-25 14:07:12.099 || Network-<Carrier> 中華電信
+
+2018-10-25 14:07:12.100 || get_one_space_status&garage_dbname=000001 Request 
+
+2018-10-25 14:07:12.145 || garage_floor_available&garage_dbname=000001 Success 
+
+2018-10-25 14:07:12.422 || Network-<Carrier> 中華電信
+
+2018-10-25 14:07:12.423 || floor_area_space_lite&garage_dbname=000001 Request 
+
+2018-10-25 14:07:12.636 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:5 callback數:16
+
+2018-10-25 14:07:12.636 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:8 上閥值3
+
+2018-10-25 14:07:12.637 || get_one_space_status&garage_dbname=000001 Success 
+
+2018-10-25 14:07:12.988 || floor_area_space_lite&garage_dbname=000001 Success 
+
+2018-10-25 14:07:13.657 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:5 callback數:13
+
+2018-10-25 14:07:13.657 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:6 上閥值3
+
+2018-10-25 14:07:13.725 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:3164]|[CarNavigation]ans: 3F_01_21
+
+2018-10-25 14:07:14.695 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:5 callback數:19
+
+2018-10-25 14:07:14.695 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:8 上閥值4
+
+2018-10-25 14:07:15.101 || Network-<Carrier> 中華電信
+
+2018-10-25 14:07:15.103 || get_one_space_status&garage_dbname=000001 Request 
+
+2018-10-25 14:07:15.152 || Network-<Carrier> 中華電信
+
+2018-10-25 14:07:15.154 || garage_floor_available&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-25 14:07:15.713 || get_one_space_status&garage_dbname=000001 Success 
+
+2018-10-25 14:07:15.756 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:5 callback數:14
+
+2018-10-25 14:07:15.757 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:6 上閥值3
+
+2018-10-25 14:07:16.052 || Network-<Carrier> 中華電信
+
+2018-10-25 14:07:16.053 || floor_area_space_lite&garage_dbname=000001 Request 
+
+2018-10-25 14:07:16.100 || garage_floor_available&garage_dbname=000001 Success 
+
+2018-10-25 14:07:16.681 || floor_area_space_lite&garage_dbname=000001 Success 
+
+2018-10-25 14:07:16.801 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:5 callback數:11
+
+2018-10-25 14:07:16.801 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:6 上閥值2
+
+2018-10-25 14:07:17.805 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:5 callback數:20
+
+2018-10-25 14:07:17.805 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:8 上閥值4
+
+2018-10-25 14:07:18.101 || Network-<Carrier> 中華電信
+
+2018-10-25 14:07:18.102 || get_one_space_status&garage_dbname=000001 Request 
+
+2018-10-25 14:07:18.692 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:3164]|[CarNavigation]ans: 3F_01_9
+
+2018-10-25 14:07:18.693 || voiceString:前方右轉
+
+2018-10-25 14:07:18.693 || Utterance:[AVSpeechUtterance 0x1c4264d40] String: 前方右轉
+
+2018-10-25 14:07:18.836 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:5 callback數:15
+
+2018-10-25 14:07:18.837 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:6 上閥值3
+
+2018-10-25 14:07:18.911 || get_one_space_status&garage_dbname=000001 Success 
+
+2018-10-25 14:07:19.111 || Network-<Carrier> 中華電信
+
+2018-10-25 14:07:19.113 || garage_floor_available&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-25 14:07:19.741 || Network-<Carrier> 中華電信
+
+2018-10-25 14:07:19.742 || floor_area_space_lite&garage_dbname=000001 Request 
+
+2018-10-25 14:07:19.795 || garage_floor_available&garage_dbname=000001 Success 
+
+2018-10-25 14:07:19.888 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:5 callback數:19
+
+2018-10-25 14:07:19.888 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:8 上閥值4
+
+2018-10-25 14:07:20.295 || Utterance:[AVSpeechUtterance 0x1c4264d40] String: 前方右轉
+
+2018-10-25 14:07:20.585 || floor_area_space_lite&garage_dbname=000001 Success 
+
+2018-10-25 14:07:20.958 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:6 callback數:17
+
+2018-10-25 14:07:20.958 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:8 上閥值3
+
+2018-10-25 14:07:21.099 || Network-<Carrier> 中華電信
+
+2018-10-25 14:07:21.100 || get_one_space_status&garage_dbname=000001 Request 
+
+2018-10-25 14:07:21.795 || get_one_space_status&garage_dbname=000001 Success 
+
+2018-10-25 14:07:22.102 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:5 callback數:16
+
+2018-10-25 14:07:22.102 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:8 上閥值3
+
+2018-10-25 14:07:22.307 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:3164]|[CarNavigation]ans: 3F_01_10
+
+2018-10-25 14:07:22.801 || Network-<Carrier> 中華電信
+
+2018-10-25 14:07:22.802 || garage_floor_available&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-25 14:07:23.137 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:5 callback數:17
+
+2018-10-25 14:07:23.137 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:8 上閥值3
+
+2018-10-25 14:07:23.393 || garage_floor_available&garage_dbname=000001 Success 
+
+2018-10-25 14:07:23.644 || Network-<Carrier> 中華電信
+
+2018-10-25 14:07:23.644 || floor_area_space_lite&garage_dbname=000001 Request 
+
+2018-10-25 14:07:24.103 || Network-<Carrier> 中華電信
+
+2018-10-25 14:07:24.104 || get_one_space_status&garage_dbname=000001 Request 
+
+2018-10-25 14:07:24.185 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:6 callback數:16
+
+2018-10-25 14:07:24.185 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:8 上閥值3
+
+2018-10-25 14:07:24.236 || floor_area_space_lite&garage_dbname=000001 Success 
+
+2018-10-25 14:07:24.614 || get_one_space_status&garage_dbname=000001 Success 
+
+2018-10-25 14:07:25.254 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:7 callback數:16
+
+2018-10-25 14:07:25.254 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:8 上閥值3
+
+2018-10-25 14:07:26.294 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:6 callback數:21
+
+2018-10-25 14:07:26.294 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:8 上閥值4
+
+2018-10-25 14:07:26.405 || Network-<Carrier> 中華電信
+
+2018-10-25 14:07:26.406 || garage_floor_available&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-25 14:07:26.509 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:3164]|[CarNavigation]ans: 3F_01_11
+
+2018-10-25 14:07:27.104 || Network-<Carrier> 中華電信
+
+2018-10-25 14:07:27.106 || get_one_space_status&garage_dbname=000001 Request 
+
+2018-10-25 14:07:27.115 || garage_floor_available&garage_dbname=000001 Success 
+
+2018-10-25 14:07:27.306 || Network-<Carrier> 中華電信
+
+2018-10-25 14:07:27.307 || floor_area_space_lite&garage_dbname=000001 Request 
+
+2018-10-25 14:07:27.314 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:5 callback數:21
+
+2018-10-25 14:07:27.314 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:8 上閥值4
+
+2018-10-25 14:07:27.882 || get_one_space_status&garage_dbname=000001 Success 
+
+2018-10-25 14:07:28.165 || floor_area_space_lite&garage_dbname=000001 Success 
+
+2018-10-25 14:07:28.318 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:5 callback數:22
+
+2018-10-25 14:07:28.318 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:8 上閥值4
+
+2018-10-25 14:07:29.366 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:4 callback數:13
+
+2018-10-25 14:07:29.367 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:6 上閥值3
+
+2018-10-25 14:07:30.103 || Network-<Carrier> 中華電信
+
+2018-10-25 14:07:30.104 || get_one_space_status&garage_dbname=000001 Request 
+
+2018-10-25 14:07:30.124 || Network-<Carrier> 中華電信
+
+2018-10-25 14:07:30.126 || garage_floor_available&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-25 14:07:30.659 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:4 callback數:8
+
+2018-10-25 14:07:30.659 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:6 上閥值2
+
+2018-10-25 14:07:30.754 || get_one_space_status&garage_dbname=000001 Success 
+
+2018-10-25 14:07:30.982 || garage_floor_available&garage_dbname=000001 Success 
+
+2018-10-25 14:07:31.231 || Network-<Carrier> 中華電信
+
+2018-10-25 14:07:31.232 || floor_area_space_lite&garage_dbname=000001 Request 
+
+2018-10-25 14:07:31.691 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:4 callback數:1
+
+2018-10-25 14:07:31.691 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:5 上閥值1
+
+2018-10-25 14:07:32.036 || floor_area_space_lite&garage_dbname=000001 Success 
+
+2018-10-25 14:07:32.915 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:5 callback數:2
+
+2018-10-25 14:07:32.915 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:5 上閥值1
+
+2018-10-25 14:07:33.104 || Network-<Carrier> 中華電信
+
+2018-10-25 14:07:33.105 || get_one_space_status&garage_dbname=000001 Request 
+
+2018-10-25 14:07:33.228 || Network-<Carrier> 中華電信
+
+2018-10-25 14:07:33.229 || garage_floor_available&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-25 14:07:33.954 || get_one_space_status&garage_dbname=000001 Success 
+
+2018-10-25 14:07:34.058 || garage_floor_available&garage_dbname=000001 Success 
+
+2018-10-25 14:07:34.268 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:0 callback數:8
+
+2018-10-25 14:07:34.269 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:6 上閥值2
+
+2018-10-25 14:07:35.307 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:2 callback數:5
+
+2018-10-25 14:07:35.307 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:5 上閥值2
+
+2018-10-25 14:07:35.830 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:3164]|[CarNavigation]ans: 4F_02_14
+
+2018-10-25 14:07:35.833 || voiceString:前方右轉
+
+2018-10-25 14:07:35.834 || Utterance:[AVSpeechUtterance 0x1c0278a40] String: 前方右轉
+
+2018-10-25 14:07:36.238 || Network-<Carrier> 中華電信
+
+2018-10-25 14:07:36.239 || floor_area_space_lite&garage_dbname=000001 Request 
+
+2018-10-25 14:07:36.310 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:3 callback數:18
+
+2018-10-25 14:07:36.310 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:8 上閥值4
+
+2018-10-25 14:07:36.836 || floor_area_space_lite&garage_dbname=000001 Success 
+
+2018-10-25 14:07:37.068 || Network-<Carrier> 中華電信
+
+2018-10-25 14:07:37.070 || garage_floor_available&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-25 14:07:37.441 || Utterance:[AVSpeechUtterance 0x1c0278a40] String: 前方右轉
+
+2018-10-25 14:07:37.466 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:4 callback數:14
+
+2018-10-25 14:07:37.466 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:6 上閥值3
+
+2018-10-25 14:07:37.595 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:3164]|[CarNavigation]ans: 4F_02_1
+
+2018-10-25 14:07:37.596 || voiceString:前方右轉
+
+2018-10-25 14:07:37.597 || Utterance:[AVSpeechUtterance 0x1c406d800] String: 前方右轉
+
+2018-10-25 14:07:37.791 || garage_floor_available&garage_dbname=000001 Success 
+
+2018-10-25 14:07:38.511 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:4 callback數:13
+
+2018-10-25 14:07:38.511 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:6 上閥值3
+
+2018-10-25 14:07:39.105 || Utterance:[AVSpeechUtterance 0x1c406d800] String: 前方右轉
+
+2018-10-25 14:07:39.580 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:5 callback數:21
+
+2018-10-25 14:07:39.581 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:8 上閥值4
+
+2018-10-25 14:07:39.914 || Network-<Carrier> 中華電信
+
+2018-10-25 14:07:39.916 || floor_area_space_lite&garage_dbname=000001 Request 
+
+2018-10-25 14:07:40.332 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:3164]|[CarNavigation]ans: 4F_02_20
+
+2018-10-25 14:07:40.623 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:6 callback數:28
+
+2018-10-25 14:07:40.624 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:9 上閥值6
+
+2018-10-25 14:07:40.687 || floor_area_space_lite&garage_dbname=000001 Success 
+
+2018-10-25 14:07:40.797 || Network-<Carrier> 中華電信
+
+2018-10-25 14:07:40.797 || garage_floor_available&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-25 14:07:41.672 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:6 callback數:15
+
+2018-10-25 14:07:41.672 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:6 上閥值3
+
+2018-10-25 14:07:41.715 || garage_floor_available&garage_dbname=000001 Success 
+
+2018-10-25 14:07:42.701 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:6 callback數:35
+
+2018-10-25 14:07:42.702 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:11 上閥值7
+
+2018-10-25 14:07:43.767 || Network-<Carrier> 中華電信
+
+2018-10-25 14:07:43.769 || floor_area_space_lite&garage_dbname=000001 Request 
+
+2018-10-25 14:07:43.782 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:6 callback數:9
+
+2018-10-25 14:07:43.782 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:6 上閥值2
+
+2018-10-25 14:07:44.502 || floor_area_space_lite&garage_dbname=000001 Success 
+
+2018-10-25 14:07:44.725 || Network-<Carrier> 中華電信
+
+2018-10-25 14:07:44.726 || garage_floor_available&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-25 14:07:44.845 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:5 callback數:25
+
+2018-10-25 14:07:44.845 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:9 上閥值5
+
+2018-10-25 14:07:45.450 || garage_floor_available&garage_dbname=000001 Success 
+
+2018-10-25 14:07:45.879 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:5 callback數:22
+
+2018-10-25 14:07:45.879 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:8 上閥值4
+
+2018-10-25 14:07:46.958 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:5 callback數:15
+
+2018-10-25 14:07:46.958 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:6 上閥值3
+
+2018-10-25 14:07:47.578 || Network-<Carrier> 中華電信
+
+2018-10-25 14:07:47.580 || floor_area_space_lite&garage_dbname=000001 Request 
+
+2018-10-25 14:07:47.978 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:5 callback數:17
+
+2018-10-25 14:07:47.978 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:8 上閥值3
+
+2018-10-25 14:07:48.292 || floor_area_space_lite&garage_dbname=000001 Success 
+
+2018-10-25 14:07:48.457 || Network-<Carrier> 中華電信
+
+2018-10-25 14:07:48.459 || garage_floor_available&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-25 14:07:49.015 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:8 callback數:29
+
+2018-10-25 14:07:49.015 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:9 上閥值6
+
+2018-10-25 14:07:49.246 || garage_floor_available&garage_dbname=000001 Success 
+
+2018-10-25 14:07:50.056 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:7 callback數:23
+
+2018-10-25 14:07:50.056 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:8 上閥值5
+
+2018-10-25 14:07:51.107 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:7 callback數:29
+
+2018-10-25 14:07:51.108 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:9 上閥值6
+
+2018-10-25 14:07:51.368 || Network-<Carrier> 中華電信
+
+2018-10-25 14:07:51.369 || floor_area_space_lite&garage_dbname=000001 Request 
+
+2018-10-25 14:07:51.902 || floor_area_space_lite&garage_dbname=000001 Success 
+
+2018-10-25 14:07:52.138 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:5 callback數:24
+
+2018-10-25 14:07:52.138 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:9 上閥值5
+
+2018-10-25 14:07:52.257 || Network-<Carrier> 中華電信
+
+2018-10-25 14:07:52.259 || garage_floor_available&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-25 14:07:53.093 || garage_floor_available&garage_dbname=000001 Success 
+
+2018-10-25 14:07:53.201 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:7 callback數:22
+
+2018-10-25 14:07:53.201 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:8 上閥值4
+
+2018-10-25 14:07:53.319 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2913]|導航:(背娃娃參考點)下點4F_02_15 下下點4F_02_16 目前點4F_02_20
+
+2018-10-25 14:07:53.335 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2913]|導航:(背娃娃參考點)下點4F_02_15 下下點4F_02_16 目前點4F_02_20
+
+2018-10-25 14:07:53.751 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2913]|導航:(背娃娃參考點)下點4F_02_15 下下點4F_02_16 目前點4F_02_20
+
+2018-10-25 14:07:53.752 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:3164]|[CarNavigation]ans: 4F_02_15
+
+2018-10-25 14:07:54.277 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:9 callback數:39
+
+2018-10-25 14:07:54.278 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:11 上閥值8
+
+2018-10-25 14:07:54.983 || Network-<Carrier> 中華電信
+
+2018-10-25 14:07:54.985 || floor_area_space_lite&garage_dbname=000001 Request 
+
+2018-10-25 14:07:55.308 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:9 callback數:30
+
+2018-10-25 14:07:55.308 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:9 上閥值6
+
+2018-10-25 14:07:55.655 || floor_area_space_lite&garage_dbname=000001 Success 
+
+2018-10-25 14:07:56.105 || Network-<Carrier> 中華電信
+
+2018-10-25 14:07:56.107 || garage_floor_available&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-25 14:07:56.332 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:9 callback數:39
+
+2018-10-25 14:07:56.332 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:11 上閥值8
+
+2018-10-25 14:07:56.924 || garage_floor_available&garage_dbname=000001 Success 
+
+2018-10-25 14:07:57.346 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:8 callback數:25
+
+2018-10-25 14:07:57.346 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:9 上閥值5
+
+2018-10-25 14:07:58.348 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:7 callback數:35
+
+2018-10-25 14:07:58.349 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:11 上閥值7
+
+2018-10-25 14:07:58.726 || Network-<Carrier> 中華電信
+
+2018-10-25 14:07:58.728 || floor_area_space_lite&garage_dbname=000001 Request 
+
+2018-10-25 14:07:58.915 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:3164]|[CarNavigation]ans: 4F_02_16
+
+2018-10-25 14:07:59.381 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:10 callback數:41
+
+2018-10-25 14:07:59.381 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:12 上閥值8
+
+2018-10-25 14:07:59.488 || floor_area_space_lite&garage_dbname=000001 Success 
+
+2018-10-25 14:07:59.936 || Network-<Carrier> 中華電信
+
+2018-10-25 14:07:59.937 || garage_floor_available&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-25 14:08:00.387 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:11 callback數:34
+
+2018-10-25 14:08:00.387 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:11 上閥值7
+
+2018-10-25 14:08:00.762 || garage_floor_available&garage_dbname=000001 Success 
+
+2018-10-25 14:08:01.396 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:10 callback數:24
+
+2018-10-25 14:08:01.397 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:9 上閥值5
+
+2018-10-25 14:08:01.959 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:3164]|[CarNavigation]ans: 4F_01_17
+
+2018-10-25 14:08:02.446 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:11 callback數:39
+
+2018-10-25 14:08:02.446 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:11 上閥值8
+
+2018-10-25 14:08:02.564 || Network-<Carrier> 中華電信
+
+2018-10-25 14:08:02.565 || floor_area_space_lite&garage_dbname=000001 Request 
+
+2018-10-25 14:08:03.328 || floor_area_space_lite&garage_dbname=000001 Success 
+
+2018-10-25 14:08:03.452 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:12 callback數:38
+
+2018-10-25 14:08:03.452 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:11 上閥值8
+
+2018-10-25 14:08:03.769 || Network-<Carrier> 中華電信
+
+2018-10-25 14:08:03.770 || garage_floor_available&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-25 14:08:04.469 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:10 callback數:23
+
+2018-10-25 14:08:04.469 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:8 上閥值5
+
+2018-10-25 14:08:04.603 || garage_floor_available&garage_dbname=000001 Success 
+
+2018-10-25 14:08:05.053 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:3164]|[CarNavigation]ans: 4F_01_18
+
+2018-10-25 14:08:05.516 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:9 callback數:36
+
+2018-10-25 14:08:05.517 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:11 上閥值7
+
+2018-10-25 14:08:06.387 || Network-<Carrier> 中華電信
+
+2018-10-25 14:08:06.388 || floor_area_space_lite&garage_dbname=000001 Request 
+
+2018-10-25 14:08:06.570 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:10 callback數:17
+
+2018-10-25 14:08:06.571 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:8 上閥值3
+
+2018-10-25 14:08:06.679 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:3164]|[CarNavigation]ans: 4F_01_19
+
+2018-10-25 14:08:06.680 || voiceString:下樓
+
+2018-10-25 14:08:06.680 || Utterance:[AVSpeechUtterance 0x1c4268c40] String: 下樓
+
+2018-10-25 14:08:07.172 || floor_area_space_lite&garage_dbname=000001 Success 
+
+2018-10-25 14:08:07.633 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:11 callback數:41
+
+2018-10-25 14:08:07.633 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:12 上閥值8
+
+2018-10-25 14:08:07.637 || Network-<Carrier> 中華電信
+
+2018-10-25 14:08:07.638 || garage_floor_available&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-25 14:08:07.786 || Utterance:[AVSpeechUtterance 0x1c4268c40] String: 下樓
+
+2018-10-25 14:08:08.452 || garage_floor_available&garage_dbname=000001 Success 
+
+2018-10-25 14:08:08.650 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:9 callback數:38
+
+2018-10-25 14:08:08.650 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:11 上閥值8
+
+2018-10-25 14:08:09.343 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:3164]|[CarNavigation]ans: 4F_01_21
+
+2018-10-25 14:08:09.343 || voiceString:下樓
+
+2018-10-25 14:08:09.344 || Utterance:[AVSpeechUtterance 0x1c8078780] String: 下樓
+
+2018-10-25 14:08:09.654 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:8 callback數:40
+
+2018-10-25 14:08:09.654 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:12 上閥值8
+
+2018-10-25 14:08:10.228 || Network-<Carrier> 中華電信
+
+2018-10-25 14:08:10.229 || floor_area_space_lite&garage_dbname=000001 Request 
+
+2018-10-25 14:08:10.366 || Utterance:[AVSpeechUtterance 0x1c8078780] String: 下樓
+
+2018-10-25 14:08:10.658 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:7 callback數:28
+
+2018-10-25 14:08:10.658 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:9 上閥值6
+
+2018-10-25 14:08:11.043 || floor_area_space_lite&garage_dbname=000001 Success 
+
+2018-10-25 14:08:11.458 || Network-<Carrier> 中華電信
+
+2018-10-25 14:08:11.459 || garage_floor_available&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-25 14:08:11.659 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:8 callback數:32
+
+2018-10-25 14:08:11.659 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:11 上閥值6
+
+2018-10-25 14:08:12.292 || garage_floor_available&garage_dbname=000001 Success 
+
+2018-10-25 14:08:12.672 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:5 callback數:28
+
+2018-10-25 14:08:12.672 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:9 上閥值6
+
+2018-10-25 14:08:13.726 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:5 callback數:26
+
+2018-10-25 14:08:13.726 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:9 上閥值5
+
+2018-10-25 14:08:14.104 || Network-<Carrier> 中華電信
+
+2018-10-25 14:08:14.105 || floor_area_space_lite&garage_dbname=000001 Request 
+
+2018-10-25 14:08:14.683 || floor_area_space_lite&garage_dbname=000001 Success 
+
+2018-10-25 14:08:14.750 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:5 callback數:21
+
+2018-10-25 14:08:14.750 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:8 上閥值4
+
+2018-10-25 14:08:14.901 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:3164]|[CarNavigation]ans: 4F_01_9
+
+2018-10-25 14:08:14.903 || voiceString:前方右轉
+
+2018-10-25 14:08:14.903 || Utterance:[AVSpeechUtterance 0x1c426ba40] String: 前方右轉
+
+2018-10-25 14:08:15.298 || Network-<Carrier> 中華電信
+
+2018-10-25 14:08:15.299 || garage_floor_available&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-25 14:08:15.792 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:4 callback數:13
+
+2018-10-25 14:08:15.792 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:6 上閥值3
+
+2018-10-25 14:08:15.805 || garage_floor_available&garage_dbname=000001 Success 
+
+2018-10-25 14:08:16.519 || Utterance:[AVSpeechUtterance 0x1c426ba40] String: 前方右轉
+
+2018-10-25 14:08:16.956 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:4 callback數:12
+
+2018-10-25 14:08:16.956 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:6 上閥值2
+
+2018-10-25 14:08:17.754 || Network-<Carrier> 中華電信
+
+2018-10-25 14:08:17.756 || floor_area_space_lite&garage_dbname=000001 Request 
+
+2018-10-25 14:08:17.991 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:4 callback數:5
+
+2018-10-25 14:08:17.991 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:5 上閥值2
+
+2018-10-25 14:08:18.331 || floor_area_space_lite&garage_dbname=000001 Success 
+
+2018-10-25 14:08:18.812 || Network-<Carrier> 中華電信
+
+2018-10-25 14:08:18.813 || garage_floor_available&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-25 14:08:19.036 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:4 callback數:6
+
+2018-10-25 14:08:19.036 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:5 上閥值2
+
+2018-10-25 14:08:19.565 || garage_floor_available&garage_dbname=000001 Success 
+
+2018-10-25 14:08:20.190 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:4 callback數:8
+
+2018-10-25 14:08:20.190 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:6 上閥值2
+
+2018-10-25 14:08:21.260 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:5 callback數:6
+
+2018-10-25 14:08:21.260 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:5 上閥值2
+
+2018-10-25 14:08:21.341 || Network-<Carrier> 中華電信
+
+2018-10-25 14:08:21.343 || floor_area_space_lite&garage_dbname=000001 Request 
+
+2018-10-25 14:08:22.124 || floor_area_space_lite&garage_dbname=000001 Success 
+
+2018-10-25 14:08:22.261 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:8 callback數:6
+
+2018-10-25 14:08:22.261 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:5 上閥值2
+
+2018-10-25 14:08:22.320 || Network-<Carrier> 中華電信
+
+2018-10-25 14:08:22.321 || garage_floor_available&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-25 14:08:23.085 || garage_floor_available&garage_dbname=000001 Success 
+
+2018-10-25 14:08:23.326 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:0 callback數:7
+
+2018-10-25 14:08:23.327 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:5 上閥值2
+
+2018-10-25 14:08:24.267 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:3164]|[CarNavigation]ans: 3F_01_10
+
+2018-10-25 14:08:24.322 || Network-<Carrier> 中華電信
+
+2018-10-25 14:08:24.323 || floor_area_space_lite&garage_dbname=000001 Request 
+
+2018-10-25 14:08:24.366 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:5 callback數:16
+
+2018-10-25 14:08:24.366 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:8 上閥值3
+
+2018-10-25 14:08:25.023 || floor_area_space_lite&garage_dbname=000001 Success 
+
+2018-10-25 14:08:25.376 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:5 callback數:16
+
+2018-10-25 14:08:25.376 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:8 上閥值3
+
+2018-10-25 14:08:26.097 || Network-<Carrier> 中華電信
+
+2018-10-25 14:08:26.098 || garage_floor_available&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-25 14:08:26.431 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:3 callback數:16
+
+2018-10-25 14:08:26.431 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:8 上閥值3
+
+2018-10-25 14:08:26.927 || garage_floor_available&garage_dbname=000001 Success 
+
+2018-10-25 14:08:27.436 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:5 callback數:22
+
+2018-10-25 14:08:27.436 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:8 上閥值4
+
+2018-10-25 14:08:28.096 || Network-<Carrier> 中華電信
+
+2018-10-25 14:08:28.097 || floor_area_space_lite&garage_dbname=000001 Request 
+
+2018-10-25 14:08:28.442 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:5 callback數:20
+
+2018-10-25 14:08:28.442 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:8 上閥值4
+
+2018-10-25 14:08:28.848 || floor_area_space_lite&garage_dbname=000001 Success 
+
+2018-10-25 14:08:29.497 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:6 callback數:14
+
+2018-10-25 14:08:29.497 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:6 上閥值3
+
+2018-10-25 14:08:29.939 || Network-<Carrier> 中華電信
+
+2018-10-25 14:08:29.940 || garage_floor_available&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-25 14:08:30.543 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:6 callback數:15
+
+2018-10-25 14:08:30.543 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:6 上閥值3
+
+2018-10-25 14:08:30.775 || garage_floor_available&garage_dbname=000001 Success 
+
+2018-10-25 14:08:31.545 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:6 callback數:14
+
+2018-10-25 14:08:31.546 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:6 上閥值3
+
+2018-10-25 14:08:31.920 || Network-<Carrier> 中華電信
+
+2018-10-25 14:08:31.921 || floor_area_space_lite&garage_dbname=000001 Request 
+
+2018-10-25 14:08:32.031 || Network-<Carrier> 中華電信
+
+2018-10-25 14:08:32.032 || recommend_cancel Request 
+
+2018-10-25 14:08:32.035 || voiceString:取消自訂導航
+
+2018-10-25 14:08:32.035 || Utterance:[AVSpeechUtterance 0x1c007bf00] String: 取消自訂導航
+
+2018-10-25 14:08:32.430 || recommend_cancel Success 
+
+2018-10-25 14:08:32.468 || floor_area_space_lite&garage_dbname=000001 Success 
+
+2018-10-25 14:08:32.568 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:4 callback數:20
+
+2018-10-25 14:08:32.568 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:8 上閥值4
+
+2018-10-25 14:08:33.674 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:5 callback數:19
+
+2018-10-25 14:08:33.674 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:8 上閥值4
+
+2018-10-25 14:08:33.781 || Network-<Carrier> 中華電信
+
+2018-10-25 14:08:33.782 || garage_floor_available&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-25 14:08:34.096 || Utterance:[AVSpeechUtterance 0x1c007bf00] String: 取消自訂導航
+
+2018-10-25 14:08:34.285 || garage_floor_available&garage_dbname=000001 Success 
+
+2018-10-25 14:08:34.689 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:5 callback數:13
+
+2018-10-25 14:08:34.689 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:6 上閥值3
+
+2018-10-25 14:08:35.001 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:3164]|[CarNavigation]ans: 3F_01_11
+
+2018-10-25 14:08:35.525 || Network-<Carrier> 中華電信
+
+2018-10-25 14:08:35.526 || floor_area_space_lite&garage_dbname=000001 Request 
+
+2018-10-25 14:08:35.713 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:5 callback數:12
+
+2018-10-25 14:08:35.713 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:6 上閥值2
+
+2018-10-25 14:08:36.206 || floor_area_space_lite&garage_dbname=000001 Success 
+
+2018-10-25 14:08:36.718 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:5 callback數:11
+
+2018-10-25 14:08:36.718 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:6 上閥值2
+
+2018-10-25 14:08:37.295 || Network-<Carrier> 中華電信
+
+2018-10-25 14:08:37.295 || garage_floor_available&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-25 14:08:37.805 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:4 callback數:10
+
+2018-10-25 14:08:37.805 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:6 上閥值2
+
+2018-10-25 14:08:38.124 || garage_floor_available&garage_dbname=000001 Success 
+
+2018-10-25 14:08:38.844 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:4 callback數:13
+
+2018-10-25 14:08:38.844 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:6 上閥值3
+
+2018-10-25 14:08:39.264 || Network-<Carrier> 中華電信
+
+2018-10-25 14:08:39.266 || floor_area_space_lite&garage_dbname=000001 Request 
+
+2018-10-25 14:08:39.893 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:4 callback數:13
+
+2018-10-25 14:08:39.893 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:6 上閥值3
+
+2018-10-25 14:08:40.062 || floor_area_space_lite&garage_dbname=000001 Success 
+
+2018-10-25 14:08:40.937 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:3 callback數:9
+
+2018-10-25 14:08:40.937 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:6 上閥值2
+
+2018-10-25 14:08:41.132 || Network-<Carrier> 中華電信
+
+2018-10-25 14:08:41.134 || garage_floor_available&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-25 14:08:41.975 || garage_floor_available&garage_dbname=000001 Success 
+
+2018-10-25 14:08:42.222 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:3 callback數:14
+
+2018-10-25 14:08:42.222 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:6 上閥值3
+
+2018-10-25 14:08:43.126 || Network-<Carrier> 中華電信
+
+2018-10-25 14:08:43.127 || floor_area_space_lite&garage_dbname=000001 Request 
+
+2018-10-25 14:08:43.361 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:3 callback數:13
+
+2018-10-25 14:08:43.361 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:6 上閥值3
+
+2018-10-25 14:08:43.886 || floor_area_space_lite&garage_dbname=000001 Success 
+
+2018-10-25 14:08:44.437 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:3 callback數:9
+
+2018-10-25 14:08:44.437 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:6 上閥值2
+
+2018-10-25 14:08:44.986 || Network-<Carrier> 中華電信
+
+2018-10-25 14:08:44.987 || garage_floor_available&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-25 14:08:45.483 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:4 callback數:12
+
+2018-10-25 14:08:45.483 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:6 上閥值2
+
+2018-10-25 14:08:45.805 || garage_floor_available&garage_dbname=000001 Success 
+
+  ||     ReservationType = 0;
+
+2018-10-25 14:08:46.497 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:4 callback數:11
+
+2018-10-25 14:08:46.497 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:6 上閥值2
+
+2018-10-25 14:08:46.949 || Network-<Carrier> 中華電信
+
+2018-10-25 14:08:46.950 || floor_area_space_lite&garage_dbname=000001 Request 
+
+2018-10-25 14:08:47.553 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:6 callback數:13
+
+2018-10-25 14:08:47.553 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:6 上閥值3
+
+2018-10-25 14:08:47.736 || floor_area_space_lite&garage_dbname=000001 Success 
+
+2018-10-25 14:08:48.586 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:7 callback數:13
+
+2018-10-25 14:08:48.587 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:6 上閥值3
+
+2018-10-25 14:08:48.814 || Network-<Carrier> 中華電信
+
+2018-10-25 14:08:48.815 || garage_floor_available&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-25 14:08:49.420 || Network-<Carrier> 中華電信
+
+2018-10-25 14:08:49.422 || get_one_space_status&garage_dbname=000001 Request 
+
+2018-10-25 14:08:49.468 || garage_floor_available&garage_dbname=000001 Success 
+
+2018-10-25 14:08:49.653 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:7 callback數:12
+
+2018-10-25 14:08:49.654 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:6 上閥值2
+
+2018-10-25 14:08:50.293 || get_one_space_status&garage_dbname=000001 Success 
+
+2018-10-25 14:08:50.677 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:7 callback數:12
+
+2018-10-25 14:08:50.677 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:6 上閥值2
+
+2018-10-25 14:08:50.801 || Network-<Carrier> 中華電信
+
+2018-10-25 14:08:50.803 || floor_area_space_lite&garage_dbname=000001 Request 
+
+2018-10-25 14:08:51.215 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:3164]|[CarNavigation]ans: 3F_02_12
+
+2018-10-25 14:08:51.574 || floor_area_space_lite&garage_dbname=000001 Success 
+
+2018-10-25 14:08:51.698 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:7 callback數:20
+
+2018-10-25 14:08:51.698 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:8 上閥值4
+
+2018-10-25 14:08:52.419 || Network-<Carrier> 中華電信
+
+2018-10-25 14:08:52.421 || get_one_space_status&garage_dbname=000001 Request 
+
+2018-10-25 14:08:52.477 || Network-<Carrier> 中華電信
+
+2018-10-25 14:08:52.477 || garage_floor_available&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-25 14:08:52.584 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:3164]|[CarNavigation]ans: 3F_02_13
+
+2018-10-25 14:08:52.759 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:6 callback數:18
+
+2018-10-25 14:08:52.760 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:8 上閥值4
+
+2018-10-25 14:08:53.175 || get_one_space_status&garage_dbname=000001 Success 
+
+2018-10-25 14:08:53.362 || garage_floor_available&garage_dbname=000001 Success 
+
+2018-10-25 14:08:53.787 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:6 callback數:17
+
+2018-10-25 14:08:53.787 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:8 上閥值3
+
+2018-10-25 14:08:54.424 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:3164]|[CarNavigation]ans: 3F_02_14
+
+2018-10-25 14:08:54.426 || voiceString:前方右轉
+
+2018-10-25 14:08:54.426 || Utterance:[AVSpeechUtterance 0x1c407ae00] String: 前方右轉
+
+2018-10-25 14:08:54.637 || Network-<Carrier> 中華電信
+
+2018-10-25 14:08:54.638 || floor_area_space_lite&garage_dbname=000001 Request 
+
+2018-10-25 14:08:54.814 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:5 callback數:27
+
+2018-10-25 14:08:54.814 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:9 上閥值5
+
+2018-10-25 14:08:55.415 || Network-<Carrier> 中華電信
+
+2018-10-25 14:08:55.416 || get_one_space_status&garage_dbname=000001 Request 
+
+2018-10-25 14:08:55.445 || floor_area_space_lite&garage_dbname=000001 Success 
+
+2018-10-25 14:08:55.851 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:5 callback數:24
+
+2018-10-25 14:08:55.851 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:9 上閥值5
+
+2018-10-25 14:08:56.029 || Utterance:[AVSpeechUtterance 0x1c407ae00] String: 前方右轉
+
+2018-10-25 14:08:56.095 || get_one_space_status&garage_dbname=000001 Success 
+
+2018-10-25 14:08:56.367 || Network-<Carrier> 中華電信
+
+2018-10-25 14:08:56.368 || garage_floor_available&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-25 14:08:56.855 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:6 callback數:23
+
+2018-10-25 14:08:56.855 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:8 上閥值5
+
+2018-10-25 14:08:56.887 || garage_floor_available&garage_dbname=000001 Success 
+
+2018-10-25 14:08:57.429 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:3164]|[CarNavigation]ans: 3F_02_1
+
+2018-10-25 14:08:57.431 || voiceString:前方右轉
+
+2018-10-25 14:08:57.432 || Utterance:[AVSpeechUtterance 0x1cc261600] String: 前方右轉
+
+2018-10-25 14:08:57.860 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:5 callback數:20
+
+2018-10-25 14:08:57.860 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:8 上閥值4
+
+2018-10-25 14:08:58.421 || Network-<Carrier> 中華電信
+
+2018-10-25 14:08:58.423 || get_one_space_status&garage_dbname=000001 Request 
+
+2018-10-25 14:08:58.508 || Network-<Carrier> 中華電信
+
+2018-10-25 14:08:58.509 || floor_area_space_lite&garage_dbname=000001 Request 
+
+2018-10-25 14:08:58.953 || Utterance:[AVSpeechUtterance 0x1cc261600] String: 前方右轉
+
+2018-10-25 14:08:59.003 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:4 callback數:13
+
+2018-10-25 14:08:59.003 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:6 上閥值3
+
+2018-10-25 14:08:59.070 || get_one_space_status&garage_dbname=000001 Success 
+
+2018-10-25 14:08:59.342 || floor_area_space_lite&garage_dbname=000001 Success 
+
+2018-10-25 14:08:59.894 || Network-<Carrier> 中華電信
+
+2018-10-25 14:08:59.895 || garage_floor_available&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-25 14:09:00.061 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:3 callback數:10
+
+2018-10-25 14:09:00.061 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:6 上閥值2
+
+2018-10-25 14:09:00.670 || garage_floor_available&garage_dbname=000001 Success 
+
+2018-10-25 14:09:01.160 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:4 callback數:12
+
+2018-10-25 14:09:01.160 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:6 上閥值2
+
+2018-10-25 14:09:01.415 || Network-<Carrier> 中華電信
+
+2018-10-25 14:09:01.415 || get_one_space_status&garage_dbname=000001 Request 
+
+2018-10-25 14:09:01.925 || get_one_space_status&garage_dbname=000001 Success 
+
+2018-10-25 14:09:02.187 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:4 callback數:14
+
+2018-10-25 14:09:02.187 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:6 上閥值3
+
+2018-10-25 14:09:02.408 || Network-<Carrier> 中華電信
+
+2018-10-25 14:09:02.409 || floor_area_space_lite&garage_dbname=000001 Request 
+
+2018-10-25 14:09:03.068 || floor_area_space_lite&garage_dbname=000001 Success 
+
+2018-10-25 14:09:03.232 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:4 callback數:15
+
+2018-10-25 14:09:03.232 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:6 上閥值3
+
+2018-10-25 14:09:03.679 || Network-<Carrier> 中華電信
+
+2018-10-25 14:09:03.679 || garage_floor_available&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-25 14:09:04.271 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:4 callback數:8
+
+2018-10-25 14:09:04.271 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:6 上閥值2
+
+2018-10-25 14:09:04.326 || garage_floor_available&garage_dbname=000001 Success 
+
+2018-10-25 14:09:04.416 || Network-<Carrier> 中華電信
+
+2018-10-25 14:09:04.417 || get_one_space_status&garage_dbname=000001 Request 
+
+2018-10-25 14:09:04.517 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:3164]|[CarNavigation]ans: 3F_02_20
+
+2018-10-25 14:09:04.967 || get_one_space_status&garage_dbname=000001 Success 
+
+2018-10-25 14:09:05.383 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:3 callback數:15
+
+2018-10-25 14:09:05.383 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:6 上閥值3
+
+2018-10-25 14:09:06.123 || Network-<Carrier> 中華電信
+
+2018-10-25 14:09:06.124 || floor_area_space_lite&garage_dbname=000001 Request 
+
+2018-10-25 14:09:06.411 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:5 callback數:13
+
+2018-10-25 14:09:06.411 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:6 上閥值3
+
+2018-10-25 14:09:07.331 || Network-<Carrier> 中華電信
+
+2018-10-25 14:09:07.332 || garage_floor_available&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-25 14:09:07.414 || Network-<Carrier> 中華電信
+
+2018-10-25 14:09:07.415 || get_one_space_status&garage_dbname=000001 Request 
+
+2018-10-25 14:09:07.465 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:6 callback數:17
+
+2018-10-25 14:09:07.465 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:8 上閥值3
+
+2018-10-25 14:09:08.254 || floor_area_space_lite&garage_dbname=000001 Success 
+
+2018-10-25 14:09:08.343 || garage_floor_available&garage_dbname=000001 Success 
+
+2018-10-25 14:09:08.518 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:6 callback數:7
+
+2018-10-25 14:09:08.518 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:5 上閥值2
+
+2018-10-25 14:09:08.846 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2913]|導航:(背娃娃參考點)下點3F_02_15 下下點3F_02_16 目前點3F_02_20
+
+2018-10-25 14:09:08.881 || get_one_space_status&garage_dbname=000001 Success 
+
+2018-10-25 14:09:08.952 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2913]|導航:(背娃娃參考點)下點3F_02_15 下下點3F_02_16 目前點3F_02_20
+
+2018-10-25 14:09:09.043 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2913]|導航:(背娃娃參考點)下點3F_02_15 下下點3F_02_16 目前點3F_02_20
+
+2018-10-25 14:09:09.159 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2913]|導航:(背娃娃參考點)下點3F_02_15 下下點3F_02_16 目前點3F_02_20
+
+2018-10-25 14:09:09.413 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2913]|導航:(背娃娃參考點)下點3F_02_15 下下點3F_02_16 目前點3F_02_20
+
+2018-10-25 14:09:09.415 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:3164]|[CarNavigation]ans: 3F_02_15
+
+2018-10-25 14:09:09.519 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:6 callback數:17
+
+2018-10-25 14:09:09.519 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:8 上閥值3
+
+2018-10-25 14:09:10.419 || Network-<Carrier> 中華電信
+
+2018-10-25 14:09:10.421 || get_one_space_status&garage_dbname=000001 Request 
+
+2018-10-25 14:09:10.537 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:5 callback數:11
+
+2018-10-25 14:09:10.537 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:6 上閥值2
+
+2018-10-25 14:09:11.209 || get_one_space_status&garage_dbname=000001 Success 
+
+2018-10-25 14:09:11.326 || Network-<Carrier> 中華電信
+
+2018-10-25 14:09:11.328 || floor_area_space_lite&garage_dbname=000001 Request 
+
+2018-10-25 14:09:11.351 || Network-<Carrier> 中華電信
+
+2018-10-25 14:09:11.352 || garage_floor_available&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-25 14:09:11.598 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:5 callback數:17
+
+2018-10-25 14:09:11.598 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:8 上閥值3
+
+2018-10-25 14:09:12.168 || garage_floor_available&garage_dbname=000001 Success 
+
+2018-10-25 14:09:12.237 || floor_area_space_lite&garage_dbname=000001 Success 
+
+2018-10-25 14:09:12.644 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:6 callback數:19
+
+2018-10-25 14:09:12.644 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:8 上閥值4
+
+2018-10-25 14:09:13.421 || Network-<Carrier> 中華電信
+
+2018-10-25 14:09:13.422 || get_one_space_status&garage_dbname=000001 Request 
+
+2018-10-25 14:09:13.659 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:6 callback數:20
+
+2018-10-25 14:09:13.659 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:8 上閥值4
+
+2018-10-25 14:09:13.870 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:3164]|[CarNavigation]ans: 3F_02_16
+
+2018-10-25 14:09:14.098 || get_one_space_status&garage_dbname=000001 Success 
+
+2018-10-25 14:09:14.701 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:6 callback數:16
+
+2018-10-25 14:09:14.701 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:8 上閥值3
+
+2018-10-25 14:09:15.179 || Network-<Carrier> 中華電信
+
+2018-10-25 14:09:15.180 || garage_floor_available&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-25 14:09:15.295 || Network-<Carrier> 中華電信
+
+2018-10-25 14:09:15.296 || floor_area_space_lite&garage_dbname=000001 Request 
+
+2018-10-25 14:09:15.786 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:7 callback數:21
+
+2018-10-25 14:09:15.787 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:8 上閥值4
+
+2018-10-25 14:09:16.007 || garage_floor_available&garage_dbname=000001 Success 
+
+2018-10-25 14:09:16.095 || floor_area_space_lite&garage_dbname=000001 Success 
+
+2018-10-25 14:09:16.418 || Network-<Carrier> 中華電信
+
+2018-10-25 14:09:16.420 || get_one_space_status&garage_dbname=000001 Request 
+
+2018-10-25 14:09:16.703 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:3164]|[CarNavigation]ans: 3F_02_17
+
+2018-10-25 14:09:16.913 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:8 callback數:28
+
+2018-10-25 14:09:16.913 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:9 上閥值6
+
+2018-10-25 14:09:16.966 || get_one_space_status&garage_dbname=000001 Success 
+
+2018-10-25 14:09:17.937 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:7 callback數:29
+
+2018-10-25 14:09:17.937 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:9 上閥值6
+
+2018-10-25 14:09:19.019 || Network-<Carrier> 中華電信
+
+2018-10-25 14:09:19.020 || garage_floor_available&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-25 14:09:19.022 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:8 callback數:23
+
+2018-10-25 14:09:19.022 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:8 上閥值5
+
+2018-10-25 14:09:19.023 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:3164]|[CarNavigation]ans: 3F_01_18
+
+2018-10-25 14:09:19.162 || Network-<Carrier> 中華電信
+
+2018-10-25 14:09:19.163 || floor_area_space_lite&garage_dbname=000001 Request 
+
+2018-10-25 14:09:19.421 || Network-<Carrier> 中華電信
+
+2018-10-25 14:09:19.423 || get_one_space_status&garage_dbname=000001 Request 
+
+2018-10-25 14:09:19.607 || garage_floor_available&garage_dbname=000001 Success 
+
+2018-10-25 14:09:20.000 || floor_area_space_lite&garage_dbname=000001 Success 
+
+2018-10-25 14:09:20.061 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:10 callback數:22
+
+2018-10-25 14:09:20.061 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:8 上閥值4
+
+2018-10-25 14:09:20.665 || get_one_space_status&garage_dbname=000001 Success 
+
+2018-10-25 14:09:21.130 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:9 callback數:25
+
+2018-10-25 14:09:21.130 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:9 上閥值5
+
+2018-10-25 14:09:21.547 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:3164]|[CarNavigation]ans: 3F_01_19
+
+2018-10-25 14:09:21.548 || voiceString:已到達目的地
+
+2018-10-25 14:09:21.549 || voiceString:左側
+
+2018-10-25 14:09:21.550 || voiceString:240號
+
+2018-10-25 14:09:21.550 || Utterance:[AVSpeechUtterance 0x1cc078080] String: 已到達目的地
+
+2018-10-25 14:09:21.559 || Network-<Carrier> 中華電信
+
+2018-10-25 14:09:21.560 || recommend_cancel Request 
+
+2018-10-25 14:09:21.991 || recommend_cancel Success 
+
+2018-10-25 14:09:22.188 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:5 callback數:22
+
+2018-10-25 14:09:22.188 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:8 上閥值4
+
+2018-10-25 14:09:22.648 || Network-<Carrier> 中華電信
+
+2018-10-25 14:09:22.648 || garage_floor_available&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-25 14:09:23.065 || Network-<Carrier> 中華電信
+
+2018-10-25 14:09:23.066 || floor_area_space_lite&garage_dbname=000001 Request 
+
+2018-10-25 14:09:23.201 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:5 callback數:18
+
+2018-10-25 14:09:23.201 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:8 上閥值4
+
+2018-10-25 14:09:23.205 || garage_floor_available&garage_dbname=000001 Success 
+
+2018-10-25 14:09:23.428 || Utterance:[AVSpeechUtterance 0x1cc078080] String: 已到達目的地
+
+2018-10-25 14:09:23.429 || Utterance:[AVSpeechUtterance 0x1cc2683c0] String: 左側
+
+2018-10-25 14:09:23.873 || floor_area_space_lite&garage_dbname=000001 Success 
+
+2018-10-25 14:09:24.204 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:5 callback數:22
+
+2018-10-25 14:09:24.204 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:8 上閥值4
+
+2018-10-25 14:09:24.391 || Utterance:[AVSpeechUtterance 0x1cc2683c0] String: 左側
+
+2018-10-25 14:09:24.392 || Utterance:[AVSpeechUtterance 0x1c007cf00] String: 240號
+
+2018-10-25 14:09:25.253 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:5 callback數:20
+
+2018-10-25 14:09:25.253 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:8 上閥值4
+
+2018-10-25 14:09:26.075 || Utterance:[AVSpeechUtterance 0x1c007cf00] String: 240號
+
+2018-10-25 14:09:26.214 || Network-<Carrier> 中華電信
+
+2018-10-25 14:09:26.216 || garage_floor_available&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-25 14:09:26.256 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:7 callback數:20
+
+2018-10-25 14:09:26.256 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:8 上閥值4
+
+2018-10-25 14:09:26.928 || Network-<Carrier> 中華電信
+
+2018-10-25 14:09:26.928 || floor_area_space_lite&garage_dbname=000001 Request 
+
+2018-10-25 14:09:26.976 || garage_floor_available&garage_dbname=000001 Success 
+
+2018-10-25 14:09:27.313 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:7 callback數:18
+
+2018-10-25 14:09:27.314 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:8 上閥值4
+
+2018-10-25 14:09:27.712 || floor_area_space_lite&garage_dbname=000001 Success 
+
+2018-10-25 14:09:28.361 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:6 callback數:20
+
+2018-10-25 14:09:28.361 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:8 上閥值4
+
+2018-10-25 14:09:29.420 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:4 callback數:22
+
+2018-10-25 14:09:29.420 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:8 上閥值4
+
+2018-10-25 14:09:29.984 || Network-<Carrier> 中華電信
+
+2018-10-25 14:09:29.985 || garage_floor_available&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-25 14:09:30.504 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:4 callback數:15
+
+2018-10-25 14:09:30.504 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:6 上閥值3
+
+2018-10-25 14:09:30.585 || garage_floor_available&garage_dbname=000001 Success 
+
+2018-10-25 14:09:30.772 || Network-<Carrier> 中華電信
+
+2018-10-25 14:09:30.773 || floor_area_space_lite&garage_dbname=000001 Request 
+
+2018-10-25 14:09:31.542 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:5 callback數:24
+
+2018-10-25 14:09:31.542 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:9 上閥值5
+
+2018-10-25 14:09:31.555 || floor_area_space_lite&garage_dbname=000001 Success 
+
+2018-10-25 14:09:32.706 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:5 callback數:20
+
+2018-10-25 14:09:32.706 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:8 上閥值4
+
+2018-10-25 14:09:33.597 || Network-<Carrier> 中華電信
+
+2018-10-25 14:09:33.599 || garage_floor_available&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-25 14:09:33.742 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:4 callback數:22
+
+2018-10-25 14:09:33.742 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:8 上閥值4
+
+2018-10-25 14:09:33.755 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:3164]|[CarNavigation]ans: 3F_01_21
+
+2018-10-25 14:09:34.103 || garage_floor_available&garage_dbname=000001 Success 
+
+2018-10-25 14:09:34.628 || Network-<Carrier> 中華電信
+
+2018-10-25 14:09:34.629 || floor_area_space_lite&garage_dbname=000001 Request 
+
+2018-10-25 14:09:34.887 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:5 callback數:15
+
+2018-10-25 14:09:34.887 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:6 上閥值3
+
+2018-10-25 14:09:35.163 || floor_area_space_lite&garage_dbname=000001 Success 
+
+2018-10-25 14:09:35.910 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:5 callback數:18
+
+2018-10-25 14:09:35.910 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:8 上閥值4
+
+2018-10-25 14:09:36.943 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:4 callback數:19
+
+2018-10-25 14:09:36.944 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:8 上閥值4
+
+2018-10-25 14:09:37.114 || Network-<Carrier> 中華電信
+
+2018-10-25 14:09:37.116 || garage_floor_available&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-25 14:09:37.945 || garage_floor_available&garage_dbname=000001 Success 
+
+2018-10-25 14:09:38.024 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:4 callback數:16
+
+2018-10-25 14:09:38.024 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:8 上閥值3
+
+2018-10-25 14:09:38.235 || Network-<Carrier> 中華電信
+
+2018-10-25 14:09:38.236 || floor_area_space_lite&garage_dbname=000001 Request 
+
+2018-10-25 14:09:38.914 || floor_area_space_lite&garage_dbname=000001 Success 
+
+2018-10-25 14:09:39.048 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:4 callback數:20
+
+2018-10-25 14:09:39.048 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:8 上閥值4
+
+2018-10-25 14:09:40.094 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:4 callback數:17
+
+2018-10-25 14:09:40.094 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:8 上閥值3
+
+2018-10-25 14:09:40.957 || Network-<Carrier> 中華電信
+
+2018-10-25 14:09:40.958 || garage_floor_available&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-25 14:09:41.096 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:4 callback數:19
+
+2018-10-25 14:09:41.096 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:8 上閥值4
+
+2018-10-25 14:09:41.792 || garage_floor_available&garage_dbname=000001 Success 
+
+2018-10-25 14:09:41.976 || Network-<Carrier> 中華電信
+
+2018-10-25 14:09:41.977 || floor_area_space_lite&garage_dbname=000001 Request 
+
+2018-10-25 14:09:42.266 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:5 callback數:24
+
+2018-10-25 14:09:42.266 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:9 上閥值5
+
+2018-10-25 14:09:42.752 || floor_area_space_lite&garage_dbname=000001 Success 
+
+2018-10-25 14:09:43.305 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:6 callback數:21
+
+2018-10-25 14:09:43.305 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:8 上閥值4
+
+2018-10-25 14:09:44.383 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:5 callback數:26
+
+2018-10-25 14:09:44.383 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:9 上閥值5
+
+2018-10-25 14:09:44.804 || Network-<Carrier> 中華電信
+
+2018-10-25 14:09:44.806 || garage_floor_available&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-25 14:09:45.426 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:3 callback數:26
+
+2018-10-25 14:09:45.426 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:9 上閥值5
+
+2018-10-25 14:09:45.623 || garage_floor_available&garage_dbname=000001 Success 
+
+2018-10-25 14:09:45.822 || Network-<Carrier> 中華電信
+
+2018-10-25 14:09:45.823 || floor_area_space_lite&garage_dbname=000001 Request 
+
+2018-10-25 14:09:46.472 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:3 callback數:20
+
+2018-10-25 14:09:46.472 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:8 上閥值4
+
+2018-10-25 14:09:46.594 || floor_area_space_lite&garage_dbname=000001 Success 
+
+2018-10-25 14:09:47.557 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:5 callback數:21
+
+2018-10-25 14:09:47.557 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:8 上閥值4
+
+2018-10-25 14:09:48.559 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:5 callback數:16
+
+2018-10-25 14:09:48.559 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:8 上閥值3
+
+2018-10-25 14:09:48.633 || Network-<Carrier> 中華電信
+
+2018-10-25 14:09:48.635 || garage_floor_available&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-25 14:09:49.464 || garage_floor_available&garage_dbname=000001 Success 
+
+2018-10-25 14:09:49.623 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:4 callback數:22
+
+2018-10-25 14:09:49.623 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:8 上閥值4
+
+2018-10-25 14:09:49.663 || Network-<Carrier> 中華電信
+
+2018-10-25 14:09:49.663 || floor_area_space_lite&garage_dbname=000001 Request 
+
+2018-10-25 14:09:50.449 || floor_area_space_lite&garage_dbname=000001 Success 
+
+2018-10-25 14:09:50.685 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:4 callback數:20
+
+2018-10-25 14:09:50.686 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:8 上閥值4
+
+2018-10-25 14:09:51.714 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:5 callback數:19
+
+2018-10-25 14:09:51.714 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:8 上閥值4
+
+2018-10-25 14:09:52.475 || Network-<Carrier> 中華電信
+
+2018-10-25 14:09:52.476 || garage_floor_available&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-25 14:09:52.714 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:5 callback數:19
+
+2018-10-25 14:09:52.714 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:8 上閥值4
+
+2018-10-25 14:09:52.918 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:3164]|[CarNavigation]ans: 3F_01_9
+
+2018-10-25 14:09:53.314 || garage_floor_available&garage_dbname=000001 Success 
+
+2018-10-25 14:09:53.521 || Network-<Carrier> 中華電信
+
+2018-10-25 14:09:53.523 || floor_area_space_lite&garage_dbname=000001 Request 
+
+2018-10-25 14:09:53.727 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:4 callback數:17
+
+2018-10-25 14:09:53.728 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:8 上閥值3
+
+2018-10-25 14:09:54.265 || floor_area_space_lite&garage_dbname=000001 Success 
+
+2018-10-25 14:09:54.753 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:4 callback數:23
+
+2018-10-25 14:09:54.753 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:8 上閥值5
+
+2018-10-25 14:09:55.804 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:5 callback數:18
+
+2018-10-25 14:09:55.804 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:8 上閥值4
+
+2018-10-25 14:09:56.326 || Network-<Carrier> 中華電信
+
+2018-10-25 14:09:56.327 || garage_floor_available&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-25 14:09:56.958 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:5 callback數:14
+
+2018-10-25 14:09:56.958 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:6 上閥值3
+
+2018-10-25 14:09:57.143 || garage_floor_available&garage_dbname=000001 Success 
+
+2018-10-25 14:09:57.336 || Network-<Carrier> 中華電信
+
+2018-10-25 14:09:57.338 || floor_area_space_lite&garage_dbname=000001 Request 
+
+2018-10-25 14:09:58.066 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:4 callback數:20
+
+2018-10-25 14:09:58.066 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:8 上閥值4
+
+2018-10-25 14:09:58.106 || floor_area_space_lite&garage_dbname=000001 Success 
+
+2018-10-25 14:09:58.389 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:3164]|[CarNavigation]ans: 3F_01_10
+
+2018-10-25 14:09:59.160 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:5 callback數:16
+
+2018-10-25 14:09:59.160 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:8 上閥值3
+
+2018-10-25 14:10:00.148 || Network-<Carrier> 中華電信
+
+2018-10-25 14:10:00.149 || garage_floor_available&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-25 14:10:00.210 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:5 callback數:13
+
+2018-10-25 14:10:00.210 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:6 上閥值3
+
+2018-10-25 14:10:00.983 || garage_floor_available&garage_dbname=000001 Success 
+
+2018-10-25 14:10:01.171 || Network-<Carrier> 中華電信
+
+2018-10-25 14:10:01.172 || floor_area_space_lite&garage_dbname=000001 Request 
+
+2018-10-25 14:10:01.258 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:5 callback數:10
+
+2018-10-25 14:10:01.258 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:6 上閥值2
+
+2018-10-25 14:10:01.947 || floor_area_space_lite&garage_dbname=000001 Success 
+
+2018-10-25 14:10:02.297 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:5 callback數:10
+
+2018-10-25 14:10:02.297 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:6 上閥值2
+
+2018-10-25 14:10:03.359 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:4 callback數:9
+
+2018-10-25 14:10:03.359 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:6 上閥值2
+
+2018-10-25 14:10:03.993 || Network-<Carrier> 中華電信
+
+2018-10-25 14:10:03.995 || garage_floor_available&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-25 14:10:04.415 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:4 callback數:2
+
+2018-10-25 14:10:04.415 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:5 上閥值1
+
+2018-10-25 14:10:04.824 || garage_floor_available&garage_dbname=000001 Success 
+
+2018-10-25 14:10:05.013 || Network-<Carrier> 中華電信
+
+2018-10-25 14:10:05.014 || floor_area_space_lite&garage_dbname=000001 Request 
+
+2018-10-25 14:10:05.801 || floor_area_space_lite&garage_dbname=000001 Success 
+
+2018-10-25 14:10:06.078 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2440]|導航:(dynamic_data)種類:5 callback數:4
+
+2018-10-25 14:10:06.079 || -[BLEManager indoorFindSpaceNavigationMethod:]|[L:2441]|導航:(dynamic_data)背娃娃值:5 上閥值2
+
+2018-10-25 14:10:07.833 || Network-<Carrier> 中華電信
+
+2018-10-25 14:10:07.835 || garage_floor_available&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-25 14:10:08.589 || Network-<Carrier> 中華電信
+
+2018-10-25 14:10:08.590 || ANPR_check_exit Request 
+
+2018-10-25 14:10:08.639 || garage_floor_available&garage_dbname=000001 Success 
+
+2018-10-25 14:10:08.873 || Network-<Carrier> 中華電信
+
+2018-10-25 14:10:08.875 || floor_area_space_lite&garage_dbname=000001 Request 
+
+2018-10-25 14:10:08.990 || ANPR_check_exit Success 
+
+2018-10-25 14:10:09.412 || floor_area_space_lite&garage_dbname=000001 Success 
+
+2018-10-25 14:10:11.645 || Network-<Carrier> 中華電信
+
+2018-10-25 14:10:11.646 || garage_floor_available&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-25 14:10:12.183 || garage_floor_available&garage_dbname=000001 Success 
+
+2018-10-25 14:10:12.287 || Network-<Carrier> 中華電信
+
+2018-10-25 14:10:12.289 || ANPR_check_exit Request 
+
+2018-10-25 14:10:12.467 || Network-<Carrier> 中華電信
+
+2018-10-25 14:10:12.468 || floor_area_space_lite&garage_dbname=000001 Request 
+
+2018-10-25 14:10:12.646 || ANPR_check_exit Success 
+
+2018-10-25 14:10:12.964 || floor_area_space_lite&garage_dbname=000001 Success 
+
+2018-10-25 14:10:15.193 || Network-<Carrier> 中華電信
+
+2018-10-25 14:10:15.194 || garage_floor_available&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-25 14:10:15.949 || Network-<Carrier> 中華電信
+
+2018-10-25 14:10:15.950 || ANPR_check_exit Request 
+
+2018-10-25 14:10:15.998 || garage_floor_available&garage_dbname=000001 Success 
+
+2018-10-25 14:10:16.025 || Network-<Carrier> 中華電信
+
+2018-10-25 14:10:16.026 || floor_area_space_lite&garage_dbname=000001 Request 
+
+2018-10-25 14:10:16.338 || ANPR_check_exit Success 
+
+2018-10-25 14:10:16.524 || floor_area_space_lite&garage_dbname=000001 Success 
+
+2018-10-25 14:10:19.003 || Network-<Carrier> 中華電信
+
+2018-10-25 14:10:19.004 || garage_floor_available&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-25 14:10:19.554 || garage_floor_available&garage_dbname=000001 Success 
+
+2018-10-25 14:10:19.579 || Network-<Carrier> 中華電信
+
+2018-10-25 14:10:19.580 || floor_area_space_lite&garage_dbname=000001 Request 
+
+2018-10-25 14:10:19.635 || Network-<Carrier> 中華電信
+
+2018-10-25 14:10:19.636 || ANPR_check_exit Request 
+
+2018-10-25 14:10:20.028 || ANPR_check_exit Success 
+
+2018-10-25 14:10:20.028 || 0
+
+2018-10-25 14:10:20.028 || 蒐集所有SendTrackingDataToServer內資訊
+
+2018-10-25 14:10:20.029 || moveTrack:(
+
+2018-10-25 14:10:20.032 || [SendTrackingData]
+    "N_data" = "[{\"time\":\"1540447565\",\"id\":\"14\",\"area\":\"02\",\"E\":48,\"floor\":\"3F\"},{\"time\":\"1540447566\",\"id\":\"1\",\"area\":\"02\",\"E\":59,\"floor\":\"3F\"},{\"time\":\"1540447603\",\"id\":\"20\",\"area\":\"02\",\"E\":103,\"floor\":\"3F\"},{\"time\":\"1540447609\",\"id\":\"2\",\"area\":\"03\",\"E\":47,\"floor\":\"3F\"},{\"time\":\"1540447615\",\"id\":\"3\",\"area\":\"03\",\"E\":123,\"floor\":\"3F\"},{\"time\":\"1540447618\",\"id\":\"4\",\"area\":\"03\",\"E\":68,\"floor\":\"3F\"},{\"time\":\"1540447620\",\"id\":\"5\",\"area\":\"04\",\"E\":66,\"floor\":\"3F\"},{\"time\":\"1540447622\",\"id\":\"6\",\"area\":\"04\",\"E\":86,\"floor\":\"3F\"},{\"time\":\"1540447624\",\"id\":\"7\",\"area\":\"04\",\"E\":44,\"floor\":\"3F\"},{\"time\":\"1540447627\",\"id\":\"8\",\"area\":\"04\",\"E\":62,\"floor\":\"3F\"},{\"time\":\"1540447633\",\"id\":\"21\",\"area\":\"01\",\"E\":85,\"floor\":\"3F\"},{\"time\":\"1540447638\",\"id\":\"9\",\"area\":\"01\",\"E\":76,\"floor\":\"3F\"},{\"time\":\"1540447642\",\"id\":\"10\",\"area\":\"01\",\"E\":98,\"floor\":\"3F\"},{\"time\":\"1540447646\",\"id\":\"11\",\"area\":\"01\",\"E\":76,\"floor\":\"3F\"},{\"time\":\"1540447655\",\"id\":\"14\",\"area\":\"02\",\"E\":127,\"floor\":\"4F\"},{\"time\":\"1540447657\",\"id\":\"1\",\"area\":\"02\",\"E\":103,\"floor\":\"4F\"},{\"time\":\"1540447660\",\"id\":\"20\",\"area\":\"02\",\"E\":43,\"floor\":\"4F\"},{\"time\":\"1540447673\",\"id\":\"15\",\"area\":\"02\",\"E\":61,\"floor\":\"4F\"},{\"time\":\"1540447678\",\"id\":\"16\",\"area\":\"02\",\"E\":100,\"floor\":\"4F\"},{\"time\":\"1540447681\",\"id\":\"17\",\"area\":\"01\",\"E\":88,\"floor\":\"4F\"},{\"time\":\"1540447685\",\"id\":\"18\",\"area\":\"01\",\"E\":103,\"floor\":\"4F\"},{\"time\":\"1540447686\",\"id\":\"19\",\"area\":\"01\",\"E\":63,\"floor\":\"4F\"},{\"time\":\"1540447689\",\"id\":\"21\",\"area\":\"01\",\"E\":84,\"floor\":\"4F\"},{\"time\":\"1540447694\",\"id\":\"9\",\"area\":\"01\",\"E\":166,\"floor\":\"4F\"},{\"time\":\"1540447704\",\"id\":\"10\",\"area\":\"01\",\"E\":90,\"floor\":\"3F\"},{\"time\":\"1540447715\",\"id\":\"11\",\"area\":\"01\",\"E\":127,\"floor\":\"3F\"},{\"time\":\"1540447731\",\"id\":\"12\",\"area\":\"02\",\"E\":135,\"floor\":\"3F\"},{\"time\":\"1540447732\",\"id\":\"13\",\"area\":\"02\",\"E\":80,\"floor\":\"3F\"},{\"time\":\"1540447734\",\"id\":\"14\",\"area\":\"02\",\"E\":50,\"floor\":\"3F\"},{\"time\":\"1540447737\",\"id\":\"1\",\"area\":\"02\",\"E\":102,\"floor\":\"3F\"},{\"time\":\"1540447744\",\"id\":\"20\",\"area\":\"02\",\"E\":117,\"floor\":\"3F\"},{\"time\":\"1540447749\",\"id\":\"15\",\"area\":\"02\",\"E\":84,\"floor\":\"3F\"},{\"time\":\"1540447753\",\"id\":\"16\",\"area\":\"02\",\"E\":113,\"floor\":\"3F\"},{\"time\":\"1540447756\",\"id\":\"17\",\"area\":\"02\",\"E\":81,\"floor\":\"3F\"},{\"time\":\"1540447759\",\"id\":\"18\",\"area\":\"01\",\"E\":67,\"floor\":\"3F\"},{\"time\":\"1540447761\",\"id\":\"19\",\"area\":\"01\",\"E\":115,\"floor\":\"3F\"},{\"time\":\"1540447773\",\"id\":\"21\",\"area\":\"01\",\"E\":74,\"floor\":\"3F\"},{\"time\":\"1540447792\",\"id\":\"9\",\"area\":\"01\",\"E\":119,\"floor\":\"3F\"},{\"time\":\"1540447798\",\"id\":\"10\",\"area\":\"01\",\"E\":112,\"floor\":\"3F\"}]";
+    "exit_datetime" = 1540447820;
+    isTerminated = "-1";
+    "parking_token" = 468ab375b9d0f8df24419332de424ea6;
+}
+
+2018-10-25 14:10:20.036 || Network-<Carrier> 中華電信
+
+2018-10-25 14:10:20.037 || parking_tracking_insert_test&garage_dbname=000001 Request 
+
+2018-10-25 14:10:20.045 || Network-<Carrier> 中華電信
+
+2018-10-25 14:10:20.087 || floor_area_space_lite&garage_dbname=000001 Success 
+
+2018-10-25 14:10:20.136 || voiceString:謝謝光臨
+
+2018-10-25 14:10:20.136 || Utterance:[AVSpeechUtterance 0x1d0c6ce40] String: 謝謝光臨
+
+2018-10-25 14:10:20.787 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:0C_GO:-85
+
+2018-10-25 14:10:20.823 || parking_tracking_insert_test&garage_dbname=000001 Success 
+
+2018-10-25 14:10:20.823 || Response：<null>
+
+2018-10-25 14:10:21.833 || Utterance:[AVSpeechUtterance 0x1d0c6ce40] String: 謝謝光臨
+
+2018-10-25 14:10:22.561 || Network-<Carrier> 中華電信
+
+2018-10-25 14:10:22.562 || garage_floor_available&garage_dbname=000001 Request 
+
+  ||     "garage_id" = 000001;
+
+2018-10-25 14:10:23.143 || Network-<Carrier> 中華電信
+
+2018-10-25 14:10:23.144 || floor_area_space_lite&garage_dbname=000001 Request 
+
+2018-10-25 14:10:23.151 || leaveGarageName = 特力屋內湖店
+

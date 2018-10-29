@@ -1,0 +1,1420 @@
+使用者：偉玲
+裝置： iPhone 7 Plus
+系統： iOS 12.0.1
+版本： paking versoin:1.6.5(release)
+電信： 台湾大哥大
+預約： 有
+車廠： 000007-便利停車場富敦站 Beacon入場, 有Ｎ導航
+///////////////////////////////////
+
+第一次GI 到 Pop Up 時間 : 8.0秒
+
+///////////////////////////////////
+(  )	沒有離開車廠紀錄
+
+( 2018-10-26 17:47:07 )	[didDisconnectPeripheral]
+
+( 2018-10-26 17:48:37 )	[AppDelegate] applicationWillResignActive
+
+( 2018-10-26 17:48:38 )	[AppDelegate] applicationDidBecomeActive
+
+( 2018-10-26 17:48:44 )	退到App背景
+
+( 2018-10-26 17:48:44 )	[AppDelegate] applicationWillResignActive
+
+( 2018-10-29 12:57:46 )	啟動App程序
+
+( 2018-10-29 12:58:06 )	[AppDelegate] applicationDidBecomeActive
+
+( 2018-10-29 12:58:07 )	[Gate]BLE ON
+
+( 2018-10-29 12:59:31 )	收到第一個GI
+
+( 2018-10-29 12:59:38 )	[didConnectPeripheral]duration:0.413081
+
+( 2018-10-29 12:59:39 )	入閘POP_UP
+
+( 2018-10-29 12:59:40 )	按下入閘按鈕
+
+( 2018-10-29 12:59:55 )	[didDisconnectPeripheral]
+
+( 2018-10-29 12:59:56 )	[didConnectPeripheral]duration:0.448237
+
+( 2018-10-29 12:59:57 )	[AppDelegate] applicationWillResignActive
+
+( 2018-10-29 12:59:58 )	[AppDelegate] applicationDidBecomeActive
+
+( 2018-10-29 12:59:58 )	[AppDelegate] applicationWillResignActive
+
+( 2018-10-29 13:00:01 )	[AppDelegate] applicationDidBecomeActive
+
+( 2018-10-29 13:00:08 )	[didDisconnectPeripheral]
+
+( 2018-10-29 13:00:10 )	[didConnectPeripheral]duration:1.175377
+
+( 2018-10-29 13:00:16 )	[didDisconnectPeripheral]
+
+( 2018-10-29 13:00:20 )	[didConnectPeripheral]duration:0.305500
+
+( 2018-10-29 13:00:27 )	[didDisconnectPeripheral]
+
+( 2018-10-29 13:00:29 )	[didConnectPeripheral]duration:0.304979
+
+( 2018-10-29 13:00:30 )	[didDisconnectPeripheral]
+
+///////////////////////////////////
+
+<API:checkGarage>
+狀態：Success
+呼叫次數：2次
+耗費時間：5.139秒
+網路來源：PaKing-192.168.5.231
+
+<API:garage_enter_check_reservechange>
+狀態：Success
+呼叫次數：4次
+耗費時間：0.501秒
+網路來源：PaKing-192.168.5.231
+
+<API:garage_enter_confirm>
+狀態：Fail
+呼叫次數：24次
+錯誤訊息：Request but no feedback success!
+網路來源：PaKing-192.168.5.231
+
+///////////////////////////////////
+網路切換時機
+2018-10-26 17:48:38.764 台湾大哥大 (first)
+2018-10-29 12:59:31.743 PaKing-192.168.5.231
+
+
+--------detail--------
+
+2018-10-26 17:47:03.948 || !!PaKing APP Open!!
+
+2018-10-26 17:47:03.953 || 偉玲
+
+2018-10-26 17:47:03.954 || iOS 12.0.1
+
+2018-10-26 17:47:03.954 || -[LogManager defaultLog]|[L:108]|Device:iPhone 7 Plus
+
+2018-10-26 17:47:03.954 || paking versoin:1.6.5(release)
+
+2018-10-26 17:47:03.954 || paking build:20180925112634
+
+2018-10-26 17:47:07.824 || -[BLEManager centralManager:didDisconnectPeripheral:error:]|[L:1060]|[Gate]pName:00:23:A7:A6:B4:24_GO
+
+2018-10-26 17:47:07.825 || -[BLEManager centralManager:didDisconnectPeripheral:error:]|[L:1061]|[Gate]error:Error Domain=CBErrorDomain Code=6 "The connection has timed out unexpectedly." UserInfo={NSLocalizedDescription=The connection has timed out unexpectedly.}
+
+2018-10-26 17:47:07.825 || -[BLEManager centralManager:didDisconnectPeripheral:error:]|[L:1062]|[Gate]completeGateConnectProcess=1
+
+2018-10-26 17:47:07.825 || [Gate]
+
+2018-10-26 17:47:11.908 || PaymentSuccess
+
+2018-10-26 17:47:15.630 || garage_leave_pay&garage_dbname=000007 Success 
+
+  ||                 "garage_id" = 000007;
+
+2018-10-26 17:48:37.870 || -[AppDelegate applicationWillResignActive:]|[L:133]|
+
+2018-10-26 17:48:38.744 || -[AppDelegate applicationDidBecomeActive:]|[L:193]|
+
+2018-10-26 17:48:38.764 || Network-<Carrier> 台湾大哥大
+
+2018-10-26 17:48:38.765 || user_fail_trade_check Request 
+
+2018-10-26 17:48:40.531 || user_fail_trade_check Success 
+
+!!!2018-10-26 17:48:40.532 || result: {
+
+!!!2018-10-26 17:48:40.532 || userManager.garageFarePaymentStatus = NoGarageFare 
+
+2018-10-26 17:48:44.264 || -[AppDelegate applicationWillResignActive:]|[L:133]|
+
+2018-10-26 17:48:44.879 || -[AppDelegate applicationDidEnterBackground:]|[L:125]|
+
+2018-10-29 12:57:46.651 || -[AppDelegate checkUpdate]|[L:342]|開始檢查是否更新
+
+2018-10-29 12:57:47.452 || Network-<Carrier> 台湾大哥大
+
+2018-10-29 12:57:47.458 || check_member Request 
+
+2018-10-29 12:58:06.508 || check_member Success 
+
+2018-10-29 12:58:06.521 || Network-<Carrier> 台湾大哥大
+
+2018-10-29 12:58:06.522 || login_check_lite Request 
+
+2018-10-29 12:58:06.536 || -[AppDelegate applicationDidBecomeActive:]|[L:193]|
+
+2018-10-29 12:58:07.297 || login_check_lite Success 
+
+2018-10-29 12:58:07.308 || set userManager.isReservation = 0
+
+2018-10-29 12:58:07.308 || set userManager.isGarageReservation = 0
+
+2018-10-29 12:58:07.451 || Network-<Carrier> 台湾大哥大
+
+2018-10-29 12:58:07.452 || getBannerList Request 
+
+2018-10-29 12:58:07.515 || Network-<Carrier> 台湾大哥大
+
+2018-10-29 12:58:07.516 || get_news Request 
+
+2018-10-29 12:58:07.598 || -[BLEManager centralManagerDidUpdateState:]|[L:790]|[Gate]BLE ON
+
+2018-10-29 12:58:07.598 || -[BLEManager centralManagerDidUpdateState:]|[L:806]|[Gate]UpdateState:PoweredOn
+
+2018-10-29 12:58:08.046 || getBannerList Success 
+
+2018-10-29 12:58:08.455 || get_news Success 
+
+2018-10-29 12:58:10.202 || Network-<Carrier> 台湾大哥大
+
+2018-10-29 12:58:10.203 || get_vendor Request 
+
+2018-10-29 12:58:11.682 || get_vendor Success 
+
+2018-10-29 12:58:11.701 || Network-<Carrier> 台湾大哥大
+
+2018-10-29 12:58:11.703 || garage_list Request 
+
+2018-10-29 12:58:12.620 || Network-<Carrier> 台湾大哥大
+
+2018-10-29 12:58:12.621 || garage_list Request 
+
+!!!2018-10-29 12:58:12.628 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+  ||     "LocalDataTask <2BA6FCB6-BFCF-49B9-856E-1B411F3E7791>.<1>"
+
+!!! ||  NSLocalizedDescription=已取消}
+
+!!!2018-10-29 12:58:12.628 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+  ||     "LocalDataTask <2BA6FCB6-BFCF-49B9-856E-1B411F3E7791>.<1>"
+
+!!! ||  NSLocalizedDescription=已取消}
+
+2018-10-29 12:58:14.041 || garage_list Success 
+
+2018-10-29 12:58:16.467 || Network-<Carrier> 台湾大哥大
+
+2018-10-29 12:58:17.001 || one_garage_list Success 
+
+2018-10-29 12:58:17.030 || State = 2
+
+2018-10-29 12:58:17.030 || Desc = ＊至10/31止停車第一小時免費|＊至10/31止免收預約費
+
+2018-10-29 12:58:17.036 || Network-<Carrier> 台湾大哥大
+
+2018-10-29 12:58:17.037 || get_vendor Request 
+
+2018-10-29 12:58:17.547 || Network-<Carrier> 台湾大哥大
+
+2018-10-29 12:58:17.571 || get_vendor Success 
+
+!!!CoreData: annotation: || CoreData: annotation:  Failed to load optimized model at path '/var/containers/Bundle/Application/57097688-8CFB-4651-8C7E-6D8C15C6113A/paking.app/GoogleMaps.bundle/GMSCacheStorage.momd/StorageWithTileProto.omo'
+
+!!!CoreData: annotation: || CoreData: annotation:  Failed to load optimized model at path '/var/containers/Bundle/Application/57097688-8CFB-4651-8C7E-6D8C15C6113A/paking.app/GoogleMaps.bundle/GMSCacheStorage.momd/StorageWithTileProto.omo'
+
+!!!CoreData: annotation: || CoreData: annotation:  Failed to load optimized model at path '/var/containers/Bundle/Application/57097688-8CFB-4651-8C7E-6D8C15C6113A/paking.app/GoogleMaps.bundle/GMSCacheStorage.momd/StorageWithTileProto.omo'
+
+2018-10-29 12:58:18.043 || one_garage_list Success 
+
+2018-10-29 12:58:20.351 || Network-<Carrier> 台湾大哥大
+
+2018-10-29 12:58:20.351 || reserve_booking_confirm Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-29 12:58:24.543 || reserve_booking_confirm Success 
+
+  ||         "flow_gatecontrol" = 0;
+
+  ||         "garage_id" = 000007;
+
+  ||     "flow_gatecontrol" = 0;
+
+  ||     "garage_id" = 000007;
+
+2018-10-29 12:58:24.590 || Network-<Carrier> 台湾大哥大
+
+2018-10-29 12:58:24.590 || trade_reserveOverFee Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-29 12:58:24.968 || Network-<Carrier> 台湾大哥大
+
+2018-10-29 12:58:24.968 || garage_list Request 
+
+2018-10-29 12:58:25.160 || Network-<Carrier> 台湾大哥大
+
+2018-10-29 12:58:25.161 || garage_list Request 
+
+!!!2018-10-29 12:58:25.164 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  NSLocalizedDescription=已取消}
+
+!!!2018-10-29 12:58:25.164 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  NSLocalizedDescription=已取消}
+
+2018-10-29 12:58:25.182 || trade_reserveOverFee Success 
+
+  ||                 "garage_id" = 000007;
+
+  ||                 "garage_id" = 000007;
+
+2018-10-29 12:58:26.628 || garage_list Success 
+
+2018-10-29 12:59:31.736 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-96
+
+2018-10-29 12:59:31.736 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-29 12:59:31.743 || Network <WIFI> PaKing-192.168.5.231
+
+2018-10-29 12:59:31.744 || inputAPI = /app.php?page=checkGarage
+
+2018-10-29 12:59:31.744 || Set CHECK_GARAGE 3sec TimeOut /app.php?page=checkGarage
+
+2018-10-29 12:59:31.763 || checkGarage Request 
+
+2018-10-29 12:59:31.942 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-93
+
+2018-10-29 12:59:31.942 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-29 12:59:32.570 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-89
+
+2018-10-29 12:59:32.570 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-29 12:59:32.981 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-96
+
+2018-10-29 12:59:32.981 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-29 12:59:33.512 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-91
+
+2018-10-29 12:59:33.512 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-29 12:59:33.936 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-75
+
+2018-10-29 12:59:33.936 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-29 12:59:34.662 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-71
+
+2018-10-29 12:59:34.662 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+!!!2018-10-29 12:59:34.772 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  _kCFStreamErrorDomainKey=4}
+
+!!!2018-10-29 12:59:34.773 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  _kCFStreamErrorDomainKey=4}
+
+!!!2018-10-29 12:59:34.773 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  _kCFStreamErrorDomainKey=4}
+
+2018-10-29 12:59:35.099 || Network <WIFI> PaKing-192.168.5.231
+
+2018-10-29 12:59:35.101 || inputAPI = /app.php?page=checkGarage
+
+2018-10-29 12:59:35.101 || Set CHECK_GARAGE 3sec TimeOut /app.php?page=checkGarage
+
+2018-10-29 12:59:35.106 || checkGarage Request 
+
+2018-10-29 12:59:35.398 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-61
+
+2018-10-29 12:59:35.398 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-29 12:59:35.821 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-65
+
+2018-10-29 12:59:35.821 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-29 12:59:36.774 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-66
+
+2018-10-29 12:59:36.774 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-29 12:59:36.902 || checkGarage Success 
+
+  ||                 "garage_id" = 000007;
+
+  ||                 "garage_id" = 000007;
+
+  ||         "flow_gatecontrol" = 0;
+
+  ||         "garage_id" = 000007;
+
+2018-10-29 12:59:37.621 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-69
+
+2018-10-29 12:59:37.621 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-29 12:59:37.630 || [Gate]GATE > -85!!!!
+
+2018-10-29 12:59:37.720 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-68
+
+2018-10-29 12:59:37.720 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-29 12:59:37.721 || [Gate]GATE > -85!!!!
+
+2018-10-29 12:59:37.724 || [Gate]pName:00:23:A7:A6:B3:D8_GI
+
+2018-10-29 12:59:37.937 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-69
+
+2018-10-29 12:59:37.937 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-29 12:59:37.938 || [Gate]GATE > -85!!!!
+
+2018-10-29 12:59:38.138 || [Gate]pName:00:23:A7:A6:B3:D8_GI
+
+2018-10-29 12:59:38.139 || -[BLEManager centralManager:didConnectPeripheral:]|[L:1037]|[Gate]connected duration:0.413081
+
+2018-10-29 12:59:38.139 || -[BLEManager centralManager:didConnectPeripheral:]|[L:1038]|[Gate]apiProcessingStatus:{
+
+2018-10-29 12:59:38.139 || [Gate]pName:00:23:A7:A6:B3:D8_GI
+
+2018-10-29 12:59:38.510 || [Gate]pName:00:23:A7:A6:B3:D8_GI
+
+2018-10-29 12:59:38.691 || [Gate]pName:00:23:A7:A6:B3:D8_GI
+
+2018-10-29 12:59:38.794 || -[BLEManager sendDataToMCU:]|[L:1422]|[Gate]send command to mcu:PASSWORD
+
+2018-10-29 12:59:38.962 || [Gate]pName:00:23:A7:A6:B3:D8_GI
+
+2018-10-29 12:59:38.962 || -[BLEManager peripheral:didUpdateValueForCharacteristic:error:]|[L:1378]|[Gate]Gate Password Success
+
+2018-10-29 12:59:39.011 || Network <WIFI> PaKing-192.168.5.231
+
+2018-10-29 12:59:39.011 || inputAPI = /app.php?page=garage_enter_check_reservechange
+
+2018-10-29 12:59:39.011 || Set CHECK_GARAGE 3sec TimeOut /app.php?page=garage_enter_check_reservechange
+
+2018-10-29 12:59:39.013 || garage_enter_check_reservechange Request 
+
+2018-10-29 12:59:39.514 || garage_enter_check_reservechange Success 
+
+2018-10-29 12:59:39.522 || userManager.isGarageReservation = 1
+
+2018-10-29 12:59:39.522 || userManager.isReservation = 1
+
+  ||     "garage_id" = 000007;
+
+2018-10-29 12:59:39.527 || userManager.isGarageReservation = 1
+
+  ||     "flow_gatecontrol" = 0;
+
+  ||     "garage_id" = 000007;
+
+2018-10-29 12:59:39.537 || Network <WIFI> PaKing-192.168.5.231
+
+2018-10-29 12:59:39.538 || parking_space_list Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-29 12:59:39.574 || voiceString:抵達車場入口
+
+2018-10-29 12:59:39.692 || reservation enter popup
+
+2018-10-29 12:59:39.917 || parking_space_list Success 
+
+2018-10-29 12:59:40.831 || [Gate]Open InOutGate 
+
+2018-10-29 12:59:40.854 || Network <WIFI> PaKing-192.168.5.231
+
+2018-10-29 12:59:40.855 || getBannerList Request 
+
+2018-10-29 12:59:40.885 || Network <WIFI> PaKing-192.168.5.231
+
+2018-10-29 12:59:40.885 || get_news Request 
+
+2018-10-29 12:59:40.897 || Network <WIFI> PaKing-192.168.5.231
+
+2018-10-29 12:59:40.898 || inputAPI = /local.php?page=garage_enter_confirm&garage_dbname=000007
+
+2018-10-29 12:59:40.898 || Set CHECK_GARAGE 3sec TimeOut /local.php?page=garage_enter_confirm&garage_dbname=000007
+
+2018-10-29 12:59:40.899 || garage_enter_confirm&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-29 12:59:41.238 || getBannerList Success 
+
+2018-10-29 12:59:41.604 || get_news Success 
+
+!!!2018-10-29 12:59:43.910 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+  ||     "LocalDataTask <8F15163F-27E1-492D-85F3-26C397A40011>.<1>"
+
+!!! ||  _kCFStreamErrorDomainKey=4}
+
+!!!2018-10-29 12:59:43.911 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+  ||     "LocalDataTask <8F15163F-27E1-492D-85F3-26C397A40011>.<1>"
+
+!!! ||  _kCFStreamErrorDomainKey=4}
+
+!!!2018-10-29 12:59:43.911 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+  ||     "LocalDataTask <8F15163F-27E1-492D-85F3-26C397A40011>.<1>"
+
+!!! ||  _kCFStreamErrorDomainKey=4}
+
+2018-10-29 12:59:44.461 || Network <WIFI> PaKing-192.168.5.231
+
+2018-10-29 12:59:44.462 || inputAPI = /local.php?page=garage_enter_confirm&garage_dbname=000007
+
+2018-10-29 12:59:44.463 || Set CHECK_GARAGE 3sec TimeOut /local.php?page=garage_enter_confirm&garage_dbname=000007
+
+2018-10-29 12:59:44.468 || garage_enter_confirm&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+!!!2018-10-29 12:59:47.478 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  _kCFStreamErrorDomainKey=4}
+
+!!!2018-10-29 12:59:47.479 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  _kCFStreamErrorDomainKey=4}
+
+!!!2018-10-29 12:59:47.479 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  _kCFStreamErrorDomainKey=4}
+
+2018-10-29 12:59:48.034 || Network <WIFI> PaKing-192.168.5.231
+
+2018-10-29 12:59:48.036 || inputAPI = /local.php?page=garage_enter_confirm&garage_dbname=000007
+
+2018-10-29 12:59:48.036 || Set CHECK_GARAGE 3sec TimeOut /local.php?page=garage_enter_confirm&garage_dbname=000007
+
+2018-10-29 12:59:48.041 || garage_enter_confirm&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+!!!2018-10-29 12:59:51.045 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  _kCFStreamErrorDomainKey=4}
+
+!!!2018-10-29 12:59:51.048 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  _kCFStreamErrorDomainKey=4}
+
+!!!2018-10-29 12:59:51.048 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  _kCFStreamErrorDomainKey=4}
+
+2018-10-29 12:59:51.600 || Network <WIFI> PaKing-192.168.5.231
+
+2018-10-29 12:59:51.601 || inputAPI = /local.php?page=garage_enter_confirm&garage_dbname=000007
+
+2018-10-29 12:59:51.601 || Set CHECK_GARAGE 3sec TimeOut /local.php?page=garage_enter_confirm&garage_dbname=000007
+
+2018-10-29 12:59:51.605 || garage_enter_confirm&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+!!!2018-10-29 12:59:54.575 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  _kCFStreamErrorDomainKey=12}
+
+!!!2018-10-29 12:59:54.575 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  _kCFStreamErrorDomainKey=12}
+
+!!!2018-10-29 12:59:54.576 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  _kCFStreamErrorDomainKey=12}
+
+2018-10-29 12:59:55.102 || Network <WIFI> PaKing-192.168.5.231
+
+2018-10-29 12:59:55.103 || inputAPI = /local.php?page=garage_enter_confirm&garage_dbname=000007
+
+2018-10-29 12:59:55.103 || Set CHECK_GARAGE 3sec TimeOut /local.php?page=garage_enter_confirm&garage_dbname=000007
+
+2018-10-29 12:59:55.108 || garage_enter_confirm&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+!!!2018-10-29 12:59:55.180 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  _kCFStreamErrorDomainKey=12}
+
+!!!2018-10-29 12:59:55.180 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  _kCFStreamErrorDomainKey=12}
+
+!!!2018-10-29 12:59:55.180 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  _kCFStreamErrorDomainKey=12}
+
+2018-10-29 12:59:55.694 || Network <WIFI> PaKing-192.168.5.231
+
+2018-10-29 12:59:55.696 || inputAPI = /local.php?page=garage_enter_confirm&garage_dbname=000007
+
+2018-10-29 12:59:55.697 || Set CHECK_GARAGE 3sec TimeOut /local.php?page=garage_enter_confirm&garage_dbname=000007
+
+2018-10-29 12:59:55.703 || garage_enter_confirm&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+!!!2018-10-29 12:59:55.777 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  _kCFStreamErrorDomainKey=12}
+
+!!!2018-10-29 12:59:55.777 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  _kCFStreamErrorDomainKey=12}
+
+!!!2018-10-29 12:59:55.777 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  _kCFStreamErrorDomainKey=12}
+
+2018-10-29 12:59:55.778 || -[BLEManager centralManager:didDisconnectPeripheral:error:]|[L:1060]|[Gate]pName:00:23:A7:A6:B3:D8_GI
+
+2018-10-29 12:59:55.778 || -[BLEManager centralManager:didDisconnectPeripheral:error:]|[L:1061]|[Gate]error:(null)
+
+2018-10-29 12:59:55.778 || -[BLEManager centralManager:didDisconnectPeripheral:error:]|[L:1062]|[Gate]completeGateConnectProcess=0
+
+2018-10-29 12:59:56.315 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-72
+
+2018-10-29 12:59:56.315 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-29 12:59:56.316 || [Gate]GATE > -85!!!!
+
+2018-10-29 12:59:56.420 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-72
+
+2018-10-29 12:59:56.421 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-29 12:59:56.421 || [Gate]GATE > -85!!!!
+
+2018-10-29 12:59:56.422 || [Gate]pName:00:23:A7:A6:B3:D8_GI
+
+2018-10-29 12:59:56.640 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-71
+
+2018-10-29 12:59:56.640 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-29 12:59:56.641 || [Gate]GATE > -85!!!!
+
+2018-10-29 12:59:56.870 || [Gate]pName:00:23:A7:A6:B3:D8_GI
+
+2018-10-29 12:59:56.871 || -[BLEManager centralManager:didConnectPeripheral:]|[L:1037]|[Gate]connected duration:0.448237
+
+2018-10-29 12:59:56.871 || -[BLEManager centralManager:didConnectPeripheral:]|[L:1038]|[Gate]apiProcessingStatus:{
+
+2018-10-29 12:59:56.871 || [Gate]pName:00:23:A7:A6:B3:D8_GI
+
+2018-10-29 12:59:57.260 || [Gate]pName:00:23:A7:A6:B3:D8_GI
+
+2018-10-29 12:59:57.411 || -[AppDelegate applicationWillResignActive:]|[L:133]|
+
+2018-10-29 12:59:57.470 || [Gate]pName:00:23:A7:A6:B3:D8_GI
+
+2018-10-29 12:59:57.571 || -[BLEManager sendDataToMCU:]|[L:1422]|[Gate]send command to mcu:PASSWORD
+
+2018-10-29 12:59:57.711 || [Gate]pName:00:23:A7:A6:B3:D8_GI
+
+2018-10-29 12:59:57.711 || -[BLEManager peripheral:didUpdateValueForCharacteristic:error:]|[L:1378]|[Gate]Gate Password Success
+
+2018-10-29 12:59:58.231 || -[AppDelegate applicationDidBecomeActive:]|[L:193]|
+
+2018-10-29 12:59:58.285 || Network <WIFI> PaKing-192.168.5.231
+
+2018-10-29 12:59:58.286 || user_fail_trade_check Request 
+
+2018-10-29 12:59:58.319 || -[AppDelegate applicationWillResignActive:]|[L:133]|
+
+2018-10-29 12:59:58.637 || user_fail_trade_check Success 
+
+!!!2018-10-29 12:59:58.637 || result: {
+
+!!!2018-10-29 12:59:58.637 || userManager.garageFarePaymentStatus = NoGarageFare 
+
+2018-10-29 12:59:59.287 || [Gate]pName:00:23:A7:A6:B3:D8_GI
+
+2018-10-29 13:00:01.038 || -[AppDelegate applicationDidBecomeActive:]|[L:193]|
+
+2018-10-29 13:00:01.063 || Network <WIFI> PaKing-192.168.5.231
+
+2018-10-29 13:00:01.063 || user_fail_trade_check Request 
+
+2018-10-29 13:00:01.408 || user_fail_trade_check Success 
+
+!!!2018-10-29 13:00:01.408 || result: {
+
+!!!2018-10-29 13:00:01.408 || userManager.garageFarePaymentStatus = NoGarageFare 
+
+2018-10-29 13:00:02.066 || [Gate]pName:00:23:A7:A6:B3:D8_GI
+
+2018-10-29 13:00:02.085 || Network <WIFI> PaKing-192.168.5.231
+
+2018-10-29 13:00:02.085 || inputAPI = /app.php?page=garage_enter_check_reservechange
+
+2018-10-29 13:00:02.085 || Set CHECK_GARAGE 3sec TimeOut /app.php?page=garage_enter_check_reservechange
+
+2018-10-29 13:00:02.087 || garage_enter_check_reservechange Request 
+
+2018-10-29 13:00:03.736 || garage_enter_check_reservechange Success 
+
+2018-10-29 13:00:03.736 || userManager.isGarageReservation = 1
+
+2018-10-29 13:00:03.736 || userManager.isReservation = 1
+
+  ||     "flow_gatecontrol" = 0;
+
+  ||     "garage_id" = 000007;
+
+2018-10-29 13:00:03.738 || userManager.isGarageReservation = 1
+
+  ||     "flow_gatecontrol" = 0;
+
+  ||     "garage_id" = 000007;
+
+2018-10-29 13:00:03.741 || Network <WIFI> PaKing-192.168.5.231
+
+2018-10-29 13:00:03.741 || parking_space_list Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-29 13:00:03.754 || voiceString:抵達車場入口
+
+2018-10-29 13:00:03.755 || reservation enter popup
+
+2018-10-29 13:00:04.248 || parking_space_list Success 
+
+2018-10-29 13:00:04.983 || [Gate]Open InOutGate 
+
+2018-10-29 13:00:05.005 || Network <WIFI> PaKing-192.168.5.231
+
+2018-10-29 13:00:05.006 || inputAPI = /local.php?page=garage_enter_confirm&garage_dbname=000007
+
+2018-10-29 13:00:05.006 || Set CHECK_GARAGE 3sec TimeOut /local.php?page=garage_enter_confirm&garage_dbname=000007
+
+2018-10-29 13:00:05.009 || garage_enter_confirm&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+!!!2018-10-29 13:00:05.066 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  _kCFStreamErrorDomainKey=12}
+
+!!!2018-10-29 13:00:05.066 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  _kCFStreamErrorDomainKey=12}
+
+!!!2018-10-29 13:00:05.066 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  _kCFStreamErrorDomainKey=12}
+
+2018-10-29 13:00:05.620 || Network <WIFI> PaKing-192.168.5.231
+
+2018-10-29 13:00:05.622 || inputAPI = /local.php?page=garage_enter_confirm&garage_dbname=000007
+
+2018-10-29 13:00:05.622 || Set CHECK_GARAGE 3sec TimeOut /local.php?page=garage_enter_confirm&garage_dbname=000007
+
+2018-10-29 13:00:05.627 || garage_enter_confirm&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+!!!2018-10-29 13:00:05.698 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  _kCFStreamErrorDomainKey=12}
+
+!!!2018-10-29 13:00:05.698 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  _kCFStreamErrorDomainKey=12}
+
+!!!2018-10-29 13:00:05.698 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  _kCFStreamErrorDomainKey=12}
+
+2018-10-29 13:00:06.255 || Network <WIFI> PaKing-192.168.5.231
+
+2018-10-29 13:00:06.256 || inputAPI = /local.php?page=garage_enter_confirm&garage_dbname=000007
+
+2018-10-29 13:00:06.257 || Set CHECK_GARAGE 3sec TimeOut /local.php?page=garage_enter_confirm&garage_dbname=000007
+
+2018-10-29 13:00:06.261 || garage_enter_confirm&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+!!!2018-10-29 13:00:06.329 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  _kCFStreamErrorDomainKey=12}
+
+!!!2018-10-29 13:00:06.329 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  _kCFStreamErrorDomainKey=12}
+
+!!!2018-10-29 13:00:06.329 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  _kCFStreamErrorDomainKey=12}
+
+2018-10-29 13:00:06.874 || Network <WIFI> PaKing-192.168.5.231
+
+2018-10-29 13:00:06.876 || inputAPI = /local.php?page=garage_enter_confirm&garage_dbname=000007
+
+2018-10-29 13:00:06.876 || Set CHECK_GARAGE 3sec TimeOut /local.php?page=garage_enter_confirm&garage_dbname=000007
+
+2018-10-29 13:00:06.880 || garage_enter_confirm&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+!!!2018-10-29 13:00:06.949 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  _kCFStreamErrorDomainKey=12}
+
+!!!2018-10-29 13:00:06.949 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  _kCFStreamErrorDomainKey=12}
+
+!!!2018-10-29 13:00:06.949 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  _kCFStreamErrorDomainKey=12}
+
+2018-10-29 13:00:07.463 || Network <WIFI> PaKing-192.168.5.231
+
+2018-10-29 13:00:07.464 || inputAPI = /local.php?page=garage_enter_confirm&garage_dbname=000007
+
+2018-10-29 13:00:07.465 || Set CHECK_GARAGE 3sec TimeOut /local.php?page=garage_enter_confirm&garage_dbname=000007
+
+2018-10-29 13:00:07.470 || garage_enter_confirm&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+!!!2018-10-29 13:00:07.543 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  _kCFStreamErrorDomainKey=12}
+
+!!!2018-10-29 13:00:07.543 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  _kCFStreamErrorDomainKey=12}
+
+!!!2018-10-29 13:00:07.543 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  _kCFStreamErrorDomainKey=12}
+
+2018-10-29 13:00:08.094 || Network <WIFI> PaKing-192.168.5.231
+
+2018-10-29 13:00:08.095 || inputAPI = /local.php?page=garage_enter_confirm&garage_dbname=000007
+
+2018-10-29 13:00:08.095 || Set CHECK_GARAGE 3sec TimeOut /local.php?page=garage_enter_confirm&garage_dbname=000007
+
+2018-10-29 13:00:08.099 || garage_enter_confirm&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+!!!2018-10-29 13:00:08.168 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  _kCFStreamErrorDomainKey=12}
+
+!!!2018-10-29 13:00:08.168 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  _kCFStreamErrorDomainKey=12}
+
+!!!2018-10-29 13:00:08.168 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  _kCFStreamErrorDomainKey=12}
+
+2018-10-29 13:00:08.170 || -[BLEManager centralManager:didDisconnectPeripheral:error:]|[L:1060]|[Gate]pName:00:23:A7:A6:B3:D8_GI
+
+2018-10-29 13:00:08.170 || -[BLEManager centralManager:didDisconnectPeripheral:error:]|[L:1061]|[Gate]error:(null)
+
+2018-10-29 13:00:08.171 || -[BLEManager centralManager:didDisconnectPeripheral:error:]|[L:1062]|[Gate]completeGateConnectProcess=0
+
+2018-10-29 13:00:08.717 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-71
+
+2018-10-29 13:00:08.717 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-29 13:00:08.718 || [Gate]GATE > -85!!!!
+
+2018-10-29 13:00:08.931 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-73
+
+2018-10-29 13:00:08.931 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-29 13:00:08.932 || [Gate]GATE > -85!!!!
+
+2018-10-29 13:00:08.933 || [Gate]pName:00:23:A7:A6:B3:D8_GI
+
+2018-10-29 13:00:09.041 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-70
+
+2018-10-29 13:00:09.041 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-29 13:00:09.042 || [Gate]GATE > -85!!!!
+
+2018-10-29 13:00:09.911 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-73
+
+2018-10-29 13:00:09.911 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-29 13:00:09.912 || [Gate]GATE > -85!!!!
+
+2018-10-29 13:00:10.109 || [Gate]pName:00:23:A7:A6:B3:D8_GI
+
+2018-10-29 13:00:10.109 || -[BLEManager centralManager:didConnectPeripheral:]|[L:1037]|[Gate]connected duration:1.175377
+
+2018-10-29 13:00:10.109 || -[BLEManager centralManager:didConnectPeripheral:]|[L:1038]|[Gate]apiProcessingStatus:{
+
+2018-10-29 13:00:10.109 || [Gate]pName:00:23:A7:A6:B3:D8_GI
+
+2018-10-29 13:00:10.497 || [Gate]pName:00:23:A7:A6:B3:D8_GI
+
+2018-10-29 13:00:10.677 || [Gate]pName:00:23:A7:A6:B3:D8_GI
+
+2018-10-29 13:00:10.778 || -[BLEManager sendDataToMCU:]|[L:1422]|[Gate]send command to mcu:PASSWORD
+
+2018-10-29 13:00:10.888 || [Gate]pName:00:23:A7:A6:B3:D8_GI
+
+2018-10-29 13:00:10.889 || -[BLEManager peripheral:didUpdateValueForCharacteristic:error:]|[L:1378]|[Gate]Gate Password Success
+
+2018-10-29 13:00:10.937 || Network <WIFI> PaKing-192.168.5.231
+
+2018-10-29 13:00:10.938 || inputAPI = /app.php?page=garage_enter_check_reservechange
+
+2018-10-29 13:00:10.938 || Set CHECK_GARAGE 3sec TimeOut /app.php?page=garage_enter_check_reservechange
+
+2018-10-29 13:00:10.941 || garage_enter_check_reservechange Request 
+
+2018-10-29 13:00:11.785 || garage_enter_check_reservechange Success 
+
+2018-10-29 13:00:11.787 || userManager.isGarageReservation = 1
+
+2018-10-29 13:00:11.787 || userManager.isReservation = 1
+
+  ||     "flow_gatecontrol" = 0;
+
+  ||     "garage_id" = 000007;
+
+2018-10-29 13:00:11.790 || userManager.isGarageReservation = 1
+
+  ||     "flow_gatecontrol" = 0;
+
+  ||     "garage_id" = 000007;
+
+2018-10-29 13:00:11.795 || Network <WIFI> PaKing-192.168.5.231
+
+2018-10-29 13:00:11.796 || parking_space_list Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-29 13:00:11.816 || voiceString:抵達車場入口
+
+2018-10-29 13:00:11.817 || reservation enter popup
+
+2018-10-29 13:00:12.400 || parking_space_list Success 
+
+2018-10-29 13:00:13.651 || [Gate]Open InOutGate 
+
+2018-10-29 13:00:13.672 || Network <WIFI> PaKing-192.168.5.231
+
+2018-10-29 13:00:13.673 || inputAPI = /local.php?page=garage_enter_confirm&garage_dbname=000007
+
+2018-10-29 13:00:13.673 || Set CHECK_GARAGE 3sec TimeOut /local.php?page=garage_enter_confirm&garage_dbname=000007
+
+2018-10-29 13:00:13.676 || garage_enter_confirm&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+!!!2018-10-29 13:00:13.736 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  _kCFStreamErrorDomainKey=12}
+
+!!!2018-10-29 13:00:13.736 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  _kCFStreamErrorDomainKey=12}
+
+!!!2018-10-29 13:00:13.736 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  _kCFStreamErrorDomainKey=12}
+
+2018-10-29 13:00:14.259 || Network <WIFI> PaKing-192.168.5.231
+
+2018-10-29 13:00:14.261 || inputAPI = /local.php?page=garage_enter_confirm&garage_dbname=000007
+
+2018-10-29 13:00:14.262 || Set CHECK_GARAGE 3sec TimeOut /local.php?page=garage_enter_confirm&garage_dbname=000007
+
+2018-10-29 13:00:14.266 || garage_enter_confirm&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+!!!2018-10-29 13:00:14.337 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  _kCFStreamErrorDomainKey=12}
+
+!!!2018-10-29 13:00:14.337 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  _kCFStreamErrorDomainKey=12}
+
+!!!2018-10-29 13:00:14.337 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  _kCFStreamErrorDomainKey=12}
+
+2018-10-29 13:00:14.845 || Network <WIFI> PaKing-192.168.5.231
+
+2018-10-29 13:00:14.847 || inputAPI = /local.php?page=garage_enter_confirm&garage_dbname=000007
+
+2018-10-29 13:00:14.847 || Set CHECK_GARAGE 3sec TimeOut /local.php?page=garage_enter_confirm&garage_dbname=000007
+
+2018-10-29 13:00:14.851 || garage_enter_confirm&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+!!!2018-10-29 13:00:14.918 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  _kCFStreamErrorDomainKey=12}
+
+!!!2018-10-29 13:00:14.918 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  _kCFStreamErrorDomainKey=12}
+
+!!!2018-10-29 13:00:14.918 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  _kCFStreamErrorDomainKey=12}
+
+2018-10-29 13:00:15.440 || Network <WIFI> PaKing-192.168.5.231
+
+2018-10-29 13:00:15.441 || inputAPI = /local.php?page=garage_enter_confirm&garage_dbname=000007
+
+2018-10-29 13:00:15.441 || Set CHECK_GARAGE 3sec TimeOut /local.php?page=garage_enter_confirm&garage_dbname=000007
+
+2018-10-29 13:00:15.444 || garage_enter_confirm&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+!!!2018-10-29 13:00:15.509 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  _kCFStreamErrorDomainKey=12}
+
+!!!2018-10-29 13:00:15.509 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  _kCFStreamErrorDomainKey=12}
+
+!!!2018-10-29 13:00:15.509 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  _kCFStreamErrorDomainKey=12}
+
+2018-10-29 13:00:16.063 || Network <WIFI> PaKing-192.168.5.231
+
+2018-10-29 13:00:16.068 || inputAPI = /local.php?page=garage_enter_confirm&garage_dbname=000007
+
+2018-10-29 13:00:16.068 || Set CHECK_GARAGE 3sec TimeOut /local.php?page=garage_enter_confirm&garage_dbname=000007
+
+2018-10-29 13:00:16.074 || garage_enter_confirm&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+!!!2018-10-29 13:00:16.147 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  _kCFStreamErrorDomainKey=12}
+
+!!!2018-10-29 13:00:16.147 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  _kCFStreamErrorDomainKey=12}
+
+!!!2018-10-29 13:00:16.147 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  _kCFStreamErrorDomainKey=12}
+
+2018-10-29 13:00:16.671 || Network <WIFI> PaKing-192.168.5.231
+
+2018-10-29 13:00:16.671 || inputAPI = /local.php?page=garage_enter_confirm&garage_dbname=000007
+
+2018-10-29 13:00:16.671 || Set CHECK_GARAGE 3sec TimeOut /local.php?page=garage_enter_confirm&garage_dbname=000007
+
+2018-10-29 13:00:16.672 || garage_enter_confirm&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+!!!2018-10-29 13:00:16.714 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+  ||     "LocalDataTask <1C467C04-4964-4C54-8599-B64A18F9438E>.<1>"
+
+!!! ||  _kCFStreamErrorDomainKey=12}
+
+!!!2018-10-29 13:00:16.714 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+  ||     "LocalDataTask <1C467C04-4964-4C54-8599-B64A18F9438E>.<1>"
+
+!!! ||  _kCFStreamErrorDomainKey=12}
+
+!!!2018-10-29 13:00:16.714 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+  ||     "LocalDataTask <1C467C04-4964-4C54-8599-B64A18F9438E>.<1>"
+
+!!! ||  _kCFStreamErrorDomainKey=12}
+
+2018-10-29 13:00:16.715 || -[BLEManager centralManager:didDisconnectPeripheral:error:]|[L:1060]|[Gate]pName:00:23:A7:A6:B3:D8_GI
+
+2018-10-29 13:00:16.715 || -[BLEManager centralManager:didDisconnectPeripheral:error:]|[L:1061]|[Gate]error:(null)
+
+2018-10-29 13:00:16.715 || -[BLEManager centralManager:didDisconnectPeripheral:error:]|[L:1062]|[Gate]completeGateConnectProcess=0
+
+2018-10-29 13:00:17.378 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-74
+
+2018-10-29 13:00:17.378 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-29 13:00:17.379 || [Gate]GATE > -85!!!!
+
+2018-10-29 13:00:18.934 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-80
+
+2018-10-29 13:00:18.934 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-29 13:00:18.935 || [Gate]GATE > -85!!!!
+
+2018-10-29 13:00:20.506 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-81
+
+2018-10-29 13:00:20.507 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-29 13:00:20.507 || [Gate]GATE > -85!!!!
+
+2018-10-29 13:00:20.611 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-72
+
+2018-10-29 13:00:20.611 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-29 13:00:20.611 || [Gate]GATE > -85!!!!
+
+2018-10-29 13:00:20.611 || [Gate]pName:00:23:A7:A6:B3:D8_GI
+
+2018-10-29 13:00:20.716 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-77
+
+2018-10-29 13:00:20.716 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-29 13:00:20.717 || [Gate]GATE > -85!!!!
+
+2018-10-29 13:00:20.917 || [Gate]pName:00:23:A7:A6:B3:D8_GI
+
+2018-10-29 13:00:20.917 || -[BLEManager centralManager:didConnectPeripheral:]|[L:1037]|[Gate]connected duration:0.305500
+
+2018-10-29 13:00:20.917 || -[BLEManager centralManager:didConnectPeripheral:]|[L:1038]|[Gate]apiProcessingStatus:{
+
+2018-10-29 13:00:20.917 || [Gate]pName:00:23:A7:A6:B3:D8_GI
+
+2018-10-29 13:00:21.337 || [Gate]pName:00:23:A7:A6:B3:D8_GI
+
+2018-10-29 13:00:21.515 || [Gate]pName:00:23:A7:A6:B3:D8_GI
+
+2018-10-29 13:00:21.616 || -[BLEManager sendDataToMCU:]|[L:1422]|[Gate]send command to mcu:PASSWORD
+
+2018-10-29 13:00:21.725 || [Gate]pName:00:23:A7:A6:B3:D8_GI
+
+2018-10-29 13:00:21.725 || -[BLEManager peripheral:didUpdateValueForCharacteristic:error:]|[L:1378]|[Gate]Gate Password Success
+
+2018-10-29 13:00:21.757 || Network <WIFI> PaKing-192.168.5.231
+
+2018-10-29 13:00:21.757 || inputAPI = /app.php?page=garage_enter_check_reservechange
+
+2018-10-29 13:00:21.757 || Set CHECK_GARAGE 3sec TimeOut /app.php?page=garage_enter_check_reservechange
+
+2018-10-29 13:00:21.760 || garage_enter_check_reservechange Request 
+
+2018-10-29 13:00:22.182 || garage_enter_check_reservechange Success 
+
+2018-10-29 13:00:22.186 || userManager.isGarageReservation = 1
+
+2018-10-29 13:00:22.186 || userManager.isReservation = 1
+
+  ||     "flow_gatecontrol" = 0;
+
+  ||     "garage_id" = 000007;
+
+2018-10-29 13:00:22.192 || userManager.isGarageReservation = 1
+
+  ||     "flow_gatecontrol" = 0;
+
+  ||     "garage_id" = 000007;
+
+2018-10-29 13:00:22.198 || Network <WIFI> PaKing-192.168.5.231
+
+2018-10-29 13:00:22.200 || parking_space_list Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-29 13:00:22.222 || voiceString:抵達車場入口
+
+2018-10-29 13:00:22.223 || reservation enter popup
+
+2018-10-29 13:00:22.695 || parking_space_list Success 
+
+2018-10-29 13:00:24.488 || [Gate]Open InOutGate 
+
+2018-10-29 13:00:24.511 || Network <WIFI> PaKing-192.168.5.231
+
+2018-10-29 13:00:24.512 || inputAPI = /local.php?page=garage_enter_confirm&garage_dbname=000007
+
+2018-10-29 13:00:24.512 || Set CHECK_GARAGE 3sec TimeOut /local.php?page=garage_enter_confirm&garage_dbname=000007
+
+2018-10-29 13:00:24.516 || garage_enter_confirm&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+!!!2018-10-29 13:00:24.574 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  _kCFStreamErrorDomainKey=12}
+
+!!!2018-10-29 13:00:24.574 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  _kCFStreamErrorDomainKey=12}
+
+!!!2018-10-29 13:00:24.575 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  _kCFStreamErrorDomainKey=12}
+
+2018-10-29 13:00:25.096 || Network <WIFI> PaKing-192.168.5.231
+
+2018-10-29 13:00:25.099 || inputAPI = /local.php?page=garage_enter_confirm&garage_dbname=000007
+
+2018-10-29 13:00:25.099 || Set CHECK_GARAGE 3sec TimeOut /local.php?page=garage_enter_confirm&garage_dbname=000007
+
+2018-10-29 13:00:25.105 || garage_enter_confirm&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+!!!2018-10-29 13:00:25.177 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  _kCFStreamErrorDomainKey=12}
+
+!!!2018-10-29 13:00:25.177 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  _kCFStreamErrorDomainKey=12}
+
+!!!2018-10-29 13:00:25.177 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  _kCFStreamErrorDomainKey=12}
+
+2018-10-29 13:00:25.696 || Network <WIFI> PaKing-192.168.5.231
+
+2018-10-29 13:00:25.697 || inputAPI = /local.php?page=garage_enter_confirm&garage_dbname=000007
+
+2018-10-29 13:00:25.697 || Set CHECK_GARAGE 3sec TimeOut /local.php?page=garage_enter_confirm&garage_dbname=000007
+
+2018-10-29 13:00:25.701 || garage_enter_confirm&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+!!!2018-10-29 13:00:25.768 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  _kCFStreamErrorDomainKey=12}
+
+!!!2018-10-29 13:00:25.768 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  _kCFStreamErrorDomainKey=12}
+
+!!!2018-10-29 13:00:25.768 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  _kCFStreamErrorDomainKey=12}
+
+2018-10-29 13:00:26.273 || Network <WIFI> PaKing-192.168.5.231
+
+2018-10-29 13:00:26.274 || inputAPI = /local.php?page=garage_enter_confirm&garage_dbname=000007
+
+2018-10-29 13:00:26.274 || Set CHECK_GARAGE 3sec TimeOut /local.php?page=garage_enter_confirm&garage_dbname=000007
+
+2018-10-29 13:00:26.278 || garage_enter_confirm&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+!!!2018-10-29 13:00:26.348 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  _kCFStreamErrorDomainKey=12}
+
+!!!2018-10-29 13:00:26.348 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  _kCFStreamErrorDomainKey=12}
+
+!!!2018-10-29 13:00:26.348 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  _kCFStreamErrorDomainKey=12}
+
+2018-10-29 13:00:26.891 || Network <WIFI> PaKing-192.168.5.231
+
+2018-10-29 13:00:26.891 || inputAPI = /local.php?page=garage_enter_confirm&garage_dbname=000007
+
+2018-10-29 13:00:26.891 || Set CHECK_GARAGE 3sec TimeOut /local.php?page=garage_enter_confirm&garage_dbname=000007
+
+2018-10-29 13:00:26.893 || garage_enter_confirm&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+!!!2018-10-29 13:00:26.939 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  _kCFStreamErrorDomainKey=12}
+
+!!!2018-10-29 13:00:26.939 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  _kCFStreamErrorDomainKey=12}
+
+!!!2018-10-29 13:00:26.939 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  _kCFStreamErrorDomainKey=12}
+
+2018-10-29 13:00:27.489 || Network <WIFI> PaKing-192.168.5.231
+
+2018-10-29 13:00:27.490 || inputAPI = /local.php?page=garage_enter_confirm&garage_dbname=000007
+
+2018-10-29 13:00:27.490 || Set CHECK_GARAGE 3sec TimeOut /local.php?page=garage_enter_confirm&garage_dbname=000007
+
+2018-10-29 13:00:27.492 || garage_enter_confirm&garage_dbname=000007 Request 
+
+  ||     "garage_id" = 000007;
+
+!!!2018-10-29 13:00:27.538 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  _kCFStreamErrorDomainKey=12}
+
+!!!2018-10-29 13:00:27.538 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  _kCFStreamErrorDomainKey=12}
+
+!!!2018-10-29 13:00:27.538 ||  _NSURLErrorRelatedURLSessionTaskErrorKey=(
+
+!!! ||  _kCFStreamErrorDomainKey=12}
+
+2018-10-29 13:00:27.539 || -[BLEManager centralManager:didDisconnectPeripheral:error:]|[L:1060]|[Gate]pName:00:23:A7:A6:B3:D8_GI
+
+2018-10-29 13:00:27.539 || -[BLEManager centralManager:didDisconnectPeripheral:error:]|[L:1061]|[Gate]error:(null)
+
+2018-10-29 13:00:27.539 || -[BLEManager centralManager:didDisconnectPeripheral:error:]|[L:1062]|[Gate]completeGateConnectProcess=0
+
+2018-10-29 13:00:28.485 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-77
+
+2018-10-29 13:00:28.485 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-29 13:00:28.485 || [Gate]GATE > -85!!!!
+
+2018-10-29 13:00:28.904 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-81
+
+2018-10-29 13:00:28.904 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-29 13:00:28.905 || [Gate]GATE > -85!!!!
+
+2018-10-29 13:00:28.906 || [Gate]pName:00:23:A7:A6:B3:D8_GI
+
+2018-10-29 13:00:29.014 || [Gate]_BLEMac<adv>:00:23:A7:A6:B3:D8_GI:-83
+
+2018-10-29 13:00:29.015 || [Gate]_BLEMac<p>:00:23:A7:A6:B3:D8_GI
+
+2018-10-29 13:00:29.016 || [Gate]GATE > -85!!!!
+
+2018-10-29 13:00:29.211 || [Gate]pName:00:23:A7:A6:B3:D8_GI
+
+2018-10-29 13:00:29.211 || -[BLEManager centralManager:didConnectPeripheral:]|[L:1037]|[Gate]connected duration:0.304979
+
+2018-10-29 13:00:29.212 || -[BLEManager centralManager:didConnectPeripheral:]|[L:1038]|[Gate]apiProcessingStatus:{
+
+2018-10-29 13:00:29.212 || [Gate]pName:00:23:A7:A6:B3:D8_GI
+
+2018-10-29 13:00:30.022 || -[BLEManager centralManager:didDisconnectPeripheral:error:]|[L:1060]|[Gate]pName:00:23:A7:A6:B3:D8_GI
+
+2018-10-29 13:00:30.023 || -[BLEManager centralManager:didDisconnectPeripheral:error:]|[L:1061]|[Gate]error:Error Domain=CBErrorDomain Code=6 "The connection has timed out unexpectedly." UserInfo={NSLocalizedDescription=The connection has timed out unexpectedly.}
+
+2018-10-29 13:00:30.023 || -[BLEManager centralManager:didDisconnectPeripheral:error:]|[L:1062]|[Gate]completeGateConnectProcess=0
+
+2018-10-29 13:01:11.038 || Network <WIFI> PaKing-192.168.5.231
+
+2018-10-29 13:01:11.040 || garage_list Request 
+
+2018-10-29 13:01:12.860 || garage_list Success 
+
+2018-10-29 13:01:17.359 || Network <WIFI> PaKing-192.168.5.231
+
+2018-10-29 13:01:17.360 || trade_reserveOverFee Request 
+
+  ||     "garage_id" = 000007;
+
+2018-10-29 13:01:17.528 || Network <WIFI> PaKing-192.168.5.231
+
+2018-10-29 13:01:17.528 || garage_list Request 
+
+2018-10-29 13:01:17.753 || trade_reserveOverFee Success 
+
+  ||                 "garage_id" = 000007;
+
+  ||                 "garage_id" = 000007;
+
+2018-10-29 13:01:19.069 || garage_list Success 
+
+2018-10-29 13:01:27.833 || Network <WIFI> PaKing-192.168.5.231
+
+2018-10-29 13:01:27.833 || garage_list Request 
+
+2018-10-29 13:01:29.295 || garage_list Success 
+
+!!!2018-10-29 13:01:29.709 || 2018-10-29 13:01:29.709 paking[8071:3406391] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-29 13:01:29.710 || 2018-10-29 13:01:29.710 paking[8071:3406391] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-29 13:01:29.710 || 2018-10-29 13:01:29.710 paking[8071:3406391] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-29 13:01:29.710 || 2018-10-29 13:01:29.710 paking[8071:3406391] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-29 13:01:29.710 || 2018-10-29 13:01:29.710 paking[8071:3406391] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-29 13:01:29.710 || 2018-10-29 13:01:29.710 paking[8071:3406391] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-29 13:01:29.710 || 2018-10-29 13:01:29.710 paking[8071:3406391] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-29 13:01:29.710 || 2018-10-29 13:01:29.710 paking[8071:3406391] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-29 13:01:29.710 || 2018-10-29 13:01:29.710 paking[8071:3406391] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-29 13:01:29.710 || 2018-10-29 13:01:29.710 paking[8071:3406391] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-29 13:01:29.710 || 2018-10-29 13:01:29.710 paking[8071:3406391] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-29 13:01:29.710 || 2018-10-29 13:01:29.710 paking[8071:3406391] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-29 13:01:29.710 || 2018-10-29 13:01:29.710 paking[8071:3406391] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-29 13:01:29.710 || 2018-10-29 13:01:29.710 paking[8071:3406391] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-29 13:01:29.710 || 2018-10-29 13:01:29.710 paking[8071:3406391] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-29 13:01:29.710 || 2018-10-29 13:01:29.710 paking[8071:3406391] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-29 13:01:29.710 || 2018-10-29 13:01:29.710 paking[8071:3406391] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-29 13:01:29.710 || 2018-10-29 13:01:29.710 paking[8071:3406391] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-29 13:01:29.711 || 2018-10-29 13:01:29.711 paking[8071:3406391] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-29 13:01:29.711 || 2018-10-29 13:01:29.711 paking[8071:3406391] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-29 13:01:29.711 || 2018-10-29 13:01:29.711 paking[8071:3406391] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-29 13:01:29.711 || 2018-10-29 13:01:29.711 paking[8071:3406391] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-29 13:01:29.711 || 2018-10-29 13:01:29.711 paking[8071:3406391] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-29 13:01:29.711 || 2018-10-29 13:01:29.711 paking[8071:3406391] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-29 13:01:29.711 || 2018-10-29 13:01:29.711 paking[8071:3406391] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-29 13:01:29.711 || 2018-10-29 13:01:29.711 paking[8071:3406391] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-29 13:01:29.711 || 2018-10-29 13:01:29.711 paking[8071:3406391] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-29 13:01:29.711 || 2018-10-29 13:01:29.711 paking[8071:3406391] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-29 13:01:29.711 || 2018-10-29 13:01:29.711 paking[8071:3406391] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-29 13:01:29.711 || 2018-10-29 13:01:29.711 paking[8071:3406391] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-29 13:01:29.711 || 2018-10-29 13:01:29.711 paking[8071:3406391] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-29 13:01:29.711 || 2018-10-29 13:01:29.711 paking[8071:3406391] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-29 13:01:29.711 || 2018-10-29 13:01:29.711 paking[8071:3406391] ((null)) was false: Failed to allocate texture space for marker
+
+!!!2018-10-29 13:01:29.711 || 2018-10-29 13:01:29.711 paking[8071:3406391] ((null)) was false: Failed to allocate texture space for marker
+
+2018-10-29 13:01:36.765 || Network <WIFI> PaKing-192.168.5.231
+
+2018-10-29 13:01:36.766 || getBannerList Request 
+
+2018-10-29 13:01:36.825 || Network <WIFI> PaKing-192.168.5.231
+
+2018-10-29 13:01:36.825 || get_news Request 
+
+2018-10-29 13:01:37.124 || getBannerList Success 
+
+2018-10-29 13:01:37.960 || -[OrderManager zipGateDelayLogFileCompletion:]|[L:623]|
+

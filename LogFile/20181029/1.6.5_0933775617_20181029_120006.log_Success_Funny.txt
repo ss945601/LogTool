@@ -1,0 +1,427 @@
+使用者：Funny
+裝置： iPhone 7
+系統： iOS 10.3.3
+版本： paking versoin:1.6.5(release)
+電信： 中華電信
+預約： 無
+車廠： L00014-便利停車場萬國站 Beacon入場, 無Ｎ導航
+///////////////////////////////////
+
+第一次GI 到 Pop Up 時間 : 17.0秒
+
+///////////////////////////////////
+( 2018-10-29 08:52:14 )	啟動App程序
+
+( 2018-10-29 08:52:15 )	[AppDelegate] applicationDidBecomeActive
+
+( 2018-10-29 08:52:16 )	[Gate]BLE ON
+
+( 2018-10-29 08:52:27 )	收到第一個GI
+
+( 2018-10-29 08:52:43 )	[didConnectPeripheral]duration:0.385783
+
+( 2018-10-29 08:52:44 )	入閘POP_UP
+
+( 2018-10-29 08:52:45 )	按下入閘按鈕
+
+( 2018-10-29 08:52:49 )	[didDisconnectPeripheral]
+
+( 2018-10-29 08:52:51 )	[AppDelegate] applicationWillResignActive
+
+( 2018-10-29 08:52:52 )	退到App背景
+
+( 2018-10-29 11:59:38 )	啟動App程序
+
+( 2018-10-29 11:59:39 )	[AppDelegate] applicationDidBecomeActive
+
+( 2018-10-29 11:59:40 )	[Gate]BLE ON
+
+( 2018-10-29 12:00:03 )	[didConnectPeripheral]duration:0.246156
+
+( 2018-10-29 12:00:06 )	離開車廠紀錄
+
+///////////////////////////////////
+
+<API:checkGarage>
+狀態：Success
+呼叫次數：2次
+耗費時間：14.720秒
+網路來源：中華電信
+
+<API:garage_enter_check_reservechange>
+狀態：Success
+呼叫次數：1次
+耗費時間：0.434秒
+網路來源：中華電信
+
+<API:garage_enter_confirm>
+狀態：Success
+呼叫次數：1次
+耗費時間：0.710秒
+網路來源：中華電信
+
+///////////////////////////////////
+網路切換時機
+2018-10-29 08:52:15.468 中華電信 (first)
+
+
+--------detail--------
+
+2018-10-29 08:52:14.228 || !!PaKing APP Open!!
+
+2018-10-29 08:52:14.230 || Funny
+
+2018-10-29 08:52:14.230 || iOS 10.3.3
+
+2018-10-29 08:52:14.230 || -[LogManager defaultLog]|[L:108]|Device:iPhone 7
+
+2018-10-29 08:52:14.230 || paking versoin:1.6.5(release)
+
+2018-10-29 08:52:14.230 || paking build:20180925112634
+
+2018-10-29 08:52:14.233 || -[AppDelegate checkUpdate]|[L:342]|開始檢查是否更新
+
+2018-10-29 08:52:14.238 || ISO country code is: tw
+
+2018-10-29 08:52:15.429 || -[AppDelegate applicationDidBecomeActive:]|[L:193]|
+
+2018-10-29 08:52:15.456 || userManager.state = UserSTATE_CHECK 
+
+2018-10-29 08:52:15.468 || Network-<Carrier> 中華電信
+
+2018-10-29 08:52:15.473 || check_member Request 
+
+2018-10-29 08:52:15.968 || check_member Success 
+
+2018-10-29 08:52:15.978 || Network-<Carrier> 中華電信
+
+2018-10-29 08:52:15.979 || login_check_lite Request 
+
+2018-10-29 08:52:16.425 || login_check_lite Success 
+
+2018-10-29 08:52:16.440 || set userManager.isReservation = 0
+
+2018-10-29 08:52:16.440 || set userManager.isGarageReservation = 0
+
+2018-10-29 08:52:16.633 || Network-<Carrier> 中華電信
+
+2018-10-29 08:52:16.634 || getBannerList Request 
+
+2018-10-29 08:52:16.691 || Network-<Carrier> 中華電信
+
+2018-10-29 08:52:16.691 || get_news Request 
+
+2018-10-29 08:52:16.769 || -[BLEManager centralManagerDidUpdateState:]|[L:790]|[Gate]BLE ON
+
+2018-10-29 08:52:16.769 || -[BLEManager centralManagerDidUpdateState:]|[L:806]|[Gate]UpdateState:PoweredOn
+
+2018-10-29 08:52:17.029 || getBannerList Success 
+
+2018-10-29 08:52:17.535 || get_news Success 
+
+2018-10-29 08:52:27.785 || [Gate]_BLEMac<adv>:00:23:A7:CF:1E:58_GI:-96
+
+2018-10-29 08:52:27.786 || [Gate]_BLEMac<p>:00:23:A7:CF:1E:58_GI
+
+2018-10-29 08:52:27.812 || Network-<Carrier> 中華電信
+
+2018-10-29 08:52:27.815 || inputAPI = /app.php?page=checkGarage
+
+2018-10-29 08:52:27.851 || checkGarage Request 
+
+2018-10-29 08:52:29.331 || [Gate]_BLEMac<adv>:00:23:A7:CF:1E:58_GI:-92
+
+2018-10-29 08:52:29.332 || [Gate]_BLEMac<p>:00:23:A7:CF:1E:58_GI
+
+2018-10-29 08:52:30.497 || [Gate]_BLEMac<adv>:00:23:A7:CF:1E:58_GI:-98
+
+2018-10-29 08:52:30.497 || [Gate]_BLEMac<p>:00:23:A7:CF:1E:58_GI
+
+2018-10-29 08:52:31.218 || [Gate]_BLEMac<adv>:00:23:A7:CF:1E:58_GI:-93
+
+2018-10-29 08:52:31.218 || [Gate]_BLEMac<p>:00:23:A7:CF:1E:58_GI
+
+2018-10-29 08:52:40.331 || [Gate]_BLEMac<adv>:00:23:A7:CF:1E:58_GI:-86
+
+2018-10-29 08:52:40.332 || [Gate]_BLEMac<p>:00:23:A7:CF:1E:58_GI
+
+2018-10-29 08:52:40.646 || [Gate]_BLEMac<adv>:00:23:A7:CF:1E:58_GI:-73
+
+2018-10-29 08:52:40.647 || [Gate]_BLEMac<p>:00:23:A7:CF:1E:58_GI
+
+2018-10-29 08:52:41.174 || [Gate]_BLEMac<adv>:00:23:A7:CF:1E:58_GI:-73
+
+2018-10-29 08:52:41.174 || [Gate]_BLEMac<p>:00:23:A7:CF:1E:58_GI
+
+2018-10-29 08:52:41.702 || [Gate]_BLEMac<adv>:00:23:A7:CF:1E:58_GI:-74
+
+2018-10-29 08:52:41.703 || [Gate]_BLEMac<p>:00:23:A7:CF:1E:58_GI
+
+2018-10-29 08:52:42.221 || [Gate]_BLEMac<adv>:00:23:A7:CF:1E:58_GI:-73
+
+2018-10-29 08:52:42.222 || [Gate]_BLEMac<p>:00:23:A7:CF:1E:58_GI
+
+2018-10-29 08:52:42.571 || checkGarage Success 
+
+  ||                 "garage_id" = L00014;
+
+  ||                 "garage_id" = L00014;
+
+  ||         "flow_gatecontrol" = 0;
+
+  ||         "garage_id" = L00014;
+
+2018-10-29 08:52:42.734 || [Gate]_BLEMac<adv>:00:23:A7:CF:1E:58_GI:-74
+
+2018-10-29 08:52:42.735 || [Gate]_BLEMac<p>:00:23:A7:CF:1E:58_GI
+
+2018-10-29 08:52:42.736 || [Gate]GATE > -85!!!!
+
+2018-10-29 08:52:42.944 || [Gate]_BLEMac<adv>:00:23:A7:CF:1E:58_GI:-85
+
+2018-10-29 08:52:42.945 || [Gate]_BLEMac<p>:00:23:A7:CF:1E:58_GI
+
+2018-10-29 08:52:42.946 || [Gate]GATE > -85!!!!
+
+2018-10-29 08:52:42.949 || [Gate]pName:00:23:A7:CF:1E:58_GI
+
+2018-10-29 08:52:43.335 || [Gate]pName:00:23:A7:CF:1E:58_GI
+
+2018-10-29 08:52:43.335 || -[BLEManager centralManager:didConnectPeripheral:]|[L:1037]|[Gate]connected duration:0.385783
+
+2018-10-29 08:52:43.335 || -[BLEManager centralManager:didConnectPeripheral:]|[L:1038]|[Gate]apiProcessingStatus:{
+
+2018-10-29 08:52:43.336 || [Gate]pName:00:23:A7:CF:1E:58_GI
+
+2018-10-29 08:52:43.733 || [Gate]pName:00:23:A7:CF:1E:58_GI
+
+2018-10-29 08:52:43.913 || [Gate]pName:00:23:A7:CF:1E:58_GI
+
+2018-10-29 08:52:44.015 || -[BLEManager sendDataToMCU:]|[L:1422]|[Gate]send command to mcu:PASSWORD
+
+2018-10-29 08:52:44.154 || [Gate]pName:00:23:A7:CF:1E:58_GI
+
+2018-10-29 08:52:44.155 || -[BLEManager peripheral:didUpdateValueForCharacteristic:error:]|[L:1378]|[Gate]Gate Password Success
+
+2018-10-29 08:52:44.193 || Network-<Carrier> 中華電信
+
+2018-10-29 08:52:44.194 || inputAPI = /app.php?page=garage_enter_check_reservechange
+
+2018-10-29 08:52:44.195 || garage_enter_check_reservechange Request 
+
+2018-10-29 08:52:44.629 || garage_enter_check_reservechange Success 
+
+2018-10-29 08:52:44.634 || userManager.isGarageReservation = 0
+
+2018-10-29 08:52:44.635 || userManager.isReservation = 0
+
+2018-10-29 08:52:44.639 || userManager.isGarageReservation = 0
+
+  ||     "flow_gatecontrol" = 0;
+
+  ||     "garage_id" = L00014;
+
+2018-10-29 08:52:44.670 || Network-<Carrier> 中華電信
+
+2018-10-29 08:52:44.672 || parking_space_list Request 
+
+  ||     "garage_id" = L00014;
+
+2018-10-29 08:52:44.728 || voiceString:抵達車場入口
+
+2018-10-29 08:52:44.827 || normal enter popup
+
+2018-10-29 08:52:45.098 || parking_space_list Success 
+
+2018-10-29 08:52:45.956 || Network-<Carrier> 中華電信
+
+2018-10-29 08:52:45.960 || get_vendor Request 
+
+2018-10-29 08:52:45.962 || [Gate]Open InOutGate 
+
+2018-10-29 08:52:46.016 || Network-<Carrier> 中華電信
+
+2018-10-29 08:52:46.018 || getBannerList Request 
+
+2018-10-29 08:52:46.089 || Network-<Carrier> 中華電信
+
+2018-10-29 08:52:46.090 || get_news Request 
+
+2018-10-29 08:52:46.106 || Network-<Carrier> 中華電信
+
+2018-10-29 08:52:46.106 || inputAPI = /local.php?page=garage_enter_confirm&garage_dbname=L00014
+
+2018-10-29 08:52:46.107 || garage_enter_confirm&garage_dbname=L00014 Request 
+
+  ||     "garage_id" = L00014;
+
+2018-10-29 08:52:46.405 || getBannerList Success 
+
+2018-10-29 08:52:46.773 || get_vendor Success 
+
+2018-10-29 08:52:46.776 || get_news Success 
+
+2018-10-29 08:52:46.817 || garage_enter_confirm&garage_dbname=L00014 Success 
+
+  ||         "garage_id" = L00014;
+
+2018-10-29 08:52:46.918 || -[BLEManager sendDataToMCU:]|[L:1428]|[Gate]send command to mcu:OPEN GATE
+
+2018-10-29 08:52:47.062 || [Gate]pName:00:23:A7:CF:1E:58_GI
+
+2018-10-29 08:52:47.063 || -[BLEManager peripheral:didUpdateValueForCharacteristic:error:]|[L:1391]|[Gate]Gate Open Success
+
+2018-10-29 08:52:47.063 || [Gate]
+
+2018-10-29 08:52:47.074 || set orderListInfo = {
+
+  ||     "flow_gatecontrol" = 0;
+
+  ||     "garage_id" = L00014;
+
+2018-10-29 08:52:47.075 || userManager.gateGarageInfo = {
+
+  ||             "garage_id" = L00014;
+
+  ||             "garage_id" = L00014;
+
+  ||     "flow_gatecontrol" = 0;
+
+  ||     "garage_id" = L00014;
+
+2018-10-29 08:52:47.122 || voiceString:本場域提供APP自動付款，無須現場繳費。
+
+2018-10-29 08:52:48.661 || Network-<Carrier> 中華電信
+
+2018-10-29 08:52:48.662 || getBannerList Request 
+
+2018-10-29 08:52:48.698 || Network-<Carrier> 中華電信
+
+2018-10-29 08:52:48.699 || get_news Request 
+
+2018-10-29 08:52:49.012 || -[BLEManager centralManager:didDisconnectPeripheral:error:]|[L:1060]|[Gate]pName:00:23:A7:CF:1E:58_GI
+
+2018-10-29 08:52:49.012 || -[BLEManager centralManager:didDisconnectPeripheral:error:]|[L:1061]|[Gate]error:Error Domain=CBErrorDomain Code=6 "The connection has timed out unexpectedly." UserInfo={NSLocalizedDescription=The connection has timed out unexpectedly.}
+
+2018-10-29 08:52:49.012 || -[BLEManager centralManager:didDisconnectPeripheral:error:]|[L:1062]|[Gate]completeGateConnectProcess=1
+
+2018-10-29 08:52:49.105 || getBannerList Success 
+
+2018-10-29 08:52:49.606 || get_news Success 
+
+2018-10-29 08:52:51.800 || -[AppDelegate applicationWillResignActive:]|[L:133]|
+
+2018-10-29 08:52:52.501 || -[AppDelegate applicationDidEnterBackground:]|[L:125]|
+
+2018-10-29 11:59:38.063 || -[AppDelegate checkUpdate]|[L:338]|場外不執行更新
+
+2018-10-29 11:59:39.374 || -[AppDelegate applicationDidBecomeActive:]|[L:193]|
+
+2018-10-29 11:59:39.438 || Network-<Carrier> 中華電信
+
+2018-10-29 11:59:39.447 || check_member Request 
+
+2018-10-29 11:59:39.863 || check_member Success 
+
+2018-10-29 11:59:39.895 || Network-<Carrier> 中華電信
+
+2018-10-29 11:59:39.895 || login_check_lite Request 
+
+2018-10-29 11:59:40.340 || login_check_lite Success 
+
+  ||                     "garage_id" = L00014;
+
+  ||                     "garage_id" = L00014;
+
+  ||             "garage_id" = L00014;
+
+  ||             "flow_gatecontrol" = 0;
+
+  ||             "garage_id" = L00014;
+
+2018-10-29 11:59:40.351 || userManager.isGarageReservation = 0
+
+2018-10-29 11:59:40.351 || userManager.isReservation = 0
+
+  ||     "flow_gatecontrol" = 0;
+
+  ||     "garage_id" = L00014;
+
+2018-10-29 11:59:40.354 || userManager.isGarageReservation = 0
+
+  ||     "flow_gatecontrol" = 0;
+
+  ||     "garage_id" = L00014;
+
+2018-10-29 11:59:40.361 || set userManager.isReservation = 0
+
+2018-10-29 11:59:40.361 || set userManager.isGarageReservation = 0
+
+2018-10-29 11:59:40.383 || Network-<Carrier> 中華電信
+
+2018-10-29 11:59:40.385 || ANPR_check_exit Request 
+
+2018-10-29 11:59:40.534 || Network-<Carrier> 中華電信
+
+2018-10-29 11:59:40.535 || getBannerList Request 
+
+2018-10-29 11:59:40.588 || Network-<Carrier> 中華電信
+
+2018-10-29 11:59:40.588 || get_news Request 
+
+2018-10-29 11:59:40.669 || -[BLEManager centralManagerDidUpdateState:]|[L:790]|[Gate]BLE ON
+
+2018-10-29 11:59:40.670 || -[BLEManager centralManagerDidUpdateState:]|[L:806]|[Gate]UpdateState:PoweredOn
+
+2018-10-29 11:59:40.788 || ANPR_check_exit Success 
+
+2018-10-29 11:59:40.949 || getBannerList Success 
+
+2018-10-29 11:59:41.501 || get_news Success 
+
+2018-10-29 12:00:02.729 || Network-<Carrier> 中華電信
+
+2018-10-29 12:00:02.730 || inputAPI = /app.php?page=checkGarage
+
+2018-10-29 12:00:02.751 || checkGarage Request 
+
+2018-10-29 12:00:03.283 || checkGarage Success 
+
+  ||                 "garage_id" = L00014;
+
+  ||                 "garage_id" = L00014;
+
+  ||         "flow_gatecontrol" = 0;
+
+  ||         "garage_id" = L00014;
+
+2018-10-29 12:00:03.339 || [Gate]GATE > -85!!!!
+
+2018-10-29 12:00:03.440 || [Gate]GATE > -85!!!!
+
+2018-10-29 12:00:03.692 || -[BLEManager centralManager:didConnectPeripheral:]|[L:1037]|[Gate]connected duration:0.246156
+
+2018-10-29 12:00:03.692 || -[BLEManager centralManager:didConnectPeripheral:]|[L:1038]|[Gate]apiProcessingStatus:{
+
+2018-10-29 12:00:04.379 || -[BLEManager sendDataToMCU:]|[L:1422]|[Gate]send command to mcu:PASSWORD
+
+2018-10-29 12:00:04.516 || -[BLEManager peripheral:didUpdateValueForCharacteristic:error:]|[L:1378]|[Gate]Gate Password Success
+
+2018-10-29 12:00:04.587 || voiceString:抵達車廠出口
+
+2018-10-29 12:00:05.805 || Network-<Carrier> 中華電信
+
+2018-10-29 12:00:05.808 || get_vendor Request 
+
+2018-10-29 12:00:05.810 || [Gate]Open InOutGate 
+
+2018-10-29 12:00:05.935 || -[BLEManager sendDataToMCU:]|[L:1428]|[Gate]send command to mcu:OPEN GATE
+
+2018-10-29 12:00:06.225 || -[BLEManager peripheral:didUpdateValueForCharacteristic:error:]|[L:1391]|[Gate]Gate Open Success
+
+2018-10-29 12:00:06.235 || Network-<Carrier> 中華電信
+
+2018-10-29 12:00:06.237 || garage_leave_pay&garage_dbname=L00014 Request 
+
+2018-10-29 12:00:06.239 || leaveGarageName = 便利停車場萬國站
+
